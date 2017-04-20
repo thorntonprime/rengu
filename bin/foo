@@ -1,0 +1,36 @@
+#!/bin/env python3
+
+import sys
+import uuid
+import re
+
+
+RE_yam = re.compile('^([\w\s]+): (.*)$')
+
+for F in sys.argv[1:]:
+
+  uid = "../tmp/" + str(uuid.uuid4())
+  u = open( uid, "w")
+  frag = open(F)
+
+  print("Converting %s to %s" % (F, uid))
+
+  u.write("---\n")
+  for line in frag:
+    if RE_yam.match(line.strip()):
+
+
+      u.write(line.strip() + "\n")
+
+
+
+    else:
+      u.write("---\n")
+      
+      u.write(frag.read().strip())
+      u.write("\n")
+      break
+
+  frag.close()
+  u.close()
+

@@ -1,0 +1,76 @@
+#!/usr/bin/python3
+
+import sys
+from pprint import pprint
+import re
+
+import json
+import yaml
+try:
+    from yaml import CLoader as Loader, CDumper as Dumper
+except ImportError:
+    from yaml import Loader, Dumper
+
+
+wtag = {}
+for w in open('categories/treasury.txt', 'r').readlines():
+  k,t = w.strip().split('\t')
+  wtag[k] = t
+
+for f in sys.argv[1:]:
+
+  i = f.split('/')[-1]
+
+  rin = open(f, 'r')
+
+  rdoc = {
+    "_id": i
+  }
+
+  # Read in the default document to handle as the Body
+  doc = ""
+  for l in rin.readlines():
+
+    # some text clean-up
+    l = re.sub("[`’‘’]", "'", l)
+    l = re.sub('[”]', '"', l)
+
+    if l.strip() == '---':
+      y = yaml.load(doc)
+
+      if type(y) is dict:
+        rdoc = { **rdoc, **y }
+
+      if type(y) is str:
+        rdoc['Body'] = doc
+
+      doc=""
+      next
+    else:  
+      doc += l
+
+  # Convert newlines for prose
+  if not 'Format' in rdoc or rdoc['Format'].lower() == 'prose':
+    doc = re.sub("(?<!\n)\n(?!\n)", " ", doc)
+    doc = re.sub("\n+", "\n", doc)
+    doc = re.sub(" +", " ", doc)
+
+  # convert hack text
+  doc = re.sub("：", ":", doc)
+
+  # strip whitespace and set Body
+  rdoc['Body'] = doc.strip()
+
+  # W.Perry tags by number
+  if 'Tags' in rdoc:
+    if type(rdoc['Tags']) == type(str("")):
+      tags = rdoc['Tags'].split()
+      rdoc['Tags'] = tags
+    else:
+      for t in rdoc['Tags'].copy():
+        if str(t) in wtag:
+          rdoc['Tags'].remove(t)
+          rdoc['Tags'].append(wtag[str(t)])
+  
+  print(json.dumps(rdoc, sort_keys=True, indent=2))
+

@@ -1,0 +1,46 @@
+#!/bin/env python3
+
+import sys
+import uuid
+import re
+
+
+RE_yam = re.compile('^([\w\s]+): (.*)$')
+
+for F in sys.argv[1:]:
+
+  uid = "tmp/" + str(uuid.uuid4())
+  print("Converting %s to %s" % (F, uid))
+  u = open( uid, "w")
+  frag = open(F)
+
+  u.write("---\n")
+  for line in frag:
+    if RE_yam.match(line.strip()):
+
+      # Check for Source line
+      if line[:7] == 'Source:':
+        parts = [ x.strip() for x in re.split(r'[@#;]', line) ]
+        u.write("Source:\n")
+        u.write("  - Title: " + parts[0].split(':')[1].strip() + "\n" )
+        if len(parts) > 1:
+          for l in parts[1:]:
+            if l.find(':') > -1:
+              u.write("    " + l + "\n")
+            else:
+              u.write("    " + l.replace(' ', ': ', 1) + "\n" )
+
+      else:
+        u.write(line.strip() + "\n")
+
+    else:
+      u.write("---\n")
+     
+      body = frag.read().replace(':','：').strip()
+      for b in body.split("\n"): 
+        u.write(b.rstrip() + "\n")
+      break
+
+  frag.close()
+  u.close()
+
