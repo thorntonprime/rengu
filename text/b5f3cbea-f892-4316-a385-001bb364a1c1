@@ -2,13 +2,14 @@
 Format: Verse
 By: Rainer Maria Rilke
 Source:
-  - Title: A Year with Rilke
-    Editor:
-      - Anita Barrows
-      - Joanna Macy
+  ID: 631057a1-0221-4885-ba61-78b661b62b70
+  Location:
     Page: 20
-  - Title: Letters to a Young Poet
-  - Title: Borgeby gärd, Sweden, August 12, 1904
+  Source:
+    Title: Letters to a Young Poet
+    Description:
+      - Borgeby gärd, Sweden
+      - August 12, 1904
 Title: The Solitude We Are
 Description: January 27
 ---

@@ -4,8 +4,9 @@
 import sys
 import re
 
-X = "Source:\n  - Title: A Year with Hafiz\n    Page: ([^\n])*\n    Translator: Daniel Ladinsky\n"
-Y = "Source:\n  ID: 8147df67-439b-4909-bfe3-d55b944af666\n  Location:\n    Page: \g<1>\n"
+#X = "Source:\n  - Title: A Year with Rilke\n.*Joanna Macy\n"
+X = "Source:\n  ID: 631057a1-0221-4885-ba61-78b661b62b70\n\s+Page: ([^\n]*)\n  - Title:"
+Y = "Source:\n  ID: 631057a1-0221-4885-ba61-78b661b62b70\n  Location:\n    Page: \g<1>\n  Source:\n    Title:"
 
 for f in sys.argv[1:]:
 
