@@ -1,12 +1,14 @@
 ---
 Source:
-  - Title: Treasury of Traditional Wisdom
+  ID: 20c3721c-2af4-449e-a9c0-9791ceb9b9ae
+  Location:
     Page: 28
-  - Title: The Sun of Justice
-    Copyright:
-      Year: 1938
+  Source:
+    Title:
+      - Rerum Novarum
+      - The Sun of Justice
+    Copyright: 1938
     By: Harold Robbins
-  - Title: Rerum Novarum
 By: Pope Leo XIII
 Tags:
   - Creation=The Process of Manifestation

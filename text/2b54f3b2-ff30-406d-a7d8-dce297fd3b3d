@@ -1,8 +1,10 @@
 ---
 Source:
-  - Title: Treasury of Traditional Wisdom
+  ID: 20c3721c-2af4-449e-a9c0-9791ceb9b9ae
+  Location:
     Page: 160
-  - Title: The Tempest
+  Source:
+    Title: The Tempest
     Location: V i 206
 By: Shakespeare
 Format: Verse

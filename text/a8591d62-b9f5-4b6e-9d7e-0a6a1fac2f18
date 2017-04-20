@@ -1,8 +1,10 @@
 ---
 Source:
-  - Title: Treasury of Traditional Wisdom
+  ID: 20c3721c-2af4-449e-a9c0-9791ceb9b9ae
+  Location:
     Page: 240
-  - Title: Yesod Hayirah
+  Source:
+    Title: Yesod Hayirah
     Location: 3
 Tags:
   - Combat-Action=Judgement=The Fear of God

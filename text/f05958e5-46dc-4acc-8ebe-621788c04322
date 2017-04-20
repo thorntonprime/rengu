@@ -1,8 +1,10 @@
 ---
 Source:
-  - Title: Treasury of Traditional Wisdom
+  ID: 20c3721c-2af4-449e-a9c0-9791ceb9b9ae
+  Location:
     Page: 50
-  - Title: Maitri Upanishad
+  Source:
+    Title: Maitri Upanishad
     Location: VII. xi. 8
 Tags:
   - Creation=Self-Revelation

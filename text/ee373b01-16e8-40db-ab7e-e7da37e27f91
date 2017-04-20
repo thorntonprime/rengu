@@ -1,8 +1,10 @@
 ---
 Source:
-  - Title: Treasury of Traditional Wisdom
+  ID: 20c3721c-2af4-449e-a9c0-9791ceb9b9ae
+  Location:
     Page: 456
-  - Title: Nahum
+  Source:
+    Title: Nahum
     Location: III 4-6
 Tags:
   - Combat-Action=Subversion-The Wrathful Side=Sorcery

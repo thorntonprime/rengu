@@ -1,8 +1,10 @@
 ---
 Source:
-  - Title: Treasury of Traditional Wisdom
+  ID: 20c3721c-2af4-449e-a9c0-9791ceb9b9ae
+  Location:
     Page: 233
-  - Title: Romeo and Juliet
+  Source:
+    Title: Romeo and Juliet
     Location: V iii 87
 Tags:
   - Sacrifice-Death=Death=Death Kills Death

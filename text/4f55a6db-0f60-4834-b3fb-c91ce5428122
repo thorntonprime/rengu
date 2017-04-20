@@ -1,8 +1,10 @@
 ---
 Source:
-  - Title: Treasury of Traditional Wisdom
+  ID: 20c3721c-2af4-449e-a9c0-9791ceb9b9ae
+  Location:
     Page: 418
-  - Title: I Corinthians
+  Source:
+    Title: I Corinthians
     Location: X 21
 Tags:
   - Combat-Action=Heterodoxy And Deviation=Error

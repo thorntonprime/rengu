@@ -1,8 +1,10 @@
 ---
 Source:
-  - Title: Treasury of Traditional Wisdom
+  ID: 20c3721c-2af4-449e-a9c0-9791ceb9b9ae
+  Location:
     Page: 224
-  - Title: Zen in the Art of Archery
+  Source:
+    Title: Zen in the Art of Archery
     By: Herrigel
     Page: 103
 Tags:

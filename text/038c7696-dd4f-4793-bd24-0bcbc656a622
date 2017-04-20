@@ -1,8 +1,10 @@
 ---
 Source:
-  - Title: Treasury of Traditional Wisdom
+  ID: 20c3721c-2af4-449e-a9c0-9791ceb9b9ae
+  Location:
     Page: 315
-  - Title: Interno
+  Source:
+    Title: Interno
     Location: IX 61
 Tags:
   - Combat-Action=Symbolism=The Manifold Content of Symbols

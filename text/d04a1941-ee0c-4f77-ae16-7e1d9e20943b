@@ -1,8 +1,10 @@
 ---
 Source:
-  - Title: Treasury of Traditional Wisdom
+  ID: 20c3721c-2af4-449e-a9c0-9791ceb9b9ae
+  Location:
     Page: 368
-  - Title: The Gospel According to Thomas
+  Source:
+    Title: The Gospel According to Thomas
     Location: 82
 Tags:
   - Combat-Action=Pilgrimage-Descent Into Hell=The Descent Into Hell
