@@ -4,8 +4,8 @@
 import sys
 import re
 
-X = "Source:\n\s+- Title: Treasury of Traditional Wisdom\n\s+Page: ([^\n]*)\n\s+- Title:"
-Y = "Source:\n  ID: 20c3721c-2af4-449e-a9c0-9791ceb9b9ae\n  Location:\n    Page: \g<1>\n  Source:\n    Title:"
+X = "Source:\n\s+- Title: Treasury of Traditional Wisdom\n\s+Page: ([^\n]*)"
+Y = "Source:\n  ID: 20c3721c-2af4-449e-a9c0-9791ceb9b9ae\n  Location:\n    Page: \g<1>"
 
 for f in sys.argv[1:]:
 
