@@ -1,0 +1,29 @@
+#!/usr/bin/python3
+
+
+import sys
+import re
+import os
+
+X = "^Keywords: (.*)$"
+
+for f in sys.argv[1:]:
+
+  fin = open(f, 'r')
+  fout = open(f + ".new", 'w')
+
+  for d in fin.readlines():
+    m = re.match(X, d)
+
+    if m:
+      fout.write("Tags:\n")
+      for tag in m.group(1).split():
+        fout.write("  - %s\n" % tag)
+    else:
+      fout.write(d)
+
+  fout.close()
+  fin.close()
+
+  os.rename(f + ".new", f)
+
