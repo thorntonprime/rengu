@@ -60,7 +60,7 @@ def parse_text(f):
 
         blob = TextBlob(p)
 
-        lines = [ str(x) for x in blob.sentences ]
+        lines = [ str(x.strip()) for x in blob.sentences ]
         rdoc["Lines"].append( lines )
 
   # verse should be read line by line
@@ -72,20 +72,21 @@ def parse_text(f):
   # else mixed format
   else:
     for p in re.split("\n\n", doc):
+
       # verse lines start with two or more spaces
       if re.match("^  +", p):
         lines = [ x.strip() for x in re.split("\n", p.strip()) ]
-        rdoc["Lines"].append( lines )
+        #rdoc["Lines"].append( [ {"Format" : "verse"}, ] +  lines  )
+        rdoc["Lines"].append( lines  )
 
       else:
-
         # Scrub extraneous newlines and spaces
         p = re.sub("(?<!\n)\n(?!\n)", " ", p)
         p = re.sub(" +", " ", p)
 
         blob = TextBlob(p)
 
-        lines = [ str(x) for x in blob.sentences ]
+        lines = [ str(x.strip()) for x in blob.sentences ]
         rdoc["Lines"].append( lines )
 
 
