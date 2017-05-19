@@ -51,6 +51,7 @@ def parse_text(f):
   # set up array for lines
   rdoc["Lines"] = []
 
+  # prose is split into paragraphs and split into sentances
   if not 'Format' in rdoc or rdoc['Format'].lower() == 'prose':
     for p in re.split("\n\n", doc):
     
@@ -66,7 +67,7 @@ def parse_text(f):
   # verse should be read line by line
   elif rdoc['Format'].lower() == 'verse':
     for p in re.split("\n\n", doc.strip()):
-      lines = [ x.strip() for x in re.split("\n", p.rstrip()) ]
+      lines = [ x.rstrip() for x in re.split("\n", p.rstrip()) ]
       rdoc["Lines"].append( lines )
 
   # else mixed format
@@ -75,7 +76,7 @@ def parse_text(f):
 
       # verse lines start with two or more spaces
       if re.match("^  +", p):
-        lines = [ x.strip() for x in re.split("\n", p.strip()) ]
+        lines = [ x.rstrip() for x in re.split("\n", p.strip()) ]
         #rdoc["Lines"].append( [ {"Format" : "verse"}, ] +  lines  )
         rdoc["Lines"].append( lines  )
 
@@ -103,8 +104,6 @@ def parse_text(f):
         if str(t) in wtag:
           rdoc['Tags'].remove(t)
           rdoc['Tags'].append(wtag[str(t)])
-
-
 
   return rdoc
 
