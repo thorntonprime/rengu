@@ -1,9 +1,11 @@
 ---
 Title: The Parable of the Phantom City
 Source:
-  - Title: The Lotus Sutra
+  Title: The Lotus Sutra
+  Location:
     Chapter: 7
-    Translator: Burton Watson
+  Translator: Burton Watson
+Format: mixed
 ---
 The Buddha made this announcement to the monks： Once in the distant past,
 an immeasurable, boundless, inconceivable asamkhya number of kalpas ago,
@@ -53,8 +55,7 @@ more, spoke in verse form, saying：
   he should drop one speck of ink,
   and if he continued in this manner
   until he had exhausted all the specks of ink,
-  and if one then took the soil of the lands he had passed
-  through,
+  and if one then took the soil of the lands he had passed through,
   both those he dropped a speck in and those he did not,
   and once more ground their earth into dust,
   and then took one grain of dust to represent one kalpa-
@@ -473,8 +474,7 @@ single mind and joined voices recited these verses of praise：
   Formerly, immeasurable kalpas
   passed in vain when no Buddha was present.
 
-  The time had not yet come for the World-Honored One
-  to appear,
+  The time had not yet come for the World-Honored One to appear,
   and all in the ten directions were in constant darkness.
   Those in the three evil paths increased in number
   and the realm of the asuras flourished;
@@ -853,8 +853,7 @@ more, spoke in verse form, saying：
   each one sitting in a Dharma seat,
   preaching this Great Vehicle sutra.
   And after the Buddha had entered peaceful tranquility,
-  they continued to proclaim, helping to convert others to
-  the Law.
+  they continued to proclaim, helping to convert others to the Law.
   The living beings saved
   by each one of those shramaneras
   were equal in number
