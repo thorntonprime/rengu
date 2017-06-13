@@ -47,6 +47,7 @@ def parse_text(f):
 
   # convert hack text
   doc = re.sub("：", ":", doc)
+  doc = re.sub("\\\\", "", doc)
 
   # set up array for lines
   rdoc["Lines"] = []
@@ -76,7 +77,7 @@ def parse_text(f):
 
       # verse lines start with two or more spaces
       if re.match("^  +", p):
-        lines = [ x.rstrip() for x in re.split("\n", p.strip()) ]
+        lines = [ x.rstrip() for x in re.split("\n", p.rstrip()) ]
         #rdoc["Lines"].append( [ {"Format" : "verse"}, ] +  lines  )
         rdoc["Lines"].append( lines  )
 
