@@ -188,6 +188,7 @@
 700	Beauty-Peace=Peace=Serenity
 705	Beauty-Peace=Peace=Pax Profunda
 711	Discernment-Truth=Spiritual Drowning
+713	Discernment-Truth=Spiritual Drowning
 719	Discernment-Truth=The Void
 721	Discernment-Truth=The Void=The Shattering of Forms
 724	Discernment-Truth=The Void=The Plenitude of the Void
