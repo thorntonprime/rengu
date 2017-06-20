@@ -68,15 +68,16 @@ def parse_text(f):
   # verse should be read line by line
   elif rdoc['Format'].lower() == 'verse':
     for p in re.split("\n\n", doc.strip()):
-      lines = [ x.rstrip() for x in re.split("\n", p.rstrip()) ]
+      lines = [ re.sub("\n", "", x.rstrip()) for x in re.split("\n(?! \w)", p.rstrip()) ]
+
       rdoc["Lines"].append( lines )
 
   # else mixed format
   else:
     for p in re.split("\n\n", doc):
 
-      # verse lines start with two or more spaces
-      if re.match("^  +", p):
+      # verse lines start with one or more spaces
+      if re.match("^ +", p):
         lines = [ x.rstrip() for x in re.split("\n", p.rstrip()) ]
         #rdoc["Lines"].append( [ {"Format" : "verse"}, ] +  lines  )
         rdoc["Lines"].append( lines  )
