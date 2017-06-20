@@ -1,0 +1,58 @@
+#!/usr/bin/python3
+
+import sys
+import re
+
+import json
+import yaml
+
+from pymongo import MongoClient
+from pymongo.errors import DuplicateKeyError
+
+# parse person
+def parse_person(f):
+  rin = open(f, 'r')
+  i = f.split('/')[-1]
+
+  rdoc = {
+    "_id": i
+  }
+
+  # Read in the default document to handle as the Body
+  doc = ""
+  for l in rin.readlines():
+
+    # some text clean-up
+    l = re.sub("[`’‘’]", "'", l)
+    l = re.sub('[”]', '"', l)
+
+    if l.strip() == '---':
+      y = yaml.load(doc)
+
+      if type(y) is dict:
+        rdoc = { **rdoc, **y }
+
+      doc=""
+      next
+
+    else:  
+      doc += l
+
+  return rdoc
+
+if __name__ == '__main__':
+
+  client = MongoClient('prajna', 27017)
+  #db = client['rengu']
+  #people = db['people']
+  people = client['rengu']['people']
+
+  for f in sys.argv[1:]:
+    rdoc = parse_person(f)
+    print(json.dumps(rdoc, sort_keys=True, indent=2))
+
+    try:
+      people.insert_one(rdoc)
+    except DuplicateKeyError as e:
+      people.update( { '_id' : rdoc['_id'] }, rdoc )
+  
