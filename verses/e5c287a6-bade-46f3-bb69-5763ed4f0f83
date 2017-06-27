@@ -2,8 +2,9 @@
 Title: Psalm Fifty One
 Source:
   - Title: Psalms
-    Verse: 51
-    A: Book of Psalms
+    Source:
+      Title: Book of Psalms
+      Location: LI
     Page: 30
 Translator: Stephen Mitchell
 ---

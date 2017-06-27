@@ -1,8 +1,11 @@
 #!/bin/sh
 
-grep ':' verses/* | \
-  awk -F: '{ print $2 }' | \
-  sed -e 's/\([- ]\)*//' | \
-  sort | \
-  uniq
+for F in $@; do
+
+  yaml r ${F} | \
+  grep ':' | \
+  awk -F: '{ print $1 }' | \
+  sed -e 's/^\([- ]\)*//'
+
+done | sort | uniq
 

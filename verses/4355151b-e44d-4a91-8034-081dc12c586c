@@ -2,8 +2,9 @@
 Title: Psalm Thirty Nine
 Source:
   - Title: Psalms
-    Verse: 39
-    A: Book of Psalms
+    Source:
+      Title: Book of Psalms
+      Location: XXXIX
     Page: 22-23
 Translator: Stephen Mitchell
 ---
