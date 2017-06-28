@@ -11,5 +11,5 @@ bin/rengu verses/* | \
 ) | \
   grep -v null | \
   sed -e 's/^ *//' | sed -e 's/"//g' | sed -e 's/,$//' | \
-  sort | uniq
+  sort | uniq -c
 
