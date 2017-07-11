@@ -1,18 +1,8 @@
 ---
 Source:
-  ID: 8147df67-439b-4909-bfe3-d55b944af666
-Format: Verse
-By: 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd
-Title: Where Once I Sang
-Description: July 11
+  ID: 20c3721c-2af4-449e-a9c0-9791ceb9b9ae
+  Location:
+    Page: 803
+Tags:
+  - 803
 ---
-It gently faded, all I once believed in. But I am glad there is a world that
- seems to go on where I once sang.
-All I ever knew is still a part of me, and will be forever.
-All I ever knew is like a little mouse living in a tiny hole in a palace I have
- become.
-Since God gave me the key to Myself, I know the movements of every limb, fin
- and leaf. I could tell you how many hairs exist on every creature on earth.
-Sometimes it, that sweet little rodent, comes out and we look at each other,
-and I even talk to that wondrous world where I once lived, as I am doing right
- now.
