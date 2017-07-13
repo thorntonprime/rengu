@@ -29,7 +29,7 @@ def parse_text(f):
 
     # some text clean-up
     l = re.sub("[`’‘’]", "'", l)
-    l = re.sub('[”]', '"', l)
+    l = re.sub(u'[”"“]', '"', l)
 
     if l.strip() == '---':
       y = yaml.load(doc)
