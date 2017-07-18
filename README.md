@@ -39,3 +39,9 @@ https://github.com/huggingface/neuralcoref
 http://python-eve.org/
 https://code.tutsplus.com/tutorials/build-an-angularjs-app-from-scratch-powered-by-python-eve--cms-23063
 
+* TensorFlow
+* [NMT Tutorial](https://github.com/tensorflow/nmt)
+
+# Other Modules
+* [Fuzzy String Matching](https://github.com/seatgeek/fuzzywuzzy)
+* [Data Quilt](https://github.com/quiltdata/quilt)
