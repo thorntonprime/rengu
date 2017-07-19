@@ -12,4 +12,4 @@ cat | \
   sed -e 's/:/：/g' | \
   sed -e 's/—/-/g' | \
   sed -e 's/ *$//g' | \
-  fmt -w 80
+  cat

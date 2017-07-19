@@ -6,14 +6,14 @@ import yaml
 
 from textblob import TextBlob
 
+# Load up treasury tags
+wtag = {}
+for w in open('categories/treasury.txt', 'r').readlines():
+  k,t = w.strip().split('\t')
+  wtag[k] = t
+
 # parse text
 def parse_text(f):
-
-  # Load up treasury tags
-  wtag = {}
-  for w in open('categories/treasury.txt', 'r').readlines():
-    k,t = w.strip().split('\t')
-    wtag[k] = t
 
   rin = open(f, 'r')
   i = f.split('/')[-1]
@@ -27,7 +27,7 @@ def parse_text(f):
   for l in rin.readlines():
 
     # some text clean-up
-    l = re.sub("[`’‘’]", "'", l)
+    l = re.sub("[`‘’`’‘’]", "'", l)
     l = re.sub(u'[”"“]', '"', l)
 
     if l.strip() == '---':
