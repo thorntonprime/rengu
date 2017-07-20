@@ -1,6 +1,9 @@
 #!/bin/sh
 
 cat | \
+  awk '{ print $0 " " }' | \
+  sed -e 's/  */ /g' | \
+  sed -e 's/ $//g' | \
   sed -e 's/\([a-z]\)\.  *\([a-z]\)/\1, \2/g' | \
   sed -e 's/  *\. *\. *\. */ ... /g' | \
   sed -e 's/…/ .../g' | \
