@@ -11,6 +11,5 @@ cat | \
   sed -e 's/  *o  *f  */ of /g' | \
   sed -e 's/:/：/g' | \
   sed -e 's/[——-]/-/g' | \
-  sed -e 's/  */ /g' | \
   sed -e 's/ *$//g' | \
   cat
