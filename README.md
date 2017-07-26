@@ -6,7 +6,8 @@
 [YwRilke](http://yearwithrilke.blogspot.com/2011/07/)
 
 # Other Sources
-https://en.wikisource.org/wiki/The_Divine_Comedy
+* [Divine Comedy](https://en.wikisource.org/wiki/The_Divine_Comedy)
+* [Evagrius](http://www.ldysinger.com/Evagrius/00a_start.htm)
 
 
 
