@@ -2,8 +2,8 @@
 # Sources
 [Treasury](https://rengu.yoyoweb.com/books/Non-Fiction/Perry%20-%20The%20Spiritual%20Ascent.pdf)
 [YwH](https://rengu.yoyoweb.com/books/Poetry/A%20Year%20with%20Hafiz.pdf)
-[YwR](http://rumidays.blogspot.com/2010/07/)
-[YwRilke](http://yearwithrilke.blogspot.com/2011/07/)
+[YwR](http://rumidays.blogspot.com/2010/08/)
+[YwRilke](http://yearwithrilke.blogspot.com/2011/08/)
 
 # Other Sources
 * [Divine Comedy](https://en.wikisource.org/wiki/The_Divine_Comedy)
