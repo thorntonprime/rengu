@@ -32,6 +32,7 @@ http://brat.nlplab.org/index.html
 http://neuroner.com/
 
 # NLP TOols
+https://github.com/jdkato/prose
 https://github.com/facebookresearch/InferSent
 https://github.com/facebookresearch/SentEval
 https://github.com/huggingface/neuralcoref
