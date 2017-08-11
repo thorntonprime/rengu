@@ -47,3 +47,8 @@ https://code.tutsplus.com/tutorials/build-an-angularjs-app-from-scratch-powered-
 # Other Modules
 * [Fuzzy String Matching](https://github.com/seatgeek/fuzzywuzzy)
 * [Data Quilt](https://github.com/quiltdata/quilt)
+
+# TOols for Managing Web Content
+* [CKEditor](https://ckeditor.com/)
+* [Substance](http://substance.io/)
+
