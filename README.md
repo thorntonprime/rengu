@@ -32,10 +32,12 @@ http://brat.nlplab.org/index.html
 http://neuroner.com/
 
 # NLP TOols
+http://www.nltk.org/book/ch01.html
 https://github.com/jdkato/prose
 https://github.com/facebookresearch/InferSent
 https://github.com/facebookresearch/SentEval
 https://github.com/huggingface/neuralcoref
+https://app.plasticity.ai/#!/signup/signup/login
 
 # Eve and SUch
 http://python-eve.org/
