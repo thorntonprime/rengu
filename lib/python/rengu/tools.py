@@ -1,110 +1,31 @@
+import unicodedata
 
-import sys
-import re
+def strip_accents(s):
+  return ''.join(c for c in unicodedata.normalize('NFD', s)
+    if unicodedata.category(c) != 'Mn')
 
-import yaml
-
-from textblob import TextBlob
-
-# Load up treasury tags
-wtag = {}
-for w in open('categories/treasury.txt', 'r').readlines():
-  k,t = w.strip().split('\t')
-  wtag[k] = t
-
-# parse text
-def parse_text(f):
-
-  rin = open(f, 'r')
-  i = f.split('/')[-1]
-
-  rdoc = {
-    "_id": i
-  }
-
-  # Read in the default document to handle as the Body
-  doc = ""
-  for l in rin.readlines():
-
-    # some text clean-up
-    l = re.sub("[`‘’`’‘’]", "'", l)
-    l = re.sub(u'[”"“]', '"', l)
-
-    if l.strip() == '---':
-      y = yaml.load(doc)
-
-      if type(y) is dict:
-        rdoc = { **rdoc, **y }
-
-      if type(y) is str:
-        rdoc['Body'] = doc
-
-      doc=""
-      next
-    else:  
-      doc += l
-
-  # convert hack text
-  doc = re.sub("：", ":", doc)
-  doc = re.sub("\\\\", "", doc)
-
-  # set up array for lines
-  rdoc["Lines"] = []
-
-  # prose is split into paragraphs and split into sentances
-  if not 'Format' in rdoc or rdoc['Format'].lower() == 'prose':
-    for p in re.split("\n\n", doc):
-    
-        # Scrub extraneous newlines and spaces
-        p = re.sub("(?<!\n)\n(?!\n)", " ", p)
-        p = re.sub(" +", " ", p)
-
-        blob = TextBlob(p)
-
-        lines = [ str(x.strip()) for x in blob.sentences ]
-        rdoc["Lines"].append( lines )
-
-  # verse should be read line by line
-  elif rdoc['Format'].lower() == 'verse':
-    for p in re.split("\n\n", doc.strip()):
-      lines = [ re.sub("\n", "", x.rstrip()) for x in re.split("\n(?! \w)", p.rstrip()) ]
-
-      rdoc["Lines"].append( lines )
-
-  # else mixed format
-  else:
-    for p in re.split("\n\n", doc):
-
-      # verse lines start with one or more spaces
-      if re.match("^ +", p):
-        lines = [ x.rstrip() for x in re.split("\n", p.rstrip()) ]
-        #rdoc["Lines"].append( [ {"Format" : "verse"}, ] +  lines  )
-        rdoc["Lines"].append( lines  )
-
-      else:
-        # Scrub extraneous newlines and spaces
-        p = re.sub("(?<!\n)\n(?!\n)", " ", p)
-        p = re.sub(" +", " ", p)
-
-        blob = TextBlob(p)
-
-        lines = [ str(x.strip()) for x in blob.sentences ]
-        rdoc["Lines"].append( lines )
+def remove_accents(input_str):
+  nfkd_form = unicodedata.normalize('NFKD', input_str)
+  return u"".join([c for c in nfkd_form if not unicodedata.combining(c)])
 
 
-  # strip whitespace and set Body
-  rdoc['Body'] = doc.strip()
+numeral_map = tuple(zip(
+    (1000, 900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1),
+    ('M', 'CM', 'D', 'CD', 'C', 'XC', 'L', 'XL', 'X', 'IX', 'V', 'IV', 'I')
+))
 
-  # W.Perry tags by number
-  if 'Tags' in rdoc:
-    if type(rdoc['Tags']) == type(str("")):
-      tags = rdoc['Tags'].split()
-      rdoc['Tags'] = tags
-    else:
-      for t in rdoc['Tags'].copy():
-        if str(t) in wtag:
-          rdoc['Tags'].remove(t)
-          rdoc['Tags'].append(wtag[str(t)])
+def int_to_roman(i):
+    result = []
+    for integer, numeral in numeral_map:
+        count = i // integer
+        result.append(numeral * count)
+        i -= integer * count
+    return ''.join(result)
 
-  return rdoc
-
+def roman_to_int(n):
+    i = result = 0
+    for integer, numeral in numeral_map:
+        while n[i:i + len(numeral)] == numeral:
+            result += integer
+            i += len(numeral)
+    return result

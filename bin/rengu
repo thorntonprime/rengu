@@ -4,11 +4,11 @@ import sys
 import json
 
 sys.path.append('lib/python')
-import rengu.tools
+import rengu.tags
 
 if __name__ == '__main__':
 
   for f in sys.argv[1:]:
-    rdoc = rengu.tools.parse_text(f)
+    rdoc = rengu.tags.parse_text(f)
     print(json.dumps(rdoc, sort_keys=True, indent=2))
 
