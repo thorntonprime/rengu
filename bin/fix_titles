@@ -5,7 +5,7 @@ import sys
 import re
 
 X = "Source:\n  - Title: Collection of Stone and Sand\n"
-Y = "Source:\n  ID: 0d714158-c6fb-4950-9b66-ed3beaebe15e\n  Location:\n"
+Y = "Source:\n  ID: 0d714158-c6fb-4950-9b66-ed3beaebe15e\n  Locus:\n"
 
 for f in sys.argv[1:]:
 
