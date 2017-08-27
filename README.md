@@ -33,6 +33,8 @@ http://neuroner.com/
 
 # NLP TOols
 http://www.nltk.org/book/ch01.html
+https://github.com/josephmisiti/awesome-machine-learning#python-nlp
+https://spacy.io/
 https://github.com/jdkato/prose
 https://github.com/facebookresearch/InferSent
 https://github.com/facebookresearch/SentEval
