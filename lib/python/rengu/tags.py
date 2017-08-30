@@ -75,7 +75,7 @@ def parse_text(f):
 
       # verse lines start with one or more spaces
       if re.match("^ +", p):
-        lines = [ x.rstrip() for x in re.split("\n", p.rstrip()) ]
+        lines = [ re.sub("\n", " ", x).rstrip() for x in re.split("\n(?=\s+)", p.rstrip()) ]
         #rdoc["Lines"].append( [ {"Format" : "verse"}, ] +  lines  )
         rdoc["Lines"].append( lines  )
 
