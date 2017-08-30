@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE Project SYSTEM "Project-5.1.dtd">
 <!-- eric project file for project rengu -->
-<!-- Saved: 2017-08-24, 14:22:50 -->
+<!-- Saved: 2017-08-30, 13:22:45 -->
 <!-- Copyright (C) 2017 ,  -->
 <Project version="5.1">
   <Language>en_US</Language>
@@ -23,6 +23,7 @@
     <Source>lib/python/rengu/people.py</Source>
     <Source>lib/python/rengu/tags.py</Source>
     <Source>lib/python/rengu/tools.py</Source>
+    <Source>lib/python/rengu/verse.py</Source>
   </Sources>
   <Forms/>
   <Translations/>
