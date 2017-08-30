@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 
 import unicodedata
+import re
 
 def strip_accents(s):
   return ''.join(c for c in unicodedata.normalize('NFD', s)
@@ -24,10 +25,16 @@ def int_to_roman(i):
         i -= integer * count
     return ''.join(result)
 
+def check_roman(n):
+  return re.match("^[MDCLXVI]+$",  n.upper())
+  
 def roman_to_int(n):
-    i = result = 0
-    for integer, numeral in numeral_map:
-        while n[i:i + len(numeral)] == numeral:
-            result += integer
-            i += len(numeral)
-    return result
+    if check_roman(n):
+      i = result = 0
+      for integer, numeral in numeral_map:
+        while n[i:i + len(numeral)].upper() == numeral:
+          result += integer
+          i += len(numeral)
+      return result
+    else:
+      return float('nan')
