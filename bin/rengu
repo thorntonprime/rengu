@@ -4,11 +4,11 @@ import sys
 import json
 
 sys.path.append('lib/python')
-import rengu.tags
+import rengu.verse
 
 if __name__ == '__main__':
 
   for f in sys.argv[1:]:
-    rdoc = rengu.tags.parse_text(f)
+    rdoc = rengu.verse.load_yaml_file(f)
     print(json.dumps(rdoc, sort_keys=True, indent=2))
 
