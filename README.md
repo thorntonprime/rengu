@@ -40,6 +40,7 @@ https://github.com/facebookresearch/InferSent
 https://github.com/facebookresearch/SentEval
 https://github.com/huggingface/neuralcoref
 https://app.plasticity.ai/#!/signup/signup/login
+https://github.com/allenai/allennlp
 
 # Eve and SUch
 http://python-eve.org/
