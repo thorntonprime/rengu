@@ -11,6 +11,16 @@ def remove_accents(input_str):
   nfkd_form = unicodedata.normalize('NFKD', input_str)
   return u"".join([c for c in nfkd_form if not unicodedata.combining(c)])
 
+def normalize(input_str):
+  ## Returns a NFKD normalized form of the input string
+  nfkd_form = unicodedata.normalize('NFKD', input_str)
+  return u"".join([c for c in nfkd_form if not unicodedata.combining(c)])
+
+def mangle(input_str):
+  # Returns an all-lower case NFKD normalized version of the input string with
+  # all non-alpha characters removed
+  d = unicodedata.normalize('NFKD', input_str).lower()
+  return u"".join([ c for c in d if unicodedata.category(c) == 'Ll'])
 
 numeral_map = tuple(zip(
     (1000, 900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1),

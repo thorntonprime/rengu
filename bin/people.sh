@@ -7,7 +7,8 @@ bin/rengu verses/* | \
 
 ) | \
   grep -v null | \
+  sed -e 's/.*://' | \
+  tr -d '",:' | \
   bin/unicode.py | \
-  sed -e 's/^ *//' | sed -e 's/"//g' | sed -e 's/,$//' | \
   sort | uniq -c
 
