@@ -8,7 +8,7 @@
 # Other Sources
 * [Divine Comedy](https://en.wikisource.org/wiki/The_Divine_Comedy)
 * [Evagrius](http://www.ldysinger.com/Evagrius/00a_start.htm)
-
+* [Gnosis Library](http://gnosis.org/search_form.html)
 
 
 # Related Packages
