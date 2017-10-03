@@ -10,5 +10,6 @@ bin/rengu verses/* | \
   sed -e 's/.*://' | \
   tr -d '",:' | \
   bin/unicode.py | \
+  sed -e 's/[[:space:]][[:space:]]*/ /g' | \
   sort | uniq -c
 
