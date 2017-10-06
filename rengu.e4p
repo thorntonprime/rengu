@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE Project SYSTEM "Project-5.1.dtd">
 <!-- eric project file for project rengu -->
-<!-- Saved: 2017-08-30, 13:22:45 -->
+<!-- Saved: 2017-10-06, 09:09:55 -->
 <!-- Copyright (C) 2017 ,  -->
 <Project version="5.1">
   <Language>en_US</Language>
@@ -37,7 +37,6 @@
     <Other>processing/7cmpr10.txt</Other>
     <Other>processing/8cmpr10.txt</Other>
     <Other>processing/philokalia.txt</Other>
-    <Other>template.txt</Other>
   </Others>
   <MainScript>bin/rengu</MainScript>
   <Vcs>
