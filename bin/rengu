@@ -7,10 +7,92 @@ import rengu.verse
 
 import cmd
 
+def auto_help(func):
+  def _help(self):
+    print(func.func_doc)
+  setattr(cmd.Cmd, 'help_' + func.__name__[3:], _help)
+  return func
+
+class RenguCmd(cmd.Cmd, object):
+  intro = 'Rengu tool'
+  prompt = '> '
+
+  @auto_help
+  def do_verse(self, line):
+    '''verse
+    dump verse data in JSON
+    '''
+
+    import json
+    for f in line.split():
+      rdoc = rengu.verse.load_yaml_file(f)
+      print(json.dumps(rdoc, sort_keys=True, indent=2))
+
+  @auto_help
+  def do_people(self, line):
+    '''people
+    dump people referenced in verse files
+    '''
+
+    for f in line.split():
+      rdoc = rengu.verse.load_yaml_file(f)
+
+      for t in walk_search('By', rdoc):
+        print(t)
+      
+
+  @auto_help
+  def do_sources(self, line):
+    '''sources
+    dump source titles referenced in verse files
+    '''
+
+    for f in line.split():
+      rdoc = rengu.verse.load_yaml_file(f)
+
+      for t in walk_search('Title', rdoc.get('Source', {})):
+        print(t)
+
+      for t in walk_search('Title', rdoc.get('References', {})):
+        print(t)
+      
+
+def walk_search(match, d):
+  '''walk_search( key to find, dictonary)
+  recursively walk a dictonary to find a key
+  and yield results
+  '''
+
+  if not isinstance(d, dict):
+    return
+
+  for k in d.keys():
+
+    if k == match:
+
+      if isinstance(d[k], str):
+        yield d[k]
+
+      elif isinstance(d[k], list):
+        for x in d[k]:
+          yield x
+
+    elif isinstance(d[k], dict):
+      for x in walk_search(match, d[k]):
+        yield x
+     
+    elif isinstance(d[k], list):
+      for x in (x for x in d[k] if isinstance(x, dict)):
+          for y in walk_search(match, x):
+            yield y
+
 if __name__ == '__main__':
 
-  import json
-  for f in sys.argv[1:]:
-    rdoc = rengu.verse.load_yaml_file(f)
-    print(json.dumps(rdoc, sort_keys=True, indent=2))
+  if len(sys.argv) > 1:
+    RenguCmd().onecmd(' '.join(sys.argv[1:]))
+  else:
+    try:
+      RenguCmd().cmdloop()
+    except KeyboardInterrupt:
+      print('\nexit')
 

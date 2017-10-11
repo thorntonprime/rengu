@@ -1,11 +1,6 @@
 #!/bin/sh
 
-(
-
-bin/rengu verses/* | \
-  jq -r .By 2>/dev/null
-
-) | \
+bin/rengu people verses/* | \
   grep -v null | \
   sed -e 's/.*://' | \
   tr -d '",:' | \
