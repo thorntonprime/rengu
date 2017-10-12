@@ -34,7 +34,8 @@ def load_yaml_file(f):
 
     # some text clean-up
     l = re.sub("[`‘’`’‘’]", "'", l)
-    l = re.sub(u'[”"“]', '"', l)
+    l = re.sub('[”"“]', '"', l)
+    # l = re.sub(r": \\\'", ": '", l)
 
     if l.strip() == '---':
       y = yaml.load(doc)
@@ -110,6 +111,10 @@ def load_yaml_file(f):
         if str(t) in TreasuryTagMap:
           rdoc['Tags'].remove(t)
           rdoc['Tags'].append(TreasuryTagMap[str(t)])
+
+  # Clean up tags
+  if rdoc["By"] and rdoc["By"][0] == '\\':
+    rdoc["By"] = rdoc["By"][1:]
 
   return rdoc
 
