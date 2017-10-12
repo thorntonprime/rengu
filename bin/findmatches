@@ -1,0 +1,17 @@
+#!/usr/bin/python3
+
+import sys
+from fuzzywuzzy import process
+
+l = {}
+
+for x in sys.stdin.readlines():
+  l[x.strip()] = 1
+
+k = l.keys()
+
+for x in l.keys():
+  matches = process.extractOne(x, [y for y in l.keys() if y != x] )
+  if matches[1] >= 90:
+    print("%s > %s (%i)" % (x, matches[0], matches[1]) )
+  
