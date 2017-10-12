@@ -56,6 +56,17 @@ class RenguCmd(cmd.Cmd, object):
       for t in walk_search('Title', rdoc.get('References', {})):
         print(t)
       
+  @auto_help
+  def do_tags(self, line):
+    '''tags
+    dump tags referenced in verse files
+    '''
+
+    for f in line.split():
+      rdoc = rengu.verse.load_yaml_file(f)
+
+      for t in walk_search('Tags', rdoc):
+        print(t)
 
 def walk_search(match, d):
   '''walk_search( key to find, dictonary)
