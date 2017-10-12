@@ -1,7 +1,8 @@
 ---
 Source:
   - Title: Psalms
-    Chapter: 131
+    Locus:
+      Chapter: CXXXI
 Title: Psalm One Hundred Thirty One
 Tags:
   - initiation
