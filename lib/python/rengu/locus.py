@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 
-
-
 ROMAN = tuple(zip(
     (1000, 900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1),
     ('M', 'CM', 'D', 'CD', 'C', 'XC', 'L', 'XL', 'X', 'IX', 'V', 'IV', 'I')
@@ -59,7 +57,7 @@ class Locus(object):
   '''
 
   # Scopes named from smallest to largest
-  SCOPES = [ 'Series', 'Book', 'Volume', 'Part', 'Chapter', 'Section', 'Verse', 'Line' ]
+  SCOPES = [ 'Series', 'Book', 'Volume', 'Part', 'Chapter', 'Section', 'Verse' ]
   _d = {}
 
   def __init__(self, x):
@@ -120,14 +118,23 @@ class Locus(object):
     assert isinstance(item, Locus)
 
     for k in self.SCOPES:
-      mine = normalize(self._d.get(k, 0))
-      theirs = normalize(item._d.get(k, 0))
+      mine = normalize(self._d.get(k))
+      theirs = normalize(item._d.get(k))
 
-
+      # If both are the same (including None), skip to next scope
       if mine == theirs:
         continue
+ 
+      # If theirs is None and mine isn't, then they are broader
+      if theirs == None:
+        return False
 
-      elif not isinstance(mine, list):
+      # if mine is None and theirs isn't, then I am broader
+      if mine == None:
+        return True
+ 
+      # Check for list membership
+      if not isinstance(mine, list):
         return False 
 
       elif isinstance(theirs, list):
@@ -139,6 +146,7 @@ class Locus(object):
       else:
         return False
 
+    # Default is true
     return True 
 
 class BibleLocus(Locus):
