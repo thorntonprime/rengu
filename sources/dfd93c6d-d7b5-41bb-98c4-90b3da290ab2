@@ -1,0 +1,61 @@
+---
+Title: Tanakh
+Tradition:
+  - Judaism
+Contains:
+  - Title: Torah
+    AltTitles:
+      - The Law
+      - The Pentateuch
+    Contains:
+      - Title: Genesis
+      - Title: Exodus
+      - Title: Leviticus
+      - Title: Numbers
+      - Title: Deuteronomy
+  - Title: Former Prophets
+    Contains:
+      - Title: Joshua
+      - Title: Judges
+      - Title: Samuel
+      - Title: Kings
+  - Title: Latter Prophets
+    Contains:
+      - Title: Isaiah
+      - Title: Jeremiah
+      - Title: Ezekiel
+  - Title: The Minor Prophets
+    AltTitles:
+      - The Twelve
+    Contains:
+      - Title: Hosea
+      - Title: Joel
+      - Title: Amos
+      - Title: Obadiah
+      - Title: Jonah
+      - Title: Micah
+      - Title: Nahum
+      - Title: Habakkuk
+      - Title: Zephaniah
+      - Title: Haggai
+      - Title: Zechariah
+      - Title: Malachi
+  - Title: The Writings
+    Description: Poetical Books
+    Contains:
+      - Title: Psalms
+      - Title: Proverbs
+      - Title: Job
+  - Title: The Writings II
+    Contains:
+      - Title: Song of Solomon
+      - Title: Ruth
+      - Title: Lamentations
+      - Title: Ecclesiastes
+      - Title: Esther
+  - Title: The Writings III
+    Contains:
+      - Title: Daniel
+      - Title: Ezra and Nehemiah
+      - Title: Chronicles
+---
