@@ -38,10 +38,10 @@ def normalize(x):
     v,w = x.split("-", 2)
     
     if v.isdigit() and w.isdigit():
-      return range(int(v),int(w))
+      return list(range(int(v),int(w)))
 
     if roman_to_int(v) and roman_to_int(w):
-      return range(roman_to_int(v),roman_to_int(w))
+      return list(range(roman_to_int(v),roman_to_int(w)))
 
   if isinstance(x, str) and roman_to_int(x):
     return roman_to_int(x)
@@ -115,9 +115,31 @@ class Locus(object):
 
     return True 
 
-  def __contains__(self, other):
+  def __contains__(self, item):
 
-    return false
+    assert isinstance(item, Locus)
+
+    for k in reversed(self.SCOPES):
+      mine = normalize(self._d.get(k, 0))
+      theirs = normalize(item._d.get(k, 0))
+
+
+      if mine == theirs:
+        continue
+
+      elif not isinstance(mine, list):
+        return False 
+
+      elif isinstance(theirs, list):
+        return set(theirs).issubset(mine)
+
+      elif theirs in mine:
+        return True
+
+      else:
+        return False
+
+    return True 
 
 class BibleLocus(Locus):
   '''BibleLocus(orig)
