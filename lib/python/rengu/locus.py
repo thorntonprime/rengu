@@ -59,7 +59,7 @@ class Locus(object):
   '''
 
   # Scopes named from smallest to largest
-  SCOPES = [ 'Verse', 'Section', 'Chapter', 'Part', 'Volume', 'Book', 'Series', 'Saga' ]
+  SCOPES = [ 'Series', 'Book', 'Volume', 'Part', 'Chapter', 'Section', 'Verse', 'Line' ]
   _d = {}
 
   def __init__(self, x):
@@ -70,9 +70,9 @@ class Locus(object):
     if isinstance(x, dict):
       self._d = x
     elif isinstance(x, list):
-      self._d = dict(zip(self.SCOPES, reversed(x)))
+      self._d = dict(zip(reversed(self.SCOPES), reversed(x)))
     elif isinstance(x, str):
-      self._d = dict(zip(self.SCOPES, reversed(x.split())))
+      self._d = dict(zip(reversed(self.SCOPES), reversed(x.split())))
 
 
   def __repr__(self):
@@ -83,7 +83,7 @@ class Locus(object):
 
     assert isinstance(other, Locus)
 
-    for k in reversed(self.SCOPES):
+    for k in self.SCOPES:
       mine = normalize(self._d.get(k, 0))
       theirs = normalize(other._d.get(k, 0))
 
@@ -103,7 +103,7 @@ class Locus(object):
 
     assert isinstance(other, Locus)
 
-    for k in reversed(self.SCOPES):
+    for k in self.SCOPES:
       mine = normalize(self._d.get(k, 0))
       theirs = normalize(other._d.get(k, 0))
 
@@ -119,7 +119,7 @@ class Locus(object):
 
     assert isinstance(item, Locus)
 
-    for k in reversed(self.SCOPES):
+    for k in self.SCOPES:
       mine = normalize(self._d.get(k, 0))
       theirs = normalize(item._d.get(k, 0))
 
@@ -146,6 +146,6 @@ class BibleLocus(Locus):
      Class to manage BibleLocus.
   '''
 
-  SCOPES = [ 'Verse', 'Chapter', 'Book' ]
+  SCOPES = [ 'Book', 'Chapter', 'Verse' ]
 
 
