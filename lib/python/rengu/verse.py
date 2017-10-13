@@ -113,7 +113,7 @@ def load_yaml_file(f):
           rdoc['Tags'].append(TreasuryTagMap[str(t)])
 
   # Clean up tags
-  if rdoc["By"] and rdoc["By"][0] == '\\':
+  if rdoc.get("By") and isinstance(rdoc["By"], str) and rdoc["By"][0] == '\\':
     rdoc["By"] = rdoc["By"][1:]
 
   return rdoc
