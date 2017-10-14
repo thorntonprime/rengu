@@ -5,6 +5,11 @@
 [YwR](http://rumidays.blogspot.com/2010/10/)
 [YwRilke](http://yearwithrilke.blogspot.com/2011/10/)
 
+# Primary Sources
+* [Sacred Texts Archive](http://www.sacred-texts.com/) - [Local](https://rengu.yoyoweb.com/books/theos/ista09/index.htm)
+* [Early Christianity]() - [Local](https://rengu.yoyoweb.com/books/theos/early_christ/site/index.html)
+* [Early Jewish]() - [Local](https://rengu.yoyoweb.com/books/theos/early_jewish/site/index.html)
+
 # Other Sources
 * [Divine Comedy](https://en.wikisource.org/wiki/The_Divine_Comedy)
 * [Evagrius](http://www.ldysinger.com/Evagrius/00a_start.htm)
