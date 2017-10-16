@@ -7,7 +7,7 @@
 
 # Primary Sources
 * [Sacred Texts Archive](http://www.sacred-texts.com/) - [Local](https://rengu.yoyoweb.com/books/theos/ista09/index.htm)
-* [Early Christianity]() - [Local](https://rengu.yoyoweb.com/books/theos/early_christ/site/index.html)
+* [Early Christianity]() - [Local](https://rengu.yoyoweb.com/books/theos/early_christ/index.htm)
 * [Early Jewish]() - [Local](https://rengu.yoyoweb.com/books/theos/early_jewish/site/index.html)
 
 # Other Sources
