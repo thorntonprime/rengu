@@ -1,12 +1,13 @@
 ---
-Source:
-  ID: 8147df67-439b-4909-bfe3-d55b944af666
-Format: Verse
 By: 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd
-Title: This Is the Way to Die
-Description: May 31
+Format: Verse
 References:
   - a5b0c061-ae01-4f0b-8ac9-2a1a25d51aa7
+Source:
+  ID: 8147df67-439b-4909-bfe3-d55b944af666
+  Locus:
+    Daily: May 31
+Title: This Is the Way to Die
 ---
 Your thousand limbs rend my body. This is the way to die：
 

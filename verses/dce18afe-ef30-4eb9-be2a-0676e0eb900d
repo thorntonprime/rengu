@@ -1,12 +1,13 @@
 ---
-Source:
-  ID: 8147df67-439b-4909-bfe3-d55b944af666
-Format: Verse
 By: 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd
-Title: When the Wind Takes a Tree in Its Arms
-Description: May 10
+Format: Verse
 References:
   - bc7912d3-9257-4d40-a13d-7da575a0f22d
+Source:
+  ID: 8147df67-439b-4909-bfe3-d55b944af666
+  Locus:
+    Daily: May 10
+Title: When the Wind Takes a Tree in Its Arms
 ---
 Three-quarters of the world dances all night, the waves moving as they do on
   the seas.
@@ -18,7 +19,7 @@ The green branches of the earth may seem to reach out to touch us if we near
 
 Does not all sway to a rhythm that began long before we stood upright?
 
-We are in the mountain’s home, just guests. Guests of the sky, the streams, the
+We are in the mountain's home, just guests. Guests of the sky, the streams, the
   giving soil we nurse from.
 
 Would not you be happier following their example -- bowing in unseen ways, then

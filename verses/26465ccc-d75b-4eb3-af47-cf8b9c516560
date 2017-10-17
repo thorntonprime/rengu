@@ -1,15 +1,16 @@
 ---
-Format: Verse
 By: Rainer Maria Rilke
-Source:
-  ID: 631057a1-0221-4885-ba61-78b661b62b70
-  Source:
-    Title: The Book of Hours
-    Locus: II 7
-Title: To the Beloved
-Description: March 2
+Format: Verse
 References:
   - a5b0c061-ae01-4f0b-8ac9-2a1a25d51aa7
+Source:
+  ID: 631057a1-0221-4885-ba61-78b661b62b70
+  Locus:
+    Daily: March 2
+  Source:
+    Locus: II 7
+    Title: The Book of Hours
+Title: To the Beloved
 ---
 Extinguish my eyes, I'll go on seeing you.
 Seal my ears, I'll go on hearing you.

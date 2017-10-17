@@ -1,15 +1,16 @@
 ---
 By: Rainer Maria Rilke
-Source:
-  ID: 631057a1-0221-4885-ba61-78b661b62b70
-  Source:
-    Title: The Book of Hours
-    Locus: I 2
-Title: Widening Circles
-Description: May 2
 Format: Verse
 References:
   - 73749f31-0529-4734-a884-16a71ba1386d
+Source:
+  ID: 631057a1-0221-4885-ba61-78b661b62b70
+  Locus:
+    Daily: May 2
+  Source:
+    Locus: I 2
+    Title: The Book of Hours
+Title: Widening Circles
 ---
 I live my life in widening circles
 that reach out across the world.

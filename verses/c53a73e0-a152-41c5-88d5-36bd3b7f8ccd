@@ -1,13 +1,14 @@
 ---
-Format: Verse
 By: Rainer Maria Rilke
+Format: Verse
 Source:
   ID: 631057a1-0221-4885-ba61-78b661b62b70
+  Locus:
+    Daily: February 15
   Source:
-    Title: Book of Hours
     Locus: I 11
+    Title: Book of Hours
 Title: To Darkness
-Description: February 15
 ---
 You, darkness, of whom I am born --
 
