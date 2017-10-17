@@ -3,6 +3,42 @@
 import unicodedata
 import re
 
+import yaml
+class YamlDumper(yaml.Dumper):
+
+  def increase_indent(self, flow=False, indentless=False):
+    return super(YamlDumper, self).increase_indent(flow, False)
+
+def walk_search(match, d):
+  '''walk_search( key to find, dictonary)
+  recursively walk a dictonary to find a key
+  and yield results
+  '''
+
+  if not isinstance(d, dict):
+    return
+
+  for k in d.keys():
+
+    if k == match:
+
+      if isinstance(d[k], str):
+        yield d[k]
+
+      elif isinstance(d[k], list):
+        for x in d[k]:
+          yield x
+
+    elif isinstance(d[k], dict):
+      for x in walk_search(match, d[k]):
+        yield x
+     
+    elif isinstance(d[k], list):
+      for x in (x for x in d[k] if isinstance(x, dict)):
+          for y in walk_search(match, x):
+            yield y
+
+
 def strip_accents(s):
   return ''.join(c for c in unicodedata.normalize('NFD', s)
     if unicodedata.category(c) != 'Mn')

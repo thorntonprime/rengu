@@ -4,8 +4,11 @@ import sys
 
 sys.path.append('lib/python')
 import rengu.verse
+from rengu.tools import walk_search,  YamlDumper
 
 import cmd
+
+
 
 def auto_help(func):
   def _help(self):
@@ -18,8 +21,8 @@ class RenguCmd(cmd.Cmd, object):
   prompt = '> '
 
   @auto_help
-  def do_verse(self, line):
-    '''verse
+  def do_json(self, line):
+    '''json
     dump verse data in JSON
     '''
 
@@ -27,6 +30,38 @@ class RenguCmd(cmd.Cmd, object):
     for f in line.split():
       rdoc = rengu.verse.load_yaml_file(f)
       print(json.dumps(rdoc, sort_keys=True, indent=2))
+
+  @auto_help
+  def do_yaml(self, line):
+    '''yaml
+    dump verse data in YAML
+    '''
+
+    import yaml
+    for f in line.split():
+      rdoc = rengu.verse.load_yaml_file(f)
+
+      body = rdoc["Body"]
+      if body[0] == "'" or body[0] == '"' or body[0:3] == "...":
+        body = "\\" + body
+        
+      del rdoc["Body"]
+      del rdoc["Lines"]
+      del rdoc["_id"]
+
+      # Temporary fix for Description
+      month = ["January",  "February", "March",  "April", "May",  "June", "July", "August", "September", "October",  "November", "December"]
+      for x in month:
+        if rdoc.get("Description") and rdoc["Description"][0:len(x)] == x:
+          rdoc["Source"].setdefault("Locus", {}).update({"Daily": rdoc["Description"]})
+          del rdoc["Description"]
+          break
+
+      print("---")
+      print(yaml.dump(rdoc, Dumper=YamlDumper, default_flow_style=False, width=70, indent=2).strip())
+      print("---")
+      print(body.replace(":", "："))
+   
 
   @auto_help
   def do_people(self, line):
@@ -68,34 +103,6 @@ class RenguCmd(cmd.Cmd, object):
       for t in walk_search('Tags', rdoc):
         print(t)
 
-def walk_search(match, d):
-  '''walk_search( key to find, dictonary)
-  recursively walk a dictonary to find a key
-  and yield results
-  '''
-
-  if not isinstance(d, dict):
-    return
-
-  for k in d.keys():
-
-    if k == match:
-
-      if isinstance(d[k], str):
-        yield d[k]
-
-      elif isinstance(d[k], list):
-        for x in d[k]:
-          yield x
-
-    elif isinstance(d[k], dict):
-      for x in walk_search(match, d[k]):
-        yield x
-     
-    elif isinstance(d[k], list):
-      for x in (x for x in d[k] if isinstance(x, dict)):
-          for y in walk_search(match, x):
-            yield y
 
 if __name__ == '__main__':
 
