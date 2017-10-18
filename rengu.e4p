@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE Project SYSTEM "Project-5.1.dtd">
 <!-- eric project file for project rengu -->
-<!-- Saved: 2017-10-06, 09:09:55 -->
+<!-- Saved: 2017-10-17, 15:09:10 -->
 <!-- Copyright (C) 2017 ,  -->
 <Project version="5.1">
   <Language>en_US</Language>
@@ -13,14 +13,15 @@
   <Email></Email>
   <Eol index="0"/>
   <Sources>
-    <Source>__init__.py</Source>
     <Source>bin/rengu</Source>
     <Source>bin/roman.py</Source>
     <Source>bin/unicode.py</Source>
     <Source>lib/__init__.py</Source>
     <Source>lib/python/__init__.py</Source>
     <Source>lib/python/rengu/__init__.py</Source>
+    <Source>lib/python/rengu/locus.py</Source>
     <Source>lib/python/rengu/people.py</Source>
+    <Source>lib/python/rengu/sources.py</Source>
     <Source>lib/python/rengu/tags.py</Source>
     <Source>lib/python/rengu/tools.py</Source>
     <Source>lib/python/rengu/verse.py</Source>
