@@ -1,16 +1,16 @@
 
-# Sources
+## Sources
 [Treasury](https://rengu.yoyoweb.com/books/Non-Fiction/Perry%20-%20The%20Spiritual%20Ascent.pdf)
 [YwH](https://rengu.yoyoweb.com/books/Poetry/A%20Year%20with%20Hafiz.pdf)
 [YwR](http://rumidays.blogspot.com/2010/10/)
 [YwRilke](http://yearwithrilke.blogspot.com/2011/10/)
 
-# Primary Sources
+## Primary Sources
 * [Sacred Texts Archive](http://www.sacred-texts.com/) - [Local](https://rengu.yoyoweb.com/books/theos/ista09/index.htm)
 * [Early Christianity]() - [Local](https://rengu.yoyoweb.com/books/theos/early_christ/index.htm)
 * [Early Jewish]() - [Local](https://rengu.yoyoweb.com/books/theos/early_jewish/site/index.html)
 
-# Other Sources
+## Other Sources
 * [Divine Comedy](https://en.wikisource.org/wiki/The_Divine_Comedy)
 * [Evagrius](http://www.ldysinger.com/Evagrius/00a_start.htm)
 * [Gnosis Library](http://gnosis.org/search_form.html)
@@ -18,14 +18,11 @@
 
 # Related Packages
 
-WIkipedia Scraping
-https://github.com/siznax/wptools/wiki/Usage
-
-Dash
-https://plot.ly/dash/gallery
-
-spaCy
-https://github.com/JasonKessler/scattertext
+### Wikipedia Scraping
+* (wptools)[https://github.com/siznax/wptools/wiki/Usage]
+* (BeautifulSoup)[https://www.crummy.com/software/BeautifulSoup/bs4/doc/]
+* (Dash)[https://plot.ly/dash/gallery]
+* (spaCy)[https://github.com/JasonKessler/scattertext]
 
 # SImilar Efforts
 http://lewisandquark.tumblr.com/post/162097037117/ancient-wisdom-from-the-neural-network
