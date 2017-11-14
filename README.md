@@ -24,31 +24,38 @@
 * (Dash)[https://plot.ly/dash/gallery]
 * (spaCy)[https://github.com/JasonKessler/scattertext]
 
-# SImilar Efforts
-http://lewisandquark.tumblr.com/post/162097037117/ancient-wisdom-from-the-neural-network
+#### Similar Efforts
+* http://lewisandquark.tumblr.com/post/162097037117/ancient-wisdom-from-the-neural-network
 
-# BRAT - Interactive Text Annotation TOol
-http://brat.nlplab.org/index.html
+#### BRAT - Interactive Text Annotation TOol
+* http://brat.nlplab.org/index.html
 
-# Named Entity Recognition
-http://neuroner.com/
+#### Named Entity Recognition
+* http://neuroner.com/
 
-# NLP TOols
-http://www.nltk.org/book/ch01.html
-https://github.com/josephmisiti/awesome-machine-learning#python-nlp
-https://spacy.io/
-https://github.com/jdkato/prose
-https://github.com/facebookresearch/InferSent
-https://github.com/facebookresearch/SentEval
-https://github.com/huggingface/neuralcoref
-https://app.plasticity.ai/#!/signup/signup/login
-https://github.com/allenai/allennlp
+## NLP TOols
+* http://www.nltk.org/book/ch01.html
+* https://github.com/josephmisiti/awesome-machine-learning#python-nlp
+* https://spacy.io/
+* http://allennlp.org/
+* https://github.com/jdkato/prose
+* https://github.com/facebookresearch/InferSent
+* https://github.com/facebookresearch/SentEval
+* https://github.com/huggingface/neuralcoref
+* https://app.plasticity.ai/#!/signup/signup/login
+* https://github.com/allenai/allennlp
+* https://github.com/vi3k6i5/flashtext
 
-# Eve and SUch
-http://python-eve.org/
-https://code.tutsplus.com/tutorials/build-an-angularjs-app-from-scratch-powered-by-python-eve--cms-23063
+## Visualization tools
+* https://d3js.org/
+* http://rawgraphs.io/
+* https://gephi.org/
 
-* TensorFlow
+#### Eve and SUch
+* http://python-eve.org/
+* https://code.tutsplus.com/tutorials/build-an-angularjs-app-from-scratch-powered-by-python-eve--cms-23063
+
+## TensorFlow
 * [NMT Tutorial](https://github.com/tensorflow/nmt)
 
 # Other Modules
