@@ -16,6 +16,11 @@
 * [Gnosis Library](http://gnosis.org/search_form.html)
 
 
+## NLP
+* [Github NLP Topics](https://github.com/topics/nlp)
+* [Github Trending Python](https://github.com/trending/python)
+* [Github Trending Go](https://github.com/trending/go)
+
 # Related Packages
 
 ### Wikipedia Scraping
