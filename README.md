@@ -7,7 +7,7 @@
 
 ## Primary Sources
 * [Sacred Texts Archive](http://www.sacred-texts.com/) - [Local](https://rengu.yoyoweb.com/books/theos/ista09/index.htm)
-* [Early Christianity]() - [Local](https://rengu.yoyoweb.com/books/theos/early_christ/index.htm)
+* [Early Christianity]() - [Local](https://rengu.yoyoweb.com/books/theos/early_christ/index.html)
 * [Early Jewish]() - [Local](https://rengu.yoyoweb.com/books/theos/early_jewish/site/index.html)
 
 ## Other Sources
@@ -23,11 +23,14 @@
 
 # Related Packages
 
+### Key Python Libraries
+* [Gensim](https://radimrehurek.com/gensim/index.html)
+
 ### Wikipedia Scraping
-* (wptools)[https://github.com/siznax/wptools/wiki/Usage]
-* (BeautifulSoup)[https://www.crummy.com/software/BeautifulSoup/bs4/doc/]
-* (Dash)[https://plot.ly/dash/gallery]
-* (spaCy)[https://github.com/JasonKessler/scattertext]
+* [wptools](https://github.com/siznax/wptools/wiki/Usage)
+* [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+* [Dash](https://plot.ly/dash/gallery)
+* [spaCy](https://github.com/JasonKessler/scattertext)
 
 #### Similar Efforts
 * http://lewisandquark.tumblr.com/post/162097037117/ancient-wisdom-from-the-neural-network
