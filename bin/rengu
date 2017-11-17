@@ -4,11 +4,27 @@ import sys
 
 sys.path.append('lib/python')
 import rengu.verse
-from rengu.tools import walk_search,  YamlDumper
+from rengu.tools import normalize, walk_search,  YamlDumper
 
 import cmd
+import wptools
 
+def wiki_page(title):
 
+  page = wptools.page(normalize(title), silent=True, skip=['imageinfo'])
+  try:
+    page.get(timeout=5)
+  except LookupError:
+    return "(error)"
+  except RecursionError:
+    return "(recursion error)"
+  except:
+    return "(timeout error)"
+
+  if page.data['properties'].get('P31') == 'Q4167410':
+    return "(disambiguate)"
+  else:
+    return page.data['label']
 
 def auto_help(func):
   def _help(self):
@@ -90,6 +106,22 @@ class RenguCmd(cmd.Cmd, object):
 
       for t in walk_search('Title', rdoc.get('References', {})):
         print(t)
+
+  @auto_help
+  def do_wikisources(self, line):
+    '''sources
+    dump wikipedia matches for titles referenced in verse files
+    '''
+
+    for f in line.split():
+      rdoc = rengu.verse.load_yaml_file(f)
+
+      for t in walk_search('Title', rdoc.get('Source', {})):
+        print(t, "=>", wiki_page(t))
+
+      for t in walk_search('Title', rdoc.get('References', {})):
+        print(t, "=>", wiki_page(t))
+
       
   @auto_help
   def do_tags(self, line):
