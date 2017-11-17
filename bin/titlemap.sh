@@ -1,5 +1,8 @@
 #!/bin/sh
 
-bin/rengu wikisources verses/* | \
-  sort | uniq \
-  > results/titlemap.txt
+bin/rengu sources verses/* | \
+  grep -v null | \
+  sed -e 's/^ *//' | sed -e 's/"//g' | sed -e 's/,$//' | sed -e 's/\-/ /g' | \
+  sort | uniq | \
+  bin/wikipedia > results/title.map
+

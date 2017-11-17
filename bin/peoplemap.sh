@@ -6,5 +6,5 @@ bin/rengu people verses/* | \
   tr -d '",:' | \
   sed -e 's/[[:space:]][[:space:]]*/ /g' | \
   sort | uniq | \
-  bin/wikipedia > results/peoplemap.txt
+  bin/wikipedia > results/people.map
 

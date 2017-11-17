@@ -21,8 +21,8 @@ def wiki_page(title):
   except:
     return "(timeout error)"
 
-  if page.data['properties'].get('P31') == 'Q4167410':
-    return "(disambiguate)"
+  if page.data['what'] == 'Wikimedia disambiguation page':
+    return page.data['label'] + " (disambiguate)"
   else:
     return page.data['label']
 
