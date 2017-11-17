@@ -1,0 +1,33 @@
+#!/usr/bin/python3
+
+import sys
+import unicodedata
+import wptools
+
+def normalize(input_str):
+  ## Returns a NFKD normalized form of the input string
+  nfkd_form = unicodedata.normalize('NFKD', input_str)
+  return u"".join([c for c in nfkd_form if not unicodedata.combining(c)])
+
+def wiki_page(title):
+
+  page = wptools.page(normalize(title), silent=True, skip=['imageinfo'])
+  try:
+    page.get(timeout=5)
+  except LookupError:
+    return "(error)"
+  except RecursionError:
+    return "(recursion error)"
+  except:
+    return "(timeout error)"
+
+  if page.data['properties'].get('P31') == 'Q4167410':
+    return "(disambiguate)"
+  else:
+    return page.data['label']
+
+if __name__ == '__main__':
+
+  for title in [x.strip() for x in sys.stdin.readlines() ]:
+     print(title, "=>", wiki_page(title))
+
