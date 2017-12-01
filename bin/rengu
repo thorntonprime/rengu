@@ -2,7 +2,7 @@
 
 import sys
 
-sys.path.append('lib/python')
+sys.path.append('')
 import rengu.verse
 from rengu.tools import normalize, walk_search,  YamlDumper
 

@@ -2,7 +2,7 @@
 
 import sys
 
-sys.path.append('lib/python')
+sys.path.append('')
 import rengu.tools
 
 if __name__ == '__main__':
