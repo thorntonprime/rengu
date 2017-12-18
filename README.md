@@ -22,6 +22,7 @@
 * [Github NLP Topics](https://github.com/topics/nlp)
 * [Github Trending Python](https://github.com/trending/python)
 * [Github Trending Go](https://github.com/trending/go)
+* [Deep LEarning Book](http://www.deeplearningbook.org/)
 
 # Related Packages
 
