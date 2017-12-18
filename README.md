@@ -35,6 +35,7 @@
 * [spaCy](https://github.com/JasonKessler/scattertext)
 
 #### Similar Efforts
+* [HyperBible](https://github.com/hypotext/hyperbible)
 * http://lewisandquark.tumblr.com/post/162097037117/ancient-wisdom-from-the-neural-network
 
 #### BRAT - Interactive Text Annotation TOol
@@ -55,6 +56,7 @@
 * https://app.plasticity.ai/#!/signup/signup/login
 * https://github.com/allenai/allennlp
 * https://github.com/vi3k6i5/flashtext
+* https://github.com/faneshion/MatchZoo
 
 ## Visualization tools
 * https://d3js.org/
