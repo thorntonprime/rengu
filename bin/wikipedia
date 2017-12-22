@@ -35,9 +35,17 @@ def wiki_page(title):
 
 if __name__ == '__main__':
 
-  print("|| Title || Match ||")
+  print(" Match | What | Title ")
+  print(" ----- | ---- | ----- ")
 
   for title in [x.strip() for x in sys.stdin.readlines() ]:
      page = wiki_page(title)
-     print("| %s | [%s](%s) |" % (title, page.data.get('label'), page.data.get('url', '')))
+
+     label = page.data.get("label")
+     url = page.data.get("url", "")
+     what = page.data.get("what", "NONE")
+     if type(what) is tuple:
+       what = ','.join(what)
+
+     print("[%s](%s) | %s | %s " % (label, url, what, title))
 
