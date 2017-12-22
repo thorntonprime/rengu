@@ -24,10 +24,6 @@ def wiki_page(title):
     page.data = { 'what': "_error other_" }
     return page
 
-  what = str(page.data.get('what', 'none')).strip()
-  if what == 'Wikimedia disambiguation page':
-    what = "disambiguate"
-
   if not 'label' in page.data:
     page.data = { 'label' : "_error no label_" }
 
@@ -35,8 +31,8 @@ def wiki_page(title):
 
 if __name__ == '__main__':
 
-  print(" Match | What | Title ")
-  print(" ----- | ---- | ----- ")
+  print("Match | What | Title ")
+  print("----- | ---- | ----- ")
 
   for title in [x.strip() for x in sys.stdin.readlines() ]:
      page = wiki_page(title)
@@ -46,6 +42,9 @@ if __name__ == '__main__':
      what = page.data.get("what", "NONE")
      if type(what) is tuple:
        what = ','.join(what)
+     if what == 'Wikimedia disambiguation page':
+       what = "_disambiguate_"
+
 
      print("[%s](%s) | %s | %s " % (label, url, what, title))
 

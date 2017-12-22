@@ -1,5 +1,5 @@
- Match | What | Title 
- ----- | ---- | ----- 
+Match | What | Title 
+----- | ---- | ----- 
 [Nandikeshvara](https://en.wikipedia.org/wiki/Nandikeshvara) | human | Abhinaya Darpana 
 [None]() | _error lookup_ | A Coin Lost in the River Is Found in the River 
 [Acts of the Apostles](https://en.wikipedia.org/wiki/Acts_of_the_Apostles) | religious text | Acts 
@@ -8,7 +8,7 @@
 [Acts of Thomas](https://en.wikipedia.org/wiki/Acts_of_Thomas) | book | Acts of Thomas 
 [Siri Guru Granth Sahib](https://en.wikipedia.org/wiki/Guru_Granth_Sahib) | religious text | Adi Granth 
 [Advayataraka Upanishad](https://en.wikipedia.org/wiki/Advayataraka_Upanishad) | NONE | Advaya Târaka Upanishad 
-[None]() | _error other_ | Aenid 
+[Aeneid](https://en.wikipedia.org/wiki/Aeneid) | epic poem | Aenid 
 [Agamemnon](https://en.wikipedia.org/wiki/Agamemnon) | mythological Greek character | Agamemnon 
 [None]() | _error lookup_ | Aggana Suttanta 
 [Aranyaka](https://en.wikipedia.org/wiki/Aranyaka) | None | Aitareya Aranyaka 
@@ -16,14 +16,14 @@
 [None]() | _error lookup_ | Akaranga Sutra 
 [Alcibiades](https://en.wikipedia.org/wiki/Alcibiades) | human | Alcibiades 
 [None]() | _error lookup_ | Amitâyur Dhyâna Sûtra 
-[Amos](https://en.wikipedia.org/wiki/Amos) | Wikimedia disambiguation page | Amos 
+[Amos](https://en.wikipedia.org/wiki/Amos) | _disambiguate_ | Amos 
 [None]() | _error lookup_ | Anguttara nikâya 
 [None]() | _error lookup_ | An Open Entrance to the Closed Palace of the King 
 [Antony and Cleopatra](https://en.wikipedia.org/wiki/Antony_and_Cleopatra) | play | Antony and Cleopatra 
 [None]() | _error lookup_ | A Panegyrick on the Blessed Virgin Mary 
 [None]() | _error lookup_ | Apastamba Dharma Sutra 
 [None]() | _error lookup_ | Apocalyse of Thomas 
-[Apology](https://en.wikipedia.org/wiki/Apology) | Wikimedia disambiguation page | Apology 
+[Apology](https://en.wikipedia.org/wiki/Apology) | _disambiguate_ | Apology 
 [Arthashastra](https://en.wikipedia.org/wiki/Arthashastra) | literary work | Artha sâstra 
 [None]() | _error lookup_ | Âryatârâbhattârikânâmâshtottarasatakastotra 
 [None]() | _error lookup_ | Aryatârâbhattârikânâmâshtottarasàtakastotra 
@@ -63,9 +63,9 @@
 [None]() | _error lookup_ | Christ in Islâm 
 [None]() | _error lookup_ | Christolero's Epigrams 
 [None]() | _error lookup_ | Chuang tse 
-[Zhuangzi](https://en.wikipedia.org/wiki/Zhuangzi) | Wikimedia disambiguation page | Chuang Tse 
+[Zhuangzi](https://en.wikipedia.org/wiki/Zhuangzi) | _disambiguate_ | Chuang Tse 
 [None]() | _error lookup_ | Cittavisuddhiprakarana 
-[City of God](https://en.wikipedia.org/wiki/City_of_God) | Wikimedia disambiguation page | City of God 
+[City of God](https://en.wikipedia.org/wiki/City_of_God) | _disambiguate_ | City of God 
 [Clementine literature](https://en.wikipedia.org/wiki/Clementine_literature) | ['romance', 'Biblical apocrypha'] | Clementine Homilies 
 [None]() | _error lookup_ | Cold Mountain Poems 
 [None]() | _error lookup_ | Collected French Poems 
@@ -106,17 +106,17 @@
 [Epistle to the Ephesians](https://en.wikipedia.org/wiki/Epistle_to_the_Ephesians) | ['literary work', 'religious text', 'epistle'] | Ephesians 
 [None]() | _error lookup_ | Epistle of Discretion 
 [Eryxias](https://en.wikipedia.org/wiki/Eryxias_(dialogue)) | literary work | Eryxias 
-[Euthydemus](https://en.wikipedia.org/wiki/Euthydemus) | Wikimedia disambiguation page | Euthydemus 
-[Exodus](https://en.wikipedia.org/wiki/Exodus) | Wikimedia disambiguation page | Exodus 
+[Euthydemus](https://en.wikipedia.org/wiki/Euthydemus) | _disambiguate_ | Euthydemus 
+[Exodus](https://en.wikipedia.org/wiki/Exodus) | _disambiguate_ | Exodus 
 [Ezekiel](https://en.wikipedia.org/wiki/Ezekiel) | ['human', 'human biblical figure'] | Ezekiel 
 [None]() | _error lookup_ | Fa Kiu P'i Yu King 
 [None]() | _error lookup_ | First Duino Elegy 
 [None]() | _error lookup_ | Fourth Duino Elegy 
-[Fragment](https://en.wikipedia.org/wiki/Fragment) | Wikimedia disambiguation page | Fragments 
-[Galatians](https://en.wikipedia.org/wiki/Galatians) | Wikimedia disambiguation page | Galatians 
+[Fragment](https://en.wikipedia.org/wiki/Fragment) | _disambiguate_ | Fragments 
+[Galatians](https://en.wikipedia.org/wiki/Galatians) | _disambiguate_ | Galatians 
 [Epistle to the Galatians](https://en.wikipedia.org/wiki/Epistle_to_the_Galatians) | ['literary work', 'epistle'] | Galations 
 [Garuda Purana](https://en.wikipedia.org/wiki/Garuda_Purana) | NONE | Garuda Purana 
-[Genesis](https://en.wikipedia.org/wiki/Genesis) | Wikimedia disambiguation page | Genesis 
+[Genesis](https://en.wikipedia.org/wiki/Genesis) | _disambiguate_ | Genesis 
 [Gorgias](https://en.wikipedia.org/wiki/Gorgias) | human | Gorgias 
 [Gospel of Thomas](https://en.wikipedia.org/wiki/Gospel_of_Thomas) | gospel | Gospel of Thomas 
 [None]() | _error lookup_ | Guhyasamâjatantra 
@@ -148,7 +148,7 @@
 [First Epistle of John](https://en.wikipedia.org/wiki/First_Epistle_of_John) | epistle | I John 
 [None]() | _error lookup_ | Il Convito 
 [None]() | _error lookup_ | In a 12th Century Iranian Poem, a Vision of Solidarity We Need Today 
-[Inferno](https://en.wikipedia.org/wiki/Inferno) | Wikimedia disambiguation page | Inferno 
+[Inferno](https://en.wikipedia.org/wiki/Inferno) | _disambiguate_ | Inferno 
 [None]() | _error lookup_ | Ingwa Sûtra 
 [None]() | _error lookup_ | Interno 
 [ion](https://en.wikipedia.org/wiki/Ion) | ['group of chemical substances', 'first-order metaclass'] | Ion 
@@ -162,24 +162,24 @@
 [None]() | _error lookup_ | IV Ezra 
 [None]() | _error lookup_ | Jaiminiya Upanisad Brâhmana 
 [None]() | _error lookup_ | Jaiminîya Upanisad Brâhmana 
-[James](https://en.wikipedia.org/wiki/James) | Wikimedia disambiguation page | James 
+[James](https://en.wikipedia.org/wiki/James) | _disambiguate_ | James 
 [Jataka tales](https://en.wikipedia.org/wiki/Jataka_tales) | None | Jâtaka 
 [Jeremiah](https://en.wikipedia.org/wiki/Jeremiah) | human biblical figure | Jeremiah 
 [None]() | _error lookup_ | Jetsiin Kahbum, or Life of Milarepa 
 [None]() | _error lookup_ | Jnânasankalini Tantra 
 [job](https://en.wikipedia.org/wiki/Job) | None | Job 
-[Joel](https://en.wikipedia.org/wiki/Joel) | Wikimedia disambiguation page | Joel 
-[John](https://en.wikipedia.org/wiki/John) | Wikimedia disambiguation page | John 
+[Joel](https://en.wikipedia.org/wiki/Joel) | _disambiguate_ | Joel 
+[John](https://en.wikipedia.org/wiki/John) | _disambiguate_ | John 
 [Jonah](https://en.wikipedia.org/wiki/Jonah) | human | Jonah 
 [Joshua](https://en.wikipedia.org/wiki/Joshua) | ['human biblical figure', 'human'] | Joshua 
 [None]() | _error lookup_ | Journal of George Fox 
 [None]() | _error lookup_ | Journey of the Mind to God 
-[Jude](https://en.wikipedia.org/wiki/Jude) | Wikimedia disambiguation page | Jude 
+[Jude](https://en.wikipedia.org/wiki/Jude) | _disambiguate_ | Jude 
 [Julius Caesar](https://en.wikipedia.org/wiki/Julius_Caesar) | human | Julius Ceasar 
 [None]() | _error lookup_ | Just Sitting 
 [None]() | _error lookup_ | Kaishitaki Upanishad 
 [Kama Sutra](https://en.wikipedia.org/wiki/Kama_Sutra) | literary work | Kama Sutra 
-[Kashiwazaki](https://en.wikipedia.org/wiki/Kashiwazaki) | Wikimedia disambiguation page | Kashiwazaki 
+[Kashiwazaki](https://en.wikipedia.org/wiki/Kashiwazaki) | _disambiguate_ | Kashiwazaki 
 [Katha Upanishad](https://en.wikipedia.org/wiki/Katha_Upanishad) | NONE | Katha Upanishad 
 [Kaushitaki Upanishad](https://en.wikipedia.org/wiki/Kaushitaki_Upanishad) | NONE | Kaushitaki Upanishad 
 [Kena Upanishad](https://en.wikipedia.org/wiki/Kena_Upanishad) | NONE | Kena Upanishad 
@@ -247,9 +247,9 @@
 [None]() | _error lookup_ | Manteq al Tayr 
 [Markandeya Purana](https://en.wikipedia.org/wiki/Markandeya_Purana) | NONE | Mârkandeya Purâna 
 [Masnavi](https://en.wikipedia.org/wiki/Masnavi) | poem | Mathnawi 
-[Matthew](https://en.wikipedia.org/wiki/Matthew) | Wikimedia disambiguation page | Matthew 
+[Matthew](https://en.wikipedia.org/wiki/Matthew) | _disambiguate_ | Matthew 
 [Measure for Measure](https://en.wikipedia.org/wiki/Measure_for_Measure) | play | Measure for Measure 
-[Media](https://en.wikipedia.org/wiki/Media) | Wikimedia disambiguation page | Media 
+[Media](https://en.wikipedia.org/wiki/Media) | _disambiguate_ | Media 
 [None]() | _error lookup_ | Memoirs of St Perpetua 
 [memory](https://en.wikipedia.org/wiki/Memory) | biological process | Memories 
 [Meno](https://en.wikipedia.org/wiki/Meno) | book | Meno 
@@ -259,7 +259,7 @@
 [Milinda Pañha](https://en.wikipedia.org/wiki/Milinda_Panha) | ['religious text', 'Buddhist texts'] | Milindapañha 
 [monkey](https://en.wikipedia.org/wiki/Monkey) | common name | Monkey 
 [Mundaka Upanishad](https://en.wikipedia.org/wiki/Mundaka_Upanishad) | NONE | Mundaka Upanishad 
-[Music at Night](https://en.wikipedia.org/wiki/Music_at_Night) | Wikimedia disambiguation page | Music at Night 
+[Music at Night](https://en.wikipedia.org/wiki/Music_at_Night) | _disambiguate_ | Music at Night 
 [Nahum](https://en.wikipedia.org/wiki/Nahum) | human | Nahum 
 [None]() | _error lookup_ | Nârandâ Purânâ 
 [New Poems](https://en.wikipedia.org/wiki/New_Poems) | literary work | New Poems 
@@ -275,14 +275,14 @@
 [None]() | _error lookup_ | Papyrus of Nesi Khonsu 
 [None]() | _error lookup_ | Papyrus of Nu 
 [None]() | _error lookup_ | Papyrus of Paqrer 
-[Paradiso](https://en.wikipedia.org/wiki/Paradiso) | Wikimedia disambiguation page | Paradiso 
+[Paradiso](https://en.wikipedia.org/wiki/Paradiso) | _disambiguate_ | Paradiso 
 [None]() | _error lookup_ | Paschale Praeconium 
 [None]() | _error lookup_ | Patron and Artist 
 [None]() | _error lookup_ | Payasi Suttana 
 [None]() | _error lookup_ | Peaks and Lamas 
 [None]() | _error lookup_ | Perspectives Spirituelles 
 [Phaedo](https://en.wikipedia.org/wiki/Phaedo) | book | Phaedo 
-[Phaedrus](https://en.wikipedia.org/wiki/Phaedrus) | Wikimedia disambiguation page | Phaedrus 
+[Phaedrus](https://en.wikipedia.org/wiki/Phaedrus) | _disambiguate_ | Phaedrus 
 [Philebus](https://en.wikipedia.org/wiki/Philebus) | book | Philebus 
 [Epistle to the Philippians](https://en.wikipedia.org/wiki/Epistle_to_the_Philippians) | ['literary work', 'religious text', 'epistle'] | Philippians 
 [Philokalia](https://en.wikipedia.org/wiki/Philokalia) | literary work | Philokalia 
@@ -298,7 +298,7 @@
 [Psalms](https://en.wikipedia.org/wiki/Psalms) | religious text | Psalms 
 [None]() | _error lookup_ | Pslam 
 [Purgatorio](https://en.wikipedia.org/wiki/Purgatorio) | book | Purgatorio 
-[None]() | _error other_ | Quran 
+[Quran](https://en.wikipedia.org/wiki/Quran) | ['religious text', 'book'] | Quran 
 [Quran](https://en.wikipedia.org/wiki/Quran) | ['religious text', 'book'] | Qu'ran 
 [Quran](https://en.wikipedia.org/wiki/Quran) | ['religious text', 'book'] | Qur'an 
 [Quran](https://en.wikipedia.org/wiki/Quran) | ['religious text', 'book'] | Qur'àn 
@@ -353,14 +353,14 @@
 [None]() | _error lookup_ | Sonnet to Orpheus 
 [Bhagavata Purana](https://en.wikipedia.org/wiki/Bhagavata_Purana) | religious text | Srimad Bhagavatam 
 [statesman](https://en.wikipedia.org/wiki/Statesman) | profession | Statesman 
-[Saint John](https://en.wikipedia.org/wiki/Saint_John) | Wikimedia disambiguation page | St John 
+[Saint John](https://en.wikipedia.org/wiki/Saint_John) | _disambiguate_ | St John 
 [Luke the Evangelist](https://en.wikipedia.org/wiki/Luke_the_Evangelist) | human | St Luke 
 [Mark the Evangelist](https://en.wikipedia.org/wiki/Mark_the_Evangelist) | human | St Mark 
 [Matthew the Apostle](https://en.wikipedia.org/wiki/Matthew_the_Apostle) | ['human', 'human biblical figure'] | St Matthew 
 [None]() | _error lookup_ | Subhâshita Ratna Nidhi 
-[Sukhāvatīvyūha Sūtra](https://en.wikipedia.org/wiki/Sukhāvatīvyūha_Sūtra) | Wikimedia disambiguation page | Sukhâvativyûha Sútra 
-[Sukhāvatīvyūha Sūtra](https://en.wikipedia.org/wiki/Sukhāvatīvyūha_Sūtra) | Wikimedia disambiguation page | Sukhâvativyûha Sûtra 
-[Sukhāvatīvyūha Sūtra](https://en.wikipedia.org/wiki/Sukhāvatīvyūha_Sūtra) | Wikimedia disambiguation page | Sukhâvatîvyûha Sûtra 
+[Sukhāvatīvyūha Sūtra](https://en.wikipedia.org/wiki/Sukhāvatīvyūha_Sūtra) | _disambiguate_ | Sukhâvativyûha Sútra 
+[Sukhāvatīvyūha Sūtra](https://en.wikipedia.org/wiki/Sukhāvatīvyūha_Sūtra) | _disambiguate_ | Sukhâvativyûha Sûtra 
+[Sukhāvatīvyūha Sūtra](https://en.wikipedia.org/wiki/Sukhāvatīvyūha_Sūtra) | _disambiguate_ | Sukhâvatîvyûha Sûtra 
 [None]() | _error lookup_ | Sukranitisâra 
 [None]() | _error lookup_ | Sukranîtisâra 
 [Summis desiderantes affectibus](https://en.wikipedia.org/wiki/Summis_desiderantes_affectibus) | Papal bull | Summis desiderantes affectibus 
@@ -372,22 +372,22 @@
 [Taittiriya Shakha](https://en.wikipedia.org/wiki/Taittiriya_Shakha) | NONE | Taittirîya Samhitâ 
 [Taittiriya Upanishad](https://en.wikipedia.org/wiki/Taittiriya_Upanishad) | NONE | Taittiriya Upanishad 
 [None]() | _error lookup_ | Tale of the Loathly Lady 
-[Talk](https://en.wikipedia.org/wiki/Talk) | Wikimedia disambiguation page | Talks 
+[Talk](https://en.wikipedia.org/wiki/Talk) | _disambiguate_ | Talks 
 [None]() | _error lookup_ | Talks with Sri Ramana Maharshi 
 [Talmud](https://en.wikipedia.org/wiki/Talmud) | religious text | Talmud 
 [Tao Te Ching](https://en.wikipedia.org/wiki/Tao_Te_Ching) | ['literary work', 'Chinese classics'] | Tao Te Ching 
 [None]() | _error lookup_ | Tejo bindu Upanishad 
 [None]() | _error lookup_ | Testament of St Joseph 
 [Acts of John](https://en.wikipedia.org/wiki/Acts_of_John) | Biblical apocrypha | The Acts of John 
-[Theaetetus](https://en.wikipedia.org/wiki/Theaetetus) | Wikimedia disambiguation page | Theaetetus 
+[Theaetetus](https://en.wikipedia.org/wiki/Theaetetus) | _disambiguate_ | Theaetetus 
 [None]() | _error lookup_ | The All Wise Doorkeeper 
 [None]() | _error lookup_ | The Art of Just Sitting   Essential Writings on the Zen Practice of Shikantaza 
-[Theaetetus](https://en.wikipedia.org/wiki/Theaetetus) | Wikimedia disambiguation page | Theatetus 
+[Theaetetus](https://en.wikipedia.org/wiki/Theaetetus) | _disambiguate_ | Theatetus 
 [None]() | _error lookup_ | The Book of Alze 
 [The Book of Hours](https://en.wikipedia.org/wiki/The_Book_of_Hours) | literary work | The Book of Hours 
 [The Book of Images](https://en.wikipedia.org/wiki/The_Book_of_Images) | literary work | The Book of Images 
 [None]() | _error lookup_ | THe Book of Noah 
-[Book of Songs](https://en.wikipedia.org/wiki/Book_of_Songs) | Wikimedia disambiguation page | The Book of Songs 
+[Book of Songs](https://en.wikipedia.org/wiki/Book_of_Songs) | _disambiguate_ | The Book of Songs 
 [None]() | _error lookup_ | The Book of the Craft of Dying 
 [None]() | _error lookup_ | The Children of Fatima 
 [The Cloud of Unknowing](https://en.wikipedia.org/wiki/The_Cloud_of_Unknowing) | book | The Cloud of Unknowing 
@@ -440,7 +440,7 @@
 [None]() | _error lookup_ | The Wonders of the Holy Name 
 [None]() | _error lookup_ | The Zendavesta, Ormazd Yast 
 [None]() | _error lookup_ | Third Duino Elegy 
-[Timaeus](https://en.wikipedia.org/wiki/Timaeus) | Wikimedia disambiguation page | Timaeus 
+[Timaeus](https://en.wikipedia.org/wiki/Timaeus) | _disambiguate_ | Timaeus 
 [time](https://en.wikipedia.org/wiki/Time) | ['scalar physical quantity', 'ISQ base quantity'] | Time 
 [Tripitaka](https://en.wikipedia.org/wiki/Tripiṭaka) | book | Tipitaka 
 [None]() | _error lookup_ | Tiru Aruf Payan 
@@ -454,7 +454,7 @@
 [None]() | _error lookup_ | Unmai Vilakkam 
 [Hero](https://en.wikipedia.org/wiki/Hero_(2009_TV_series)) | television series | Unseen Warfare 
 [None]() | _error lookup_ | Vâkya Padiya 
-[Varṇamālā](https://en.wikipedia.org/wiki/Varṇamālā) | Wikimedia disambiguation page | Varnamala 
+[Varṇamālā](https://en.wikipedia.org/wiki/Varṇamālā) | _disambiguate_ | Varnamala 
 [Vimalakirti Sutra](https://en.wikipedia.org/wiki/Vimalakirti_Sutra) | sutra | Vimalakirti Sutra 
 [None]() | _error lookup_ | Vinava Pitaka, Mahàvagga 
 [Vinaya Pitaka](https://en.wikipedia.org/wiki/Vinaya_Pitaka) | None | Vinaya Pitaka 
@@ -471,9 +471,9 @@
 [None]() | _error lookup_ | Yoga Pradipa 
 [None]() | _error lookup_ | Yoga Shikhâ Upanishad 
 [None]() | _error lookup_ | Yoga Vasishtha 
-[Zechariah](https://en.wikipedia.org/wiki/Zechariah) | Wikimedia disambiguation page | Zechariah 
+[Zechariah](https://en.wikipedia.org/wiki/Zechariah) | _disambiguate_ | Zechariah 
 [None]() | _error lookup_ | Zen Comments on the Mumonkan 
 [Zen in the Art of Archery](https://en.wikipedia.org/wiki/Zen_in_the_Art_of_Archery) | book | Zen in the Art of Archery 
 [Zephaniah](https://en.wikipedia.org/wiki/Zephaniah) | human biblical figure | Zephaniah 
-[Zhuangzi](https://en.wikipedia.org/wiki/Zhuangzi) | Wikimedia disambiguation page | Zhuang Zi 
+[Zhuangzi](https://en.wikipedia.org/wiki/Zhuangzi) | _disambiguate_ | Zhuang Zi 
 [Zohar](https://en.wikipedia.org/wiki/Zohar) | book | Zohar 
