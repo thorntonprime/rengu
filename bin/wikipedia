@@ -15,23 +15,29 @@ def wiki_page(title):
   try:
     page.get(timeout=5)
   except LookupError:
-    return "{error lookup}"
+    page.data = { 'what': "_error lookup_" }
+    return page
   except RecursionError:
-    return "{recursion error recursion}"
+    page.data = { 'what': "_error recusion_" }
+    return page
   except:
-    return "{error timeout}"
+    page.data = { 'what': "_error other_" }
+    return page
 
   what = str(page.data.get('what', 'none')).strip()
   if what == 'Wikimedia disambiguation page':
     what = "disambiguate"
 
   if not 'label' in page.data:
-    return '{error no label}'
+    page.data = { 'label' : "_error no label_" }
 
-  return page.data['label'] + " {" + what + "}"
+  return page
 
 if __name__ == '__main__':
 
+  print("|| Title || Match ||")
+
   for title in [x.strip() for x in sys.stdin.readlines() ]:
-     print(title, "=>", wiki_page(title))
+     page = wiki_page(title)
+     print("| %s | [%s](%s) |" % (title, page.data.get('label'), page.data.get('url', '')))
 
