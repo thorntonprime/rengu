@@ -479,7 +479,7 @@ Match | What | Title
 [Simplicius](https://en.wikipedia.org/wiki/Simplicius) | _disambiguate_ | Simplicius 
 [None]() | _error lookup_ | Sir Henry Wotten 
 [Walter Raleigh](https://en.wikipedia.org/wiki/Walter_Raleigh) | human | Sir Walter Ralegh 
-[None]() | _error lookup_ | Sister Consolata 
+[Consolata Bertone](https://en.wikipedia.org/wiki/Consolata_Betrone) | _error lookup_ | Sister Consolata 
 [Sixtus of Siena](https://en.wikipedia.org/wiki/Sixtus_of_Siena) | human | Sixtus of Siena 
 [None]() | _error lookup_ | Solomon Trismosin 
 [Sophocles](https://en.wikipedia.org/wiki/Sophocles) | human | Sophocles 
