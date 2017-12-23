@@ -1,16 +1,12 @@
 Match | What | Title 
 ----- | ---- | ----- 
-[None]() | _error lookup_ | 0200c883-e38f-4554-92bc-2eba913426b7 
-[None]() | _error lookup_ | 2425aeda-f247-4e39-9af0-6b55a47f5e85 
-[None]() | _error lookup_ | 44cee291-aa4e-44d2-aaaf-e0b9db5221b2 
-[None]() | _error lookup_ | 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd 
-[None]() | _error lookup_ | Abbé Suger of Saint-Denis 
+[Suger](https://en.wikipedia.org/wiki/Suger) | x | Abbé Suger of Saint-Denis 
 [None]() | _error lookup_ | Abbot Lee Lisan 
 [None]() | _error lookup_ | Abbot Mingzing 
 [None]() | _error lookup_ | 'Abd al-'Azîz b. Sulaymân 
 [Abdul-Qadir Gilani](https://en.wikipedia.org/wiki/Abdul-Qadir_Gilani) | human | 'Abd al-Qâdir al-Jîlânî 
 [None]() | _error lookup_ | 'Abd al-Razzâq al-Qashânî 
-[None]() | _error lookup_ | 'Abd al-Wahhâb al-Sha'rânî 
+[Al-Sha'rani](https://en.wikipedia.org/wiki/Al-Sha%60rani) | x | 'Abd al-Wahhâb al-Sha'rânî 
 [Abd as-Salam ibn Mashish al-Alami](https://en.wikipedia.org/wiki/Abd_as-Salam_ibn_Mashish_al-Alami) | human | Abd as-Salâm ibn Mashish 
 [Abraham Abulafia](https://en.wikipedia.org/wiki/Abraham_Abulafia) | human | Abraham Abulafia 
 [None]() | _error lookup_ | Abraham Lambspring 
@@ -22,24 +18,24 @@ Match | What | Title
 [None]() | _error lookup_ | Abu 'l-Fadl Hasan of Sarakhs 
 [None]() | _error lookup_ | Abu 'l-Fadl Muhammad b. al-Hasan al-Khuttali 
 [None]() | _error lookup_ | Abu 'l-Hasan al-Khurqânî 
-[None]() | _error lookup_ | Abu 'l-Husayn al-Nuri 
-[None]() | _error lookup_ | Abu 'l-Husayn al-Nûri 
-[None]() | _error lookup_ | Abu 'l-Husayn al-Nùrî 
-[None]() | _error lookup_ | Abu 'l-Husayn al-Nûrî 
-[None]() | _error lookup_ | Abu'l-Husayn al-Nûrî 
-[None]() | _error lookup_ | Abu 'l-Majdûd b. Âdam Sanâi 
-[None]() | _error lookup_ | Abu 'l-Majdûd b. Âdam Sanâ'î 
-[None]() | _error lookup_ | Abu 'l-Mawâhib ash-Shâdhili 
-[None]() | _error lookup_ | Abu 'l-Qâsim al-'Irâqî 
+[Saint Nuri](https://en.wikipedia.org/wiki/Saint_Nuri) | x | Abu 'l-Husayn al-Nuri 
+[Saint Nuri](https://en.wikipedia.org/wiki/Saint_Nuri) | x | Abu 'l-Husayn al-Nûri 
+[Saint Nuri](https://en.wikipedia.org/wiki/Saint_Nuri) | x | Abu 'l-Husayn al-Nùrî 
+[Saint Nuri](https://en.wikipedia.org/wiki/Saint_Nuri) | x | Abu 'l-Husayn al-Nûrî 
+[Saint Nuri](https://en.wikipedia.org/wiki/Saint_Nuri) | x | Abu'l-Husayn al-Nûrî 
+[Sanai](https://en.wikipedia.org/wiki/Sanai) | x | Abu 'l-Majdûd b. Âdam Sanâi 
+[Sanai](https://en.wikipedia.org/wiki/Sanai) | x | Abu 'l-Majdûd b. Âdam Sanâ'î 
+[Abul Hasan ash-Shadhili](https://en.wikipedia.org/wiki/Abul_Hasan_ash-Shadhili) | ? | Abu 'l-Mawâhib ash-Shâdhili 
+[Al-Simawi](https://en.wikipedia.org/wiki/Al-Simawi) | ? | Abu 'l-Qâsim al-'Irâqî 
 [None]() | _error lookup_ | Abu 'l-Qâsim Bishr-i Yâsîn 
 [Abu Madyan](https://en.wikipedia.org/wiki/Abu_Madyan) | human | Abu Madyan 
 [Abu Madyan](https://en.wikipedia.org/wiki/Abu_Madyan) | human | Abû Madyan 
-[None]() | _error lookup_ | Abu Muhammad Ruwaym 
-[None]() | _error lookup_ | Abû Muhammad Ruwaym 
-[None]() | _error lookup_ | Abu Sa'id ibn Abi 'l-Khayr 
-[None]() | _error lookup_ | Abû Sa'id ibn Abi 'l-Khayr 
-[None]() | _error lookup_ | Abu Sa'îd ibn Abi 'l-Khayr 
-[None]() | _error lookup_ | Abû Sa'îd ibn Abi 'l-Khayr 
+[Ruwaym](https://en.wikipedia.org/wiki/Ruwaym) | x | Abu Muhammad Ruwaym 
+[Ruwaym](https://en.wikipedia.org/wiki/Ruwaym) | x | Abû Muhammad Ruwaym 
+[Abū-Sa'īd Abul-Khayr](https://en.wikipedia.org/wiki/Ab%C5%AB-Sa%27%C4%ABd_Abul-Khayr) | x | Abu Sa'id ibn Abi 'l-Khayr 
+[Abū-Sa'īd Abul-Khayr](https://en.wikipedia.org/wiki/Ab%C5%AB-Sa%27%C4%ABd_Abul-Khayr) | x | Abû Sa'id ibn Abi 'l-Khayr 
+[Abū-Sa'īd Abul-Khayr](https://en.wikipedia.org/wiki/Ab%C5%AB-Sa%27%C4%ABd_Abul-Khayr) | x | Abu Sa'îd ibn Abi 'l-Khayr 
+[Abū-Sa'īd Abul-Khayr](https://en.wikipedia.org/wiki/Ab%C5%AB-Sa%27%C4%ABd_Abul-Khayr) | x | Abû Sa'îd ibn Abi 'l-Khayr 
 [None]() | _error lookup_ | Abu Sulaymân al-Dârânî 
 [None]() | _error lookup_ | Abû Sulaymân al-Dârânî 
 [Abu Talib al-Makki](https://en.wikipedia.org/wiki/Abu_Talib_al-Makki) | human | Abû Tâlib al-Makkî 
@@ -49,13 +45,13 @@ Match | What | Title
 [Adam Zagajewski](https://en.wikipedia.org/wiki/Adam_Zagajewski) | human | Adam Zagajewski 
 [Aeschylus](https://en.wikipedia.org/wiki/Aeschylus) | human | Aeschylus 
 [None]() | _error lookup_ | Ahmad b. 'Âsim al-Antâkî 
-[None]() | _error lookup_ | Ahmad b. 'Isâ al-Kharrâz 
-[None]() | _error lookup_ | Ahmed Et-Tahâwî 
+[Abu Sa'id al-Kharraz](https://en.wikipedia.org/wiki/Abu_Sa%27id_al-Kharraz) | ? | Ahmad b. 'Isâ al-Kharrâz 
+[Al-Tahawi](https://en.wikipedia.org/wiki/Al-Tahawi) | ? | Ahmed Et-Tahâwî 
 [Ananda Coomaraswamy](https://en.wikipedia.org/wiki/Ananda_Coomaraswamy) | human | A. K. Coomaraswamy 
 [None]() | _error lookup_ | Akka Chief 
 [Akka Mahadevi](https://en.wikipedia.org/wiki/Akka_Mahadevi) | human | Akka Mahâdêvî 
 [Alain Daniélou](https://en.wikipedia.org/wiki/Alain_Daniélou) | human | Alain Danielou 
-[None]() | _error lookup_ | Alan Felsenthal 
+[Alan Felsenthal](https://www.poets.org/poetsorg/poet/alan-felsenthal) | poet | Alan Felsenthal 
 [None]() | _error lookup_ | Al-'Arabi al-Hasanî ad-Darqâwî 
 [Albertus Magnus](https://en.wikipedia.org/wiki/Albertus_Magnus) | human | Albertus Magnus 
 [Alcuin](https://en.wikipedia.org/wiki/Alcuin) | human | Alcuin 
@@ -64,10 +60,10 @@ Match | What | Title
 [Al-Ghazali](https://en.wikipedia.org/wiki/Al-Ghazali) | human | al-Ghazâlî 
 [Al-Ghazali](https://en.wikipedia.org/wiki/Al-Ghazali) | human | Al-Ghazâlî 
 [Mansur Al-Hallaj](https://en.wikipedia.org/wiki/Mansur_Al-Hallaj) | human | Al-Hallâj 
-[Ali](https://en.wikipedia.org/wiki/Ali_(name)) | male given name | 'Ali 
-[None]() | _error lookup_ | Al-Kalâbâdhi 
-[None]() | _error lookup_ | Al-Kalâbâdhî 
-[None]() | _error lookup_ | Al-Kâtibi 
+[Ali](https://en.wikipedia.org/wiki/Ali) | x | 'Ali 
+[Abu Bakr al-Kalabadhi](https://en.wikipedia.org/wiki/Abu_Bakr_al-Kalabadhi) | x | Al-Kalâbâdhi 
+[Abu Bakr al-Kalabadhi](https://en.wikipedia.org/wiki/Abu_Bakr_al-Kalabadhi) | x | Al-Kalâbâdhî 
+[Abi ALi Katibi](https://en.wikipedia.org/wiki/Abu_Ali_Katibi) | ? | Al-Kâtibi 
 [Harith al-Muhasibi](https://en.wikipedia.org/wiki/Harith_al-Muhasibi) | human | Al-Muhâsibî 
 [None]() | _error lookup_ | Alphidius 
 [Abd al-Karīm ibn Hawāzin Qushayri](https://en.wikipedia.org/wiki/Al-Qushayri) | human | Al-Qushayri 
@@ -76,29 +72,27 @@ Match | What | Title
 [Abu `Isa Muhammad ibn `Isa at-Tirmidhi](https://en.wikipedia.org/wiki/Al-Tirmidhi) | human | Al-Tirmidhi 
 [None]() | _error lookup_ | Al-Yâfi'î 
 [Amergin](https://en.wikipedia.org/wiki/Amergin) | _disambiguate_ | Amergin 
-[None]() | _error lookup_ | Anagarvajra 
-[None]() | _error lookup_ | Anagavajra 
-[None]() | _error lookup_ | Ananda Moyi 
+[Anandamayi Ma](https://en.wikipedia.org/wiki/Anandamayi_Ma) | x | Ananda Moyi 
 [None]() | _error lookup_ | Anangavajra 
-[None]() | _error lookup_ | Anas b. Mâlik 
+[Malkik ibn Anas](https://en.wikipedia.org/wiki/Malik_ibn_Anas) | x | Anas b. Mâlik 
 [Anaxagoras](https://en.wikipedia.org/wiki/Anaxagoras) | human | Anaxagoras 
 [Angelus Silesius](https://en.wikipedia.org/wiki/Angelus_Silesius) | human | Angelus Silesius 
 [Annie Besant](https://en.wikipedia.org/wiki/Annie_Besant) | human | Annie Besant 
-[Ansari](https://en.wikipedia.org/wiki/Ansari) | _disambiguate_ | Ansari 
-[Ansari](https://en.wikipedia.org/wiki/Ansari) | _disambiguate_ | Ansâri 
-[Ansari](https://en.wikipedia.org/wiki/Ansari) | _disambiguate_ | Ansârî 
+[Khwaja Abdullah Ansari](https://en.wikipedia.org/wiki/Khwaja_Abdullah_Ansari) | x | Ansari 
+[Khwaja Abdullah Ansari](https://en.wikipedia.org/wiki/Khwaja_Abdullah_Ansari) | x | Ansâri 
+[Khwaja Abdullah Ansari](https://en.wikipedia.org/wiki/Khwaja_Abdullah_Ansari) | x | Ansârî 
 [Antisthenes](https://en.wikipedia.org/wiki/Antisthenes) | human | Antisthenes 
 [Apollonius of Tyana](https://en.wikipedia.org/wiki/Apollonius_of_Tyana) | human | Apollonius of Tyana 
 [Apuleius](https://en.wikipedia.org/wiki/Apuleius) | human | Apuleius 
-[Archelaus](https://en.wikipedia.org/wiki/Archelaus) | _disambiguate_ | Archelaos 
+[Archelaus (philosopher)](https://en.wikipedia.org/wiki/Archelaus_(philosopher)) | ? | Archelaos 
 [Archytas](https://en.wikipedia.org/wiki/Archytas) | human | Archytas 
 [Aristotle](https://en.wikipedia.org/wiki/Aristotle) | human | Aristotle 
 [Ashoka](https://en.wikipedia.org/wiki/Ashoka) | human | Asoka 
 [Aśvaghoṣa](https://en.wikipedia.org/wiki/Aśvaghoṣa) | human | Asvaghosha 
-[Attar](https://en.wikipedia.org/wiki/Attar) | _disambiguate_ | Attar 
-[None]() | _error lookup_ | 'Attar 
-[Attar](https://en.wikipedia.org/wiki/Attar) | _disambiguate_ | Attâr 
-[None]() | _error lookup_ | 'Attâr 
+[Attar of Nishapur](https://en.wikipedia.org/wiki/Attar_of_Nishapur) | ? | Attar 
+[Attar of Nishapur](https://en.wikipedia.org/wiki/Attar_of_Nishapur) | ? | 'Attar 
+[Attar of Nishapur](https://en.wikipedia.org/wiki/Attar_of_Nishapur) | ? | Attâr 
+[Attar of Nishapur](https://en.wikipedia.org/wiki/Attar_of_Nishapur) | ? | 'Attâr 
 [Augustin Chaboseau](https://en.wikipedia.org/wiki/Augustin_Chaboseau) | human | Augustin Chaboseau 
 [Avicenna](https://en.wikipedia.org/wiki/Avicenna) | human | Avicenna 
 [None]() | _error lookup_ | Azar Kaivân 
@@ -107,14 +101,14 @@ Match | What | Title
 [None]() | _error lookup_ | Badru'ddin al-Shahid 
 [None]() | _error lookup_ | Baruch Togarmi 
 [Basil Valentine](https://en.wikipedia.org/wiki/Basil_Valentine) | human | Basil Valentine 
-[None]() | _error lookup_ | Bâyazid al Bistâmi 
-[None]() | _error lookup_ | Bâyazid al-Bistâmi 
-[None]() | _error lookup_ | Bâyazîd al-Bistâmi 
-[None]() | _error lookup_ | Bâyazid al-Bistâmî 
-[None]() | _error lookup_ | Bâyazîd al-Bistâmî 
-[Becher](https://en.wikipedia.org/wiki/Becher) | ['Wikimedia disambiguation page', 'family name'] | Becher 
+[Bayazid Bastami](https://en.wikipedia.org/wiki/Bayazid_Bastami) | ? | Bâyazid al Bistâmi 
+[Bayazid Bastami](https://en.wikipedia.org/wiki/Bayazid_Bastami) | ? | Bâyazid al-Bistâmi 
+[Bayazid Bastami](https://en.wikipedia.org/wiki/Bayazid_Bastami) | ? | Bâyazîd al-Bistâmi 
+[Bayazid Bastami](https://en.wikipedia.org/wiki/Bayazid_Bastami) | ? | Bâyazid al-Bistâmî 
+[Bayazid Bastami](https://en.wikipedia.org/wiki/Bayazid_Bastami) | ? | Bâyazîd al-Bistâmî 
+[Johann Joachim Becher](https://en.wikipedia.org/wiki/Johann_Joachim_Becher) | ? | Becher 
 [Benjamin Whichcote](https://en.wikipedia.org/wiki/Benjamin_Whichcote) | human | Benjamin Whichcote 
-[None]() | _error other_ | Ben Zoma 
+[Simeon ben Zoma](https://en.wikipedia.org/wiki/Simeon_ben_Zoma) | x_ | Ben Zoma 
 [Bernard of Chartres](https://en.wikipedia.org/wiki/Bernard_of_Chartres) | human | Bernard de Chartres 
 [Bernard Gui](https://en.wikipedia.org/wiki/Bernard_Gui) | human | Bernard Gui 
 [None]() | _error lookup_ | Bhartrari 
