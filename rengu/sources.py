@@ -1,11 +1,13 @@
 # -*- coding: utf-8 -*-
 
 from pathlib import Path
+
+from rengu.tools import remove_accents
+
 import yaml
 
-from rengu.tools import *
-
 Sources = []
+
 
 def load():
     sources = Path('sources')
@@ -15,6 +17,7 @@ def load():
             if i:
                 i['_uid'] = sfile.name
                 Sources.append(i)
+
 
 def find(name):
     fixed = remove_accents(name)
