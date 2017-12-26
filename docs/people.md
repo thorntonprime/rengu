@@ -52,7 +52,7 @@ Match | What | Title
 [Akka Mahadevi](https://en.wikipedia.org/wiki/Akka_Mahadevi) | human | Akka Mahâdêvî 
 [Alain Daniélou](https://en.wikipedia.org/wiki/Alain_Daniélou) | human | Alain Danielou 
 [Alan Felsenthal](https://www.poets.org/poetsorg/poet/alan-felsenthal) | poet | Alan Felsenthal 
-[None]() | _error lookup_ | Al-'Arabi al-Hasanî ad-Darqâwî 
+[Muhammad al-Arabi al-Darqawi](https://en.wikipedia.org/wiki/Muhammad_al-Arabi_al-Darqawi) | x | Al-'Arabi al-Hasanî ad-Darqâwî 
 [Albertus Magnus](https://en.wikipedia.org/wiki/Albertus_Magnus) | human | Albertus Magnus 
 [Alcuin](https://en.wikipedia.org/wiki/Alcuin) | human | Alcuin 
 [Aldous Huxley](https://en.wikipedia.org/wiki/Aldous_Huxley) | human | Aldous Huxley 
@@ -68,7 +68,7 @@ Match | What | Title
 [None]() | _error lookup_ | Alphidius 
 [Abd al-Karīm ibn Hawāzin Qushayri](https://en.wikipedia.org/wiki/Al-Qushayri) | human | Al-Qushayri 
 [None]() | _error lookup_ | Al-Sarrâj 
-[Suhrawardi](https://en.wikipedia.org/wiki/Suhrawardi) | _disambiguate_ | Al-Suhrawardi 
+[Abu al-Najib Suhrawardi](https://en.wikipedia.org/wiki/Abu_al-Najib_Suhrawardi) | ? | Al-Suhrawardi 
 [Abu `Isa Muhammad ibn `Isa at-Tirmidhi](https://en.wikipedia.org/wiki/Al-Tirmidhi) | human | Al-Tirmidhi 
 [None]() | _error lookup_ | Al-Yâfi'î 
 [Amergin](https://en.wikipedia.org/wiki/Amergin) | _disambiguate_ | Amergin 
