@@ -5,6 +5,7 @@ numeral_map = tuple(zip(
     ('M', 'CM', 'D', 'CD', 'C', 'XC', 'L', 'XL', 'X', 'IX', 'V', 'IV', 'I')
 ))
 
+
 def int_to_roman(i):
     result = []
     for integer, numeral in numeral_map:
@@ -13,6 +14,7 @@ def int_to_roman(i):
         i -= integer * count
     return ''.join(result)
 
+
 def roman_to_int(n):
     i = result = 0
     for integer, numeral in numeral_map:
@@ -20,4 +22,3 @@ def roman_to_int(n):
             result += integer
             i += len(numeral)
     return result
-
