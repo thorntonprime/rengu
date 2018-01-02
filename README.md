@@ -1,7 +1,6 @@
 
 ## Sources
-[YwR](http://rumidays.blogspot.com/2010/12/)
-[YwRilke](http://yearwithrilke.blogspot.com/2011/12/)
+[YwRilke](http://yearwithrilke.blogspot.com/2011/01/)
 
 ## Primary Sources
 * [Sacred Texts Archive](http://www.sacred-texts.com/) - [Local](https://rengu.yoyoweb.com/books/theos/ista09/index.htm)
@@ -16,7 +15,8 @@
 
 ## Transcribed Sources
 * [Treasury](https://rengu.yoyoweb.com/books/Non-Fiction/Perry%20-%20The%20Spiritual%20Ascent.pdf)
-* [YwH](https://rengu.yoyoweb.com/books/Poetry/A%20Year%20with%20Hafiz.pdf)
+* [Year with Rumi](http://rumidays.blogspot.com/2010/12/)
+* [Year with Hafiz](https://rengu.yoyoweb.com/books/Poetry/A%20Year%20with%20Hafiz.pdf)
 
 ## NLP
 * [Github NLP Topics](https://github.com/topics/nlp)
