@@ -8,6 +8,7 @@
 * [Early Jewish]() - [Local](https://rengu.yoyoweb.com/books/theos/early_jewish/site/index.html)
 
 ## Other Sources
+* [Christian Classics Ethereal Library](http://www.ccel.org/)
 * [Chinese Texts](http://ctext.org/)
 * [Divine Comedy](https://en.wikisource.org/wiki/The_Divine_Comedy)
 * [Evagrius](http://www.ldysinger.com/Evagrius/00a_start.htm)
