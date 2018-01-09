@@ -95,10 +95,10 @@ Match | What | Title
 [Attar of Nishapur](https://en.wikipedia.org/wiki/Attar_of_Nishapur) | ? | 'Attâr 
 [Augustin Chaboseau](https://en.wikipedia.org/wiki/Augustin_Chaboseau) | human | Augustin Chaboseau 
 [Avicenna](https://en.wikipedia.org/wiki/Avicenna) | human | Avicenna 
-[None]() | _error lookup_ | Azar Kaivân 
-[None]() | _error lookup_ | 'Aziz ibn Muhammad al-Nasafi 
+[Azar_Kayvan](https://en.wikipedia.org/wiki/Azar_Kayvan) | x | Azar Kaivân 
+[Abu Hafs Umar an-Nasafi](https://en.wikipedia.org/wiki/Abu_Hafs_Umar_an-Nasafi) | x | 'Aziz ibn Muhammad al-Nasafi 
 [Baba Tahir](https://en.wikipedia.org/wiki/Baba_Tahir) | human | Bâbâ Tâhir 
-[None]() | _error lookup_ | Badru'ddin al-Shahid 
+[Abdullah Badruddin](https://en.wikipedia.org/wiki/Abdullah_Badruddin) | x | Badru'ddin al-Shahid 
 [None]() | _error lookup_ | Baruch Togarmi 
 [Basil Valentine](https://en.wikipedia.org/wiki/Basil_Valentine) | human | Basil Valentine 
 [Bayazid Bastami](https://en.wikipedia.org/wiki/Bayazid_Bastami) | ? | Bâyazid al Bistâmi 
@@ -108,7 +108,7 @@ Match | What | Title
 [Bayazid Bastami](https://en.wikipedia.org/wiki/Bayazid_Bastami) | ? | Bâyazîd al-Bistâmî 
 [Johann Joachim Becher](https://en.wikipedia.org/wiki/Johann_Joachim_Becher) | ? | Becher 
 [Benjamin Whichcote](https://en.wikipedia.org/wiki/Benjamin_Whichcote) | human | Benjamin Whichcote 
-[Simeon ben Zoma](https://en.wikipedia.org/wiki/Simeon_ben_Zoma) | x_ | Ben Zoma 
+[Simeon ben Zoma](https://en.wikipedia.org/wiki/Simeon_ben_Zoma) | x | Ben Zoma 
 [Bernard of Chartres](https://en.wikipedia.org/wiki/Bernard_of_Chartres) | human | Bernard de Chartres 
 [Bernard Gui](https://en.wikipedia.org/wiki/Bernard_Gui) | human | Bernard Gui 
 [None]() | _error lookup_ | Bhartrari 
@@ -129,29 +129,29 @@ Match | What | Title
 [Giacomo Casanova](https://en.wikipedia.org/wiki/Giacomo_Casanova) | human | Casanova 
 [None]() | _error lookup_ | Cassianus Eremita 
 [Chaitanya](https://en.wikipedia.org/wiki/Chaitanya) | _disambiguate_ | Chaitanya 
-[None]() | _error lookup_ | Chang Ch'ao 
-[None]() | _error lookup_ | Chang Po-tuan 
-[None]() | _error lookup_ | Chang Yen-yuan 
-[None]() | _error lookup_ | Chang Yen-yüan 
-[None]() | _error lookup_ | Ch'en Chiju 
-[None]() | _error lookup_ | Cheng-chueh 
-[None]() | _error lookup_ | Ch'ên Tzû-ang 
-[None]() | _error lookup_ | Chief Isapwo Muksika Crowfoot 
-[None]() | _error lookup_ | Chief Red Jacket 
+[None](https://en.wikipedia.org/wiki/Zhang_Chao) | _error lookup_ | Chang Ch'ao 
+[Zhang Boduan]() | _error lookup_ | Chang Po-tuan 
+[Zhang Yanyuan](https://en.wikipedia.org/wiki/Zhang_Yanyuan) | x | Chang Yen-yuan 
+[Zhang Yanyuan](https://en.wikipedia.org/wiki/Zhang_Yanyuan) | x | Chang Yen-yüan 
+[Chen Jiru](https://en.wikipedia.org/wiki/Chen_Jiru) | _error lookup_ | Ch'en Chiju 
+[Hongzhi_Zhengju](https://en.wikipedia.org/wiki/Hongzhi_Zhengjue) | x | Cheng-chueh 
+[Chen Zi'ang](https://en.wikipedia.org/wiki/Chen_Zi%27ang) | x | Ch'ên Tzû-ang 
+[Crowfoot](https://en.wikipedia.org/wiki/Crowfoot) | x | Chief Isapwo Muksika Crowfoot 
+[Red Jacket](https://en.wikipedia.org/wiki/Red_Jacket) | x | Chief Red Jacket 
 [Standing Bear](https://en.wikipedia.org/wiki/Standing_Bear) | human | Chief Standing Bear 
 [None]() | _error lookup_ | Chih-k'ai 
 [None]() | _error lookup_ | Chih Kung 
 [Ji Kang](https://en.wikipedia.org/wiki/Ji_Kang) | human | Chi K'ang 
-[None]() | _error lookup_ | Ching Hao 
-[Qingyuan](https://en.wikipedia.org/wiki/Qingyuan) | prefecture-level city | Ch'ing-yüan 
-[None]() | _error lookup_ | Chin Shengt'an 
+[Jing Hao](https://en.wikipedia.org/wiki/Jing_Hao) | x | Ching Hao 
+[Yuan Jing (writer)](https://en.wikipedia.org/wiki/Yuan_Jing_(writer)) | x | Ch'ing-yüan 
+[Jin Shengtan](https://en.wikipedia.org/wiki/Jin_Shengtan) | x | Chin Shengt'an 
 [Chögyam Trungpa](https://en.wikipedia.org/wiki/Chögyam_Trungpa) | human | Chögyam Trungpa Rinpoche 
 [Christopher Columbus](https://en.wikipedia.org/wiki/Christopher_Columbus) | human | Christopher Columbus 
-[None]() | _error lookup_ | Chrysopeia of Cleopatra 
-[None]() | _error lookup_ | Chuang-tse 
+[Cleopatra the Alchemist](https://en.wikipedia.org/wiki/Cleopatra_the_Alchemist) | x | Chrysopeia of Cleopatra 
+[Zhuang Zhou](https://en.wikipedia.org/wiki/Zhuang_Zhou) | x | Chuang-tse 
 [Cicero](https://en.wikipedia.org/wiki/Cicero) | human | Cicero 
 [Clement of Alexandria](https://en.wikipedia.org/wiki/Clement_of_Alexandria) | human | Clement of Alexandria 
-[Coates](https://en.wikipedia.org/wiki/Coates) | _disambiguate_ | Coates 
+[Coates](https://en.wikipedia.org/wiki/Coates) | _disambiguate_ xxxx | Coates 
 [None]() | _error lookup_ | Coates and Ishizuka 
 [Johann Amos Comenius](https://en.wikipedia.org/wiki/John_Amos_Comenius) | human | Comenius 
 [None]() | _error other_ | Confucius 

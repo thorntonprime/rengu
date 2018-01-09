@@ -19,6 +19,9 @@
 * [Year with Rumi](http://rumidays.blogspot.com/2010/12/)
 * [Year with Hafiz](https://rengu.yoyoweb.com/books/Poetry/A%20Year%20with%20Hafiz.pdf)
 
+## Source Specific
+* [Sannya Osho Wiki](http://www.sannyas.wiki/index.php)
+
 ## NLP
 * [Github NLP Topics](https://github.com/topics/nlp)
 * [Github Trending Python](https://github.com/trending/python)

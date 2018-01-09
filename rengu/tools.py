@@ -3,6 +3,8 @@
 import re
 import unicodedata
 
+from ftfy import fix_text
+
 import yaml
 
 numeral_map = tuple(zip(
@@ -48,25 +50,25 @@ def walk_search(match, d):
 
 
 def strip_accents(s):
-    return ''.join(c for c in unicodedata.normalize('NFD', s)
+    return ''.join(c for c in unicodedata.normalize('NFD', fix_text(s))
                    if unicodedata.category(c) != 'Mn')
 
 
 def remove_accents(input_str):
-    nfkd_form = unicodedata.normalize('NFKD', input_str)
+    nfkd_form = unicodedata.normalize('NFKD', fix_text(input_str))
     return u"".join([c for c in nfkd_form if not unicodedata.combining(c)])
 
 
 def normalize(input_str):
     # Returns a NFKD normalized form of the input string
-    nfkd_form = unicodedata.normalize('NFKD', input_str)
+    nfkd_form = unicodedata.normalize('NFKD', fix_text(input_str))
     return u"".join([c for c in nfkd_form if not unicodedata.combining(c)])
 
 
 def mangle(input_str):
     # Returns an all-lower case NFKD normalized version of the input string
     # with all non-alpha characters removed
-    d = unicodedata.normalize('NFKD', input_str).lower()
+    d = unicodedata.normalize('NFKD', fix_text(input_str)).lower()
     return u"".join([c for c in d if unicodedata.category(c) == 'Ll'])
 
 
