@@ -2,8 +2,8 @@
 import cmd
 
 import rengu.verse
+from rengu.tools import YamlDumper, walk_search
 
-from rengu.tools import normalize, walk_search, YamlDumper
 
 def auto_help(func):
     def _help(self):
@@ -43,7 +43,7 @@ class RenguCmd(cmd.Cmd, object):
 
             del rdoc["Body"]
             del rdoc["Lines"]
-            #del rdoc["_id"]
+            # del rdoc["_id"]
 
             # Temporary fix for Description
             month = [
@@ -116,4 +116,3 @@ class RenguCmd(cmd.Cmd, object):
 
             for t in walk_search('Tags', rdoc):
                 print(t)
-
