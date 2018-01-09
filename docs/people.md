@@ -143,7 +143,7 @@ Match | What | Title
 [None]() | _error lookup_ | Chih Kung 
 [Ji Kang](https://en.wikipedia.org/wiki/Ji_Kang) | human | Chi K'ang 
 [Jing Hao](https://en.wikipedia.org/wiki/Jing_Hao) | x | Ching Hao 
-[Yuan Jing (writer)](https://en.wikipedia.org/wiki/Yuan_Jing_(writer)) | x | Ch'ing-yüan 
+[]() | _error lookup_ | Ch'ing-yüan 
 [Jin Shengtan](https://en.wikipedia.org/wiki/Jin_Shengtan) | x | Chin Shengt'an 
 [Chögyam Trungpa](https://en.wikipedia.org/wiki/Chögyam_Trungpa) | human | Chögyam Trungpa Rinpoche 
 [Christopher Columbus](https://en.wikipedia.org/wiki/Christopher_Columbus) | human | Christopher Columbus 
@@ -151,16 +151,16 @@ Match | What | Title
 [Zhuang Zhou](https://en.wikipedia.org/wiki/Zhuang_Zhou) | x | Chuang-tse 
 [Cicero](https://en.wikipedia.org/wiki/Cicero) | human | Cicero 
 [Clement of Alexandria](https://en.wikipedia.org/wiki/Clement_of_Alexandria) | human | Clement of Alexandria 
-[Coates](https://en.wikipedia.org/wiki/Coates) | _disambiguate_ xxxx | Coates 
+[Coates](https://en.wikipedia.org/wiki/Coates) | _disambiguate_ | Coates 
 [None]() | _error lookup_ | Coates and Ishizuka 
 [Johann Amos Comenius](https://en.wikipedia.org/wiki/John_Amos_Comenius) | human | Comenius 
-[None]() | _error other_ | Confucius 
+[Confucius](https://en.wikipedia.org/wiki/Confucius) | x | Confucius 
 [Kumaraswamy](https://en.wikipedia.org/wiki/Kumaraswamy) | family name | Coomaraswamy 
 [Heinrich Cornelius Agrippa](https://en.wikipedia.org/wiki/Heinrich_Cornelius_Agrippa) | human | Cornelius Agrippa 
 [Crito](https://en.wikipedia.org/wiki/Crito) | ['book', 'Platonic dialogue'] | Crito 
 [None]() | _error lookup_ | d28ea2ec-b179-4f6a-923a-bc7e46c7bb2c 
 [Dafydd ap Gwilym](https://en.wikipedia.org/wiki/Dafydd_ap_Gwilym) | human | Dafydd ap Gwilym 
-[None]() | _error lookup_ | Daidôji Yûsan 
+[Daidōji Yūzan](https://en.wikipedia.org/wiki/Daid%C5%8Dji_Y%C5%ABzan) | x | Daidôji Yûsan 
 [None]() | _error lookup_ | Dai-o Kokushi 
 [Daksha](https://en.wikipedia.org/wiki/Daksha) | ['Hindu deity', 'god', 'nature deity'] | Daksha 
 [Damascius](https://en.wikipedia.org/wiki/Damascius) | human | Damascius 
@@ -168,9 +168,9 @@ Match | What | Title
 [Daniel Czepko von Reigersfeld](https://en.wikipedia.org/wiki/Daniel_Czepko_von_Reigersfeld) | human | Daniel von Czepko 
 [Dante Alighieri](https://en.wikipedia.org/wiki/Dante_Alighieri) | human | Dante 
 [None]() | _error lookup_ | De Nuysement 
-[None]() | _error lookup_ | Dhu 'l-Nun 
-[None]() | _error lookup_ | Dhu 'l-Nûn 
-[None]() | _error lookup_ | Diadoch of Photikos 
+[Dhul-Nun al-Misri](https://en.wikipedia.org/wiki/Dhul-Nun_al-Misri) | x | Dhu 'l-Nun 
+[Dhul-Nun al-Misri](https://en.wikipedia.org/wiki/Dhul-Nun_al-Misri) | x | Dhu 'l-Nûn 
+[Diadochos of Photiki](https://en.wikipedia.org/wiki/Diadochos_of_Photiki) | x | Diadoch of Photikos 
 [Diane Ackerman](https://en.wikipedia.org/wiki/Diane_Ackerman) | human | Diane Ackerman 
 [Dio Chrysostom](https://en.wikipedia.org/wiki/Dio_Chrysostom) | human | Dion Chrysostom 
 [Dionysius](https://en.wikipedia.org/wiki/Dionysius) | male given name | Dionysius 
@@ -178,14 +178,14 @@ Match | What | Title
 [Dōgen](https://en.wikipedia.org/wiki/Dōgen) | human | Dôgen 
 [None]() | _error lookup_ | Dôken 
 [None]() | _error lookup_ | e8d8b048-5aec-4b2d-b229-62ee5114a33f 
-[Eckhart](https://en.wikipedia.org/wiki/Eckhart) | _disambiguate_ | Eckhart 
+[Meister Eckhart](https://en.wikipedia.org/wiki/Meister_Eckhart) | x | Eckhart 
 [Edmund Spenser](https://en.wikipedia.org/wiki/Edmund_Spenser) | human | Edmund Spencer 
 [Dōgen](https://en.wikipedia.org/wiki/Dōgen) | human | Eihei Dogen 
 [Eisai](https://en.wikipedia.org/wiki/Eisai) | human | Eisai 
 [Elias Ashmole](https://en.wikipedia.org/wiki/Elias_Ashmole) | human | Elias Ashmole 
 [Emily Dickinson](https://en.wikipedia.org/wiki/Emily_Dickinson) | human | Emily Dickinson 
 [Empedocles](https://en.wikipedia.org/wiki/Empedocles) | human | Empedocles 
-[None]() | _error lookup_ | Eobold Vogelius 
+[None]() | _error lookup_ xxxxxx | Eobold Vogelius 
 [Epictetus](https://en.wikipedia.org/wiki/Epictetus) | human | Epictetus 
 [Eugen Herrigel](https://en.wikipedia.org/wiki/Eugen_Herrigel) | human | Eugen Herrigel 
 [Euripides](https://en.wikipedia.org/wiki/Euripides) | human | Euripides 
