@@ -5,7 +5,9 @@ Source:
   Locus:
     Daily: May 21
   Source:
-    Description: Paris, February 17, 1903
+    Locus:
+      Location: Paris
+      Date: February 17, 1903
     Title: Letters to a Young Poet
 Title: Go into Yourself
 ---
