@@ -116,3 +116,21 @@ class RenguCmd(cmd.Cmd, object):
 
             for t in walk_search('Tags', rdoc):
                 print(t)
+
+    @auto_help
+    def do_loaddb(self, line):
+        '''loaddb
+        Load the YAML files into the blitzdb
+        '''
+
+        import rengu.db.people
+        rengu.db.people.load_all_yaml()
+
+        import rengu.db.sources
+        rengu.db.sources.load_all_yaml()
+
+        import rengu.db.verses
+        rengu.db.verses.load_all_yaml()
+
+
+

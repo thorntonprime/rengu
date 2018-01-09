@@ -3,4 +3,4 @@ results
 **/__pycache__
 *.swp
 .ipynb_*
-db
+/db
