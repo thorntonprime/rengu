@@ -4,7 +4,7 @@ Tradition:
   - Judaism
 Contains:
   - Title: Torah
-    AltTitles:
+    AlternateTitles:
       - The Law
       - The Pentateuch
     Contains:
@@ -25,7 +25,7 @@ Contains:
       - Title: Jeremiah
       - Title: Ezekiel
   - Title: The Minor Prophets
-    AltTitles:
+    AlternateTitles:
       - The Twelve
     Contains:
       - Title: Hosea
