@@ -19,7 +19,6 @@ def load_all_yaml():
     for verse_file in verses_dir.iterdir():
         x = load_yaml_file(str(verse_file))
         v = Verse(x)
-        v.attributes['_id'] = verse_file.name
         v.pk = UUID(verse_file.name).hex
 
         backend.save(v)

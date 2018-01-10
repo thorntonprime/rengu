@@ -7,6 +7,8 @@ import yaml
 
 from blitzdb import Document, FileBackend
 
+from rengu.sources import load_yaml_file
+
 class Source(Document):
     pass
 
@@ -16,11 +18,8 @@ def load_all_yaml():
 
     sources_dir = Path('sources')
     for source_file in sources_dir.iterdir():
-        for x in yaml.load_all(open(source_file).read()):
-            if x:
-                s = Source(x)
-                s.attributes['_id'] = source_file.name
-                s.pk = UUID(source_file.name).hex
+        s = Source(load_yaml_file(str(source_file)))
+        s.pk = UUID(source_file.name).hex
 
         backend.save(s)
 

@@ -7,6 +7,8 @@ import yaml
 
 from blitzdb import Document, FileBackend
 
+from rengu.people import load_yaml_file
+
 class Person(Document):
     pass
 
@@ -16,11 +18,8 @@ def load_all_yaml():
 
     people_dir = Path('people')
     for person_file in people_dir.iterdir():
-        for x in yaml.load_all(open(person_file).read()):
-            if x:
-                p = Person(x)
-                p.attributes['_id'] = person_file.name
-                p.pk = UUID(person_file.name).hex
+        p = Person(load_yaml_file(str(person_file)))
+        p.pk = UUID(person_file.name).hex
 
         backend.save(p)
 

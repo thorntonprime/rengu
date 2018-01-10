@@ -24,3 +24,10 @@ def find(name):
     for p in Sources:
         if fixed in p["Title"]:
             print(p["_uid"])
+
+def load_yaml_file(f):
+
+    for x in yaml.load_all(open(f).read()):
+        if x:
+            return x
+
