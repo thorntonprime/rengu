@@ -131,6 +131,3 @@ class RenguCmd(cmd.Cmd, object):
 
         import rengu.db.verses
         rengu.db.verses.load_all_yaml()
-
-
-

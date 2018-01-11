@@ -1,16 +1,17 @@
 
 from pathlib import Path
-
 from uuid import UUID
-
-import yaml
 
 from blitzdb import Document, FileBackend
 
 from rengu.sources import load_yaml_file
 
+
 class Source(Document):
-    pass
+
+    class Meta(Document.Meta):
+        primary_key = '_id'
+
 
 def load_all_yaml():
 
@@ -18,10 +19,9 @@ def load_all_yaml():
 
     sources_dir = Path('sources')
     for source_file in sources_dir.iterdir():
-        s = Source(load_yaml_file(str(source_file)))
-        s.pk = UUID(source_file.name).hex
+        s = load_yaml_file(str(source_file))
+        s['_id'] = UUID(source_file.name).hex
 
-        backend.save(s)
+        backend.save(Source(s))
 
     backend.commit()
-
