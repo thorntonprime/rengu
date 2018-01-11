@@ -210,8 +210,8 @@ Match | What | Title
 [None]() | _error lookup_ | Giovanni Battista Nazari 
 [Guenon](https://en.wikipedia.org/wiki/Guenon) | taxon | Guenon 
 [Guenon](https://en.wikipedia.org/wiki/Guenon) | taxon | Guénon 
-[Hafiz](https://en.wikipedia.org/wiki/Hafiz) | _disambiguate_ | Hafiz 
-[Hafiz](https://en.wikipedia.org/wiki/Hafiz) | _disambiguate_ | Hâfiz 
+[Hafez](https://en.wikipedia.org/wiki/Hafez) | x | Hafiz 
+[Hafez](https://en.wikipedia.org/wiki/Hafez) | x | Hâfiz 
 [Hakuin Ekaku](https://en.wikipedia.org/wiki/Hakuin_Ekaku) | human | Hakuin 
 [Hakuin Ekaku](https://en.wikipedia.org/wiki/Hakuin_Ekaku) | human | Hakuin Ekaku 
 [Hanshan](https://en.wikipedia.org/wiki/Hanshan) | _disambiguate_ | Han Shan 
@@ -433,8 +433,8 @@ Match | What | Title
 [Rumi](https://en.wikipedia.org/wiki/Rumi) | human | Rûmi 
 [Rumi](https://en.wikipedia.org/wiki/Rumi) | human | Rûmî 
 [John of Ruysbroeck](https://en.wikipedia.org/wiki/John_of_Ruusbroec) | human | Ruysbroeck 
-[Ryokan](https://en.wikipedia.org/wiki/Ryokan) | _disambiguate_ | Ryōkan 
-[None]() | _error lookup_ | Ryôkwan 
+[Ryōkan](https://en.wikipedia.org/wiki/Ry%C5%8Dkan) | x | Ryōkan 
+[Ryōkan](https://en.wikipedia.org/wiki/Ry%C5%8Dkan) | x | Ryôkwan 
 [None]() | _error lookup_ | Ryônin 
 [None]() | _error lookup_ | Safûri 
 [Sahl al-Tustari](https://en.wikipedia.org/wiki/Sahl_al-Tustari) | human | Sahl al-Tustari 
@@ -444,9 +444,9 @@ Match | What | Title
 [Sam Hamill](https://en.wikipedia.org/wiki/Sam_Hamill) | human | Sam Hamill 
 [None]() | _error lookup_ | Samuel ben Kalonymus 
 [Sanatani](https://en.wikipedia.org/wiki/Sanātanī) | religious movement | Sanâtan 
-[None]() | _error lookup_ | Santi-deva 
-[None]() | _error lookup_ | Sánti-deva 
-[None]() | _error lookup_ | Sânti-deva 
+[Shantideva](https://en.wikipedia.org/wiki/Shantideva) | _error lookup_ | Santi-deva 
+[Shantideva](https://en.wikipedia.org/wiki/Shantideva) | _error lookup_ | Sánti-deva 
+[Shantideva](https://en.wikipedia.org/wiki/Shantideva) | _error lookup_ | Sânti-deva 
 [Sappho](https://en.wikipedia.org/wiki/Sappho) | human | Sappho 
 [Saraha](https://en.wikipedia.org/wiki/Saraha) | human | Saraha 
 [Frithjof Schuon](https://en.wikipedia.org/wiki/Frithjof_Schuon) | human | Schuon 
