@@ -5,7 +5,9 @@ Source:
   Locus:
     Daily: September 27
   Source:
-    Description: Viareggio, April 5, 1903
+    Locus:
+      Location: Viareggio
+      Date: April 5, 1903
     Title: Letters to a Young Poet
 Title: The Books You Love
 ---

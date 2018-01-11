@@ -95,7 +95,7 @@ Match | What | Title
 [Attar of Nishapur](https://en.wikipedia.org/wiki/Attar_of_Nishapur) | ? | 'Attâr 
 [Augustin Chaboseau](https://en.wikipedia.org/wiki/Augustin_Chaboseau) | human | Augustin Chaboseau 
 [Avicenna](https://en.wikipedia.org/wiki/Avicenna) | human | Avicenna 
-[Azar_Kayvan](https://en.wikipedia.org/wiki/Azar_Kayvan) | x | Azar Kaivân 
+[Azar Kayvan](https://en.wikipedia.org/wiki/Azar_Kayvan) | x | Azar Kaivân 
 [Abu Hafs Umar an-Nasafi](https://en.wikipedia.org/wiki/Abu_Hafs_Umar_an-Nasafi) | x | 'Aziz ibn Muhammad al-Nasafi 
 [Baba Tahir](https://en.wikipedia.org/wiki/Baba_Tahir) | human | Bâbâ Tâhir 
 [Abdullah Badruddin](https://en.wikipedia.org/wiki/Abdullah_Badruddin) | x | Badru'ddin al-Shahid 
@@ -134,7 +134,7 @@ Match | What | Title
 [Zhang Yanyuan](https://en.wikipedia.org/wiki/Zhang_Yanyuan) | x | Chang Yen-yuan 
 [Zhang Yanyuan](https://en.wikipedia.org/wiki/Zhang_Yanyuan) | x | Chang Yen-yüan 
 [Chen Jiru](https://en.wikipedia.org/wiki/Chen_Jiru) | _error lookup_ | Ch'en Chiju 
-[Hongzhi_Zhengju](https://en.wikipedia.org/wiki/Hongzhi_Zhengjue) | x | Cheng-chueh 
+[Hongzhi Zhengjue](https://en.wikipedia.org/wiki/Hongzhi_Zhengjue) | x | Cheng-chueh 
 [Chen Zi'ang](https://en.wikipedia.org/wiki/Chen_Zi%27ang) | x | Ch'ên Tzû-ang 
 [Crowfoot](https://en.wikipedia.org/wiki/Crowfoot) | x | Chief Isapwo Muksika Crowfoot 
 [Red Jacket](https://en.wikipedia.org/wiki/Red_Jacket) | x | Chief Red Jacket 

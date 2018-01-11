@@ -5,7 +5,9 @@ Source:
   Locus:
     Daily: May 27
   Source:
-    Description: Viareggio, April 23, 1903
+    Locus:
+      Location: Viareggio
+      Date: April 23, 1903
     Title: Letters to a Young Poet
 Title: Patience Is All
 ---

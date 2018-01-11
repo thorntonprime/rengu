@@ -5,7 +5,9 @@ Source:
   Locus:
     Daily: April 23
   Source:
-    Description: Viareggio, April 5, 2903
+    Locus:
+      Location: Viareggio
+      Date: April 5, 2903
     Title: Letters to a Young Poet
 Title: It Will Reveal Itself
 ---
