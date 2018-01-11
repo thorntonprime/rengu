@@ -6,7 +6,9 @@ Source:
   Locus:
     Daily: February 24
   Source:
-    Description: Furnborg, Jonsered, Sweden, November 4, 1904
+    Locus:
+      Location: Furnborg, Jonsered, Sweden
+      Date: November 4, 1904
     Title: Letters to a Young Poet
 Title: Let Life Happen to You
 ---

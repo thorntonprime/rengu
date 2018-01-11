@@ -6,7 +6,9 @@ Source:
   Locus:
     Daily: January 31
   Source:
-    Description: Rome, December 23, 1093
+    Locus:
+      Location: Rome
+      Date: December 23, 1093
     Title: Letters to a Young Poet
 Title: The One Who Is Coming
 ---

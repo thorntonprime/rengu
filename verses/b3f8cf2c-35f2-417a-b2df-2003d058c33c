@@ -5,7 +5,9 @@ Source:
   Locus:
     Daily: September 28
   Source:
-    Description: Rome, October 29, 1903
+    Locus:
+      Location: Rome
+      Date: October 29, 1903
     Title: Letters to a Young Poet
 Title: In Rome
 ---

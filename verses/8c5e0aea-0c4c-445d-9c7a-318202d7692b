@@ -5,7 +5,9 @@ Source:
   Locus:
     Daily: August 2
   Source:
-    Description: Rome, May 14, 1904
+    Locus:
+      Location: Rome
+      Date: May 14, 1904
     Title: Letters to a Young Poet
 Title: Unafraid of What Is Difficult
 ---

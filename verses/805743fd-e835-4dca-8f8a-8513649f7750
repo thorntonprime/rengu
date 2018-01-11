@@ -5,7 +5,9 @@ Source:
   Locus:
     Daily: October 8
   Source:
-    Description: Rome, December 23, 1903
+    Locus:
+      Location: Rome
+      Date: December 23, 1903
     Title: Letters to a Young Poet
 Title: As If God Had Been Lost
 ---

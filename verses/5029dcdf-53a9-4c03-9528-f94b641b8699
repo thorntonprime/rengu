@@ -6,7 +6,9 @@ Source:
   Locus:
     Daily: June 19
   Source:
-    Description: Worpswede, July 16, 1903
+    Locus:
+      Location: Worpswede
+      Date: July 16, 1903
     Title: Letters to a Young Poet
 Title: A Wonderous Knowing of the World
 ---

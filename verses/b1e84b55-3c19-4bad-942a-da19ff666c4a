@@ -5,7 +5,9 @@ Source:
   Locus:
     Daily: February 21
   Source:
-    Description: "Borbeby g\xE4rd, Sweden, August 12, 1904"
+    Locus:
+      Location: Borgeby Gård, Sweden
+      Date: August 12, 1904
     Title: Letters to a Young Poet
 Title: To Trust Our Sadness
 ---

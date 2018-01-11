@@ -7,7 +7,9 @@ Source:
     Daily: December 14
     Page: 348
   Source:
-    Description: Paris, December 26, 1908
+    Locus:
+      Location: Paris
+      Date: December 26, 1908
     Title: Letter to a Young Poet
 Title: Echoing the Ocean's Vastness
 ---

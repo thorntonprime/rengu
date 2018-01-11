@@ -5,7 +5,9 @@ Source:
   Locus:
     Daily: July 15
   Source:
-    Description: Worpswede, July 16, 1903
+    Locus:
+      Location: Worpswede
+      Date: July 16, 1903
     Title: Letters to a Young Poet
 Title: Bodily Delight
 ---

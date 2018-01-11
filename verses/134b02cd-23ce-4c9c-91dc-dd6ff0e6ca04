@@ -5,7 +5,9 @@ Source:
   Locus:
     Daily: April 7
   Source:
-    Description: Worpswede, July 16, 1903
+    Locus:
+      Location: Worpswede
+      Date: July 16, 1903
     Title: Letters to a Young Poet
 Title: Solitude Will Be a Support
 ---
