@@ -12,6 +12,7 @@ class Verse(Document):
 
     class Meta(Document.Meta):
         primary_key = '_id'
+        collection = 'verses'
 
 
 def load_all_yaml():

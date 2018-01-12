@@ -11,6 +11,7 @@ class Source(Document):
 
     class Meta(Document.Meta):
         primary_key = '_id'
+        collection = 'sources'
 
 
 def load_all_yaml():

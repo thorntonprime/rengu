@@ -11,6 +11,7 @@ class Person(Document):
 
     class Meta(Document.Meta):
         primary_key = '_id'
+        collection = 'people'
 
 
 def load_all_yaml():
