@@ -131,3 +131,15 @@ class RenguCmd(cmd.Cmd, object):
 
         import rengu.db.verses
         rengu.db.verses.load_all_yaml()
+
+    @auto_help
+    def do_peoplemap(self, line):
+        '''peoplemap
+        Load people map
+        '''
+
+        import rengu.people
+        people_map = rengu.people.load_people_map()
+
+        import json
+        print(json.dumps(people_map, sort_keys=True, indent=2))

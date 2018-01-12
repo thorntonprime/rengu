@@ -604,9 +604,10 @@ Match | What | Title
 [Zendo](https://en.wikipedia.org/wiki/Zendo) | NONE | Zendo 
 [Zendo](https://en.wikipedia.org/wiki/Zendo) | NONE | Zendô 
 [None]() | _error lookup_ | Zenkai Shibayama 
-[Zhuangzi](https://en.wikipedia.org/wiki/Zhuangzi) | _disambiguate_ | Zhuang Zi 
-[None]() | _error lookup_ | Zhuang-Zi 
+[Zhuang Zhou](https://en.wikipedia.org/wiki/Zhuang_Zhou) | x | Zhuang Zi 
+[Zhuang Zhou](https://en.wikipedia.org/wiki/Zhuang_Zhou) | X | Zhuang-Zi 
 [None]() | _error lookup_ | Zhuyang-Zi 
 [None]() | _error lookup_ | Zimon 
 [Zohar](https://en.wikipedia.org/wiki/Zohar) | book | Zohar 
 [Zoketsu Norman Fischer](https://en.wikipedia.org/wiki/Zoketsu_Norman_Fischer) | human | Zoketsu Norman Fischer 
+[Whitall Perry](https://en.wikipedia.org/wiki/Whitall_Perry) | human | Whitall N. Perry

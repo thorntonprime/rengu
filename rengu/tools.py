@@ -2,6 +2,7 @@
 
 import re
 import unicodedata
+from collections import Iterable
 
 from ftfy import fix_text
 
@@ -95,3 +96,22 @@ def roman_to_int(n):
         return result
     else:
         return float('nan')
+
+
+def flatten(items):
+    """Yield items from any nested iterable; see REF."""
+    for x in items:
+        if isinstance(x, Iterable) and not isinstance(x, (str, bytes)):
+            yield from flatten(x)
+        else:
+            yield x
+
+
+def is_uuid(test):
+    if re.match("[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}",
+                test):
+        return True
+    elif re.match("[0-9a-f]{32}", test):
+        return True
+    else:
+        return False
