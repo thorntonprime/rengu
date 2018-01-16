@@ -15,3 +15,9 @@ echo -n "Rilke "
 grep -l 631057a1-0221-4885-ba61-78b661b62b70 verses/* |
   xargs bin/rengu json | jq -r .Source.Locus.Daily | sort -k 1M -k 2g | tail -4 | head -1
 
+# AYwMerton
+echo -n "Merton "
+grep -l da184f92-f119-42ee-8e45-06ab31cd9624 verses/* |
+  xargs bin/rengu json | jq -r .Source.Locus.Daily | sort -k 1M -k 2g | tail -4 | head -1
+
+
