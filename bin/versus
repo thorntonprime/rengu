@@ -1,0 +1,20 @@
+#!/usr/bin/python3
+
+import sys
+from blitzdb import Document, FileBackend
+from pprint import pprint
+
+sys.path.append('')
+
+from rengu.db.verses import Verse
+
+db = FileBackend("./db")
+
+rumi = db.filter(Verse, {'By': '0200c883-e38f-4554-92bc-2eba913426b7'})
+hafiz = db.filter(Verse, {'By': '6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd'})
+eckhart = db.filter(Verse, {'By': { '$regex' : 'Eckhart' }})
+
+for x in hafiz:
+    for s in x['Lines']:
+      for l in s:
+        print(l)

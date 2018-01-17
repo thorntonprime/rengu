@@ -115,3 +115,21 @@ def is_uuid(test):
         return True
     else:
         return False
+
+
+def flat_out(data, prefix=""):
+
+    if isinstance(data, list):
+        for element in data:
+            flat_out(element, prefix=prefix)
+            print(prefix + " = " + element)
+
+    elif isinstance(data, dict):
+        for key in data:
+            print(prefix + "." + key + " = " + str(data[key]))
+            flat_out(data[key], prefix=prefix +"." + key)
+
+    else:
+        print(prefix + " = " + data)
+        yield prefix + " = " + data
+

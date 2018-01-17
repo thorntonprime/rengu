@@ -17,6 +17,17 @@ class RenguCmd(cmd.Cmd, object):
     prompt = '> '
 
     @auto_help
+    def do_dumpfile(self,line):
+        '''dumpfile
+        dump file in a flat format with dot names
+        '''
+
+        for f in line.split():
+            rdoc = rengu.verse.load_yaml_file(f)
+
+            print(rdoc)
+
+    @auto_help
     def do_json(self, line):
         '''json
         dump verse data in JSON
