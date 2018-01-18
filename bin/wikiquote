@@ -1,0 +1,36 @@
+#!/usr/bin/python3
+
+import wptools
+from pprint import pprint
+import re
+
+
+person='Rumi'
+
+page = wptools.page(person, silent=True, wiki='en.wikiquote.org')
+
+page.get(timeout=5)
+
+
+wikitext = page.data['wikitext']
+
+
+quote = False
+
+for line in wikitext.split('\n'):
+
+  if re.match("^== Quotes ==", line):
+    quote = True
+    continue
+
+  elif re.match("^==", line):
+    quote = False
+    break
+
+  elif quote == True:
+    print(line.strip())
+
+  else:
+    pass
+
+
