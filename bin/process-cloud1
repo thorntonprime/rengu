@@ -1,0 +1,35 @@
+#!/bin/env python3
+
+import re
+
+data = open('processing/cloud.txt', 'r')
+
+re_chapter = re.compile('^Chapter (\d+): (.*)$')
+re_page    = re.compile('(\d+)')
+
+
+chapter = None
+title = None
+page = None
+body = "" 
+
+for line in data.readlines():
+
+    if re_chapter.match(line):
+        new_chapter = str(re_chapter.match(line).group(1))
+
+        if new_chapter != chapter:
+            print(chapter, title, page)
+
+            chapter = new_chapter
+            title = str(re_chapter.match(line).group(2))
+            body = "" 
+
+        continue
+    
+    if chapter and title:
+        body += line
+
+    if re_page.match(line):
+        page = re_page.match(line).group(1)
+

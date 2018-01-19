@@ -20,4 +20,10 @@ echo -n "Merton "
 grep -l da184f92-f119-42ee-8e45-06ab31cd9624 verses/* |
   xargs bin/rengu json | jq -r .Source.Locus.Daily | sort -k 1M -k 2g | tail -4 | head -1
 
+echo -n "Cloud "
+grep -l 937adfe1-da1a-4496-82c5-8061167c097c verses/* |
+  xargs bin/rengu json | jq -r '.Source.Locus.Chapter' | \
+  grep -v null | \
+  msort --line --position 1 --comparison-type numeric --number-system roman --quiet
+
 
