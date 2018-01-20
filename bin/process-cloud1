@@ -1,35 +1,29 @@
 #!/bin/env python3
 
 import re
+from pathlib import Path
 
-data = open('processing/cloud.txt', 'r')
+data = Path('processing/cloud.txt').read_text()
 
-re_chapter = re.compile('^Chapter (\d+): (.*)$')
-re_page    = re.compile('(\d+)')
+pattern = re.compile("""
+    Chapter \s+ (?P<chapter>\d+): \s+ (?P<short_title>.+?) $
+    \s+
+    HERE \s BEGINNETH \s THE [^\n]+ $
+    (?P<title>.+?) \. $
+    """,
+    re.VERBOSE | re.DOTALL | re.MULTILINE )
 
+for m in pattern.finditer(data):
 
-chapter = None
-title = None
-page = None
-body = "" 
-
-for line in data.readlines():
-
-    if re_chapter.match(line):
-        new_chapter = str(re_chapter.match(line).group(1))
-
-        if new_chapter != chapter:
-            print(chapter, title, page)
-
-            chapter = new_chapter
-            title = str(re_chapter.match(line).group(2))
-            body = "" 
-
-        continue
+    chapter = m.group('chapter')
+    short_title = m.group('short_title')
+    title = m.group('title')
     
-    if chapter and title:
-        body += line
-
-    if re_page.match(line):
-        page = re_page.match(line).group(1)
+    if chapter == '18':
+      print("---")
+      print(m.group('chapter'), m.group('short_title'))
+      print()
+      print(m.group('title'))
+      # print(m.group('body'))
+      print()
 
