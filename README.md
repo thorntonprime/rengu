@@ -1,6 +1,8 @@
 
-## Sources
-[YwRilke](http://yearwithrilke.blogspot.com/2011/01/)
+## Processing Sources
+* [Daily Scans](https://drive.google.com/drive/folders/0B89-2Njmo7xgbGgzZnZWMFMtVW8)
+* [YwRilke](http://yearwithrilke.blogspot.com/2011/01/)
+* [Cloud of Unknowing](http://www.ccel.org/ccel/anonymous2/cloud.pdf)
 
 ## Primary Sources
 * [Sacred Texts Archive](http://www.sacred-texts.com/) - [Local](https://rengu.yoyoweb.com/books/theos/ista09/index.htm)
