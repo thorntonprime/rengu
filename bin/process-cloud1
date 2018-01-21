@@ -1,29 +1,111 @@
 #!/bin/env python3
 
 import re
-from pathlib import Path
+import textwrap
 
-data = Path('processing/cloud.txt').read_text()
+f = open('processing/cloud.txt', 'r')
 
-pattern = re.compile("""
-    Chapter \s+ (?P<chapter>\d+): \s+ (?P<short_title>.+?) $
-    \s+
-    HERE \s BEGINNETH \s THE [^\n]+ $
-    (?P<title>.+?) \. $
-    """,
-    re.VERBOSE | re.DOTALL | re.MULTILINE )
 
-for m in pattern.finditer(data):
+chapter = None
+title = None
+body = None
+first_page = 0
+last_page = 0
 
-    chapter = m.group('chapter')
-    short_title = m.group('short_title')
-    title = m.group('title')
-    
-    if chapter == '18':
-      print("---")
-      print(m.group('chapter'), m.group('short_title'))
-      print()
-      print(m.group('title'))
-      # print(m.group('body'))
-      print()
+form = """---
+Title: %(title)s
+Chapter: %(chapter)i
+Page: %(page)s
+---
+%(body)s"""
+
+def output(title, chapter, body, first_page, last_page):
+
+    if chapter != 5:
+        return
+
+    fill = {
+        'chapter': chapter or 0,
+        'title': textwrap.fill(title,70,subsequent_indent='  '),
+        'body': textwrap.fill(body.strip(),75, replace_whitespace=False),
+        'page': pages(first_page, last_page)
+    }   
+
+    print(form % fill)
+
+def pages(first_page, last_page):
+
+    if last_page == 0:
+        return str(first_page)
+    else:
+        return str(first_page) + "=" + str(last_page)
+
+
+for line in f.readlines():
+
+    # Lines to skip
+    m_skip = re.match("^(|HERE BEGINNETH.*)$", line)
+    if m_skip:
+        continue
+
+    # Start a new chapter
+    m_chapter = re.match("^\fChapter (\d+):", line)
+    if m_chapter:
+        new_chapter = int(m_chapter.group(1))
+
+        # Finish an old chapter
+        if chapter != new_chapter:
+            output(title, chapter, body, first_page, last_page)
+
+            first_page = 0
+            last_page = 0
+            title = None
+            body = None
+         
+        chapter = new_chapter
+
+        continue
+        
+    # Start a new page
+    m_page = re.match("^(\d+)$", line)
+    if m_page:
+         new_page = int(m_page.group(1))
+
+         if first_page > 0:
+              last_page = new_page
+              continue
+
+         first_page = new_page
+         continue
+
+    # start a new paragraph
+    m_paragraph = re.match(".{1,70}[.?]\"?\s*$", line)
+
+    if chapter and body == None:
+        
+        if not title:
+            title = line.strip()
+        else:
+            title += " " + line.strip()
+
+        if m_paragraph:
+            body = ""
+
+        continue
+
+    # start of body
+    m_start_body = re.match("^[A-Z ]{2,}.*$", line)
+
+    if chapter and title and m_start_body:
+        # todo: fix case on first words
+        body = line.strip()
+        continue
+
+    if chapter and title and body:
+        
+        if m_paragraph:
+            body += line.strip() + "\n\n"
+        
+        else:
+            body += line.strip() + " "
 
