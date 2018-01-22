@@ -7,9 +7,11 @@ Source:
     ID: ce3f70aa-4448-4cfd-a1b7-4a32eb5e8df0
     Title: I Ching
   Locus:
-    Hexagram: 1 ䷀ Ch'ien
-    Line: 1
     Page: 11
+Hexagram: 1 - ䷀ - Ch'ien
+Locus:
+  Line: 1
+Title: Creativity
 ---
 At the outset, the man is unknown, like a dragon lying hidden. The occasion
 is not yet ripe for his appearance. He is not moved by public opinion and
