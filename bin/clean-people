@@ -1,0 +1,22 @@
+#!/bin/env python3
+
+import sys
+
+sys.path.append('')
+
+import rengu.people
+
+import uuid
+
+# Pass 0 - load old map
+people_map = rengu.people.load_people_map()
+
+
+# pass 1 - load people
+rengu.people.load()
+people = rengu.people.People
+
+# pass 2 - merge map with people
+
+
+# pass 3 - fill people with 

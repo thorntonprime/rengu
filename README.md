@@ -1,7 +1,6 @@
 
 ## Processing Sources
 * [Daily Scans](https://drive.google.com/drive/folders/0B89-2Njmo7xgbGgzZnZWMFMtVW8)
-* [YwRilke](http://yearwithrilke.blogspot.com/2011/01/)
 * [Cloud of Unknowing](http://www.ccel.org/ccel/anonymous2/cloud.pdf)
 
 ## Primary Sources
@@ -17,10 +16,11 @@
 * [Evagrius](http://www.ldysinger.com/Evagrius/00a_start.htm)
 * [Gnosis Library](http://gnosis.org/search_form.html)
 
-## Transcribed Sources
+## Finished Sources
 * [Treasury](https://rengu.yoyoweb.com/books/Non-Fiction/Perry%20-%20The%20Spiritual%20Ascent.pdf)
 * [Year with Rumi](http://rumidays.blogspot.com/2010/12/)
 * [Year with Hafiz](https://rengu.yoyoweb.com/books/Poetry/A%20Year%20with%20Hafiz.pdf)
+* [YwRilke](http://yearwithrilke.blogspot.com/2011/01/)
 
 ## Source Specific
 * [Sannya Osho Wiki](http://www.sannyas.wiki/index.php)
