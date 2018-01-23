@@ -8,15 +8,77 @@ import rengu.people
 
 import uuid
 
+from pprint import pprint
+
+import yaml
+
 # Pass 0 - load old map
 people_map = rengu.people.load_people_map()
 
-
 # pass 1 - load people
 rengu.people.load()
-people = rengu.people.People
+people_load = rengu.people.People
+people = dict( [ (x['Name'], x) for x in people_load ] )
 
 # pass 2 - merge map with people
+for p in people_map:
 
+    if p in people:
+    
+        if people_map[p].get('RealName'):
+            people[people_map[p].get('RealName')] = people[p]
+            del people[p]
+
+        if people_map[p].get('AlternateNames'):
+            add_alt_names = people_map[p].get('AlternateNames')
+            
+            if people[p].get('AlternateNames'):
+                people[p]['AlternateNames'] = list(set(people[p]['AlternateNames']) | set(add_alt_names) )
+            else:
+                people[p]['AlternateNames'] = add_alt_names
+
+        if people_map[p].get('Url'):
+            
+            urls = []
+            if isinstance(people_map[p]['Url'], str):
+                urls = [ people_map[p]['Url'], ]
+            elif isinstance(people_map[p]['Url'], list):
+                urls = people_map[p]['Url']
+            else:
+                print("error with URL on", p)
+                sys.exit()
+
+            if people[p].get('Urls'):
+                people[p]['Urls'] = list(set(people[p]['Urls']) | set(urls))
+            else:
+                people[p]['Urls'] = urls
+            
+
+    elif people_map[p].get('AlternateNames'):
+
+        people[p] = people_map[p]
+        people[p]['_id'] = str(uuid.uuid4())
 
 # pass 3 - fill people with 
+
+for p in people:
+
+    i = people[p]['_id']
+    f = open('tmp/' + i, 'w')
+    f.write('---\n')
+
+    data = people[p]
+    data.del('_id')
+
+    f.write(yaml.dump(
+                    rdoc,
+                    Dumper=YamlDumper,
+                    default_flow_style=False,
+                    width=70,
+                    indent=2).strip())
+
+    f.write('---\n')
+
+    f.close()
+
+
