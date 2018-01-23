@@ -5,3 +5,4 @@ results
 *.swp
 .ipynb_*
 /db
+/tmp
