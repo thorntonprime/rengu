@@ -1,15 +1,17 @@
 ---
-Name: Chögyam Trungpa
 AlternateNames:
   - Chogyam Trungpa
-  - Chögyam Trungpa Rinpoche
+  - "Ch\xF6gyam Trungpa Rinpoche"
 Life:
   Born:
     Date: 1940
   Died:
     Date: 1987
+Name: "Ch\xF6gyam Trungpa"
 Tradition:
   - Buddhism
   - Vajrayana
   - Tibetan
+Urls:
+  - "https://en.wikipedia.org/wiki/Ch\xF6gyam_Trungpa"
 ---

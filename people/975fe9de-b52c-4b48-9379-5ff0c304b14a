@@ -1,28 +1,30 @@
 ---
-Name: Laozi
-AlternateNames:
-  - Lao Tzu
-  - Lao Zi
-  - Laotse
-  - 老子
-  - Lǎozǐ
-  - Lao-Tzu
-  - Lao-tze
-  - Lao-tsu
 AlsoKnownAs:
-  - 太上老君
-  - Tàishàng Lǎojūn
+  - "\u592A\u4E0A\u8001\u541B"
+  - "T\xE0ish\xE0ng L\u01CEoj\u016Bn"
   - Li Er
-  - 李耳
-  - Lǐ Ěr
+  - "\u674E\u8033"
+  - "L\u01D0 \u011Ar"
   - Boyang
-  - 伯陽
-  - 伯阳
-  - Bóyáng
+  - "\u4F2F\u967D"
+  - "\u4F2F\u9633"
+  - "B\xF3y\xE1ng"
   - Li Dan
-  - 李聃
-  - Lǐ Dān
+  - "\u674E\u8043"
+  - "L\u01D0 D\u0101n"
+AlternateNames:
+  - "\u8001\u5B50"
+  - Lao-Tzu
+  - Lao Tzu
+  - Laotse
+  - Lao-tsu
+  - Lao-tze
+  - Lao Zi
+  - "L\u01CEoz\u01D0"
+Name: Laozi
 Tradition:
   - Taoism
   - Chinese
+Urls:
+  - https://en.wikipedia.org/wiki/Laozi
 ---

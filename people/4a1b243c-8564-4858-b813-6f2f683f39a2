@@ -1,19 +1,19 @@
 ---
-Name: Dōgen
 AlternateNames:
-  - Eihei Dogen
   - Dogen
-  - Dōgen
-  - Dōgen Zenji
-  - 道元禅師
-  - Dōgen Kigen
-  - 道元希玄
-  - Eihei Dōgen
-  - 永平道元
+  - "D\u014Dgen"
+  - "\u9053\u5143\u5E0C\u7384"
   - Koso Joyo Daishi
-  - 高祖承陽大師
+  - "Eihei D\u014Dgen"
   - Bussho Dento Kokushi
-  - 仏性伝東国師
+  - "\u6C38\u5E73\u9053\u5143"
+  - "\u9AD8\u7956\u627F\u967D\u5927\u5E2B"
+  - Eihei Dogen
+  - "D\u014Dgen Zenji"
+  - "\u4ECF\u6027\u4F1D\u6771\u56FD\u5E2B"
+  - "D\xF4gen"
+  - "\u9053\u5143\u7985\u5E2B"
+  - "D\u014Dgen Kigen"
 Life:
   Birth:
     Date: 1200-Jan-19
@@ -21,6 +21,8 @@ Life:
   Death:
     Date: 1253-Sep-22
     Place: Japan, Kyoto
+Name: "D\u014Dgen"
 Urls:
+  - "https://en.wikipedia.org/wiki/D\u014Dgen"
   - https://en.wikipedia.org/wiki/D%C5%8Dgen
 ---

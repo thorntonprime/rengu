@@ -11,6 +11,7 @@ import uuid
 from pprint import pprint
 
 import yaml
+from rengu.tools import YamlDumper, walk_search
 
 # Pass 0 - load old map
 people_map = rengu.people.load_people_map()
@@ -56,28 +57,32 @@ for p in people_map:
 
     elif people_map[p].get('AlternateNames'):
 
-        people[p] = people_map[p]
-        people[p]['_id'] = str(uuid.uuid4())
+        people[p] = {
+            'Name': p,
+            'AlternateNames': people_map[p]['AlternateNames'],
+            'Urls': [ people_map[p]['Url'], ],
+            '_uid': str(uuid.uuid4())
+        }
 
 # pass 3 - fill people with 
 
 for p in people:
 
-    i = people[p]['_id']
+    i = people[p]['_uid']
     f = open('tmp/' + i, 'w')
     f.write('---\n')
 
     data = people[p]
-    data.del('_id')
+    del data['_uid']
 
     f.write(yaml.dump(
-                    rdoc,
+                    data,
                     Dumper=YamlDumper,
                     default_flow_style=False,
                     width=70,
                     indent=2).strip())
 
-    f.write('---\n')
+    f.write('\n---\n')
 
     f.close()
 

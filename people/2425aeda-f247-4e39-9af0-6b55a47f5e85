@@ -1,16 +1,18 @@
 ---
-Name: Li Bai
 AlternateNames:
-  - Li Po
   - Li Bo
-  - 李白
+  - Li Po
+  - "\u674E\u767D"
 Born:
   Date: 701 CE
   Location: Suiye, Tang Empire
 Died:
   Date: 762 CE
   Location: Dangtu, China
+Name: Li Bai
 Tradition:
   - Chinese
   - Taoism
+Urls:
+  - https://en.wikipedia.org/wiki/Li_Bai
 ---
