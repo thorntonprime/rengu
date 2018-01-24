@@ -11,6 +11,7 @@
 ## Other Sources
 * [Wikiquote](https://en.wikiquote.org/)
 * [Christian Classics Ethereal Library](http://www.ccel.org/)
+* [Poetry Chaikhana](http://www.poetry-chaikhana.com/index.html)
 * [Chinese Texts](http://ctext.org/)
 * [Divine Comedy](https://en.wikisource.org/wiki/The_Divine_Comedy)
 * [Evagrius](http://www.ldysinger.com/Evagrius/00a_start.htm)
