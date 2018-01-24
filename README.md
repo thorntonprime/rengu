@@ -1,6 +1,6 @@
 
 ## Processing Sources
-* [Daily Scans](https://drive.google.com/drive/folders/0B89-2Njmo7xgbGgzZnZWMFMtVW8) [I Ching](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching)
+* [Daily Scans](https://drive.google.com/drive/folders/0B89-2Njmo7xgbGgzZnZWMFMtVW8) - [I Ching](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching)
 * [Cloud of Unknowing](http://www.ccel.org/ccel/anonymous2/cloud.pdf)
 
 ## Primary Sources

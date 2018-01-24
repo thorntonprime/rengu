@@ -17,7 +17,7 @@ class RenguCmd(cmd.Cmd, object):
     prompt = '> '
 
     @auto_help
-    def do_dumpfile(self,line):
+    def do_dumpfile(self, line):
         '''dumpfile
         dump file in a flat format with dot names
         '''
@@ -154,3 +154,12 @@ class RenguCmd(cmd.Cmd, object):
 
         import json
         print(json.dumps(people_map, sort_keys=True, indent=2))
+
+    @auto_help
+    def do_check(self, line):
+        '''check
+        Check all the YAML files
+        '''
+
+        import rengu.check
+        rengu.check.check_verses()

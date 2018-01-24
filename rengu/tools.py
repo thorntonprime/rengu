@@ -127,9 +127,8 @@ def flat_out(data, prefix=""):
     elif isinstance(data, dict):
         for key in data:
             print(prefix + "." + key + " = " + str(data[key]))
-            flat_out(data[key], prefix=prefix +"." + key)
+            flat_out(data[key], prefix=prefix + "." + key)
 
     else:
         print(prefix + " = " + data)
         yield prefix + " = " + data
-

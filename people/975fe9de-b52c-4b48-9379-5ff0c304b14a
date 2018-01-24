@@ -1,5 +1,14 @@
 ---
-AlsoKnownAs:
+AlternateNames:
+  - "\u8001\u5B50"
+  - Lao-Tzu
+  - Lao Tzu
+  - Laotse
+  - Lao-tsu
+  - Lao-tze
+  - Lao-tzu
+  - Lao Zi
+  - "L\u01CEoz\u01D0"
   - "\u592A\u4E0A\u8001\u541B"
   - "T\xE0ish\xE0ng L\u01CEoj\u016Bn"
   - Li Er
@@ -12,15 +21,6 @@ AlsoKnownAs:
   - Li Dan
   - "\u674E\u8043"
   - "L\u01D0 D\u0101n"
-AlternateNames:
-  - "\u8001\u5B50"
-  - Lao-Tzu
-  - Lao Tzu
-  - Laotse
-  - Lao-tsu
-  - Lao-tze
-  - Lao Zi
-  - "L\u01CEoz\u01D0"
 Name: Laozi
 Tradition:
   - Taoism
