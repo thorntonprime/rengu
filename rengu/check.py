@@ -6,20 +6,19 @@ from uuid import UUID
 from blitzdb import FileBackend
 from blitzdb.document import DoesNotExist
 
+from rengu.db.people import Person
+from rengu.db.verses import Verse
 from rengu.tools import is_uuid
 
-from rengu.db.verses import Verse
-from rengu.db.people import Person
 
-def find_person(name):
+def find_person(backend, name):
 
-    backend = FileBackend("./db")
     person = None
 
     # name is actually a UUID
     if (is_uuid(name)):
         try:
-            person = backend.get(Person, { '_id': UUID(name).hex })
+            person = backend.get(Person, {'_id': UUID(name).hex})
         except DoesNotExist:
             person = None
 
@@ -27,20 +26,51 @@ def find_person(name):
 
     # Person is a real name
     try:
-        person = backend.get(Person, { 'Name': name })
+        person = backend.get(Person, {'Name': name})
     except DoesNotExist:
         person = None
 
     # Or maybe an alternate name?
     if not person:
         try:
-            person = backend.filter(Person, { 'AlternateNames': { '$in' : [name] } })[0]
+            person = backend.filter(
+                Person, {'AlternateNames': {'$in': [name]}})[0]
         except IndexError:
             person = None
         except DoesNotExist:
             person = None
 
-    return person 
+    return person
+
+
+def check_By(backend, uid, by):
+
+    if not by:
+        print(uid, "BY_MISSING")
+        return
+
+    if isinstance(by, list):
+        print(uid, "BY_MULTIPLE")
+        for n in by:
+            check_By(backend, uid, n)
+            return
+
+    person = find_person(backend, by)
+
+    if not person:
+        print(uid, "BY_NOMATCH", by)
+
+    elif person.Name != by:
+        print(uid, "BY_NAME", by, "!=", person.Name)
+
+    elif person.Name == by:
+        print(uid, "BY_OK", by)
+
+    else:
+        print(uid, "BY_ERROR", by)
+
+    return
+
 
 def check_verses():
 
@@ -48,26 +78,7 @@ def check_verses():
 
     for verse in backend.filter(Verse, {}):
 
-        # Check By line
-        if verse.get('By'):
+        uid = str(UUID(verse.pk))
 
-            if isinstance(verse['By'], list):
-                print(str(UUID(verse.pk)), verse['By'], " MULTIPLE AUTHORS")
-
-                for p in verse['By']:
-                    person = find_person(p)
-
-                    if person: 
-                        print(str(UUID(verse.pk)), p, " = ", person.Name)
-                    else:
-                        print(str(UUID(verse.pk)), p, " NO MATCH")
-
-            else:
-                person = find_person(verse['By'])
-
-                if person: 
-                    print(str(UUID(verse.pk)), verse['By'], " = ", person.Name)
-                else:
-                    print(str(UUID(verse.pk)), verse['By'], " NO MATCH")
-
-
+        by = verse.get('By')
+        check_By(backend, uid, by)

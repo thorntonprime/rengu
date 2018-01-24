@@ -1,0 +1,76 @@
+#!/usr/bin/python3
+
+import sys
+import unicodedata
+import wptools
+import uuid
+import yaml
+
+sys.path.append('')
+from rengu.tools import YamlDumper, walk_search
+
+
+def normalize(input_str):
+    # Returns a NFKD normalized form of the input string
+    nfkd_form = unicodedata.normalize('NFKD', input_str)
+    return u"".join([c for c in nfkd_form if not unicodedata.combining(c)])
+
+
+def wiki_page(title):
+
+    page = wptools.page(normalize(title), silent=True, skip=['imageinfo'])
+    try:
+        page.get(timeout=5)
+    except LookupError:
+        page.data = {'what': "_error lookup_"}
+        return page
+    except RecursionError:
+        page.data = {'what': "_error recusion_"}
+        return page
+    except:
+        page.data = {'what': "_error other_"}
+        return page
+
+    if not 'label' in page.data:
+        page.data = {'label': "_error no label_"}
+
+    return page
+
+if __name__ == '__main__':
+
+    for title in [x.strip() for x in sys.stdin.readlines()]:
+        page = wiki_page(title)
+
+        label = page.data.get("label")
+        url = page.data.get("url", "")
+        what = page.data.get("what", "NONE")
+        if type(what) is tuple:
+            what = ','.join(what)
+        if what == 'Wikimedia disambiguation page':
+            what = "_disambiguate_"
+
+        if what == 'human':
+
+            uid = str(uuid.uuid4())
+
+            data = {
+                "Name" : label,
+                "URLs" : [ url ]
+            }
+
+            if title != label:
+                data['AlternateNames'] = [ label ]
+
+
+            f = open('tmp/' + uid, 'w')
+
+            f.write("---\n")
+            f.write(
+                yaml.dump(
+                    data,
+                    Dumper=YamlDumper,
+                    default_flow_style=False,
+                    width=70,
+                    indent=2).strip())
+            f.write("\n---\n")
+
