@@ -3,6 +3,7 @@
 cat | \
   fmt -w 80 | \
   awk '{ print $0 " " }' | \
+  sed -e 's/—/ -- /g' | \
   sed -e 's/  */ /g' | \
   sed -e 's/  *\. *\. *\. */ ... /g' | \
   sed -e 's/…/ .../g' | \
