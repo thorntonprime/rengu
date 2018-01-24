@@ -8,7 +8,12 @@ import yaml
 
 sys.path.append('')
 from rengu.tools import YamlDumper, walk_search
+from rengu.check import find_person
 
+from blitzdb import FileBackend
+from blitzdb.document import DoesNotExist
+
+from rengu.db.people import Person
 
 def normalize(input_str):
     # Returns a NFKD normalized form of the input string
@@ -16,9 +21,9 @@ def normalize(input_str):
     return u"".join([c for c in nfkd_form if not unicodedata.combining(c)])
 
 
-def wiki_page(title):
+def wiki_page(name):
 
-    page = wptools.page(normalize(title), silent=True, skip=['imageinfo'])
+    page = wptools.page(normalize(name), silent=True, skip=['imageinfo'])
     try:
         page.get(timeout=5)
     except LookupError:
@@ -38,8 +43,10 @@ def wiki_page(title):
 
 if __name__ == '__main__':
 
-    for title in [x.strip() for x in sys.stdin.readlines()]:
-        page = wiki_page(title)
+    backend = FileBackend("./db")
+
+    for name in [x.strip() for x in sys.stdin.readlines()]:
+        page = wiki_page(name)
 
         label = page.data.get("label")
         url = page.data.get("url", "")
@@ -51,16 +58,36 @@ if __name__ == '__main__':
 
         if what == 'human':
 
-            uid = str(uuid.uuid4())
+            exists = find_person(backend, name)
+            if exists:
+                print("Weird ... I already have" ,name, exists.Name)
+                continue
 
-            data = {
-                "Name" : label,
-                "URLs" : [ url ]
-            }
+            data = find_person(backend, label)
+            if data:
+                data = dict(data)
 
-            if title != label:
-                data['AlternateNames'] = [ label ]
+                uid = str(uuid.UUID(data['_id']))
+                del data['_id']
 
+                if data.get('AlternateNames'):
+                    data['AlternateNames'].append(name)
+                else:
+                    data['AlternateNames'] = [ name ]
+
+            else:
+                uid = str(uuid.uuid4())
+
+                data = {
+                    "Name" : label,
+                    "URLs" : [ url ]
+                }
+
+                if name != label:
+                    data['AlternateNames'] = [ name ]
+
+            # from pprint import pprint
+            # pprint(data)
 
             f = open('tmp/' + uid, 'w')
 
