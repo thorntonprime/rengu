@@ -29,10 +29,9 @@ def wiki_page(title):
 
   return page
 
-if __name__ == '__main__':
 
-  print("Match | What | Title ")
-  print("----- | ---- | ----- ")
+
+def wiki_lookup():
 
   for title in [x.strip() for x in sys.stdin.readlines() ]:
      page = wiki_page(title)
@@ -47,4 +46,31 @@ if __name__ == '__main__':
 
 
      print("[%s](%s) | %s | %s " % (label, url, what, title))
+
+def alternate_names(name):
+
+    from ftfy import fix_text
+    import re
+
+    # Return the name passed first
+    yield name
+
+    yield fix_text(name)
+
+    # next remove all accents
+    nfkd_form = unicodedata.normalize('NFKD', fix_text(name))
+    yield u"".join([c for c in nfkd_form if not unicodedata.combining(c)])
+
+    # Check for titles
+    honorifics = [ "St ", "Saint ", "Abbot ", "Mrs  ", "Doctor ", "The ", "Sir " ]
+    for h in honorifics:
+        if re.search(h, name):
+            yield name.replace(h, "").strip()
+ 
+
+if __name__ == '__main__':
+
+    for name in [x.strip() for x in sys.stdin.readlines() ]:
+        for alt_name in alternate_names(name):
+            print(alt_name)
 
