@@ -26,4 +26,17 @@ grep -l 937adfe1-da1a-4496-82c5-8061167c097c verses/* |
   grep -v null | \
   msort --line --position 1 --comparison-type numeric --number-system roman --quiet
 
+# Man of Many QUalities
+grep -l 503bbcad-73dd-49e6-96a0-bde44020aeb4 verses/* | \
+  xargs bin/rengu json | \
+  jq -r '@text "\(._id) \(.Hexagram)\t\(if .Locus.Line then .Locus.Line else .Locus.Description end)"' | \
+  grep -v null | \
+  sort -k 2
+
+grep -l 503bbcad-73dd-49e6-96a0-bde44020aeb4 verses/* | \
+  xargs bin/rengu json | \
+  jq -r '@text "\(._id) \(.Source.Locus.Hexagram)\t\(if .Source.Locus.Line then .Source.Locus.Line else .Source.Locus.Description end)"' | \
+  grep -v null | \
+  sort -k 2
+
 
