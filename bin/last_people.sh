@@ -24,7 +24,7 @@ echo -n "Cloud "
 grep -l 937adfe1-da1a-4496-82c5-8061167c097c verses/* |
   xargs bin/rengu json | jq -r '.Source.Locus.Chapter' | \
   grep -v null | \
-  msort --line --position 1 --comparison-type numeric --number-system roman --quiet
+  msort --line --position 1 --comparison-type numeric --number-system roman --quiet --suppress-log
 
 # Man of Many QUalities
 grep -l 503bbcad-73dd-49e6-96a0-bde44020aeb4 verses/* | \
