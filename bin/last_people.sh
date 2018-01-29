@@ -39,4 +39,7 @@ grep -l 503bbcad-73dd-49e6-96a0-bde44020aeb4 verses/* | \
   grep -v null | \
   sort -k 2
 
+# Manhae
+grep -l e13d8994-eff6-4830-981a-b30658d44b81 verses/* |
+  xargs bin/rengu json | jq -r '._id + " " + (.Source.Locus.Page | tostring)' | sort -k 2g 
 
