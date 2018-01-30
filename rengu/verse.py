@@ -88,7 +88,6 @@ def load_yaml_file(f):
         del(rdoc['Lines'])
         rdoc['Structure'] = yaml.load(doc)
 
-
     # else mixed format
     else:
         for p in re.split("\n\n", doc):

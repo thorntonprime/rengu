@@ -19,6 +19,11 @@ class YamlDumper(yaml.Dumper):
     def increase_indent(self, flow=False, indentless=False):
         return super(YamlDumper, self).increase_indent(flow, False)
 
+#
+# See also https://stackoverflow.com/questions/14962485/\
+#          finding-a-key-recursively-in-a-dictionary
+#
+
 
 def walk_search(match, d):
     '''walk_search( key to find, dictonary)

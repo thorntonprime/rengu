@@ -8,7 +8,7 @@ from blitzdb.document import DoesNotExist
 
 from rengu.db.people import Person
 from rengu.db.verses import Verse
-from rengu.tools import is_uuid, check_roman
+from rengu.tools import check_roman, is_uuid
 
 
 def find_person(backend, name):
@@ -71,6 +71,7 @@ def check_By(backend, uid, by):
 
     return
 
+
 def check_spelling(uid, cat, text):
     from enchant import DictWithPWL
     from enchant.checker import SpellChecker
@@ -82,9 +83,10 @@ def check_spelling(uid, cat, text):
     for error in checker:
         print(uid, cat + "_SPELL", error.word)
 
+
 def check_format(uid, cat, text):
     import re
-    
+
     # Check for bad capitalization
     for m in re.finditer("[A-Z][A-Z]+", text):
         if not check_roman(m.group(0)):
@@ -99,7 +101,7 @@ def check_verses():
 
         uid = str(UUID(verse.pk))
 
-        # Check By 
+        # Check By
         by = verse.get('By')
         check_By(backend, uid, by)
 
@@ -111,4 +113,3 @@ def check_verses():
             else:
                 check_format(uid, "TITLE", title)
                 check_spelling(uid, "TITLE", title)
-
