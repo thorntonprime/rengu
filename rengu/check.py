@@ -1,6 +1,7 @@
 # import sys
 # sys.path.append('')
 
+import sys
 from uuid import UUID
 
 from blitzdb import FileBackend
@@ -9,6 +10,13 @@ from blitzdb.document import DoesNotExist
 from rengu.db.people import Person
 from rengu.db.verses import Verse
 from rengu.tools import check_roman, is_uuid
+
+import spacy
+
+
+# Set up globals
+backend = FileBackend("./db")
+nlp = spacy.load('en')
 
 
 def find_person(backend, name):
@@ -64,7 +72,8 @@ def check_By(backend, uid, by):
         print(uid, "BY_NAME", by, "!=", person.Name)
 
     elif person.Name == by:
-        print(uid, "BY_OK", by)
+        pass
+        # print(uid, "BY_OK", by)
 
     else:
         print(uid, "BY_ERROR", by)
@@ -93,23 +102,79 @@ def check_format(uid, cat, text):
             print(uid, cat + "_FORMAT", m.group(0), text)
 
 
+def check_similar_body(uid, body):
+
+    body_doc = nlp(body)
+
+    for other_verse in backend.filter(Verse, {}):
+
+        other_uid = str(UUID(other_verse.pk))
+        if uid == other_uid:
+            continue
+
+        other_body = str(other_verse.get('Body'))
+        if other_body:
+            other_body_doc = nlp(other_body)
+            sim = body_doc.similarity(other_body_doc)
+            if sim > .99:
+                print(uid, "BODY_SIMILAR", sim, other_uid)
+
+
+def check_similar_title(uid, title):
+
+    title_doc = nlp(title)
+
+    for other_verse in backend.filter(Verse, {}):
+
+        other_uid = str(UUID(other_verse.pk))
+        if uid == other_uid:
+            continue
+
+        other_title = str(other_verse.get('Title'))
+        if other_title:
+            other_title_doc = nlp(other_title)
+            sim = title_doc.similarity(other_title_doc)
+            if sim > .99:
+                print(uid, "TITLE_SIMILAR", sim, other_uid)
+
+def check_verse(verse):
+    uid = str(UUID(verse.pk))
+
+    # Check By
+    by = verse.get('By')
+    check_By(backend, uid, by)
+
+    # Check Title
+    title = verse.get('Title')
+    if title:
+        if not isinstance(title, str):
+            print(uid, "TITLE_NOTSTR", title)
+        else:
+            check_format(uid, "TITLE", title)
+            check_spelling(uid, "TITLE", title)
+            # check_similar_title(uid, title)
+
+
+    # Skip body checks for now
+    return
+
+    # Check Body
+    lang = verse.get('Lang')
+    if lang and lang != 'en':
+        print(uid, "LANG_NOTENGLISH", lang)
+
+    body = verse.get('Body')
+    if not body:
+        print(uid, "BODY_MISSING")
+    else:
+        check_format(uid, "BODY", body)
+        check_spelling(uid, "BODY", body)
+        check_similar_body(uid, body)
+
+
 def check_verses():
 
-    backend = FileBackend("./db")
-
     for verse in backend.filter(Verse, {}):
+        check_verse(verse)
+        sys.stdout.flush()
 
-        uid = str(UUID(verse.pk))
-
-        # Check By
-        by = verse.get('By')
-        check_By(backend, uid, by)
-
-        # Check Title
-        title = verse.get('Title')
-        if title:
-            if not isinstance(title, str):
-                print(uid, "TITLE_NOTSTR", title)
-            else:
-                check_format(uid, "TITLE", title)
-                check_spelling(uid, "TITLE", title)
