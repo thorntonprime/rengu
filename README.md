@@ -1,7 +1,6 @@
 
 ## Processing Sources
 * [Daily Scans](https://drive.google.com/drive/folders/0B89-2Njmo7xgbGgzZnZWMFMtVW8) - [I Ching](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching)
-* [Cloud of Unknowing](http://www.ccel.org/ccel/anonymous2/cloud.pdf)
 
 ## Primary Sources
 * [Sacred Texts Archive](http://www.sacred-texts.com/) - [Local](https://rengu.yoyoweb.com/books/theos/ista09/index.htm)
@@ -22,9 +21,13 @@
 * [Year with Rumi](http://rumidays.blogspot.com/2010/12/)
 * [Year with Hafiz](https://rengu.yoyoweb.com/books/Poetry/A%20Year%20with%20Hafiz.pdf)
 * [YwRilke](http://yearwithrilke.blogspot.com/2011/01/)
+* [Cloud of Unknowing](http://www.ccel.org/ccel/anonymous2/cloud.pdf)
 
 ## Source Specific
 * [Sannya Osho Wiki](http://www.sannyas.wiki/index.php)
+
+## Data Tools
+* [Kaggle - Faith and Traditions](https://www.kaggle.com/tags/faith-and-traditions)
 
 ## NLP
 * [Github NLP Topics](https://github.com/topics/nlp)
