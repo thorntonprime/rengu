@@ -1,0 +1,57 @@
+#!/usr/bin/python3
+
+import sys
+
+sys.path.append('')
+
+
+from blitzdb import FileBackend
+from blitzdb.document import DoesNotExist
+
+from rengu.db.verses import Verse
+
+import spacy
+
+from pprint import pprint
+
+backend = FileBackend("./db")
+nlp = spacy.load('en')
+
+
+def find_match(uid, line, n):
+
+    doc = nlp(line)
+
+    for other_verse in backend.filter(Verse, { '_id' : { '$gt' : uid }}):
+        other_n = 0
+        other_uid = other_verse['_id']
+
+        for other_par in other_verse['Lines']:
+            for other_line in other_par[:]:
+                other_n =+ 1
+                other_doc = nlp(other_line)
+                sim = doc.similarity(other_doc)
+
+                if sim > .99:
+                    print(" %s[%i] > %s" % (uid[:8], n, line))
+                    print(" %s[%i] > %s" % (other_uid[:8], other_n, other_line))
+
+                del(other_doc)
+
+    del(doc)
+                
+
+for verse in backend.filter(Verse, {}):
+    n = 0
+    uid = verse['_id']
+
+    print(uid)
+
+    for par in verse['Lines']:
+        for line in par[:]:
+            n =+ 1
+            find_match(uid, line, n)
+
+    print()
+    sys.stdout.flush()
+

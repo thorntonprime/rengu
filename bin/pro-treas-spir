@@ -1,0 +1,48 @@
+#!/usr/bin/python3
+
+import re
+
+input = open("tmp/treasury_spiritual.txt", "r")
+
+page_re = re.compile("^\s*shapeType.*lineWidth\s+\d+\s+([\w ]*).*$")
+
+# verse_re = re.compile("\n(.+\.)\.\.\.[\s\n]+—(.+)\n", re.MULTILINE | re.DOTALL)
+# verse_re = re.compile("\n(.+)\.\.\.\..*\—(.*)\n", re.MULTILINE | re.DOTALL )
+verse_re = re.compile("(.*?)\s*\.\s*\.\s*\.\s*[\-\—\s]+\s*(.*?)\n\n", re.MULTILINE | re.DOTALL )
+
+def process_page(page, page_no, tag):
+    count = 0
+    page += "\n\n\n"
+    for x in verse_re.finditer(page):
+        count += 1
+        verse = re.sub("\s+", " ", x.group(1)).strip()
+        author = re.sub("\s+", " ", x.group(2)).strip()
+        print(" ", author)
+
+    v = len(re.findall("\.\s*\.\s*\.\s+", page, re.DOTALL))
+
+    print("====", page_no, count, v, tag)
+    return count
+
+page = ""
+page_no = 1
+total=0
+tag=""
+
+for line in input.readlines()[446:46432]:
+    m = page_re.match(line)
+
+    if m:
+        tag = m.group(1).strip()
+        count = process_page(page, page_no, tag)
+        if count > 0:
+            page_no += 1
+            total += count
+        page = ""
+
+    else:
+        page += line
+
+process_page(page, page_no, tag)
+print("===", total)
+
