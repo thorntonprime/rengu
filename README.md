@@ -5,7 +5,7 @@
 ## Primary Sources
 * [Sacred Texts Archive](http://www.sacred-texts.com/) - [Local](https://prajna.yoyoweb.com/books/theos/ista09/index.htm)
 * [Early Christianity](http://www.earlychristianwritings.com) - [Local](https://prajna.yoyoweb.com/books/theos/early_christ/index.html)
-* [Early Jewish](ttp://www.earlyjewishwritings.com/) - [Local](https://prajna.yoyoweb.com/books/theos/early_jewish/site/index.html)
+* [Early Jewish](http://www.earlyjewishwritings.com/) - [Local](https://prajna.yoyoweb.com/books/theos/early_jewish/site/index.html)
 
 ## Other Sources
 * [Wikiquote](https://en.wikiquote.org/)
