@@ -89,7 +89,7 @@ if __name__ == '__main__':
             # from pprint import pprint
             # pprint(data)
 
-            f = open('tmp/' + uid, 'w')
+            f = open('output/' + uid, 'w')
 
             f.write("---\n")
             f.write(
