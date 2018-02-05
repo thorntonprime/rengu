@@ -3,9 +3,9 @@
 * [Daily Scans](https://drive.google.com/drive/folders/0B89-2Njmo7xgbGgzZnZWMFMtVW8) - [I Ching](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching)
 
 ## Primary Sources
-* [Sacred Texts Archive](http://www.sacred-texts.com/) - [Local](https://rengu.yoyoweb.com/books/theos/ista09/index.htm)
-* [Early Christianity]() - [Local](https://rengu.yoyoweb.com/books/theos/early_christ/index.html)
-* [Early Jewish]() - [Local](https://rengu.yoyoweb.com/books/theos/early_jewish/site/index.html)
+* [Sacred Texts Archive](http://www.sacred-texts.com/) - [Local](https://prajna.yoyoweb.com/books/theos/ista09/index.htm)
+* [Early Christianity](http://www.earlychristianwritings.com) - [Local](https://prajna.yoyoweb.com/books/theos/early_christ/index.html)
+* [Early Jewish](ttp://www.earlyjewishwritings.com/) - [Local](https://prajna.yoyoweb.com/books/theos/early_jewish/site/index.html)
 
 ## Other Sources
 * [Wikiquote](https://en.wikiquote.org/)

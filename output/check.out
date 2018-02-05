@@ -3831,7 +3831,7 @@
 8fed6116-3e1d-4caa-834e-ae6ba1a95d2a BY_NAME 'Attâr != Attar of Nishapur
 8ffb225c-a9ff-4483-b42a-062d34fc5b32 BY_NAME Al-Kalâbâdhî != Abu Bakr al-Kalabadhi
 900d1b57-e0e5-41ab-a190-feac463f4486 BY_NAME Rûmî != Rumi
-9017abb9-2702-4569-b711-ebbe10982deb BY_NAME Pseudo-Dionysius != Pseudo-Dionysius the Areopagite
+9017abb9-2702-4569-b711-ebbe10982deb BY_NAME Pseudo-Dionysius != Dionysius the Areopagite
 90302313-d97c-4d54-becc-c1f2b36f7405 BY_NAME Hermes != Hermes Trismegistus
 9031a732-d2f8-4355-b0a1-57732409a2a9 BY_MISSING
 90364e64-07f9-4e23-b194-05cd65f4bbf0 BY_MISSING
@@ -6826,5 +6826,28 @@ b856b93f-0167-49c8-a15d-f215667a75ac BY_NAME Manhae != Han Yong-un
 73e3be18-08b5-4b6a-a396-55963f0f6145 BY_NAME Manhae != Han Yong-un
 ef8d4caa-1552-4581-9430-518392fea046 BY_NAME Manhae != Han Yong-un
 3efea307-3b46-4724-b26c-20a03e3d09b3 BY_NAME Manhae != Han Yong-un
-0f69e5f5-021c-4fc0-8ae0-0486baca537a BY_NOMATCH Anne Bradstreet
-e37bcdcb-c207-418b-b0e0-1efe3e230def BY_NOMATCH Anne Bronte
+e37bcdcb-c207-418b-b0e0-1efe3e230def BY_NAME Anne Bronte != Anne Brontë
+09ca4563-9ae0-4e9b-98c9-06aa58230951 BY_NOMATCH Shantidasa
+1f191d58-51d1-4e85-84c5-9c5f61e152c8 BY_NOMATCH Jesus
+1feefc44-6f65-4b53-993f-a2468045e303 BY_NOMATCH Annarnalai Swarni
+24c444bf-83ac-413e-acf5-b10615cb420e BY_NOMATCH Ralph W. Trine
+29766822-4722-4453-b2b1-a580c08b55fb BY_NAME St. Jerome != Jerome
+329c56c9-1094-42dd-8434-1c6a70d7b59e BY_NOMATCH Mohandas Gandhi
+6756305d-3862-4a02-b4d3-7c0f55e77210 BY_NOMATCH Anonymous
+6a679c3b-54a6-4073-9a27-4b5b0361d40a BY_NOMATCH Henry T. Hamblin
+6fbe0216-2c88-404b-a0f6-05f6c52db59a BY_NAME Stephen R. Covey != Stephen Covey
+81fda005-795e-4ba1-9fe0-c4c35f2a4a46 BY_NOMATCH Jean-Paid Sartre
+f6618f2c-713d-4841-a285-d74e42306385 BY_NAME Sivananda != Sivananda Saraswati
+062cd98e-5243-4cc4-a370-968963045d2d BY_NOMATCH Herbert Seibert
+3adb71d7-b405-42ee-b712-e2fc9662e50c BY_NOMATCH William R. Miller
+4e354367-f62e-46ca-add8-4b2860fe2085 BY_NAME Baird Spalding != Baird T. Spalding
+5c090b96-ec53-4ffc-9c94-1d922973140e BY_NAME Charles Haanel != Charles Francis Haanel
+5ea822b2-751c-4cde-b872-d94faae4088a BY_NAME Lao-tzu != Laozi
+699e324b-899d-4864-ac2c-c61d2335075a BY_NAME Emmanuel != Inmanuel
+7a3ab1de-7333-4e0c-baa1-4c4c0d8e8012 BY_NOMATCH Lowell Fillmore
+82413ac4-47a0-4a58-8f1c-a21d054448af BY_NOMATCH Henry T. Hamblin
+9d9ebfcb-0408-40f2-a0b5-96c4543b6ca5 BY_NOMATCH Shantidasa
+a1e8822e-51dd-4be1-b36e-d7ec0a536441 BY_NOMATCH Henry T. Hamblin
+b9459251-1372-4140-aa08-56f7745f2c01 BY_NOMATCH Patricia Sun
+d43cc3a5-56bf-48d8-9330-9acbea3fd758 BY_NOMATCH Ralph W. Trine
+f37ee96f-77ca-4df0-b0c1-a236bac4090b BY_MISSING
