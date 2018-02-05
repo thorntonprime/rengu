@@ -1,3217 +1,3233 @@
-      1   77ie Midrash Tanhama
-      1   Aaron D. Gordon
-      1   Aaron Halevi
-      1   Aaron Stein
-      1   Aaron Wildavsky
-      1   A. A Willits
-      2   Abba Dorotheus
-      1   Abba Evagrins
-      1   Abbe Pierre
-      1   Abbey J. Delille
-      1   Abbot Chapman
-      1   Abbot Lee Lisan
-      1   Abbot Pastor
-      1   Abd-El-Raham
-      1   Abdul Baha
-      1   Abhedananda
-      1   Abigail Adams
-      1   Abigail Van Buren
-      1   Abraham Cowley
-      1   Abraham Hasdai
-      1   Abraham Ibn Esra
-      2   Abraham Ibn Ezra
-      1   Abraham I. Kook
-      3   Abraham J. Heschel
-      3   Abraham Kook
-      1   Abraham L. Feinberg
-      1   Abraham Lhwoln
-     11   Abraham Lincoln
-      4   Abraham Maslow
-      1   Abraham Myerson
-      1   Abu Sa ’id Ibn
-      1   Abu Said ofMineh
-      1   Achille Poincelot
-     15   A Course In Miracles
-      1   Ada ir Lara
-      1   Adair Lara
-      1   Adam Oehlenschlager
-      3   Adam Smith
-      1   Adelaide Bry
-      1   Adele Davis
-      1   Adlai Stevenson
-      1   Adolph Buchler
-      1   Adrian van Kaam
-      1   Adrian van Kaan
-      1   Adrien-Emanuel Roquette
-      1   Adrienne Rich
-      1   A. E. Housman
-      3   Aeschylus
-      9   Aesop
-      3   African proverb
-      2   Agatha Christie
-      1   Agathon
-      3   Agnes Repplier
-      1   Agnes Whistling Elk
-      1   A. Haji
-      1   Ahikar
-      1   Ainsky Meares
-      2   A. J. Cronin
-      1   Akbarali H. Jetha
-      1   Akira Yoshizawa
-      1   Alain Lesage
-      1   Alain LeSage
-      1   Alan Alda
-     14   Alan Cohen
-      1   Alan L. McGinnis
-      1   Alan Loy McGinnis
-      1   Alan Paton
-      7   Alan Watts
-      2   Alan W. Watts
-      1   Albertano of Brescia
-      1   Albert Baines
-      9   Albert Camus
-      3   Albert E. Cliffe
-     39   Albert Einstein
-      1   Albert Ellis
-      1   Albert E. Ribourg
-      1   Albert Guidon
-      1   Albert Rothenberg
-     17   Albert Schweitzer
-      1   Alden James
-     19   Aldous Huxley
-      1   Alexander Bloch
-      1   Alexander Humboldt
-      2   Alexander Maclaren
-      1   Alexander Macleod
-      1   Alexander M. Proudfit
-     15   Alexander Pope
-      2   Alexander Punshon
-      1   Alexander Smith
-      2   Alexander Solzhenitsyn
-      1   Alexander Talleyrand
-      1   Alexander Vinet
-      2   Alexandre Dumas
-      1   Alex Clark
-      7   Alexis Carrel
-      6   Alfred Adler
-      8   Alfred A. Montapert
-      1   Alfred B. Street
-      1   Alfred D’souza
-      1   Alfred E. Housman
-      1   Alfred E. Newman
-      2   Alfred Korzybshi
-      1   Alfred Krebs
-      1   Alfred Lawson
-      8   Alfred L. Tennyson
-      1   Alfred Marshall
-      5   Alfred N. Whitehead
-      1   Alfred ofAievaubc
-      1   Alfred Ulher
-      1   Al-Ghazali
-      1   Al-Ghazzali
-      1   Alice B. Rice
-     25   Alice H. Rice
-      1   Alice Meynell
-      1   Alice Miller
-      1   Allain de Lille
-     24   Allan Kardec
-      1   Allbert Camus
-      1   Allen Funt
-      1   Allen Tucker
-      1   Alma L. Weixelbaum
-      3   Alphonse de Lamartine
-      1   Alphonse Karr
-      4   Alphonsus Liguori
-      1   Al-Tirmidi
-      3   Amar Jyoti
-      1   Amasa L. Stanford
-      1   Amaury de Reincourt
-      1   Amaury de Riencourt
-      2   Amber M. Tuttle
-      1   Ambrose Bierce
-      1   Ambrose Worrall
-      1   Amelia Barr
-      1   Amelia Earhart
-      1   American Indian prayer
-      1   American Indian proverb
-      2   American Indian saying
-      1   Ami S. Swetchine
-      1   Amora Levi
-      5   Amos B. Alcott
-      1   Amos J. Traver
-      1   Amy & Evarts Loomis
-      2   Anais Nin
-      2   Anana
-      1   Anandamayee Ma
-      1   AnandamayiMa
-      3   Anandamayi Ma
-     10   Anatole France
-      1   Ancient Greek parable
-      2   Ancient Greek saying
-      1   Ancient proverb
-      1   Andre Breton
-     11   Andre Gide
-      1   Andre Grodin
-      1   Andre Luiz
-      9   Andre Maurois
-      8   Andrew Carnegie
-      1   Andrew Chapman
-      1   Andrew Hamilton
-      2   Andrew Jackson
-      1   An drew Matthews
-      6   Andrew Matthews
-      1   Andrew Mercer
-      1   Andrew Salter
-      1   Andy Rooney
-      1   Angelique Amauld
-      1   Angel S. Roe
-      3   Angelus Silesius
-      1   A. Nicolas
-      1   Anna B. Jameson
-      4   Anna Brown Lindsay
-      1   Annamalai Sivami
-      1   AnnamalaiSwami
-     26   Annamalai Swami
-      1   Annamalia Swami
-      1   Annarnalai Swarni
-      1   Anne Bradstreet
-      7   Anne Morrow Lindbergh
-      1   Anne Sexton
-      1   Anne Sullivan
-      1   Ann Herbstreith
-      2   Annie Dillard
-      1   Annie Dorsey
-      1   Annie Sullivan
-      1   Ann Liza Bray
-      1   Ann of Austria
-      1   Ann Ruth Schabacker
-      6   Ann S. Swetchine
-    213   Anonymous
-      2   Ansari
-      3   Anthony de Mello
-      1   Anthony G. Greenwald
-      1   Anthony of Padua
-      1   Anthony Padovano
-      6   Anthony Robbins
-      2   Anthony Shaftesbury
-      2   Anthony Storr
-      1   Anthony Trollope
-      1   Antiphanes
-      1   Antishenes
-      1   Antoine de Saint-Exnpery
-      6   Antoine de Saint-Exupery
-      1   Antoine De Saint-Exupery
-      1   Antoine F. D’Olivet
-      1   Antoine Rivarol
-      1   Antoine Saint-Just
-      1   Anton Chekhov
-      1   Antonio Porchia
-      1   Apache Wedding Blessing
-      1   A. P. Gouthey
-      1   AphraBehir
-      1   Apocrypha: Ahikar
-      1   Apocrypha: Aristeas
-      3   Apocrypha: Ben Sira
-      3   Apocrypha: Wisdom of Solomon
-      1   Apollonius of Tyana
-      4   Arabian proverb
-      4   Arabian saying
-      1   Arak Eleazar
-      1   Archer Brown
-      1   Archibald A. Hodge
-      3   Archibald MacLeish
-      3   Archibald Rutledge
-      1   Aristippus
-      2   Aristophanes
-     18   Aristotle
-      1   Arjun
-      2   Arlin C. Hauser
-      1   Arnold A. Hutschnecker
-      2   Arnold Bennett
-      1   Arnold Glasow
-      1   Arnold Lobel
-      1   Arnold Mindell
-      1   Arnold Schoenberg
-      2   Arnold Toynbee
-      1   Artemus Calloway
-      1   Artemus Ward
-      1   Arthur C. Clarke
-      1   Arthur C. Doyle
-      2   Arthur Clutton-Brock
-      1   Arthur Deihman
-      1   Arthur Deikman
-      1   Arthur D. Ficke
-      2   Arthur Eddington
-      2   Arthur E. Yensen
-      2   Arthur Ford
-      3   Arthur Gordon
-      2   Arthur Helps
-      1   Arthur J. Rehrat
-      3   Arthur Keith
-      3   Arthur Koestler
-      1   Arthur Murphy
-      3   Arthur Rubinstein
-      3   Arthur Schnitzler
-     21   Arthur Schopenhauer
-      1   Arthur S. Hardy
-      2   Arthur S. Roche
-      1   Arthur Stanley
-      2   Arthur Trudeau
-      2   Arthur W. Pinero
-      1   Art Lbxkletter
-      1   Arunagirinatha
-      1   Aryeh Kaplan
-      1   Ashley Montagu
-      1   Ashtavakra Gita
-      1   Ashvaghosa
-      1   Ashvaghosha
-     42   A Spiritual Warrior
-      1   Asvaghosa
-      1   Athanasius
-      1   Ationymous
-      1   Attar
-      1   Aubrey P. Andelin
-      1   Auguste Barthelemy
-     31   Augustine
-      1   Augustin Fresnel
-      1   Augusto Roa Bastas
-      3   Augustus & Julius Hare
-      1   August von Schlegel
-      3   Aurobindo
-      1   Aurobindo Ghose
-      1   Ausonius
-      2   Austin O’Malley
-      2   Austin Phelps
-      1   A. V. Deshmane
-      1   Avicenna
-      1   Axel Munthe
-      1   Ayscough
-      1   AzizNasafi
-      1   Aziz Nasifi
-      1   Baal Shem Tov
-      3   Babaji
-      1   Baba Ram Dass
-      1   Babu Rao Patel
-      1   Babylonian Talmud
-      1   Bahaya
-      3   Bahya
-      1   Bahya Ben Asher
-      1   Bahya Ibn Pakuda
-      1   Bahya Ibn Paquda
-     17   Baird Spalding
-      1   Baltasar G. Morales
-      1   Baltasar Gracian
-      1   Baltasar Grecian
-      4   Baltazar Gracian
-      2   Barbara De Angelis
-      1   Barbara Ehrenreich
-      2   Barbara G. Harrison
-      1   Barbara Hansen
-      2   Barbara Harris
-      1   Barbara Tuchman
-      1   Barbara Walters
-      2   Baron de Montesquieu
-     13   Baruch Spinoza
-      1   Basho
-      1   Bassui
-      1   Baudouin I
-      1   Bayard Taylor
-      3   Bayazid al-Bistami
-      1   Bayazid Al-bistami
-      1   Bayezid Bistami
-      3   B. C. Forbes
-      1   Bede Frost
-      1   Beethoven (who was deaf)
-      1   Beilby Porteous
-      1   Bemie Siegal
-      1   Benazir Bhutto
-      1   Benedetto Croce
-      1   Ben Hecht
-      1   Benjamin Cardozo
-      9   Benjamin Disraeli
-     20   Benjamin Franklin
-      1   Benjamin Haydon
-      1   Benjamin Hoadly
-      1   Benjamin I. Mays
-      1   Benjamin Jowett
-      1   Benjamin Leeming
-      1   Benjamin Spock
-      4   Benjamin Whichcote
-      1   Benjamin Whichote
-      1   Ben Johnson
-      2   Ben Jonson
-      1   Ben Sirach
-      1   Ben Weininger
-      1   Ben Zoma
-      1   Bergen Evans
-     10   Bernadette Roberts
-      1   Bernard Baruch
-      1   Bernard de Fontenelle
-      1   Bernard Fontanelle
-      6   Bernard M. Baruch
-      2   Bernard Meltzer
-      1   Bernard of Clairvaux
-      1   Bernard. Rimland
-      1   Bernice Strawn
-      3   Berthold Auerbach
-     22   Bertrand Russell
-      1   Bessie A. Stanley
-      1   Bessie Head
-      1   Betty Friedan
-      3   Betty J. Eadie
-      1   Betty Smith
-      1   B. F. Skinner
-     28   Bhagavad-Gita
-      2   BhagavanDas
-      6   Bhagavan Das
-      2   Bhai Sahib
-      1   Bhartrihari
-      1   Bhikkhu Pesala
-      1   BiasofPriene
-      1   Bias of Priene
-      1   Bill Wilson
-      5   Billy Graham
-      3   Black Elk
-      1   Blackfeather
-      1   Bla ise Pascal
-     28   Blaise Pascal
-      1   Bob Goddard
-      1   Bob Hope
-      1   Bob Morley
-      2   Boethius
-      6   Bo Lozoff
-      2   Bolton Hall
-      1   Bonar Law
-      3   Booker T. Washington
-      2   Boris Pasternak
-      4   Brahmananda
-      1   Brian Adams
-      1   Brian Addiss
-      1   Brilliana Harley
-      2   Brooke Knapp
-      3   Brother Lawrence
-      1   Bruce A. Johnson
-      5   Bruce Barton
-      1   Bruce Laingen
-      1   Bruce Springsteen
-      1   Bruno Geba
-      3   Buckminster Fuller
-      1   Buddhaghosa
-      4   Buddhist saying
-      1   Bud Wilkenson
-      1   Burt Struthers
-      1   Bussy-Rabutin
-      1   C. A. Hall
-      3   C. Alan Anderson
-      1   Calderon
-      3   Calvin Coolidge
-      1   Cameroonian proverb
-      1   Carl Jang
-     21   Carl Jung
-      1   Carl Micholson
-      1   Carlos Castaneda
-      1   Carl Roivan
-      1   Carl Sagan
-      5   Carl Sandburg
-      1   Carl Simonton
-      2   Carl von Clausewitz
-      1   Carl W. Miller
-      1   Carol Chapman
-      1   Caroline Duerr
-      1   Caroline Norton
-      1   Caroline Schroeder
-      1   Carol Sheffield
-      2   Carol Tavris
-      1   Carol W. Parrish-Harra
-      1   Carrie C. Catt
-      1   Carroll Carroll
-      1   Caterina Cibo
-      1   Catharine M. Sedgwick
-      1   Catherine Bauby
-      1   Catherine Marshall
-      1   Catherine M. Sedgwick
-      3   Catherine of Siena
-      2   Catherine Ponder
-      1   Catherine Willoughby
-      1   Catholic prayer
-      2   Cato
-      2   Cato the Elder
-      1   Cavett Robert
-      1   Cecil
-      1   Celio Calgagnini
-      1   Cervantes
-      2   Cesare Lombroso
-      1   C. F. Dole
-      1   Chagdud Tulku
-      1   Chandrasekhara Bharati
-      1   Chang Heng
-      1   Chang Po-tuan
-      1   Channing Poliak
-      3   Charan Singh
-      1   Charles A. Beard
-      1   Charles A. Bennett
-      2   Charles Alleyn
-      4   Charles Baudelaire
-      1   Charles Bennett
-      1   Charles Brower
-      6   Charles Buxton
-      1   Charles Capps
-      1   -Charles C. Colton
-     23   Charles C. Colton
-      1   Charles Churchill
-      1   Charles C. Noble
-      1   Charles C. Thompson
-      1   Charles C. West
-      1   Charles de Bonstetten
-      2   Charles de Gaulle
-      1   Charles de Secondat
-      8   Charles Dickens
-      2   Charles D. Warner
-      1   Charles E. Carman
-      3   Charles E. Jones
-      1   Charles Eliot
-      1   Charles F. Alsop
-      1   Charles F. Dole
-      7   Charles Fillmore
-      2   Charles F. Kettering
-      2   Charles F. Potter
-      3   Charles Haanel
-      1   Charles H. Cooley
-      4   Charles H. Spurgeon
-      1   Charles Johnson
-      1   Charles Kettering
-      8   Charles Kingsley
-      1   Charles Knight
-      2   Charles L. Allen
-      1   Charles Lamb
-      1   Charles L. Eliot
-      1   Charles Lindbergh
-      1   Charles L. Morgan
-      1   Charles Machay
-      1   Charles Machlin
-      1   Charles Mayo
-      4   Charles Montesquieu
-      2   Charles M. Schwab
-      1   Charles Parkhurst
-      1   Charles P. Curtis
-      2   Charles Peguy
-      1   Charles P. Steinmetz
-      1   Charles R. Brown
-      1   Charles R. Gow
-      1   Charles R. Loss
-      1   Charles Rollin
-      1   Charles R. Swindoll
-      1   Charles S. Chaplin
-      1   Charles Secretan
-      2   Charles Simmons
-      1   Charles S. Pearce
-      2   Charles Spurgeon
-      2   Charles Sumner
-      1   Charles Swindoll
-      1   Charles T. Tart
-      2   Charles Wagner
-      1   Charlie W. Shedd
-      1   Charlotte Bronte
-      1   Charlotte Lennox
-      3   Charlotte P. Gilman
-      1   Charlton Ogbum,Jr.
-      1   Chauncey M. Depew
-      8   Cheryl Canfield
-      1   Chester A. Pennington
-      1   Chester Charles
-     11   Chidananda
-      1   Ch idananda
-      2   Chief Seattle
-      1   Chinese parable
-      1   Ch inese proverb
-     27   Chinese proverb
-      1   Chinmoy
-      1   Chogyam Tningpa
-      4   Chogyam Trungpa
-      1   C. H. Parkhurst
-      9   Christian Bovee
-      1   Christian D. Larson
-      1   Christina of Sweden
-      1   Christopher Crunch
-      1   Christopher Morley
-      1   C. H. Spurgeon
-      1   C. H. Teear
-      1   ChuangTse
-     21   Chuang Tse
-      1   Chu Hui Weng
-      1   Chungliang Al Huang
-     34   Cicero
-      1   Cindy Adams
-      1   C. Jeff Miller
-      1   Clara Thompson
-      1   Clarence Darrow
-      1   Clarita de Forceville
-      1   Clark E. Moustakas
-      2   Claude A. Helvetius
-      1   Claude Bernard
-      1   Claude Bristol
-      1   Claude Helvetius
-      1   Claude M. Bristol
-      1   Claude McKay
-      1   Claud H. Foster
-      1   Claudianus
-      1   Clement of Alexandria
-      1   Clement Stone
-      1   Cleveland Amory
-      1   Clifton Fadiman
-      1   Clyde M. Narrimore
-      1   C. Northcote Parkinson
-      1   Colette Dowling
-      1   Colin L. Powell
-      1   Comenius
-      1   Comte de Buffon
-      1   Comte de Rivarol
-      1   Comte de Saint Germaine
-      1   Comtesse de Gasparin
-      1   Comtesse Diane
-     37   Confucius
-      2   Constance Warren
-      2   Constantin Brancusi
-      1   Conyers Middleton
-      1   Coqosh Auh-Ho-Oh
-      1   Corinne U. Wells
-      1   Corita Kent
-      1   Corliss Lamont
-      2   Corra M. Harris
-      2   C. P. Snow
-      1   Craig Carter
-      1   Creole proverb
-      2   C. S. Lewis
-      2   Cuthbert Hall
-      1   C. W. Ceran
-      1   Cyril Connolly
-      2   Cyrus A. Bartol
-      2   Cyrus the Great
-      1   Dadu
-      2   Da Free John
-     10   Dag Hammarskjold
-      7   Dalai Lama
-     12   Dale Carnegie
-      2   Dale Evans Rogers
-      2   Daniel Brinkley
-      1   Daniel d’Ancheres
-      1   Daniel J. Boorstin
-      3   Daniel Webster
-      1   Daniel Wilson
-      1   Danilo Dolci
-      3   Danish proverb
-      6   Dan Millman
-      7   Dante Alighieri
-      1   Dante Al igh ieri
-      1   Darcy Maxwell
-      1   Darryl F. Zanuck
-     12   Darwin Gross
-      1   Darwin P. Kingsley
-      1   Dave Seabury
-      1   Dave T. Gentry
-      1   David Abrahamsen
-      1   David A. Cooper
-      1   David Alroy
-      1   David Augsberger
-      1   David D. Bums
-      1   David Frost
-      3   David G. Myers
-      6   David Grayson
-      1   David Gunston
-      1   David H. Lawrence
-      1   David Hopkinson
-      2   David Hume
-      1   David Koffman
-      1   David K. Reynolds
-      1   David L. Brown
-      2   David L. George
-      1   David Liederman
-      1   David Mamet
-      5   David Manners
-      1   David Meltzer
-      1   David Norris
-      1   David Reuben
-      1   David Schwartz
-      1   David Seaburi
-     11   David Seabury
-      2   David S. Jordan
-      1   David Storey
-      2   David Thomas
-      3   David Viscott
-      1   D. C. Peattie
-      1   Dean Acheson
-      1   Dean H. Hancock
-      1   Dean Inge
-      1   Dean Oriush
-      2   Dean Ornish
-      1   Dean Rusk
-      3   Deepak Chopra
-      1   Deepa Kodihal
-      1   DeepaKodikal
-      3   Deepa Kodikal
-      1   Delia Smith
-      1   De Lubicz
-      1   dement Stone
-      1   Democritus
-      3   Demosthenes
-      2   Deng Ming-Dao
-      1   Denis de Rougemont
-      2   Denis Diderot
-      5   Denis Waitley
-      1   Denis Wheatley
-      1   Dennis Wholey
-      1   Der Ackennon aus Bohmen
-      1   Desiderata
-      1   DeWitt Wallace
-      1   D. G. M. Jackson
-      7   Dhammapada
-      5   D. H. Lawrence
-      1   Diamond Sutra
-      1   Diane Johnson
-      1   Dick Carlson
-      1   Dick Gregory
-      1   Dietrich Bonhoejfer
-      1   Dimitri Mitropoulos
-      1   Dinah M. Craik
-      3   Diogenes
-      2   Divani Shamsi Tabriz
-      1   Dodie Smith
-      1   D. O. Flynn
-      1   Dogen-zenji
-      1   Dolores Huerta
-      1   Dom Bede Griffiths
-      1   Dom Stephen
-      1   Donald B. Ardell
-      1   Donald C. Peattie
-      8   Donald Curtis
-      1   Donald G. Mitchell
-      1   Donald H. McGannon
-      1   Donald Trump
-      2   Donald Tubesing
-      1   /. Donald Walters
-      1   Dongshan
-      1   Don J. Chapman
-      1   Donna Schaper
-      1   Don Robinson
-      1   Dore Schary
-      1   Doris Lessing
-      1   Doris Webster Havice
-      1   Dorothy Dix
-      1   Dorothy Law Nolte
-      1   Dorothy L. Sayers
-      1   Dorothy McCall
-      1   Dorothy Strange
-      1   Dorthea Brande
-      1   Doug King
-      2   Doug Larson
-      4   Douglas Bloch
-      1   Douglas Fairbanks
-      1   Douglas Jerrold
-      2   Douglas Lurton
-      4   Douglas MacArthur
-      1   Douglas Meador
-      1   Dr. Trumbull
-      2   D. T. Suzuki
-      1   Duane Elgin
-      1   Dugald Stewart
-      1   Duke Ellington
-      4   Dwight D. Eisenhower
-      1   Dwight D. Moody
-      2   Dwight L. Moody
-      1   E. A. Peel
-      2   Earl Nightingale
-      1   Earl Warren
-      1   Earnest Jones
-      2   Eastern proverb
-      1   E. B. Hall
-      1   E. B. White
-      3   Ecclesiastes
-      1   E. Cole Ingle
-      1   Eda LeShan
-      1   Eddie Richenbacker
-      2   Eddie Rickenbacker
-      1   Edgar A. Guest
-      3   Edgar A. Poe
-      6   Edgar Cayce
-      1   Edgar Guest
-      1   Edgar N. Jackson
-      2   Edgar W. Howe
-      2   Edith Hamilton
-      1   Edith Wharton
-      1   Edmmid Burke
-      1   Edmond Bordeaux
-      1   Edmund A. Brasset
-      1   Edmund B. Szekely
-      1   Edmund Bulwer-Lytton
-     19   Edmund Burke
-      1   Edmund Spenser
-      1   Edmund Waller
-      2   Edna Ferber
-      1   Edward Bidwer-Lytton
-      1   Edward B. Newill
-     14   Edward Bulwer-Lytton
-      1   Edward Car/)enter
-      3   Edward Carpenter
-      1   Edward Clarendon
-      1   Edward Clarke
-      1   Edward Dahlberg
-      1   Edward de Bono
-      1   Edward Dowden
-      1   Edward Eggleston
-      1   Edward F. Garesche
-      4   Edward Gibbon
-      1   Ed ward Hei-bert
-      1   Edward Payson
-      1   Edward Pay son
-      1   Edward R. Murrow
-      1   Edward Simmons
-      1   Edward Turner
-      6   Edward Young
-      1   Edwin Abbey
-      1   Edwin Arnold
-      1   Edwin Bulwer-Lytton
-      1   Edwin C. Bliss
-      8   Edwin H. Chapin
-      1   Edwin Keith
-      4   Edwin Markham
-      1   Edwin Markin
-      1   Edwin P. Whipple
-      1   Edwin & Sally Kiester
-      1   Edwin W. Teale
-      1   Egon Friedell
-      1   E. Herman
-      1   Eileen Caddy
-      1   Ekai
-     15   Eknath Easwaran
-      1   Elaine Hibbard
-     25   Elbert Hubbard
-      1   Eldridge Clea ver
-      4   Eleanor Roosevelt
-      3   El-Ghazali
-      1   Elias Auerbach
-      1   Elias Canetti
-      1   Elie Wiesel
-     25   Elinor MacDonald
-     43   Eliphas Levi
-      7   Elisabeth Kubler-Ross
-      2   Elizabeth B. Browning
-      1   Elizabeth Bowen
-      1   Elizabeth C. Dunn
-      1   Elizabeth C. Stanton
-      1   Elizabeth Gawain
-      2   Elizabeth Gray Vining
-      2   Elizabeth Kenny
-      1   Elizabeth O. Smith
-      6   Ella Wheeler Wilcox
-      1   Ellen Key
-      1   Ellen Kreidman
-      1   Elmer H. Bobst
-      1   Elsie De Wolfe
-      3   Elsie Morgan
-      1   El-Zubeir
-     10   Emanuel Swedenborg
-      1   E. M. Cioran
-      2   E. M. Forster
-      1   Emil Brunner
-      1   EmilEbers
-      1   Emile Coue
-      1   Emile Cove
-      1   Emily Bronte
-      4   Emily Dickinson
-      1   Emily Post
-      3   Emma Goldman
-      1   Emma H. Willard
-      9   Emmanuel
-      1   Emmeline Pethich-Lawrence
-     10   Emmet Fox
-      1   Emory Ward
-      1   Empedocles
-      1   E. Nesbit
-      5   English proverb
-     38   Epictetus
-      8   Epicurus
-     10   Erasmus
-      2   Erica Jong
-      2   Eric Berne
-      4   Eric Butterworth
-      1   Eric Fromm
-     12   Erich Fromm
-      2   Erich Fromn
-      1   Erich Heller
-      3   EricHoffer
-      4   Eric Hoffer
-      1   Erik H. Erikson
-      1   Erik Plamstiema
-      1   Ernest Becker
-      1   Ernest C. Wilson
-      3   Ernest Hemingway
-      1   Ernest Hoimes
-     23   Ernest Holmes
-      1   Ernestine Schumann-Heink
-      1   Ernest Jones
-      1   Ernest Renan
-      1   Ernest Wilson
-      1   Ernie Larson
-      1   Errol Strider
-      2   Erskine Mason
-      1   Erwin Schrodinger
-      1   Esco Brown
-      5   E. Stanley Jones
-      1   Etu Inagaki Sugimoto
-      1   Eugene Delacroix
-      1   Eugene O’Neill
-     20   Euripides
-      2   Eusebius Hieronymus
-      1   Eva-Lisa Manner
-      3   Evelyn Underhill
-      1   Evelyn Waugh
-      1   Everett Martin
-      1   E. W. Howe
-      1   Ezra Pound
-      2   Faith Baldwin
-      1   Faith Forsyte
-      1   fames W. Jones
-      1   Fannie Brice
-      1   Farid Attar
-      1   F. Augustine Baker
-      1   Fawn M. Brodie
-      1   Felicia D. Hemans
-      1   Felix Adler
-      2   Felix Frankfurter
-      1   Fenwick Holmes
-      1   Ferdinand Lassalle
-      1   ferem y Bentham
-      1   Ferid Ed-dim Attar
-      1   Fernando Rojas
-      3   Fernando Savater
-      1   F. H. Bradley
-      2   Flavius Josephus
-      1   Florence Nightingale
-      2   Florence Scovel Shinn
-      1   Florence S. Shinn
-      1   Florinda Donner
-      1   Floyd & Eve Corbin
-      1   Fortune de Felice
-      1   Francesco Guicciardini
-      1   Frances E. Willard
-      1   Frances Hutcheson
-      1   Frances Wickes
-      1   Francine Klagsbrun
-     28   Francis Bacon
-      2   Francis Beaumont
-     20   Francis de Sales
-      1   Francis G. Wickes
-      1   Francis Hegmeyer
-      1   Francis Johnson
-     13   Francis of Assisi
-      7   Francis Quarles
-      1   Francis R. Havergal
-      1   Francis R. Haver gal
-      1   Francis Sales
-      1   Francis Scott Key
-      2   Francis Thompson
-      1   Francis Xavier
-      1   Francois D. Pressense
-      1   Francoise de Maintenon
-      1   Francoise Sagan
-     19   Francois Fenelon
-     30   Francois La Rochefoucauld
-      2   Francois Mauriac
-      4   Francois Rabelais
-      1   Frank Case
-      1   Frank Clark
-      1   Frank Colby
-      2   Frank Crane
-      1   Frankie Byrne
-      1   Frank I. Fletcher
-      2   Franklin D. Roosevelt
-      1   Franklin P. Adams
-      3   Franklin P. Jones
-      4   Frank L. Wright
-      1   Frank M. Colby
-      1   Frank Richelieu
-      1   Frantisek Dostal
-      1   Franz Grillparzer
-      1   Franz Hartmann
-      1   Franz Kafha
-      5   Franz Kafka
-      1   Franz Rosenzweig
-      2   Franz Werfel
-      4   FraterAchad
-     15   Frater Achad
-      1   Frederic Farrar
-      1   Frederich Robertson
-      2   Frederick Buechner
-      1   Frederick Douglass
-      1   Frederick H. Hedge
-      2   Frederick Langbridge
-      1   Frederick Loewe
-      1   Frederick M. Vinson
-      1   Frederick Robertson
-      1   Frederick Saunders
-      1   Frederick the Great
-      2   Frederick W. Faber
-      4   Frederick W. Robertson
-      1   Frederick W. Ziegler
-      2   Frederic W. Farrar
-      1   Fred Rogers
-      1   Fred Va7i Amburgh
-     87   Fred Van Amburgh
-      1   Fred Van Amburgh Sadness is so ungrateful....
-      2   Fred Van Arnburgh
-      3   French proverb
-      1   French saying
-      1   Fridtjof Nansen
-      1   Friedrich Engels
-      1   Friedrich von Novalis
-      1   Friedrich Von Novalis
-      4   Friedrich von Schiller
-      1   Friedrich W. Neitzsche
-     19   Friedrich W. Nietzsche
-      1   Frithjof Schuon
-      1   Fritjof Capra
-      3   Fritz Kunkel
-      2   Fritz Peris
-      1   Froebel
-      1   F. Scott Fitzgerald
-      1   Fulke Greville
-      1   Fulton f. Sheen
-     12   Fulton J. Sheen
-      1   Fulton Oursler
-      1   Fydor Dostoyevsky
-      7   Fyodor Dostoyevsky
-      1   Gabriel Harvey
-      1   Gail Godwin
-      1   Galen
-      1   Galileo Galilei
-      1   Gamaliel Bailey
-      1   Gampopa
-      2   Gardner Hunting
-      2   Garrison Keillor
-      1   Gary Busey
-      4   Gary Emery
-      1   Gary Player
-      1   Gary Zuka v
-      1   Gaston Bachelard
-      1   Gaude A. Helvetius
-      1   Gaude Bristol
-     45   Gautama Buddha
-      3   Gayatri Devi
-      1   Gayelord Hauser
-      1   Gene E. Clark
-      1   Geoffrey F. Fisher
-      1   Geoffrey Norman
-      1   Georg Brandes
-      7   Georg C. Lichtenberg
-      1   Georg C. Lichteriberg
-      1   George A. Gordon
-      4   George Anderson
-      1   George A. Sacher
-      2   George B. Cheever
-      2   George Bemaos
-      1   George Boa rdma n
-     16   George B. Shaw
-      1   George Buckinghain
-      1   George Buttrick
-     11   George Byron
-      1   George Chapman
-      1   George D. Boardman
-      1   George E. Carpenter
-      8   George Eliot
-      1   George Fernandes
-      1   George Fisher
-      1   George Fox
-      6   George Herbert
-      4   George H. Hepworth
-      1   George Higgins
-      1   George H. Lewes
-      1   George H. Lorimer
-      1   George H. Lo rimer
-      3   George Home
-      1   George Hubert
-      8   George I. Gurdjieff
-      1   George Jackson
-      2   George J. Nathan
-      1   George J. Watham
-      1   George Leonard
-      1   George Luks
-      6   George Macdonald
-      2   George MacDonald
-      1   George M. Adams
-      5   George Meredith
-      2   George Muller
-      1   George Patton
-      1   George Porter
-      1   George Prentice
-      1   George Rees
-      1   George Reo
-      1   George R. White
-      3   George Sand
-     17   George Santayana
-      1   George S. Arundale
-      1   Georges Braque
-      1   Georges Clemenceau
-      1   George Sewell
-      1   George S. Hillard
-      1   Georges L. Buff on
-      1   George S. Merriam
-      1   George S. Odiome
-      1   George S. Patton
-      1   George Trevelyan
-      1   George W. Carver
-      1   George W. Crile
-      2   George W. Curtis
-      1   George Will
-      1   Georg W. Hegel
-      3   Gerald G. May
-      2   Gerald Heard
-      1   Geraldine Coster
-     11   Gerald Jampolsky
-      2   Gerald May
-      1   Gerald Vann
-      1   Gerald W. Johnson
-      1   Gerard M. Hopkins
-      1   Gerhard Adler
-      1   German aphorism
-      6   German proverb
-      1   Gertrude Stein
-      1   Giacomo Leopardi
-      1   Giancarlo Menotti
-      1   Gifford Howell
-      1   Gilbert Arland
-      2   Gilbert Murray
-      1   Gilbert West
-      4   Giordano Bruno
-      1   Gisela Richter
-      1   Giuseppe Mazzini
-      1   G. Jean Anderson
-     13   G. K. Chesterton
-      1   G. K. Neilson
-      1   Glenda Taylor
-      1   Gloria Steinem
-      1   Goffried Leibniz
-      1   Gopala Swamy
-      1   Gordon Palmer
-      1   Gordon P. Miller
-      1   Gospel of Philip
-      1   Gospel of Phillip
-      2   Gospel of Thomas
-      1   Gottfried Leibnitz
-      1   Grace Cooke
-      1   Grace Hanson
-      1   Grade Fields
-      2   Graham Greene
-      1   Greek proverb
-      1   Gregory the Great
-      2   Gregory Vlastos
-      1   Grenville Kleiser
-      1   Gretta B. Palmer
-      1   Guiseppe Mazzini
-      1   Gurudev
-      1   Gustave Flaubert
-      1   Guy de Maupassant
-      1   Guy L. Playfair
-      1   G. V. Sabbaramayya
-      2   G. V. Subbaramayya
-      1   Hafiz
-      1   Haidakhan Aarati
-      1   Hairy E. Fosdick
-      1   Hakuin
-      1   Hannah Arendt
-      2   Hannah More
-      1   Hannah W. Smith
-      1   Hannibal
-      1   Hans Christian Andersen
-      2   Hans Dench
-      1   Hans Hofmann
-      3   Hans Selye
-      1   Hans-Ulrich Rieher
-      4   Hans-Ulrich Rieker
-      2   Hans-Ulrick Rieker
-      1   Han Suyin
-      1   Hari Das Baba
-      1   Hari Dass
-      2   Harold Bloomfield
-      1   Harold Burr
-      1   Harold Coffin
-      1   Harold H. Bloomfield
-      1   Harold J. Laski
-      1   Harold Kushner
-      1   Harold Laski
-      1   Harold Marshall
-      1   Harold Nye
-      2   Harold Sherman
-      1   Harold S. Hubert
-      1   Harold S. Kushner
-      1   Harold V. Melchert
-      1   Harper Lee
-      3   Harriet Beecher Stowe
-      1   Harriet Rochlin
-      1   Harrison E. Salisbury
-      1   Harry A Overstreet
-      2   Harry A. Overstreet
-      1   Harry A. Wolfson
-      3   Harry Browne
-      1   Harry Chapin
-      1   Harry E. Fosdich
-     16   Harry E. Fosdick
-      1   Harry Houdini
-      1   Harry Sackler
-      1   Harry S. Sullivan
-      1   Harry Truman
-      1   Harry Wolfson
-      1   Hartley Coleridge
-      1   Hartly Coleridge
-      1   Harvey Cushing
-      2   Harvey Day
-      1   Harvey Eagan
-      3   Hasidic saying
-      4   Havelock Ellis
-      1   Hazel B. Andre
-      1   Hazif Divan
-     32   Hazrat Inayat Khan
-      1   H. Bertram Lewis
-      1   H. B. Jeffery
-      7   Hebrew proverb
-      1   Hebrew saying
-      1   Heide Quade
-      1   Heiiry Home
-      9   Heinrich Heine
-      2   Helen Hayes
-     20   Helen Keller
-      1   Helen Reddy
-      1   Helen Steiner Rice
-      1   Helen Tworkov
-      2   Helen Wodehouse
-      1   Helmuth von Moltke
-      2   Heloise
-      1   Hem'll W. Longfellow
-      1   Hem~yD. Thoreau
-      1   Hendrik W. Van Loon
-      1   Henepola Gunartana
-      6   Henri Bergson
-      1   Henri F. Amiei
-      1   -Henri F. Amiel
-     32   Henri F. Amiel
-      1   Henri F. Arniel
-      1   Henri Focillon
-      3   Henrik Ibsen
-      1   Henri Nouwen
-      2   Henry Adams
-      1   Henry Austin
-      1   Henry Bohn
-      1   Henry C. Bonnerman
-      1   Henry Chester
-      1   Henry D. Lloyd
-      7   Henry Drummond
-      1   Henry D.Thoreau
-     38   Henry D. Thoreau
-      7   Henry F. Amiel
-      1   Henry F. Am iel
-      1   Henry Fergus
-      4   Henry Fielding
-      8   Henry Ford
-      1   Henry G. Bohn
-      1   Henry George
-      1   Henry Home
-      1   Henry Hurwitz
-      2   Henry IV. Longfellow
-      2   Henry James
-      1   Henry J. Nouwen
-      1   Henry L. Doherty
-      1   Henry Lindlahr
-      1   Henry Link
-      1   Henry L. Mencken
-      1   Henry L. Stimson
-      1   Henry Mackenzie
-      3   Henry Madathanas
-      1   Henry M. Dexter
-     11   Henry Miller
-      1   Henry O. Lloyd
-      1   Henry P. Davidson
-      2   Henry S. Haskins
-      2   Henry S. Hawkins
-      1   Henry S. Holland
-      1   Henry Stimson
-      1   Henry Suso
-      1   Henry Taylor
-      1   -Henry T. Hamblin
-     69   Henry T. Hamblin
-      1   Henry T. Ha m bl in
-      1   Henry T. Hambl in
-      1   Henry van Dyke .
-      4   Henry Van Dyke
-      1   Henry Vaughan
-     44   Henry W. Beecher
-     19   Henry W. Longfellow
-      2   Henry W. Shaw
-     12   Heraclitus
-      1   Herbert B. Swope
-      5   Herbert Casson
-      1   Herbert G. Wells
-      1   Herbert Hoover
-      1   Herbert Kaufman
-      1   Herbert M. Shelton
-      1   Herbert Otto
-      2   Herbert Samuel
-      1   Herbert Seibert
-      6   Herbert Spencer
-      2   Herman Melville
-      1   Hermann Cohen
-      9   Hermann Hesse
-     14   Hermes
-      4   Herodotus
-      1   Herophilies
-      1   Hesiod
-      1   Heywood Brown
-      1   H. F. Kletzing
-      3   H. Frederick Vogt
-      1   H. G. Wells
-      1   Hilary Worth
-      3   Hilda Charlton
-      1   Hildebert ofLavardin
-      7   Hillel
-      3   Hindu proverb
-     11   Hindu saying
-      1   Hindu sutra
-      1   Hindu vow
-      3   Hippocrates
-      1   Hiram Johnson
-      5   Hitopadesa
-      1   Hitopodesa
-      1   HiUel
-      1   H. Jackson Brown
-      1   H. L. Hunt
-      1   H. L. Mencken
-      1   Hodding Carter
-      4   Homer
-      2   Homi Kharas
-      1   Honey J. Rubin
-      4   Honore de Balzac
-      1   Honors de Balzac
-     17   Horace
-      5   Horace Bushnell
-      2   Horace Fletcher
-      2   Horace Greeley
-      1   Horace J. Bridges
-      6   Horace Mann
-      1   Horace Walpole
-      1   Horatius Bonar
-      3   Hosea Ballou
-      1   Howard Sherman
-      1   H. P. Blavatsky
-      1   H. R. L. Sheppard
-      1   H. Spenser Lewis
-      1   Huai Nan Tzu
-      8   Huang Po
-      1   Hubert van Zeller
-      1   Hugh Blair
-      3   Hugh Downs
-      1   Hugh of Saint-Victor
-      3   Hugh Prather
-      1   Hugh S. Tigner
-      1   Hugh Walpole
-      1   Hugh White
-      1   Hugo Grotius
-      3   Hui-Neng
-      1   Hujwiri
-      1   Humphry Davy
-      1   Hung Chou
-      1   Huston Smith
-      1   H. W. Arnold
-      1   H. W. L. Poonja
-      1   Hyemeyohsts Storm
-      1   Hypatia
-      1   Ibn Ezra
-      1   Ibn Gabirol
-      1   Ibn Hazim
-      5   I Ching
-      1   Ida Scott Taylor
-      4   Ida S. Taylor
-      1   Ida Tarbell
-      1   Idries Shah
-      1   Igjugarjuk
-      1   Ignatius Loyola
-      1   Ignazio Silone
-      1   Ilahi Nama
-      1   Ilya Ehrenburg
-      4   Immanuel Kant
-      1   Inazo Nitobe
-      1   Indian proverb
-      1   Indira Gandhi
-      1   Ingmar Bergman
-      2   Ingrid Bengis
-      1   Ira Eisenstein
-      3   Irina Tweedie
-      5   Iris Belhayes
-      1   Irish prayer
-      3   Irish proverb
-      1   Iris Murdoch
-      1   Irving Berlin
-      1   Irving C. Cooper
-      1   Isaac Abravanel
-      1   Isaac Asimov
-      4   Isaac Bashevis Singer
-      1   Isaac Bickerstaff
-      2   Isaac D’Israeli
-      1   Isaac Domer
-      1   Isaac F. Marcosson
-      1   Isaac Hanina
-      1   Isaac L. Peretz
-      1   Isaac Newton
-      1   Isaac of Acre
-      1   Isaac ofNinveveh
-      5   Isaac of Syria
-      1   Isabel Moore
-      1   Isaiah Berlin
-      1   Isak Dinesen
-      1   Isapwo Muksika
-      1   Israel Baal Shem Ton
-      2   Israel Baal Shem Tov
-      1   Israel Bal Shem Tov
-      1   Israel Lipkin
-      1   Israel M. Kagan
-      1   Israel S. Liphin
-      4   Israel Zangwill
-      1   Issachar Hurwitz
-      2   Italian saying
-      1   Itzikl of Radvil
-      1   IV. H. Beveridge
-      1   Izaah Walton
-      2   Izaak Walton
-      2   J. Abelson
-      1   JachKomfield
-      3   Jack Addington
-      1   Jack Exum
-      1   Jack Holland
-      1   JackKomfield
-      3   Jack Komfield
-      1   Jack Lemmon
-      1   Jack Miner
-      1   Jack Penn
-      1   Jack Sanford
-      1   Jacob Anatoli
-      1   Jacob Bronowshi
-      1   Jacob Katz
-      1   Jacob Klatzkin
-      1   Jacob M. Braude
-      1   Jacopo Sannazaro
-      1   Jacques B. Bossuet
-      3   Jacques Bossuet
-      3   Jacques Maritain
-      1   J. A. Hadfield
-      4   Jakob Bohme
-      1   J. Allen Boone
-      1   James A. Froude
-      2   James A. Garfield
-      1   James Alexander
-      1   JamesAllen
-     66   James Allen
-      1   James A. Pike
-      4   James Baldwin
-      1   James Bonnell
-      1   James Boswell
-     10   James B. Schafer
-      1   James B. Tweedsmuir
-      1   James D. Burns
-      1   James Dobson
-      1   James E. Cabot
-      1   James Ellis
-      3   James Fadiman
-      1   James F. Byrnes
-      1   James F. Clark
-      2   James F. Clarke
-      1   James F. Cooper
-      1   James Froude
-      1   James Garfield
-      1   James G. Bennett
-      1   James G. Cozzens
-      1   James G. Gilhey
-      1   James G. Gilkey
-      1   James Gibbons
-      2   James G. Keller
-      1   James Grainger
-      1   James Harvey
-      1   James Howell
-      3   James Jeans
-      2   James Joyce
-      1   James Lynch
-      1   James Madison
-      2   James Mangan
-      6   James M. Barrie
-      1   James M. Brown
-      1   James Michener
-      1   James Monroe
-      1   James M. Whistler
-      1   James O’Brien
-      1   James Oppenheim
-      1   James Q. DuPont
-      1   James R. Adams
-      2   James Redfield
-      2   James Reston
-      1   James R. Miller
-      1   James Ross
-     15   James Russell Lowell
-      1   James Shirley
-      3   James Thomson
-      3   James T. Mangan
-      1   James Usher
-      2   James W. Alexander
-      1   James W. Riley
-      1   Janardan Paramahansa
-      1   Jan DeWitt
-      1   Jane Austen
-      1   Jane C. Turell
-      1   Jane Hendrix
-      1   Jane Hopkins
-      2   Jane Porter
-      1   Jane Smiley
-      1   Janet Falldron
-      1   Janette Ramwater
-      1   Jane W. Carlyle
-      2   Janie Gustafson
-      1   Janies Jeans
-      1   Janies Russell Lowell
-      1   Janis J. Kinens
-      1   Janis Joplin
-      1   Jan Struther
-      1   Jan van Ruysbroeck
-      1   Jan Van Ruysbroeck
-      4   Japanese proverb
-      1   J. A. Spencer
-     16   Jawaharlal Nehru
-      1   J. A. Wheeler
-      1   Jaynes Allen
-      1   Jay Rohrlick
-      1   Jay W. Forrester
-      1   J. Beaumont
-      3   J. B. Priestley
-      2   J. Bruce Long
-      1   J. B. S. Haldane
-      1   J. Donald Adams
-      1   J. Donald Walters
-      1   J. D. Salinger
-      3   Jean Anouilh
-      1   Jean Anouilh Fortune favors the bold....
-      1   Jean Baer
-      1   Jean-Baptiste Dubos
-      1   Jean Baudrillard
-      1   Jean B. Massieu
-      6   Jean B. Moliere
-      1   Jean Cocteau
-      1   Jean Delay
-      2   Jean Giraudoux
-      1   Jean H. D’Aubigne
-      1   Jean Joubert
-     14   Jean J. Rousseau
-      1   Jean Kerr
-      1   Jean Klein
-     12   Jean La Bruyere
-      2   Jean La Bruy ere
-      5   Jean La Fontaine
-      1   Jean La Fortaine
-      1   Jean Mouroux
-      1   Jeanne d’Albret
-      1   Jeanne Detourbey
-      1   Jeanne-Marie Guyon
-      1   Jeannette Rankin
-      2   Jean N. Grou
-      1   Jean Paid Richter
-      1   Jean-Paid Sartre
-      9   Jean Paul Richter
-      1   Jean Paul Sartre
-      5   Jean-Paul Sartre
-      9   Jean P. Camus
-      1   Jean P. Richter
-      1   Jean P. Sartre
-      4   Jean Rostand
-      1   Jean Sismondi
-      1   J. E. Buchrose
-      1   J. E. Buckrose
-      1   Jeraldine Sanders
-      3   Jeremy Bentham
-      3   Jeremy Collier
-      9   Jeremy Taylor
-      1   Jerome Kern
-      1   Jerome K. Jerome
-      1   Jerome S. Gross
-      2   Jerry Brown
-      1   Jerry Garcia
-      2   Jessamyn West
-      2   Jesse Jackson
-      5   Jesse Jennings
-      1   Jessie Sampter
-     39   Jesus
-      4   Jewish proverb
-      1   J. F. Clarke
-      1   J. Frank Dobie
-      1   J. Hadfield
-      1   Jili
-      1   J. J. Reynolds
-     12   J. Krishnamurti
-      1   J. M. Cowan
-      2   J. M. Jussawalla
-      1   Jnanasambandhar
-      1   Jnaneshwar Maharaj
-      1   Jo Aim Kelley Smith
-      4   Joan Baez
-      1   Joan Borysenko
-      1   Joanna Baillie
-      2   Joanna Field
-      1   Joanna Macy
-      1   Joanna Russ
-      2   JoAnn Kelley Smith
-      1   Joan Rivers
-      1   Joe Kogel
-     11   Joel Goldsmith
-      1   Joel Hawes
-      1   Johann Arndt
-      1   Johannes Kepler
-      1   Johannes Tauler
-      1   Johannes von Muller
-      1   Johann G. Fichte
-      1   Johann G. Herder
-      3   Johann G. Zimmerman
-      1   Johann H. Zschokke
-      1   Johann IV. Goethe
-      1   Johann Lobstein
-      8   Johann von Schiller
-      1   Johann Weiss
-      1   Johann W, Goethe
-     64   Johann W. Goethe
-      1   Johann W. Zimmerman
-      2   John Adams
-      1   John A. O’Brien
-      3   John A. Schindler
-      1   John A. T. Robinson
-      3   John Balguy
-      2   John Barrymore
-      2   John B. O’Reilly
-      1   John Boys
-      4   John Bradshaw
-      1   John Bright
-      1   John Brunner
-      1   John B. Shearen
-      1   John Buchan
-      4   John Bunyan
-      9   John Burroughs
-      1   John Calvin
-      1   John Cassavetes
-      2   John C. Collins
-      1   John C. Cornelius
-      1   John C. Geikie
-      9   John Chrysostom
-      1   John Cournos
-      1   John Cowper Powys
-      1   John C. Salak
-      2   John Denham
-      6   John Dewey
-      6   John Donne
-      2   John D. Rockefeller
-      1   John D. Rockefeller, Jr.
-      8   John Dryden
-      1   John E. Boodin
-      1   John E. Haggai
-      1   JohnEudes
-      5   John F. Kennedy
-      1   John Florio
-      1   John Ford
-      2   John Foster
-      2   John Fowles
-      5   John Gray
-      2   John G. Whittier
-      1   JohnH.Crome
-      3   John H. Crowe
-      1   John Heider
-      1   John Heywood
-      1   John H. Jowett
-      1   John H. Miller
-     10   John H. Newman
-      1   John Holt
-      1   John H. Randall
-      1   John J. Ingalls
-      1   John J. Owen
-      2   John Keats
-      1   John Keble
-      1   John K. Galbraith
-     13   John K. Lavater
-      1   John K. Lava ter
-      1   John Knox
-      1   John Lennon
-      1   John Lilly
-      9   John Locke
-      3   John Lubbock
-      1   John Lust
-      2   John Macmurray
-      2   John Masefield
-      1   John Mason
-      1   John Mason Brown
-      1   John M. Barker
-      1   John M. Good
-      1   John Milhoum
-     12   John Milton
-      1   John Morley
-      2   John Muir
-      1   John & Muriel James
-      2   John M. Wilson
-      1   John Neal
-      2   John Newton
-      1   John Norris
-      1   John of Damascus
-      2   John of Kronstadt
-      5   John of the Cross
-      1   John O. Hobbs
-      2   John Oxenham
-      1   John Panama
-      1   John Paul II
-      8   John Powell
-      1   John Prentiss
-      2   John Quincy Adams
-      1   John Quinn
-      1   John Ray
-      1   John Robinson
-      1   John Rushin
-     15   John Ruskin
-      2   John Ruysbroeck
-      1   John S. Blackie
-      1   John S. C. Abbot
-      1   John Schneider
-      3   John Selden
-      1   John S. Erigena
-      6   John S. Mill
-      2   John Smith, the Platonist
-      1   John Stoughton
-      3   John Tillotson
-      1   John Todd
-      1   John T. Trowbridge
-      1   John Uacmurray
-      2   John Updike
-      1   John Wareham
-      1   John Watson
-      1   John Webster
-      2   John Welwood
-      3   John Wesley
-      3   John Wooden
-      1   John Woolman
-      1   -John Wray
-      1   John W. Strutt
-      1   John Wycliffe
-      1   Johri Powell
-      1   Jonas Salh
-      1   Jonas Salk
-      1   Jonathan Edwards
-      1   Jonathan Eibeschutz
-     13   Jonathan Swift
-      1   Jon Wynne-Tyson
-      3   Jordan & Margaret Paul
-      1   Jorge Manrique
-      2   Jose Ortega y Gasset
-     15   Joseph Addison
-      2   Joseph Albo
-      1   Joseph Baron
-      1   Joseph Brennen
-      5   Joseph Campbell
-      1   Joseph Collins
-      3   Joseph Conrad
-      2   Joseph Cook
-      2   Joseph de Maistre
-      1   Joseph Desmahis
-      2   Joseph Hall
-      1   Joseph Hergesheimer
-      1   Joseph Hurwitz
-      1   Josephine Lowman
-      1   Joseph Jefferson
-      7   Joseph Joubert
-      1   Joseph Jo ubert
-      1   Joseph Marmion
-      1   Joseph M. de Maistre
-      1   Joseph Murj)hy
-      2   Joseph Murphy
-      1   Joseph M. Wade
-      1   Joseph Newton
-      1   Joseph Opatoshu
-      1   Joseph Parker
-      1   Joseph Patemo
-      1   Joseph R. Sizoo
-      1   Josephus Daniels
-      3   Josh Billings
-      2   Joshua Liebman
-      3   Joshua L. Liebman
-      1   Joshua L. Liebrnan
-      1   Joshua Reynolds
-      3   Josiah Holland
-      1   Josiah Warren
-      1   Josippon
-      4   Joyce Brothers
-      1   Joyce C. Oates
-      1   J. T. Headly
-      1   J. T. Work
-      2   Juan R. Jimenez
-      1   Judah Halevi
-      1   Judah Lev Mordecai
-      1   Judah L. Gordon
-      1   Judah ofKfar
-      1   Jude Wanniski
-      1   Judith Knowlton
-      1   Judith Lane
-      3   Judith Sills
-      1   Judith S. Nartin
-      1   Judith Viorst
-      5   Judy Tatelbaum
-      2   Jules Renard
-      1   Julia A. Fletcher Carney
-      1   Julia Mosileton
-      1   Julian Beck
-     28   Julian P. Johnson
-      1   Julia Seton
-      1   Julie Burchill
-      1   Julie de Lespinasse
-      1   Julie Sneyd
-      1   Julius and Augustas Hare
-      3   Julius Caesar
-      1   Julius Charles
-      1   Junayd
-      1   Junius
-      7   Juvenal
-      1   J. V. Langmead Casserlay
-      1   J. Walter Sylvester
-      1   J. W. Sullivan
-      5   Kabir
-     11   Kahlil Gibran
-      1   Kaivalya Navanitam
-      1   Kalidasa
-      1   Kamo no Chomei
-      1   Karen Homey
-      1   Karen K. Clark
-      2   Karl A. Menninger
-      3   Karl Barth
-      1   Karl E. Franzos
-      5   Karlfried G. Durckheim
-      1   Karl Kraus
-      1   Karl Menninger
-      1   Karl Sperber
-      1   Karl von Knebel
-      1   Katherine A. Porter
-      1   Katherine Gould
-      1   Katherine Hepburn
-      5   Katherine Mansfield
-      1   Katherine Zell
-      1   Kay Lyons
-      1   Ken Dychtwald
-      1   Ken Kesey
-      6   Ken Keyes, Jr.
-      1   Kenneth Clark
-      1   Kenneth Goode
-      1   Kenneth Hildebrand
-      1   Kenneth Kauda
-      2   Ken Olson
-      1   Kent Nerburn
-      2   Ken Wilber
-      1   Kim Hubbard
-      1   Kirsopp Lake
-      1   Kitab-Rahi
-      1   Kit Raymond
-      1   Knut Hamsun
-      1   Konstaiitin Stanislavsky
-      7   Koran
-      1   Korean proverb
-      1   Kotzker
-      1   Kozlay
-      2   Krishna
-      3   Krishnaprem
-      1   Kriyananda
-      2   K. Swaminathan
-      1   Kuleki
-      1   Kung Tingan
-      1   Kurt Lewin
-      1   Kurt Vonnegut
-      2   Kwang Tze
-      2   Kyong Ho
-      1   LadyAstor
-      2   Lady Blessington
-      2   Lahshmana
-      1   Lahshmana Sarma
-      1   Lajos Kossuth
-     11   Lakshmana
-     12   Lakshmana Sarma
-      1   Lama Govinda
-      1   Lamennais
-      1   La ngston Hughes
-     44   Lao-tzu
-      1   Lao-tzu your body.... — Bobbie Probstein
-      1   Larry Christenson
-      1   Larry Eisenberg
-      1   Larry McMurtry
-      1   Latin aphorism
-      2   Latin proverb
-      1   Latin saying
-      1   Laurence J. Peter
-      1   Laurence Martin
-      2   Laurence Sterne
-      1   Lawrence Dunphy
-      2   Lawrence Durrell
-      1   L. C. Soper
-      1   Lech Walesa
-      1   Lee Segall
-      3   Leigh Hunt
-      1   Leivis W. Dilyn
-      5   Leland F. Wood
-      1   Leo Baeck
-      7   Leo Buscaglia
-      1   Leonard M. Foley
-      7   Leonardo da Vinci
-      3   Leonardo Da Vinci
-      1   Leonard Wright
-      1   Leon Baeck
-      2   Leon Bloy
-      1   LeonDeSeblo
-      2   Leon DeSeblo
-      1   Leon Harrison
-      1   Leo Rosten
-     12   Leo Tolstoy
-      1   Les Brown
-      2   Les Giblin
-      1   Leslie D. Weatherhead
-      1   Lester Pearson
-      1   Leszczynshi Stanislaw
-      1   Leszczynski Stanislaw
-      1   Leszezynski Stanislaw
-      1   Letitia London
-      1   Letty Cottin Pogrebin
-      1   Leucippus
-      1   Levi Joshua
-      3   Lewis B. Smedes
-      3   Lewis Thomas
-      1   Lewis Wallace
-      1   L. F. Mules
-      1   Liane Cordes
-      1   Lich-tse
-      1   Lillian Smith
-      1   Lillian Taylor
-      1   Lillie Langtry
-      1   Lily Benatar
-      1   Lily Dougall
-      1   Lily Pincus
-      7   Lin Yutang
-      1   Lionel Barrymore
-      1   Lister Sinclair
-      1   Livy
-      1   Liz Smith
-      1   Lloyd Douglas
-      1   Lloyd Littlepage
-      1   Logan P. Smith
-      2   Lois Wolfe Morgan
-      2   Lois Wolfe-Morgan
-      1   Lombez
-      1   Lorado Taft
-      1   Lord Acton
-      1   Lord Birket
-      1   Lord Greville
-      2   Lord Halifax
-      1   Lord Herbert
-      1   Lord Mountbatten
-      2   Lord Russell
-      1   Lord Tweedsmuir
-      1   Louis Agassiz
-      1   Louis Binstock
-      2   Louis Brandeis
-      1   Louis Bromfield
-      1   Louis D. Brandeis
-      1   Louis de Montfort
-      2   Louis E. Bisch
-      1   Louise Bogan
-      1   Louise Doud
-      1   Louise Hayes
-      1   Louise H. de Choiseul
-      1   Louise L.Hay
-      2   Louise L. Hay
-      1   Lou ise Nevelson
-      1   Louis-Ferdinand Celine
-      1   Louis Finklestein
-      1   Louis L. Mann
-      2   Louis Pasteur
-      1   Louis Walsh
-      1   Lowell Fillmore
-      1   Lowell R. Ditzen
-      1   L. Ron Hubbard
-      1   Lucan
-     10   Luc de Clapiers Vauvenargues
-      1   Luc de Gapiers Vauvenargues
-      1   Lucille Ball
-      1   Lucille R. Taylor
-      6   Lucretius
-      4   Lucy Comellssen
-      1   Lucy Comellsser i
-      1   Lucy Cornellssen
-      1   Ludwig A. Feuerbach
-      2   Ludwig Boeme
-      1   Ludwig Boerne
-      1   Ludwig Borne
-      1   Ludwig Feuerbach
-      1   Ludwig Tieck
-      2   Ludwig Wittgenstein
-      1   Luigi Luzzatti
-      1   Luis de Leon
-      5   Luther Burbank
-      2   Lydia Child
-      1   Lydia H. Sigourney
-      3   Lydia Sigourney
-      2   Lyman Abbott
-      1   Lyman L. Bryson
-      1   Lyndon B. Johnson
-      1   Lynn Caine
-      1   Lynne Namka
-      1   Lynn Johnston
-     18   Mabel Collins
-      1   Mack Stokes
-      1   Madam Deluzy
-      1   Madam de Stael
-      1   Madame Chiang Kai-shek
-      5   Madame de Stael
-      1   Madame Guyon
-      1   Madame Necker
-      1   Madame Sevigne
-      1   Madam Gasparin
-      1   Madeleine de Scudery
-      2   Maggie Kuhn
-      8   Mahabharata
-      1   Mahadevan
-      2   Maharaj C. Singh
-      1   Maimon Ben Joseph
-     18   Maimonides
-      1   Maitreya
-      1   Ma Jaya Sati Bhagavati
-      2   Maksim Gorky
-      1   Malcolm J. MacLeod
-      2   Malcolm Muggeridge
-      1   Malcolm X
-      1   Maltbie D. Babcock
-      1   Manilus
-      1   Manly Hall
-      1   Mann
-      4   Manu
-      1   Mao Tse-tung
-      1   Marc Chagall
-      1   Marcellinus Ammianus
-      1   Marcel Pagnol
-      9   Marcel Proust
-      1   Marcia Macintosh
-      1   Marco Vassi
-      1   Marcus Agrippa
-     36   Marcus Aurelius
-      1   Marcus Au relius
-      1   Marcus Cato
-      1   Marcus Manilius
-      1   Margaret Anderson
-      1   Margaret Cavendish
-      1   Margaret Drabble
-      1   Margaret Fuller
-      1   Margaret Lee Runbeck
-      1   Margaret Mead
-      1   Margaret Mitchell
-      1   Margaret Pounders
-      1   Margaret Preston
-      1   Margaret R. Stortz
-      5   Margaret Stortz
-      1   Margaret Thatcher
-      1   Margaret W. Hungerford
-      1   Margery Wilson
-      1   Margo Howard
-      2   Margot Asquith
-      1   Marguerite De la Sabiere
-      3   Marguerite of Navarre
-      1   Maria Campbell
-      1   Maria Edgeworth
-      2   Maria Montessori
-      3   Marian Anderson
-      2   Marianne Williamson
-      1   Maria Schell
-      1   Marie A. du Deffand
-      1   Marie Curie
-      1   Marie-Louise von Franz
-      1   Marie von Ebner Eschenbach
-      1   Marie Von Ebner-Eschenbach
-      3   Marilyn Ferguson
-      2   Marilyn vos Savant
-      2   Mario Morgan
-      1   Marion Hilliard
-      1   Marion Woodmaii
-      3   Marion Woodman
-      1   Marjorie Bowen
-      1   MarkGerzon
-      1   Mark Train
-     11   Mark Twain
-      1   Mark Van Doren
-      3   Marpa
-      1   Marquis de Condorcet
-      1   Marquis de Custine
-      1   Marquis De La Grange
-      1   Marquis de Sade
-      4   Marsha Sinetar
-      3   Marsilio Ficino
-      1   Marsilo Ficino
-      1   Martha Courto
-      1   Martha Smock
-      1   Martha Washington
-      2   Martial
-      4   Martin Buber
-      2   Martin E. P. Seligman
-      1   Martin F. Tupper
-      3   Martin Gray
-      5   Martin Grey
-      1   Martin Heidegger
-      6   Martin L. King, Jr.
-      1   Martin L. King, Sr.
-      7   Martin Luther
-      1   Martin Luther King, Jr.
-      1   Martin Neimoller
-      1   Martin Tapper
-      1   Martin Tupper
-      7   Marvin Minsky
-      1   Marya Mannes
-      7   Mary Baker Eddy
-      1   Mary Bond
-      1   Mary Catherwood
-      1   Mary G. Brainard
-      1   Mary Howitt
-      1   Mary McCarthy
-      2   Mary Pickford
-      1   Mary R. Rinehart
-      1   Mary Webb
-      1   Mary Williams
-      5   Mary W. Montagu
-      2   Mary Wollstonecraft
-      1   Mary Wortly Montagu
-      1   Mary W. Shelley
-      2   Mason Cooley
-      1   Mason Horton
-      1   Matheno
-      1   Mathurin
-      3   Matthew Arnold
-      7   Matthew Fox
-      1   Matthew Green
-      2   Matthew Henry
-      1   Matthew Kelty
-      1   Matthew Prior
-      1   Maturin Ballou
-      1   Maurice Chevalier
-      6   Maurice Maeterlinck
-      2   Maurice Nicoll
-      1   Maurice Sendak
-      1   Max Cleland
-      1   Max De Pree
-      1   Max Ehrmann
-      1   Max Freedom Long
-      1   Max Gralnick
-      1   Max Handel
-      2   Maximus
-      2   Max Lemer
-      1   Max Lilienthal
-      2   Max Muller
-      1   MaxNordau
-      1   Max Nordau
-      1   Max Picard
-      1   Max Planck
-      1   Maxuiell Maltz
-      9   Maxwell Maltz
-      4   Maya Sarada Devi
-      1   May L. Becker
-      2   May Sarton
-      1   McDonald Clarke
-      2   M. C. Richards
-      1   M. Denis DeRougemont
-      1   M D. Petre
-      1   MeherBaba
-      8   Meher Baba
-      2   Meister Echhart
-     37   Meister Eckhart
-      1   Melba Colgrove
-      1   Melvin Schleeds
-      8   Melvyn Kinder
-      1   Menander
-      4   Mencius
-      1   Mendele M. Seforim
-      2   Mendel of Kotzk
-      1   Mendel ofRymanov
-      5   Menicus
-      3   Meredith L. Young
-      1   Meredith Young-Sowers
-      1   Merle Shain
-      2   Metrodorus
-      1   M. Faraday
-      1   Michael A. Sydner
-      1   Michael Eldridge
-      2   Michael Exeter
-      1   Michael Grosso
-      1   Michael Korda
-      1   Michael Landon
-      1   Michael LeBeouf
-      1   Michael O’Neal
-      1   Michael Philips
-      2   Michael Sendivogius
-      1   Michael Sneyd
-      1   Michael Stark
-      1   Michael Volen
-      3   Michelangelo
-      1   Michelangelo’s motto
-     23   Michel Montaigne
-      2   Michel Simon
-      1   Mickey Rooney
-      1   Midrash
-      1   Midrash Tahama
-      1   Midrash Tanhama
-      1   Midrash Tanhuma
-      1   Mignon McLaughlin
-      7   Miguel de Cervantes
-      2   Miguel de Yunamunojugo
-      2   Mikhail A. Bakunin
-      1   Mikhail Naimy
-      2   Milan Kundera
-      3   Milarepa
-      1   Milovan Djilas
-      1   Milton Erickson
-      1   Ming Lum Paou Keen
-      1   Minna von Bambelm
-      1   Minnie Fiske
-      1   Mme. de Deffand
-      1   Mme. de La Fayette
-     12   Mohammed
-      1   Mohammed Moussa
-     76   Mohandas Gandhi
-      1   Mohandas K. Gandhi
-      1   Moliere
-      1   Morihei Uyeshisba
-      1   Morris Bender
-      1   Morris West
-      1   Morton T. Kelsey
-      1   Mort Walker
-      1   Moses Harvey
-      1   Moses Hess
-      1   Moses H. Luzzatto
-      6   Moses Ibn Ezra
-      3   Moses Mendelssohn
-      1   Mother Clara Hale
-      1   Mother Marguerite
-     47   Mother Teresa
-      1   MouniSadhu
-      4   Mouni Sadhu
-      1   Mrigendra Agama
-      2   Mrs. Humphry Ward
-      4   M. Scott Peck
-      1   Muhtananda
-      6   Muktananda
-      2   Muni Swamy
-      1   Muriel Spark
-      1   Muruganar
-      1   Murunganar
-      1   Nachman ofBratslav
-      5   Nahman Bratzlav
-      1   Nahman Krochmal
-      1   Nanah
-      1   Nancy Byrd Turner
-      2   Nancy D. Potts
-      1   Nancy Moser
-      1   Nancy Pope Mayorga
-      1   Nancy Pope Mayyorya
-      1   Nansen
-      1   Naomi Stephan
-     16   Napoleon Bonaparte
-     15   Napoleon Hill
-      4   Narayana
-      1   Natchintanai
-      1   Nathalie Sarraute
-      1   Nathan Ausubel
-      4   Nathaniel Branden
-      2   Nathaniel Emmons
-      6   Nathaniel Hawthorne
-      1   Nathaniel Hawthoyne
-      2   Neem Karoli Baba
-      1   Neils Bohr
-      1   Nellie Melba
-      2   Nels F. S. Ferre
-      1   Nelson Henderson
-      1   Neville Hobson
-      5   New Testament
-      3   Niccolo Machiavelli
-      3   Nicholas of Cusa
-      1   Nicholas Rodney
-      1   Nicholas Rowe
-      1   Nick Herbert
-      6   Nicolas Boileau
-      1   Nicolas Caussin
-      1   Nicolas Chamfort
-      1   Nicolas de Chamfort
-      1   Nicolas de Cusa
-      1   Niffari
-      1   Nikhilananda
-      2   Nikki Giovanni
-      3   Nikolay Berdyayev
-      1   Nik os Kazantzakis
-      2   Nikos Kazantzakis
-      1   Nikos Kaznntzakis
-     63   Nisargadatta
-     10   Nityananda
-      1   Noah Porter
-      1   Nora Ephron
-      3   Norma Hawkins
-      1   Norman Angell
-      6   Norman Cousins
-      1   Norman C. Schidle
-      2   Norman Douglas
-      1   Norman G. Shidle
-      1   Norman Klein
-      1   Norman Lear
-      1   Norman MacEwan
-      1   Norman Macleod
-      1   Norman Mailer
-      1   Norman Schwarzkopf
-      1   Norman Thornton
-     20   Norman V. Peale
-      1   Northrop Frye
-      1   O. Carl Simonton
-      2   Octavio Paz
-      1   Ogden Nash
-      1   Og Mandino
-      2   O. Henry
-      2   Ohiyesa
-     26   Old Testament
-      1   Oliver C. Wilson
-      3   Oliver Goldsmith
-      1   Oliver Lodge
-      1   Oliver Sachs
-     15   Oliver W. Holmes
-      2   Olive Schreiner
-      1   Olympia Morata
-      1   Omaraam M. Aivanhov
-      1   Omar Bradley
-      1   Omar Khayyam
-      7   Omraam M. Aivanhov
-      1   Omraan M. Aivanhov
-      2   Oprah Winfrey
-      2   Oriental proverb
-      1   Oriental saying
-      4   Origen
-      9   Orison S. Marden
-      1   Orison S. Mar den
-      1   Ormand McGill
-     10   Ormond McGill
-      1   Ornraam M. Aivanhov
-      1   Orson S. Fowler
-      1   Orville Dewey
-      1   Osbert Sitwell
-     16   Oscar Wilde
-      1   Osho
-      1   Ossie Davis
-      1   Oswald Chambers
-      1   Oswald J. Simon
-      1   OtLatNom
-      1   Otto Rank
-      2   Otto von Bismarck
-      1   Ovaries C. Colton
-      1   Oveta Hobby
-     13   Ovid
-      1   Owen D. Young
-      5   Owen Felltham
-      1   Paavo Airola
-      3   Pablo Casals
-      1   Pablo Picasso
-      1   Padre Pio
-      1   Paid Brunton
-      3   Palladas
-      1   Panchatantra
-      1   Pantanjali
-      1   Papaji
-    105   Papa Ramdas
-      1   Papa Rarndas
-     13   Paracelsus
-      1   Paraceslus
-      7   Paramahansa Yogananda
-      1   Paramahansa Yoganda
-      1   Paramanada
-      1   Paramanananda
-     44   Paramananda
-      1   Paramanatida
-      1   Parke Godwin
-      1   Parmenides
-      4   Patanjali
-      1   Patricia Sun
-      2   PaulBrunton
-     29   Paul Brunton
-      1   Paul Brunt on
-      1   Paul Dirac
-      1   Paul Eldridge
-      1   Paul E. Sherer
-      2   Paul E. Wood
-      1   Paul Hewitt
-     17   Paul of Tarsus
-      1   Paul Roud
-      8   Paul Tillich
-      1   PaulToumier
-      5   Paul Toumier
-      1   Paul Tourier
-      2   Paul Twitched
-     10   Paul Twitchell
-      2   Paul Valery
-      3   Paul Williams
-      1   Paul Williayns
-      1   P. D. Ouspensky
-    141   Peace Pilgrim
-      3   Pearl Buck
-      4   Pearl S. Buck
-      1   Pedro Calderon
-      2   Percy B. Shelley
-      1   Percy Greaves
-      1   Persian proverb
-      1   Persian saying
-      1   Peter Baida
-      1   Peter Marshall
-      1   Peter Matthiessen
-      1   Peter Oppenheimer
-      1   Peter Russell
-      1   Peter Staler
-      2   Peter Ustinov
-      5   Petrarch
-      1   Phaedus
-      1   Philarete Charles
-      1   Philemon
-      1   Philip Bailey
-      8   Philip Chesterfield
-      1   Philip Chesterton
-      2   Philip D. Stanhope
-      1   Philip Henry
-      2   Philip J. Bailey
-      1   Philip Lee Ralph
-      1   Philippe Quinault
-      3   Philip Sidney
-      2   Philip Slater
-      1   Phil Laut
-      1   Phillip Adams
-      1   Phillip B. Power
-      1   Phillip D. Stanhope
-      1   Phillip J. Bailey
-      3   Phillips Brooks
-     18   Philo
-      1   Phocylides
-      1   Phyllis Bottome
-      1   Phyllis George
-      2   Phyllis McGinley
-      6   Piero Ferrucci
-      1   Pierre Bayle
-      1   Pierre Charron
-      2   Pierre Corneille
-      1   Pierre de Beranger
-      1   Pierre Nicole
-      1   Pierre Proudhon
-      5   Pierre Schmidt
-      1   Piet Hein
-      1   Pietro Aretino
-      1   Pietro Metastais
-      1   Pincus Goodblatt
-      4   Pindar
-      1   Pittacus
-      1   Pius XII
-      1   P. J. O’Rourke
-     29   Plato
-      1   Pla to
-      1   Platonicus
-      6   Plautus
-      2   Pliny
-      2   Pliny the Elder
-     11   Plotinus
-     17   Plutarch
-      3   P. M. H. Atwater
-      1   Polish proverb
-      1   Polybius
-      2   Pope Gregory I
-      1   Pope Innocent
-      1   Pope John Paul II
-      2   Pope John XXIII
-      1   Pope Leo XIII
-      1   Pope St. Gregory I
-      1   Porchia
-      2   Prabhavananda
-      2   Prabhushri
-     10   Prentice Mulford
-      1   Prince Bismarck
-      1   Procl u s
-      2   Proverb
-      1   Ptahhotpe
-      2   P. T. Bamum
-      2   Ptolemy
-      1   Publilius Synis
-     13   Publilius Syrus
-      1   Puzant K. Thomajan
-     13   Pythagoras
-      1   Qiarles Lamb
-      1   Queen Elizabeth of Rumania
-      1   Quentin Crisp
-      1   Quintas C. Rufus
-      4   Quintilian
-      2   Rabbi Nachman
-     21   Rabindranath Tagore
-      2   Rabindrinath Tagore
-      3   Rachel N. Remen
-      1   Rahel L. Vamhagen
-      7   Rainer M. Rilke
-      1   Rajneesh
-      3   Ralph Blum
-      1   Ralph B. Perry
-      2   Ralph Cudworth
-      1   Ralph IV. Emerson
-      2   Ralph IV. Trine
-      1   Ralph Sockman
-      1   Ralph Stayer
-    132   Ralph W. Emerson
-      1   Ralph W, Trine
-     81   Ralph W. Trine
-      2   Ramahrishna
-     28   Ramakrishna
-      3   Ramakrishnananda
-      1   Raman a Maharshi
-     79   Ramana Maharshi
-      1   Ramana Mahrashi
-      1   Ramanujan
-      1   Ramayana
-      1   Ramcharandas
-      1   RamDass
-     11   Ram Dass
-      1   Ra mesh Balseka r
-     10   Ramesh Balsekar
-      1   Ramsay MacDonald
-      2   Ramtha
-      1   Randall Jarrell
-      1   Randolph S. Bourne
-      1   Randolph S. Foster
-      1   Raphael
-      1   Raphael Elijah
-      1   Raphael Holinshed
-      1   Raphael of Bershad
-      1   Rarnana Maharshi
-      1   RarnDass
-      1   Rash Middlecombe
-      1   Ravi Ravindra
-      1   Ray Inman
-      2   Ray Mitchell
-      2   Raymond C. Barker
-      1   Raymond C. Knox
-      1   Raymond Hitchcock
-      1   Ray Palmer
-      1   R. C. Ferguson
-      1   R. C. McCarthy
-      1   Rebecca Beard
-      1   Reginald Armor
-      3   Reginald Heber
-      1   Reinhold Niebuhr
-      3   Rene Descartes
-      1   R. G. Collingwood
-      5   Richard Bach
-      1   Richard Baxter
-      1   Richard Beer-Hoffmann
-      1   Richard Byrd
-      1   Richard Carlile
-      7   Richard Cecil
-      6   Richard E. Burton
-      1   Richard Evans
-      1   Richard Foster
-      1   Richard Gregg
-      1   Richard H. Crossman
-      1   Richard Hooker
-      1   Richard J. Needham
-      1   Richard Metcalf
-      4   Richard M. Nixon
-      1   Richard Moss
-      1   Richard Needham
-      1   Richard of Saint-Victor
-      2   Richard Pape
-      1   Richard Rorty
-      1   Richard Sheridan
-      4   Richard Steele
-      2   Richard Whatley
-      1   Richard Whatly
-      1   Rick Fields
-      1   Rinni
-      1   Rinzai
-      2   R. J. Heathom
-      1   R. MacDonald Ladell
-      3   Robert Adams
-      1   Robert Aiken
-      1   Roberta Jean Bryant
-      1   Robert A. Johiison
-      4   Robert A. Johnson
-      1   Robert Alden
-      1   Robert A. Russell
-      1   Robert Assagioli
-      2   Robert A. Willmott
-     15   Robert Benson
-      2   Robert Bly
-      1   Robert Bolton
-      1   Robert Boyle
-      8   Robert Browning
-      1   Robert Bums
-      1   Robert Burton
-      1   Robert Byrne
-      2   Robert Cecil
-      1   Robert C. Edwards
-      1   Robert C. Linter
-      1   Robert Coleman
-      8   Robert Collier
-      2   Robert C. Solomon
-      1   Robert C. Winthrop
-      1   Robert E. Burton
-      1   Robert Eliot
-      1   Robert Elliot
-      2   Robert F. Kennedy
-      1   Robert Freeman
-      1   Robert Fritz
-      5   Robert Frost
-      1   Robert Fulghum
-      1   Robert G. Allman
-      1   Robert Goddard
-      1   Robert Grudin
-      1   Robert Hall
-      1   Robert Henri
-      1   Robert Herrick
-      1   Robert Herrman
-      1   Robert H. Schauffler
-      1   Robert H. Schuller
-      1   Robertine Maynard
-     15   Robert Ingersoll
-      1   Robert J. Burdette
-      2   Robert Jones Burdette
-      1   Robert J. Turnbull
-      1   Robert Leighton
-      1   Robert Lloyd
-     19   Robert L. Stevenson
-      1   Robert Lynd
-      1   Robert Moore
-      7   Robert Mueller
-      8   Robert Muller
-      2   Robert O’Brien
-      1   Robert Powell
-      2   Robert Quillen
-      1   Robert Schaffer
-     18   Robert Schuller
-      1   Robert S. Ellwood
-      3   Robert S. MacArthur
-      4   Robert Smith
-      1   Robertson Davies
-      4   Robert South
-      2   Robert Southey
-      1   Robert Southle
-      2   Robert Veninga
-      3   Robert W. Buckingham
-      1   Rob Gilbert
-      1   Robin Casarjian
-      1   Robin Worthington
-      1   Roderick Thorp
-      2   Rod McKuen
-      1   Roger Ascham
-      1   Roger Babson
-      1   Roger de Busy-Rabutin
-      1   Roger L'Estrange
-      3   Roger L’Estrange
-      1   Roger Walsh
-      1   Rollo May
-      1   Romain Rolland
-     13   Ronald Beesley
-      1   Ronald Blythe
-      1   Ronnie Fisher
-      1   Ron Smothemion
-      9   Ron Smothermon
-      1   Ron Watson
-      1   Roshi P. Kayleau
-      1   Rossiter Raymond
-      2   Roswell D. Hitchcock
-      1   Roswell Hitchcock
-      1   Royal Egyptian Tomb, 2500 B.C.
-      1   Roy E. Davis
-      1   Roy M. Goodman
-      1   Ruby Doe
-      1   Rudolph Block
-      1   Rudolph Flesch
-      3   Rudyard Kipling
-      1   Rufus Jones
-      1   Rufus M. Jones
-      1   Rufus W. Griswold
-     12   Rumi
-      1   Russell Green
-      3   Russell H. Conwell
-      4   Russian proverb
-      1   Ruth Benedict
-      1   Ruth Gordon
-      3   Ruth Hanna
-      1   RuZhijuan
-      1   R. W. Wilde
-      2   Ryllis G. Lynip
-      1   Ryszard Kapuscinski
-      8   Saadi
-      1   Sahajananda
-      1   Said Alinsky
-      1   Sa’idibn AbiTKhayr
-      1   Sally Kempton
-      1   Sally Koch
-      1   Sam E. Roberts
-      1   Sam Goldwyn
-      1   Samhita
-      1   Sam Keen
-      6   Samuel Butler
-      1   Samuel Coleridge
-      2   Samuel Gregory
-      1   Samuel Hirsch
-      1   Samuel Hoffenstein
-     37   Samuel Johnson
-      1   Samuel Longfellow
-      1   Samuel Lucas
-      1   Samuel Luzzatto
-      1   Samuel M. Crothess
-      1   Samuel M. Shoemaker
-      1   Samuel Rutherford
-      7   Samuel Smiles
-      5   Samuel T. Coleridge
-      6   Sanaya Roman
-      3   Sankara
-      2   Sankaracharya
-      1   Sankhya-yoga
-      1   Sanskrit saying
-      2   Santi-deva
-      1   Santon ki Shiksha
-      1   Sappho
-      1   Sarada Devi
-      9   Saradamma
-      1   Saraha
-      1   Sara J. Hale
-      1   Sara Kay Cohen
-      1   Sarvepalli Radhakrishnan
-     16   Satchidananda
-     64   Sathya Sai Baba
-      1   Saul Alinsky
-      1   Saul Bellow
-      1   Saul Chemihovsky
-      1   Scandinavian saying
-      1   Schemuel Ha-Nagid
-      1   Scott Turow
-      1   Scudder Parker
-      1   Sdren Kierkegaard
-      3   Sebastien Chamfort
-     94   Seneca
-      1   Seng ts'an
-      4   Seng-ts’an
-      1   Seng Ts’an
-      1   Seng-Ts’an
-      1   Sen Ts’an
-      1   Seth
-      6   Sevakram
-      3   Sextus, the Pythagorean
-      1   Shabistari
-      6   Shakti Gawain
-      1   Shalom Aleichem
-      1   Shams Tabriz
-      1   Shankara
-      1   Shankaracharya
-     77   Shantidasa
-      1   Shan tidasa
-      1   Shao Yung
-      1   Sharon Garell
-      1   Shaykh Ahmad al’Alawi
-      2   Shekel Hakodesh
-      1   Shekel Hakoodesh
-      1   Sheldon Cheney
-      1   Sheldon Shepard
-      1   Shems Tabriez
-      2   Shem Tob Falaquera
-      1   Shen Hai
-      1   Shen Hui
-      1   Shepherd ofHermas
-      1   Sherwood Anderson
-      1   Sherwood Eddy
-      1   Shih King
-      1   Shinto saying
-      4   Shirdi Sai Baba
-      2   Shirley Briggs
-      1   Shirley H. Jeffrey
-      7   Shirley MacLaine
-      1   Shit ou
-      1   Shmuel Agnon
-      1   Shnone Weil
-      1   Shu King
-      6   Shunryu Suzuki
-      1   Siddharameshwar
-      1   Sidney Dark
-      1   Sidney Harris
-      1   Sidney Lanier
-      1   Sidney Smith
-      6   Sigmund Freud
-      1   Sikh proverb
-      1   Silas Bent
-      1   Silvio Pellico
-      1   Simon Eleazar
-      1   Simone Signoret
-      7   Simone Weil
-      1   Simon Weil
-      1   Sister Consolata
-      1   Sitting Bull
-      1   Sivabhoga Saram
-      1   Sivaiianda
-    110   Sivananda
-      1   Sivanarida
-      1   Sivanatxda
-      1   Sivatianda
-      1   Smiaya Roman
-      1   Smiley Blanton
-      1   S. Nazir
-     20   Socrates
-      3   Sogyal Rinpoche
-      1   Soichiro Honda
-      5   Solomon Ibn Gabirol
-      1   Solomon Rubin
-      7   Somerset Maugham
-      3   Sonya Friedman
-     17   Sophocles
-     13   Soren Kierkegaard
-      1   Soreti Kierkegaard
-      2   Spanish proverb
-      1   S. Radhakrishnan
-      7   Srimad Bhagavatam
-      3   St. Ambrose
-      1   Stanislas Bouttlers
-      1   Stanislaus I
-      1   Stanley Arnold
-      2   Stanley Baldwin
-      1   Stanley C. Allyn
-      1   Stanley Keleman
-      1   Stanley Lindquest
-      1   St. Anthony
-      1   St. Antony the Great
-      1   St. Athanasius
-      1   St. Basil
-      1   -St. Bernard
-      7   St. Bernard
-      1   St. Cadoc
-      1   St. Clement
-      2   St. Dionysius
-      1   Stephanie Rhea
-      6   Stephen H. Wolinsky
-      1   Stephen Larsen
-      1   Stephen Leacock
-      6   Stephen Levine
-      1   Stephen Mitchell
-      1   Stephen M. Paulson
-      7   Stephen R. Covey
-      1   Stephin Levine
-      1   Stewart Alsop
-      1   Stewart Emery
-      1   Stewert C. Easton
-      4   St. Jerome
-      3   St. Mark, the Ascetic
-      1   St. Maximus
-      1   St. Nilus
-      2   Stonewall Jackson
-      1   Storm Jameson
-      2   St. Thomas
-      1   Stuart Holroyd
-      3   Stuart Wilde
-      1   Studdert Kennedy
-      1   Stu Mittleman
-      1   Subhadra Bhihshu
-      1   Subramania Bharati
-      1   Sue A. Ebaugh
-      1   Sue Sikhing
-      1   -Sue Sikking
-      2   Sue Sikking
-      1   Sue Wahlroos
-      1   Sufii saying
-      1   Sufi proverb
-     17   Sufi saying
-      1   Sufi Saying
-      1   Sujata
-      1   Sunnah
-      3   Sun Tzu
-     10   Sunyata
-      1   Surya Singer
-      2   Susan B. Anthony
-      1   Susan Marcotte
-      1   Susan Partnow
-      2   Susan Smith Jones
-      1   Suzuki Roshi
-      1   Sven Halla
-      1   Swami Beyondananda
-      1   Swami Rama
-      2   Swedish proverb
-      1   S. Weir Mitchell
-      2   Sydney J. Harris
-      7   Sydney Smith
-      1   Symeon, the New Theologian
-      1   Synesius
-      6   Tacitus
-      3   Taisen Deshimaru
-      1   Tai-Shang
-      1   T’ai Shang Kan Ying P’ien
-      1   Takuan
-      2   Tancred
-      1   Tanna Akiba
-      1   Taoist saying
-      1   Tao saying
-      1   Tapovan Maharaj
-      1   Tarthang Tulku
-      2   Tauler
-      1   Ted Shackelford
-      9   Teilhard de Chardin
-      1   T. E. Lawrence
-      5   Terence
-     14   Teresa of Avila
-      1   Teresa of A vila
-      3   Tertullian
-      3   Thaddeus Golas
-      1   Thales
-     15   The Aquarian Gospel
-      1   The Cure d’Ars
-      1   The Magi
-      1   The Masnavi I Ma’Naui
-      1   The Mishnah
-      1   The Mountain Path
-      1   Theo Bovet
-      1   Theodora Wells
-      2   Theodore I. Rubin
-      1   Theodore Martin
-      1   Theodore Monger
-      2   Theodore Munger
-      2   Theodore Parker
-      1   Theodore Reik
-      5   Theodore Roosevelt
-      2   Theodore Roszak
-      1   Theologica Germanica
-      1   Theophrastus
-      1   The Pali Canon
-      1   The Prayer of an UnknownConfederate Soldier
-      1   Theresa ofLisieux
-      1   Theresa of Lisieux
-     32   The Talmud
-     26   The Upanishads
-      1   The Uyanishads
-      1   The Wizard of Oz
-      1   TheZohar
-     11   The Zohar
-      2   Thich Nhat Hanh
-      3   Thick Nhat Hanh
-      1   Third Zen Patriarch
-      2   Thomas Adams
-      3   Thomas A. Edison
-     23   Thomas a Kempis
-      1   Thomas a Kemp is
-      1   Thomas Allen
-     15   Thomas Aquinas
-      1   Thomas Bacon
-      1   Thomas B. Aldrich
-      2   Thomas B. Brooks
-      1   Thomas Bentham
-      1   Thomas Binney
-      1   Thomas B. Macaulay
-      1   Thomas Brooks
-      1   Thomas Brown
-     10   Thomas Browne
-      1   Thomas Browne All evils are negations....
-      1   Thomas Burbridge
-      1   Thomas Buxton
-     30   Thomas Carlyle
-      1   Thomas Cooper
-      1   Thomas Cru m
-      1   Thomas C. Wolfe
-      1   Thomas Dekker
-      2   Thomas De Quincey
-      1   Thomas d Kempis
-      1   Thomas Dreier
-      1   Thomas Drummond
-      3   Thomas Edison
-     19   Thomas Fuller
-      2   Thomas Guthrie
-      1   Thomas Haliburton
-      1   Thomas Harris
-      1   Thomas H. Huxley
-      1   Thomas Hobbes
-      1   Thomas Hodgkin
-      1   Thomas Horder
-      1   Thomas Hughes
-      4   Thomas Huxley
-      7   Thomas Jefferson
-      1   Thomas J. Watson
-      1   Thomas Keating
-      1   Thomas Kelly
-      1   Thomas Malloy
-      5   Thomas Mann
-     18   Thomas Merton
-      2   Thomas M. MacDonald
-      1   Thomas Moore
-      5   Thomas More
-      1   Thomas Otway
-     11   Thomas Paine
-      2   Thomas R. Kelly
-      1   Thomas Seeker
-      2   Thomas Shadwell
-      1   Thomas Sowell
-      1   Thomas Sprat
-      2   Thomas Szasz
-      3   Thomas Traherne
-      1   Thomas Troward
-      1   Thomas Watson
-      1   Thomas Wilson
-      1   Thornton Wilder
-      1   Thoyyias a Kempis
-      4   Thurman Fleet
-      1   T. H. White
-      1   Tibetan Book of the Dead
-      2   Tibetan proverb
-      7   Tibetan saying
-      1   Timothy Dwight
-      1   TI]omas a Kempis
-      1   Tirmizi
-      1   Tkaddeus Golas
-      2   Tom Hirshfield
-      1   Tom Kubistant
-      1   Tom Peters
-      1   Tom Robbins
-      6   Tom Seeley
-      1   Tonna Ben Zona
-      1   Tony Richardson
-      1   Toyoh iko Kagawa
-      1   Trimalchio
-      7   Tripura Rahasya
-      1   Trygve Lie
-      1   Try on Edwards
-     20   Tryon Edwards
-      8   T. S. Eliot
-      1   Tse-sze
-      1   Tuharam
-      1   Tulsi Das
-      4   Turiyananda
-      1   Turkish proverb
-      1   U. G. Krishnamurti
-      1   Ulysses S. Grant
-      1   Union Prayer Book
-      1   Upton Sinclair
-      5   Ursula K. LeGuin
-      1   Ursula LeGuin
-     14   U. S. Anderson
-      2   Vachaka Kovia
-      1   Van der Leeu w
-      1   Vayu-Purana
-      1   Vedic saying
-     18   Vernon Howard
-      1   Vespasian
-      1   Vicki Baum
-      1   Victor Borge
-      1   Victor Cousin
-      1   Victor de Laprade
-      2   Victor Franhl
-      4   Victor Frankl
-     12   Victor Hugo
-      1   Vijaya L. Pandit
-      4   Vilayat I. Khan
-      7   Vimala Thakar
-      1   Vince Lombardi
-      2   Vincent de Paul
-      1   Vincent McNabb
-      1   Vincent Van Gogh
-      1   Vinobe Bhave
-      1   Viola Spolin
-      3   Virgil
-      1   Virginia Sale
-      4   Virginia Woolf
-      2   Vittorio Alfieri
-      2   Vivehananda
-     25   Vivekananda
-      1   Vivien Larrimore
-      1   Vladimir I. Lenin
-      1   Vladimir Nabokov
-     24   Voltaire
-      1   Vonda K. Van Dyke
-      1   Walt Disney
-      1   Walter A. Keers
-      1   Walter Anderson
-      3   Walter Bagehot
-      1   Walter B. Cannon
-      1   Walter B. Wolf
-      4   Walter B. Wolfe
-      2   Walter C. Alvarez
-      1   Walter Hilton
-      1   Walter Lander
-      1   Walter Lippmann
-      1   Walter M. Horton
-      1   Walter Mondale
-      1   Walter Rathenau
-      5   Walter Russell
-      2   Walter Scott
-      3   Walter S. Landor
-      1   Walter Starche
-      4   Walter Starcke
-      2   Walter Winchell
-     13   Walt Whitman
-      6   Wang Yang Ming
-      1   Wang Ying Ming
-      2   Warren Bennis
-      7   Washington Irving
-      1   Watchman Nee
-     13   Wayne Dyer
-      1   W. C. Alvarez
-      1   W. C. Fields
-      1   W. C. Magee
-      1   W. D. Hoard
-      1   Webb B. Garrison
-      2   Welsh proverb
-      4   Wendell Phillips
-      1   Wendy Kaminer
-      1   Wendy Ward
-      3   Werner Erhard
-      2   Werner Heisenberg
-      2   Werner von Braun
-      1   Werner Von Braun
-      3   Wess Roberts
-      1   West African proverb
-      1   W. G. Jordan
-      4   W. H. Auden
-      1   Whitall N. Perry
-     13   White Eagle
-      1   Whitney S. Seymour, Jr.
-      1   Whittaker Chambers
-      1   Wiess Roberts
-      1   Wilferd A. Peterson
-      1   Wilferd Peterson
-      1   Wilfred Peterson
-      1   Wilfred T. Grenfell
-      1   Wilhelm Reich
-      1   Wilhelm Stekel
-      1   Wilhelm von Humboldt
-      1   Wilkie Collins
-      1   Will a Cather
-      4   Willa Cather
-      1   Willard Wirtz
-      1   Will Carleton
-      7   Will Durant
-      1   Will Herberg
-      2   William A. Brown
-      1   William Alfred
-      1   William Alger
-      2   William A. Ward
-      2   William A. White
-      1   William Barkley
-      2   William B. Clulow
-      1   William Beveridge
-      1   William Black
-     17   William Blake
-      1   William Bridges
-      4   William Buck
-      1   William B. Ullathome
-      1   William Burnham
-      1   William B. Villathome
-      1   William B. Yeats
-      2   William C. Bryant
-      1   William Cobbett
-      1   William Congreave
-      5   William Cowper
-      1   William Curtis
-      2   William Curtiss
-      2   William Danforth
-      1   William Davenant
-      1   William Duncan
-      1   William E. Biederwolf
-      7   William E. Channing
-      1   William E. Channiyig
-      1   William Faulkner
-      3   William Feather
-      1   William Gerber
-      3   William Gibson
-     19   William G. Jordan
-      1   William Gladstone
-      1   William G. McAdoo
-      1   William Godwin
-      1   William G. Simms
-      1   William Haditt
-      1   William Hamilton
-     18   William Hazlitt
-      1   William H. Danforth
-      1   William H. Sheldon
-      1   William Hunter
-      1   William Hutton
-      1   William H. White
-     19   William James
-      1   William Jay
-      3   William J. Bryan
-     14   William Law
-      5   William L. Phelps
-      1   William Matthews
-      1   William McFee
-      1   William Melmoth
-      4   William M. Thackeray
-      2   William O. Douglas
-      2   William Ogden
-      8   William Osier
-      2   William Paley
-     14   William Penn
-      1   William Punshon
-      1   William Rader
-      1   William R. Alger
-      3   William R. Inge
-      1   William R. Ingle
-      2   William R. Miller
-      1   William, R. Miller
-      1   William Romaine
-      1   William Rootes
-      1   William Rotsler
-      3   William Saroyan
-     29   William Shakespeare
-      1   William Shenstone
-      1   William Sherman
-      1   William Simms
-      1   William S. Ogden
-      1   William S. Plumer
-      1   William S. Sadler
-      1   William Styron
-      6   William Temple
-      1   William T. Manning
-      2   William Ullathome
-      1   William Warburton
-      4   William W. Atkinson
-      1   William Westmoreland
-      1   William Winter
-     10   William Wordsworth
-      1   Willis P. King
-      1   Will Munson
-      1   Will Rogers
-      1   Winfred Rhodes
-      9   Winston Churchill
-      1   WiU. Durant
-      1   W. J. Slim
-      1   W. M. Paxton
-      1   Wole Soyinka
-      1   Wolfgang A. Mozart
-      5   Woodrow Wilson
-      1   Woodrow Wyatt
-      1   Wright Field
-      2   W. R. Inge
-      1   W. T. Grenfell
-      1   W. Winwood Reade
-      1   Xavier de Maistre
-      1   Xenophanes
-      3   Xenophon
-      1   Yasunari Kawabata
-      1   Yeshe Dorje
-      3   Yiddish proverb
-      4   Yiddish saying
-      1   YogaSwami
-     12   Yoga Swami
-      1   Yoga Vasishtha
-     23   Yoga Vasistha
-     14   Yogi Bhajan
-      1   Yogi Bhashya
-      1   Yogi Bhujan
-      2   Yoshida Kenko
-      2   Yukteswar
-      1   Yuliya Voznesenskaya
-      1   Yves M. Congar
-      1   Zadik
-      1   Zarathustra
-      1   Zeno
-      2   Zenrin
-      5   Zen saying
-      1   Zona Gray
-      4   Zoroaster
-      1   Zoroastrian saying
+77ie Midrash Tanhama
+Aaron D. Gordon
+Aaron Halevi
+Aaron Stein
+Aaron Wildavsky
+A. A Willits
+Abba Dorotheus
+Abba Evagrins
+Abbe Pierre
+Abbey J. Delille
+Abbot Chapman
+Abbot Lee Lisan
+Abbot Pastor
+Abd-El-Raham
+Abdul Baha
+Abhedananda
+Abigail Adams
+Abigail Van Buren
+Abraham Cowley
+Abraham Hasdai
+Abraham Ibn Esra
+Abraham Ibn Ezra
+Abraham I. Kook
+Abraham J. Heschel
+Abraham Kook
+Abraham L. Feinberg
+Abraham Lhwoln
+Abraham Lincoln
+Abraham Maslow
+Abraham Myerson
+Abu Sa ’id Ibn
+Abu Said ofMineh
+Achille Poincelot
+A Course In Miracles
+Ada ir Lara
+Adair Lara
+Adam Oehlenschlager
+Adam Smith
+Adelaide Bry
+Adele Davis
+Adlai Stevenson
+Adolph Buchler
+Adrian van Kaam
+Adrian van Kaan
+Adrien-Emanuel Roquette
+Adrienne Rich
+A. E. Housman
+Aeschylus
+Aesop
+African proverb
+Agatha Christie
+Agathon
+Agnes Repplier
+Agnes Whistling Elk
+A. Haji
+Ahikar
+Ainsky Meares
+A. J. Cronin
+Akbarali H. Jetha
+Akira Yoshizawa
+Alain Lesage
+Alain LeSage
+Alan Alda
+Alan Cohen
+Alan L. McGinnis
+Alan Loy McGinnis
+Alan Paton
+Alan Watts
+Alan W. Watts
+Albertano of Brescia
+Albert Baines
+Albert Camus
+Albert E. Cliffe
+Albert Einstein
+Albert Ellis
+Albert E. Ribourg
+Albert Guidon
+Albert Rothenberg
+Albert Schweitzer
+Alden James
+Aldous Huxley
+Alexander Bloch
+Alexander Humboldt
+Alexander Maclaren
+Alexander Macleod
+Alexander M. Proudfit
+Alexander Pope
+Alexander Punshon
+Alexander Smith
+Alexander Solzhenitsyn
+Alexander Talleyrand
+Alexander Vinet
+Alexandre Dumas
+Alex Clark
+Alexis Carrel
+Alfred Adler
+Alfred A. Montapert
+Alfred B. Street
+Alfred D’souza
+Alfred E. Housman
+Alfred E. Newman
+Alfred Korzybshi
+Alfred Krebs
+Alfred Lawson
+Alfred L. Tennyson
+Alfred Marshall
+Alfred N. Whitehead
+Alfred ofAievaubc
+Alfred Ulher
+Al-Ghazali
+Al-Ghazzali
+Alice B. Rice
+Alice H. Rice
+Alice Meynell
+Alice Miller
+Allain de Lille
+Allan Kardec
+Allbert Camus
+Allen Funt
+Allen Tucker
+Alma L. Weixelbaum
+Alphonse de Lamartine
+Alphonse Karr
+Alphonsus Liguori
+Al-Tirmidi
+Amar Jyoti
+Amasa L. Stanford
+Amaury de Reincourt
+Amaury de Riencourt
+Amber M. Tuttle
+Ambrose Bierce
+Ambrose Worrall
+Amelia Barr
+Amelia Earhart
+American Indian prayer
+American Indian proverb
+American Indian saying
+Ami S. Swetchine
+Amora Levi
+Amos B. Alcott
+Amos J. Traver
+Amy & Evarts Loomis
+Anais Nin
+Anana
+Anandamayee Ma
+AnandamayiMa
+Anandamayi Ma
+Anatole France
+Ancient Greek parable
+Ancient Greek saying
+Ancient proverb
+Andre Breton
+Andre Gide
+Andre Grodin
+Andre Luiz
+Andre Maurois
+Andrew Carnegie
+Andrew Chapman
+Andrew Hamilton
+Andrew Jackson
+An drew Matthews
+Andrew Matthews
+Andrew Mercer
+Andrew Salter
+And there are other men who seem like the ocean; they are constantly bracing, stimulating, giving new drafts of tonic life and strength by their very presence.... — William G. Jordan
+Andy Rooney
+Angelique Amauld
+Angel S. Roe
+Angelus Silesius
+A. Nicolas
+Anna B. Jameson
+Anna Brown Lindsay
+Annamalai Sivami
+AnnamalaiSwami
+Annamalai Swami
+Annamalia Swami
+Annarnalai Swarni
+Anne Bradstreet
+Anne Morrow Lindbergh
+Anne Sexton
+Anne Sullivan
+Ann Herbstreith
+Annie Dillard
+Annie Dorsey
+Annie Sullivan
+Ann Liza Bray
+Ann of Austria
+Ann Ruth Schabacker
+Ann S. Swetchine
+Anonymous
+Ansari
+Anthony de Mello
+Anthony G. Greenwald
+Anthony of Padua
+Anthony Padovano
+Anthony Robbins
+Anthony Shaftesbury
+Anthony Storr
+Anthony Trollope
+Antiphanes
+Antishenes
+Antoine de Saint-Exnpery
+Antoine de Saint-Exupery
+Antoine De Saint-Exupery
+Antoine F. D’Olivet
+Antoine Rivarol
+Antoine Saint-Just
+Anton Chekhov
+Antonio Porchia
+Apache Wedding Blessing
+A. P. Gouthey
+AphraBehir
+Apocrypha: Ahikar
+Apocrypha: Aristeas
+Apocrypha: Ben Sira
+Apocrypha: Wisdom of Solomon
+Apollonius of Tyana
+Arabian proverb
+Arabian saying
+Arak Eleazar
+Archer Brown
+Archibald A. Hodge
+Archibald MacLeish
+Archibald Rutledge
+Aristippus
+Aristophanes
+Aristotle
+Arjun
+Arlin C. Hauser
+Arnold A. Hutschnecker
+Arnold Bennett
+Arnold Glasow
+Arnold Lobel
+Arnold Mindell
+Arnold Schoenberg
+Arnold Toynbee
+Artemus Calloway
+Artemus Ward
+Arthur C. Clarke
+Arthur C. Doyle
+Arthur Clutton-Brock
+Arthur Deihman
+Arthur Deikman
+Arthur D. Ficke
+Arthur Eddington
+Arthur E. Yensen
+Arthur Ford
+Arthur Gordon
+Arthur Helps
+Arthur J. Rehrat
+Arthur Keith
+Arthur Koestler
+Arthur Murphy
+Arthur Rubinstein
+Arthur Schnitzler
+Arthur Schopenhauer
+Arthur S. Hardy
+Arthur S. Roche
+Arthur Stanley
+Arthur Trudeau
+Arthur W. Pinero
+Art Lbxkletter
+Arunagirinatha
+Aryeh Kaplan
+Ashley Montagu
+Ashtavakra Gita
+Ashvaghosa
+Ashvaghosha
+A Spiritual Warrior
+Asvaghosa
+Athanasius
+Ationymous
+Attar
+Aubrey P. Andelin
+Auguste Barthelemy
+Augustine
+Augustin Fresnel
+Augusto Roa Bastas
+Augustus & Julius Hare
+August von Schlegel
+Aurobindo
+Aurobindo Ghose
+Ausonius
+Austin O’Malley
+Austin Phelps
+A. V. Deshmane
+Avicenna
+Axel Munthe
+Ayscough
+AzizNasafi
+Aziz Nasifi
+Baal Shem Tov
+Babaji
+Baba Ram Dass
+Babu Rao Patel
+Babylonian Talmud
+Bahaya
+Bahya
+Bahya Ben Asher
+Bahya Ibn Pakuda
+Bahya Ibn Paquda
+Baird Spalding
+Baltasar G. Morales
+Baltasar Gracian
+Baltasar Grecian
+Baltazar Gracian
+Barbara De Angelis
+Barbara Ehrenreich
+Barbara G. Harrison
+Barbara Hansen
+Barbara Harris
+Barbara Tuchman
+Barbara Walters
+Baron de Montesquieu
+Baruch Spinoza
+Basho
+Bassui
+Baudouin I
+Bayard Taylor
+Bayazid al-Bistami
+Bayazid Al-bistami
+Bayezid Bistami
+B. C. Forbes
+Beauty is everywhere to he or she who would behold it. When God reigns supreme in the consciousness of man, the tiniest blade of grass speaks of God’s beauty.... —Frater Achad
+Bede Frost
+Beethoven (who was deaf)
+Beilby Porteous
+Bemie Siegal
+Benazir Bhutto
+Benedetto Croce
+Ben Hecht
+Benjamin Cardozo
+Benjamin Disraeli
+Benjamin Franklin
+Benjamin Haydon
+Benjamin Hoadly
+Benjamin I. Mays
+Benjamin Jowett
+Benjamin Leeming
+Benjamin Spock
+Benjamin Whichcote
+Benjamin Whichote
+Ben Johnson
+Ben Jonson
+Ben Sirach
+Ben Weininger
+Ben Zoma
+Bergen Evans
+Bernadette Roberts
+Bernard Baruch
+Bernard de Fontenelle
+Bernard Fontanelle
+Bernard M. Baruch
+Bernard Meltzer
+Bernard of Clairvaux
+Bernard. Rimland
+Bernice Strawn
+Berthold Auerbach
+Bertrand Russell
+Bessie A. Stanley
+Bessie Head
+Betty Friedan
+Betty J. Eadie
+Betty Smith
+B. F. Skinner
+Bhagavad-Gita
+BhagavanDas
+Bhagavan Das
+Bhai Sahib
+Bhartrihari
+Bhikkhu Pesala
+BiasofPriene
+Bias of Priene
+Bill Wilson
+Billy Graham
+Black Elk
+Blackfeather
+Bla ise Pascal
+Blaise Pascal
+Bob Goddard
+Bob Hope
+Bob Morley
+Boethius
+Bo Lozoff
+Bolton Hall
+Bonar Law
+Booker T. Washington
+Boris Pasternak
+Brahmananda
+Brian Adams
+Brian Addiss
+Brilliana Harley
+Brooke Knapp
+Brother Lawrence
+Bruce A. Johnson
+Bruce Barton
+Bruce Laingen
+Bruce Springsteen
+Bruno Geba
+Buckminster Fuller
+Buddhaghosa
+Buddhist saying
+Bud Wilkenson
+Burt Struthers
+Bussy-Rabutin
+C. A. Hall
+C. Alan Anderson
+Calderon
+Calvin Coolidge
+Cameroonian proverb
+Carl Jang
+Carl Jung
+Carl Micholson
+Carlos Castaneda
+Carl Roivan
+Carl Sagan
+Carl Sandburg
+Carl Simonton
+Carl von Clausewitz
+Carl W. Miller
+Carol Chapman
+Caroline Duerr
+Caroline Norton
+Caroline Schroeder
+Carol Sheffield
+Carol Tavris
+Carol W. Parrish-Harra
+Carrie C. Catt
+Carroll Carroll
+Caterina Cibo
+Catharine M. Sedgwick
+Catherine Bauby
+Catherine Marshall
+Catherine M. Sedgwick
+Catherine of Siena
+Catherine Ponder
+Catherine Willoughby
+Catholic prayer
+Cato
+Cato the Elder
+Cavett Robert
+Cecil
+Celio Calgagnini
+Cervantes
+Cesare Lombroso
+C. F. Dole
+Chagdud Tulku
+Chandrasekhara Bharati
+Chang Heng
+Chang Po-tuan
+Channing Poliak
+Charan Singh
+Charles A. Beard
+Charles A. Bennett
+Charles Alleyn
+Charles Baudelaire
+Charles Bennett
+Charles Brower
+Charles Buxton
+Charles Capps
+Charles C. Colton
+Charles Churchill
+Charles C. Noble
+Charles C. Thompson
+Charles C. West
+Charles de Bonstetten
+Charles de Gaulle
+Charles de Secondat
+Charles Dickens
+Charles D. Warner
+Charles E. Carman
+Charles E. Jones
+Charles Eliot
+Charles F. Alsop
+Charles F. Dole
+Charles Fillmore
+Charles F. Kettering
+Charles F. Potter
+Charles Haanel
+Charles H. Cooley
+Charles H. Spurgeon
+Charles Johnson
+Charles Kettering
+Charles Kingsley
+Charles Knight
+Charles L. Allen
+Charles Lamb
+Charles L. Eliot
+Charles Lindbergh
+Charles L. Morgan
+Charles Machay
+Charles Machlin
+Charles Mayo
+Charles Montesquieu
+Charles M. Schwab
+Charles Parkhurst
+Charles P. Curtis
+Charles Peguy
+Charles P. Steinmetz
+Charles R. Brown
+Charles R. Gow
+Charles R. Loss
+Charles Rollin
+Charles R. Swindoll
+Charles S. Chaplin
+Charles Secretan
+Charles Simmons
+Charles S. Pearce
+Charles Spurgeon
+Charles Sumner
+Charles Swindoll
+Charles T. Tart
+Charles Wagner
+Charlie W. Shedd
+Charlotte Bronte
+Charlotte Lennox
+Charlotte P. Gilman
+Charlton Ogbum,Jr.
+Chauncey M. Depew
+Cheryl Canfield
+Chester A. Pennington
+Chester Charles
+Chidananda
+Ch idananda
+Chief Seattle
+Chinese parable
+Ch inese proverb
+Chinese proverb
+Chinmoy
+Chogyam Tningpa
+Chogyam Trungpa
+C. H. Parkhurst
+Christian Bovee
+Christian D. Larson
+Christina of Sweden
+Christopher Crunch
+Christopher Morley
+C. H. Spurgeon
+C. H. Teear
+ChuangTse
+Chuang Tse
+Chu Hui Weng
+Chungliang Al Huang
+Cicero
+Cindy Adams
+C. Jeff Miller
+Clara Thompson
+Clarence Darrow
+Clarita de Forceville
+Clark E. Moustakas
+Claude A. Helvetius
+Claude Bernard
+Claude Bristol
+Claude Helvetius
+Claude M. Bristol
+Claude McKay
+Claud H. Foster
+Claudianus
+Clement of Alexandria
+Clement Stone
+Cleveland Amory
+Clifton Fadiman
+Clyde M. Narrimore
+C. Northcote Parkinson
+Colette Dowling
+Colin L. Powell
+Comenius
+Comte de Buffon
+Comte de Rivarol
+Comte de Saint Germaine
+Comtesse de Gasparin
+Comtesse Diane
+Confucius
+Constance Warren
+Constantin Brancusi
+Conyers Middleton
+Coqosh Auh-Ho-Oh
+Corinne U. Wells
+Corita Kent
+Corliss Lamont
+Corra M. Harris
+C. P. Snow
+Craig Carter
+Creole proverb
+C. S. Lewis
+Cuthbert Hall
+C. W. Ceran
+Cyril Connolly
+Cyrus A. Bartol
+Cyrus the Great
+Dadu
+Da Free John
+Dag Hammarskjold
+Dalai Lama
+Dale Carnegie
+Dale Evans Rogers
+Daniel Brinkley
+Daniel d’Ancheres
+Daniel J. Boorstin
+Daniel Webster
+Daniel Wilson
+Danilo Dolci
+Danish proverb
+Dan Millman
+Dante Alighieri
+Dante Al igh ieri
+Darcy Maxwell
+Darryl F. Zanuck
+Darwin Gross
+Darwin P. Kingsley
+Dave Seabury
+Dave T. Gentry
+David Abrahamsen
+David A. Cooper
+David Alroy
+David Augsberger
+David D. Bums
+David Frost
+David G. Myers
+David Grayson
+David Gunston
+David H. Lawrence
+David Hopkinson
+David Hume
+David Koffman
+David K. Reynolds
+David L. Brown
+David L. George
+David Liederman
+David Mamet
+David Manners
+David Meltzer
+David Norris
+David Reuben
+David Schwartz
+David Seaburi
+David Seabury
+David S. Jordan
+David Storey
+David Thomas
+David Viscott
+D. C. Peattie
+Dean Acheson
+Dean H. Hancock
+Dean Inge
+Dean Oriush
+Dean Ornish
+Dean Rusk
+Deepak Chopra
+Deepa Kodihal
+DeepaKodikal
+Deepa Kodikal
+Delia Smith
+De Lubicz
+dement Stone
+Democritus
+Demosthenes
+Deng Ming-Dao
+Denis de Rougemont
+Denis Diderot
+Denis Waitley
+Denis Wheatley
+Dennis Wholey
+Der Ackennon aus Bohmen
+Desiderata
+DeWitt Wallace
+D. G. M. Jackson
+Dhammapada
+D. H. Lawrence
+Diamond Sutra
+Diane Johnson
+Dick Carlson
+Dick Gregory
+Dietrich Bonhoejfer
+Dimitri Mitropoulos
+Dinah M. Craik
+Diogenes
+Discipline
+Divani Shamsi Tabriz
+Dodie Smith
+D. O. Flynn
+Dogen-zenji
+Dolores Huerta
+Dom Bede Griffiths
+Dom Stephen
+Donald B. Ardell
+Donald C. Peattie
+Donald Curtis
+Donald G. Mitchell
+Donald H. McGannon
+Donald Trump
+Donald Tubesing
+/. Donald Walters
+Dongshan
+Don J. Chapman
+Donna Schaper
+Don Robinson
+Dore Schary
+Doris Lessing
+Doris Webster Havice
+Dorothy Dix
+Dorothy Law Nolte
+Dorothy L. Sayers
+Dorothy McCall
+Dorothy Strange
+Dorthea Brande
+Doug King
+Doug Larson
+Douglas Bloch
+Douglas Fairbanks
+Douglas Jerrold
+Douglas Lurton
+Douglas MacArthur
+Douglas Meador
+Dr. Trumbull
+D. T. Suzuki
+Duane Elgin
+Dugald Stewart
+Duke Ellington
+Dwight D. Eisenhower
+Dwight D. Moody
+Dwight L. Moody
+E. A. Peel
+Earl Nightingale
+Earl Warren
+Earnest Jones
+Eastern proverb
+E. B. Hall
+E. B. White
+Ecclesiastes
+E. Cole Ingle
+Eda LeShan
+Eddie Richenbacker
+Eddie Rickenbacker
+Edgar A. Guest
+Edgar A. Poe
+Edgar Cayce
+Edgar Guest
+Edgar N. Jackson
+Edgar W. Howe
+Edith Hamilton
+Edith Wharton
+Edmmid Burke
+Edmond Bordeaux
+Edmund A. Brasset
+Edmund B. Szekely
+Edmund Bulwer-Lytton
+Edmund Burke
+Edmund Spenser
+Edmund Waller
+Edna Ferber
+Edward Bidwer-Lytton
+Edward B. Newill
+Edward Bulwer-Lytton
+Edward Car/)enter
+Edward Carpenter
+Edward Clarendon
+Edward Clarke
+Edward Dahlberg
+Edward de Bono
+Edward Dowden
+Edward Eggleston
+Edward F. Garesche
+Edward Gibbon
+Ed ward Hei-bert
+Edward Payson
+Edward Pay son
+Edward R. Murrow
+Edward Simmons
+Edward Turner
+Edward Young
+Edwin Abbey
+Edwin Arnold
+Edwin Bulwer-Lytton
+Edwin C. Bliss
+Edwin H. Chapin
+Edwin Keith
+Edwin Markham
+Edwin Markin
+Edwin P. Whipple
+Edwin & Sally Kiester
+Edwin W. Teale
+Egon Friedell
+E. Herman
+Eileen Caddy
+Ekai
+Eknath Easwaran
+Elaine Hibbard
+Elbert Hubbard
+Eldridge Clea ver
+Eleanor Roosevelt
+El-Ghazali
+Elias Auerbach
+Elias Canetti
+Elie Wiesel
+Elinor MacDonald
+Eliphas Levi
+Elisabeth Kubler-Ross
+Elizabeth B. Browning
+Elizabeth Bowen
+Elizabeth C. Dunn
+Elizabeth C. Stanton
+Elizabeth Gawain
+Elizabeth Gray Vining
+Elizabeth Kenny
+Elizabeth O. Smith
+Ella Wheeler Wilcox
+Ellen Key
+Ellen Kreidman
+Elmer H. Bobst
+Elsie De Wolfe
+Elsie Morgan
+El-Zubeir
+Emanuel Swedenborg
+E. M. Cioran
+E. M. Forster
+Emil Brunner
+EmilEbers
+Emile Coue
+Emile Cove
+Emily Bronte
+Emily Dickinson
+Emily Post
+eminent men, lest we fall into the common error of condemning what we do not understand.... — Quintilian
+Emma Goldman
+Emma H. Willard
+Emmanuel
+Emmeline Pethich-Lawrence
+Emmet Fox
+Emory Ward
+Empedocles
+E. Nesbit
+English proverb
+Epictetus
+Epicurus
+Erasmus
+Erica Jong
+Eric Berne
+Eric Butterworth
+Eric Fromm
+Erich Fromm
+Erich Fromn
+Erich Heller
+EricHoffer
+Eric Hoffer
+Erik H. Erikson
+Erik Plamstiema
+Ernest Becker
+Ernest C. Wilson
+Ernest Hemingway
+Ernest Hoimes
+Ernest Holmes
+Ernestine Schumann-Heink
+Ernest Jones
+Ernest Renan
+Ernest Wilson
+Ernie Larson
+Errol Strider
+Erskine Mason
+Erwin Schrodinger
+Esco Brown
+E. Stanley Jones
+Etu Inagaki Sugimoto
+Eugene Delacroix
+Eugene O’Neill
+Euripides
+Eusebius Hieronymus
+Eva-Lisa Manner
+Evelyn Underhill
+Evelyn Waugh
+Everett Martin
+Every man from king to peasant has a certain amount of sorrow. Even in cases where it seems absent, it is only a time factor that makes you think so— sooner or later it comes....One man may not question sorrow or God at the first blow but he is likely to do so at the fifth blow. We have taken this vehicle in order to know our real state....
+E. W. Howe
+Ezra Pound
+Faith Baldwin
+Faith Forsyte
+fames W. Jones
+Fannie Brice
+Farid Attar
+F. Augustine Baker
+Fawn M. Brodie
+Felicia D. Hemans
+Felix Adler
+Felix Frankfurter
+Fenwick Holmes
+Ferdinand Lassalle
+ferem y Bentham
+Ferid Ed-dim Attar
+Fernando Rojas
+Fernando Savater
+F. H. Bradley
+find satisfaction with —Keri Hulme
+Flavius Josephus
+Florence Nightingale
+Florence Scovel Shinn
+Florence S. Shinn
+Florinda Donner
+Floyd & Eve Corbin
+Fortune de Felice
+Francesco Guicciardini
+Frances E. Willard
+Frances Hutcheson
+Frances Wickes
+Francine Klagsbrun
+Francis Bacon
+Francis Beaumont
+Francis de Sales
+Francis G. Wickes
+Francis Hegmeyer
+Francis Johnson
+Francis of Assisi
+Francis Quarles
+Francis R. Havergal
+Francis R. Haver gal
+Francis Sales
+Francis Scott Key
+Francis Thompson
+Francis Xavier
+Francois D. Pressense
+Francoise de Maintenon
+Francoise Sagan
+Francois Fenelon
+■?—Francois Guizot
+Francois La Rochefoucauld
+Francois Mauriac
+Francois Rabelais
+Frank Case
+Frank Clark
+Frank Colby
+Frank Crane
+Frankie Byrne
+Frank I. Fletcher
+Franklin D. Roosevelt
+Franklin P. Adams
+Franklin P. Jones
+Frank L. Wright
+Frank M. Colby
+Frank Richelieu
+Frantisek Dostal
+Franz Grillparzer
+Franz Hartmann
+Franz Kafha
+Franz Kafka
+Franz Rosenzweig
+Franz Werfel
+FraterAchad
+Frater Achad
+Frederic Farrar
+Frederich Robertson
+Frederick Buechner
+Frederick Douglass
+Frederick H. Hedge
+Frederick Langbridge
+Frederick Loewe
+Frederick M. Vinson
+Frederick Robertson
+Frederick Saunders
+Frederick the Great
+Frederick W. Faber
+Frederick W. Robertson
+Frederick W. Ziegler
+Frederic W. Farrar
+Fred Rogers
+Fred Va7i Amburgh
+Fred Van Amburgh
+Fred Van Amburgh Sadness is so ungrateful....
+Fred Van Arnburgh
+French proverb
+French saying
+Fridtjof Nansen
+Friedrich Engels
+Friedrich von Novalis
+Friedrich Von Novalis
+Friedrich von Schiller
+Friedrich W. Neitzsche
+Friedrich W. Nietzsche
+Frithjof Schuon
+Fritjof Capra
+Fritz Kunkel
+Fritz Peris
+Froebel
+F. Scott Fitzgerald
+Fulke Greville
+Fulton f. Sheen
+Fulton J. Sheen
+Fulton Oursler
+Fydor Dostoyevsky
+Fyodor Dostoyevsky
+Gabriel Harvey
+Gail Godwin
+Galen
+Galileo Galilei
+Gamaliel Bailey
+Gampopa
+Gardner Hunting
+Garrison Keillor
+Gary Busey
+Gary Emery
+Gary Player
+Gary Zuka v
+Gaston Bachelard
+Gaude A. Helvetius
+Gaude Bristol
+Gautama Buddha
+Gayatri Devi
+Gayelord Hauser
+Gene E. Clark
+Geoffrey F. Fisher
+Geoffrey Norman
+Georg Brandes
+Georg C. Lichtenberg
+Georg C. Lichteriberg
+George A. Gordon
+George Anderson
+George A. Sacher
+George B. Cheever
+George Bemaos
+George Boa rdma n
+George B. Shaw
+George Buckinghain
+George Buttrick
+George Byron
+George Chapman
+George D. Boardman
+George E. Carpenter
+George Eliot
+George Fernandes
+George Fisher
+George Fox
+George Herbert
+George H. Hepworth
+George Higgins
+George H. Lewes
+George H. Lorimer
+George H. Lo rimer
+George Home
+George Hubert
+George I. Gurdjieff
+George Jackson
+George J. Nathan
+George J. Watham
+George Leonard
+George Luks
+George Macdonald
+George MacDonald
+George M. Adams
+George Meredith
+George Muller
+George Patton
+George Porter
+George Prentice
+George Rees
+George Reo
+George R. White
+George Sand
+George Santayana
+George S. Arundale
+Georges Braque
+Georges Clemenceau
+George Sewell
+George S. Hillard
+Georges L. Buff on
+George S. Merriam
+George S. Odiome
+George S. Patton
+George Trevelyan
+George W. Carver
+George W. Crile
+George W. Curtis
+George Will
+Georg W. Hegel
+Gerald G. May
+Gerald Heard
+Geraldine Coster
+Gerald Jampolsky
+Gerald May
+Gerald Vann
+Gerald W. Johnson
+Gerard M. Hopkins
+Gerhard Adler
+German aphorism
+German proverb
+Gertrude Stein
+Giacomo Leopardi
+Giancarlo Menotti
+Gifford Howell
+Gilbert Arland
+Gilbert Murray
+Gilbert West
+Giordano Bruno
+Gisela Richter
+Giuseppe Mazzini
+G. Jean Anderson
+G. K. Chesterton
+G. K. Neilson
+Glenda Taylor
+Gloria Steinem
+Goffried Leibniz
+Gopala Swamy
+Gordon Palmer
+Gordon P. Miller
+Gospel of Philip
+Gospel of Phillip
+Gospel of Thomas
+Gottfried Leibnitz
+Grace Cooke
+Grace Hanson
+Grade Fields
+Graham Greene
+Greek proverb
+Gregory the Great
+Gregory Vlastos
+Grenville Kleiser
+Gretta B. Palmer
+Guiseppe Mazzini
+Gurudev
+Gustave Flaubert
+Guy de Maupassant
+Guy L. Playfair
+G. V. Sabbaramayya
+G. V. Subbaramayya
+Hafiz
+Haidakhan Aarati
+Hairy E. Fosdick
+Hakuin
+Hannah Arendt
+Hannah More
+Hannah W. Smith
+Hannibal
+Hans Christian Andersen
+Hans Dench
+Hans Hofmann
+Hans Selye
+Hans-Ulrich Rieher
+Hans-Ulrich Rieker
+Hans-Ulrick Rieker
+Han Suyin
+Hari Das Baba
+Hari Dass
+Harold Bloomfield
+Harold Burr
+Harold Coffin
+Harold H. Bloomfield
+Harold J. Laski
+Harold Kushner
+Harold Laski
+Harold Marshall
+Harold Nye
+Harold Sherman
+Harold S. Hubert
+Harold S. Kushner
+Harold V. Melchert
+Harper Lee
+Harriet Beecher Stowe
+Harriet Rochlin
+Harrison E. Salisbury
+Harry A Overstreet
+Harry A. Overstreet
+Harry A. Wolfson
+Harry Browne
+Harry Chapin
+Harry E. Fosdich
+Harry E. Fosdick
+Harry Houdini
+Harry Sackler
+Harry S. Sullivan
+Harry Truman
+Harry Wolfson
+Hartley Coleridge
+Hartly Coleridge
+Harvey Cushing
+Harvey Day
+Harvey Eagan
+Hasidic saying
+Havelock Ellis
+Hazel B. Andre
+Hazif Divan
+Hazrat Inayat Khan
+H. Bertram Lewis
+H. B. Jeffery
+Hebrew proverb
+Hebrew saying
+Heide Quade
+Heiiry Home
+Heinrich Heine
+Helen Hayes
+Helen Keller
+Helen Reddy
+Helen Steiner Rice
+Helen Tworkov
+Helen Wodehouse
+Helmuth von Moltke
+Heloise
+Hem'll W. Longfellow
+Hem~yD. Thoreau
+Hendrik W. Van Loon
+Henepola Gunartana
+Henri Bergson
+Henri F. Amiei
+Henri F. Amiel
+Henri F. Arniel
+Henri Focillon
+Henrik Ibsen
+Henri Nouwen
+Henry Adams
+Henry Austin
+Henry Bohn
+Henry C. Bonnerman
+Henry Chester
+Henry D. Lloyd
+Henry Drummond
+Henry D.Thoreau
+Henry D. Thoreau
+Henry F. Amiel
+Henry F. Am iel
+Henry Fergus
+Henry Fielding
+Henry Ford
+Henry G. Bohn
+Henry George
+Henry Home
+Henry Hurwitz
+Henry IV. Longfellow
+Henry James
+Henry J. Nouwen
+Henry L. Doherty
+Henry Lindlahr
+Henry Link
+Henry L. Mencken
+Henry L. Stimson
+Henry Mackenzie
+Henry Madathanas
+Henry M. Dexter
+Henry Miller
+Henry O. Lloyd
+Henry P. Davidson
+Henry S. Haskins
+Henry S. Hawkins
+Henry S. Holland
+Henry Stimson
+Henry Suso
+Henry Taylor
+Henry T. Hamblin
+Henry T. Ha m bl in
+Henry T. Hambl in
+Henry van Dyke .
+Henry Van Dyke
+Henry Vaughan
+Henry W. Beecher
+Henry W. Longfellow
+Henry W. Shaw
+Heraclitus
+Herbert B. Swope
+Herbert Casson
+Herbert G. Wells
+Herbert Hoover
+Herbert Kaufman
+Herbert M. Shelton
+Herbert Otto
+Herbert Samuel
+Herbert Seibert
+Herbert Spencer
+Herman Melville
+Hermann Cohen
+Hermann Hesse
+Hermes
+Herodotus
+Herophilies
+Hesiod
+Heywood Brown
+H. F. Kletzing
+H. Frederick Vogt
+H. G. Wells
+Hilary Worth
+Hilda Charlton
+Hildebert ofLavardin
+Hillel
+Hindu proverb
+Hindu saying
+Hindu sutra
+Hindu vow
+Hippocrates
+Hiram Johnson
+Hitopadesa
+Hitopodesa
+HiUel
+H. Jackson Brown
+H. L. Hunt
+H. L. Mencken
+Hodding Carter
+Homer
+Homi Kharas
+Honey J. Rubin
+Honore de Balzac
+Honors de Balzac
+Horace
+Horace Bushnell
+Horace Fletcher
+Horace Greeley
+Horace J. Bridges
+Horace Mann
+Horace Walpole
+Horatius Bonar
+Hosea Ballou
+Howard Sherman
+H. P. Blavatsky
+H. R. L. Sheppard
+H. Spenser Lewis
+Huai Nan Tzu
+Huang Po
+Hubert van Zeller
+Hugh Blair
+Hugh Downs
+Hugh of Saint-Victor
+Hugh Prather
+Hugh S. Tigner
+Hugh Walpole
+Hugh White
+Hugo Grotius
+Hui-Neng
+Hujwiri
+Humphry Davy
+Hung Chou
+Huston Smith
+H. W. Arnold
+H. W. L. Poonja
+Hyemeyohsts Storm
+Hypatia
+Ibn Ezra
+Ibn Gabirol
+Ibn Hazim
+I Ching
+Ida Scott Taylor
+Ida S. Taylor
+Ida Tarbell
+Idries Shah
+Igjugarjuk
+Ignatius Loyola
+Ignazio Silone
+Ilahi Nama
+Ilya Ehrenburg
+Immanuel Kant
+Inazo Nitobe
+Indian proverb
+Indira Gandhi
+Ingmar Bergman
+Ingrid Bengis
+Ira Eisenstein
+Irina Tweedie
+Iris Belhayes
+Irish prayer
+Irish proverb
+Iris Murdoch
+Irving Berlin
+Irving C. Cooper
+Isaac Abravanel
+Isaac Asimov
+Isaac Bashevis Singer
+Isaac Bickerstaff
+Isaac D’Israeli
+Isaac Domer
+Isaac F. Marcosson
+Isaac Hanina
+Isaac L. Peretz
+Isaac Newton
+Isaac of Acre
+Isaac ofNinveveh
+Isaac of Syria
+Isabel Moore
+Isaiah Berlin
+Isak Dinesen
+Isapwo Muksika
+Israel Baal Shem Ton
+Israel Baal Shem Tov
+Israel Bal Shem Tov
+Israel Lipkin
+Israel M. Kagan
+Israel S. Liphin
+Israel Zangwill
+Issachar Hurwitz
+Italian saying
+Itzikl of Radvil
+IV. H. Beveridge
+Izaah Walton
+Izaak Walton
+J. Abelson
+JachKomfield
+Jack Addington
+Jack Exum
+Jack Holland
+JackKomfield
+Jack Komfield
+Jack Lemmon
+Jack Miner
+Jack Penn
+Jack Sanford
+Jacob Anatoli
+Jacob Bronowshi
+Jacob Katz
+Jacob Klatzkin
+Jacob M. Braude
+Jacopo Sannazaro
+Jacques B. Bossuet
+Jacques Bossuet
+Jacques Maritain
+J. A. Hadfield
+Jakob Bohme
+J. Allen Boone
+James A. Froude
+James A. Garfield
+James Alexander
+JamesAllen
+James Allen
+James A. Pike
+James Baldwin
+James Bonnell
+James Boswell
+James B. Schafer
+James B. Tweedsmuir
+James D. Burns
+James Dobson
+James E. Cabot
+James Ellis
+James Fadiman
+James F. Byrnes
+James F. Clark
+James F. Clarke
+James F. Cooper
+James Froude
+James Garfield
+James G. Bennett
+James G. Cozzens
+James G. Gilhey
+James G. Gilkey
+James Gibbons
+James G. Keller
+James Grainger
+James Harvey
+James Howell
+James Jeans
+James Joyce
+James Lynch
+James Madison
+James Mangan
+James M. Barrie
+James M. Brown
+James Michener
+James Monroe
+James M. Whistler
+James O’Brien
+James Oppenheim
+James Q. DuPont
+James R. Adams
+James Redfield
+James Reston
+James R. Miller
+James Ross
+James Russell Lowell
+James Shirley
+James Thomson
+James T. Mangan
+James Usher
+James W. Alexander
+James W. Riley
+Janardan Paramahansa
+Jan DeWitt
+Jane Austen
+Jane C. Turell
+Jane Hendrix
+Jane Hopkins
+Jane Porter
+Jane Smiley
+Janet Falldron
+Janette Ramwater
+Jane W. Carlyle
+Janie Gustafson
+Janies Jeans
+Janies Russell Lowell
+Janis J. Kinens
+Janis Joplin
+Jan Struther
+Jan van Ruysbroeck
+Jan Van Ruysbroeck
+Japanese proverb
+J. A. Spencer
+Jawaharlal Nehru
+J. A. Wheeler
+Jaynes Allen
+Jay Rohrlick
+Jay W. Forrester
+J. Beaumont
+J. B. Priestley
+J. Bruce Long
+J. B. S. Haldane
+J. Donald Adams
+J. Donald Walters
+J. D. Salinger
+Jean Anouilh
+Jean Anouilh Fortune favors the bold....
+Jean Baer
+Jean-Baptiste Dubos
+Jean Baudrillard
+Jean B. Massieu
+Jean B. Moliere
+Jean Cocteau
+Jean Delay
+Jean Giraudoux
+Jean H. D’Aubigne
+Jean Joubert
+Jean J. Rousseau
+Jean Kerr
+Jean Klein
+Jean La Bruyere
+Jean La Bruy ere
+Jean La Fontaine
+Jean La Fortaine
+Jean Mouroux
+Jeanne d’Albret
+Jeanne Detourbey
+Jeanne-Marie Guyon
+Jeannette Rankin
+Jean N. Grou
+Jean Paid Richter
+Jean-Paid Sartre
+Jean Paul Richter
+Jean Paul Sartre
+Jean-Paul Sartre
+Jean P. Camus
+Jean P. Richter
+Jean P. Sartre
+Jean Rostand
+Jean Sismondi
+J. E. Buchrose
+J. E. Buckrose
+Jeraldine Sanders
+Jeremy Bentham
+Jeremy Collier
+Jeremy Taylor
+Jerome Kern
+Jerome K. Jerome
+Jerome S. Gross
+Jerry Brown
+Jerry Garcia
+Jessamyn West
+Jesse Jackson
+Jesse Jennings
+Jessie Sampter
+Jesus
+Jewish proverb
+J. F. Clarke
+J. Frank Dobie
+J. Hadfield
+Jili
+J. J. Reynolds
+J. Krishnamurti
+J. M. Cowan
+J. M. Jussawalla
+Jnanasambandhar
+Jnaneshwar Maharaj
+Jo Aim Kelley Smith
+Joan Baez
+Joan Borysenko
+Joanna Baillie
+Joanna Field
+Joanna Macy
+Joanna Russ
+JoAnn Kelley Smith
+Joan Rivers
+Joe Kogel
+Joel Goldsmith
+Joel Hawes
+Johann Arndt
+Johannes Kepler
+Johannes Tauler
+Johannes von Muller
+Johann G. Fichte
+Johann G. Herder
+Johann G. Zimmerman
+Johann H. Zschokke
+Johann IV. Goethe
+Johann Lobstein
+Johann von Schiller
+Johann Weiss
+Johann W, Goethe
+Johann W. Goethe
+Johann W. Zimmerman
+John Adams
+John A. O’Brien
+John A. Schindler
+John A. T. Robinson
+John Balguy
+John Barrymore
+John B. O’Reilly
+John Boys
+John Bradshaw
+John Bright
+John Brunner
+John B. Shearen
+John Buchan
+John Bunyan
+John Burroughs
+John Calvin
+John Cassavetes
+John C. Collins
+John C. Cornelius
+John C. Geikie
+John Chrysostom
+John Cournos
+John Cowper Powys
+John C. Salak
+John Denham
+John Dewey
+John Donne
+John D. Rockefeller
+John D. Rockefeller, Jr.
+John Dryden
+John E. Boodin
+John E. Haggai
+JohnEudes
+John F. Kennedy
+John Florio
+John Ford
+John Foster
+John Fowles
+John Gray
+John G. Whittier
+JohnH.Crome
+John H. Crowe
+John Heider
+John Heywood
+John H. Jowett
+John H. Miller
+John H. Newman
+John Holt
+John H. Randall
+John J. Ingalls
+John J. Owen
+John Keats
+John Keble
+John K. Galbraith
+John K. Lavater
+John K. Lava ter
+John Knox
+John Lennon
+John Lilly
+John Locke
+John Lubbock
+John Lust
+John Macmurray
+John Masefield
+John Mason
+John Mason Brown
+John M. Barker
+John M. Good
+John Milhoum
+John Milton
+John Morley
+John Muir
+John & Muriel James
+John M. Wilson
+John Neal
+John Newton
+John Norris
+John of Damascus
+John of Kronstadt
+John of the Cross
+John O. Hobbs
+John Oxenham
+John Panama
+John Paul II
+John Powell
+John Prentiss
+John Quincy Adams
+John Quinn
+John Ray
+John Robinson
+John Rushin
+John Ruskin
+John Ruysbroeck
+John S. Blackie
+John S. C. Abbot
+John Schneider
+John Selden
+John S. Erigena
+John S. Mill
+John Smith, the Platonist
+John Stoughton
+John Tillotson
+John Todd
+John T. Trowbridge
+John Uacmurray
+John Updike
+John Wareham
+John Watson
+John Webster
+John Welwood
+John Wesley
+John Wooden
+John Woolman
+John Wray
+John W. Strutt
+John Wycliffe
+Johri Powell
+Jonas Salh
+Jonas Salk
+Jonathan Edwards
+Jonathan Eibeschutz
+Jonathan Swift
+Jon Wynne-Tyson
+Jordan & Margaret Paul
+Jorge Manrique
+Jose Ortega y Gasset
+Joseph Addison
+Joseph Albo
+Joseph Baron
+Joseph Brennen
+Joseph Campbell
+Joseph Collins
+Joseph Conrad
+Joseph Cook
+Joseph de Maistre
+Joseph Desmahis
+Joseph Hall
+Joseph Hergesheimer
+Joseph Hurwitz
+Josephine Lowman
+Joseph Jefferson
+Joseph Joubert
+Joseph Jo ubert
+Joseph Marmion
+Joseph M. de Maistre
+Joseph Murj)hy
+Joseph Murphy
+Joseph M. Wade
+Joseph Newton
+Joseph Opatoshu
+Joseph Parker
+Joseph Patemo
+Joseph R. Sizoo
+Josephus Daniels
+Josh Billings
+Joshua Liebman
+Joshua L. Liebman
+Joshua L. Liebrnan
+Joshua Reynolds
+Josiah Holland
+Josiah Warren
+Josippon
+Joyce Brothers
+Joyce C. Oates
+J. T. Headly
+J. T. Work
+Juan R. Jimenez
+Judah Halevi
+Judah Lev Mordecai
+Judah L. Gordon
+Judah ofKfar
+Jude Wanniski
+Judith Knowlton
+Judith Lane
+Judith Sills
+Judith S. Nartin
+Judith Viorst
+Judy Tatelbaum
+Jules Renard
+Julia A. Fletcher Carney
+Julia Mosileton
+Julian Beck
+Julian P. Johnson
+Julia Seton
+Julie Burchill
+Julie de Lespinasse
+Julie Sneyd
+Julius and Augustas Hare
+Julius Caesar
+Julius Charles
+Junayd
+Junius
+Juvenal
+J. V. Langmead Casserlay
+J. Walter Sylvester
+J. W. Sullivan
+Kabir
+Kahlil Gibran
+Kaivalya Navanitam
+Kalidasa
+Kamo no Chomei
+Karen Homey
+Karen K. Clark
+Karl A. Menninger
+Karl Barth
+Karl E. Franzos
+Karlfried G. Durckheim
+Karl Kraus
+Karl Menninger
+Karl Sperber
+Karl von Knebel
+Katherine A. Porter
+Katherine Gould
+Katherine Hepburn
+Katherine Mansfield
+Katherine Zell
+Kay Lyons
+Ken Dychtwald
+Ken Kesey
+Ken Keyes, Jr.
+Kenneth Clark
+Kenneth Goode
+Kenneth Hildebrand
+Kenneth Kauda
+Ken Olson
+Kent Nerburn
+Ken Wilber
+Kim Hubbard
+Kirsopp Lake
+Kitab-Rahi
+Kit Raymond
+Knut Hamsun
+Konstaiitin Stanislavsky
+Koran
+Korean proverb
+Kotzker
+Kozlay
+Krishna
+Krishnaprem
+Kriyananda
+K. Swaminathan
+Kuleki
+Kung Tingan
+Kurt Lewin
+Kurt Vonnegut
+Kwang Tze
+Kyong Ho
+LadyAstor
+Lady Blessington
+Lahshmana
+Lahshmana Sarma
+Lajos Kossuth
+Lakshmana
+Lakshmana Sarma
+Lama Govinda
+Lamennais
+La ngston Hughes
+Lao-tzu
+Lao-tzu your body.... — Bobbie Probstein
+Larry Christenson
+Larry Eisenberg
+Larry McMurtry
+.(last words on scaffold)
+Latin aphorism
+Latin proverb
+Latin saying
+Laurence J. Peter
+Laurence Martin
+Laurence Sterne
+Lawrence Dunphy
+Lawrence Durrell
+L. C. Soper
+Lech Walesa
+Lee Segall
+Leigh Hunt
+Leivis W. Dilyn
+Leland F. Wood
+Leo Baeck
+Leo Buscaglia
+Leonard M. Foley
+Leonardo da Vinci
+Leonardo Da Vinci
+Leonard Wright
+Leon Baeck
+Leon Bloy
+LeonDeSeblo
+Leon DeSeblo
+Leon Harrison
+Leo Rosten
+Leo Tolstoy
+Les Brown
+Les Giblin
+Leslie D. Weatherhead
+Lester Pearson
+Leszczynshi Stanislaw
+Leszczynski Stanislaw
+Leszezynski Stanislaw
+Letitia London
+Letty Cottin Pogrebin
+Leucippus
+Levi Joshua
+Lewis B. Smedes
+Lewis Thomas
+Lewis Wallace
+L. F. Mules
+Liane Cordes
+Lich-tse
+Lillian Smith
+Lillian Taylor
+Lillie Langtry
+Lily Benatar
+Lily Dougall
+Lily Pincus
+Lin Yutang
+Lionel Barrymore
+Lister Sinclair
+Livy
+Liz Smith
+Lloyd Douglas
+Lloyd Littlepage
+Logan P. Smith
+Lois Wolfe Morgan
+Lois Wolfe-Morgan
+Lombez
+Lorado Taft
+Lord Acton
+Lord Birket
+Lord Greville
+Lord Halifax
+Lord Herbert
+Lord Mountbatten
+Lord Russell
+Lord Tweedsmuir
+Louis Agassiz
+Louis Binstock
+Louis Brandeis
+Louis Bromfield
+Louis D. Brandeis
+Louis de Montfort
+Louis E. Bisch
+Louise Bogan
+Louise Doud
+Louise Hayes
+Louise H. de Choiseul
+Louise L.Hay
+Louise L. Hay
+Lou ise Nevelson
+Louis-Ferdinand Celine
+Louis Finklestein
+Louis L. Mann
+Louis Pasteur
+Louis Walsh
+Lowell Fillmore
+Lowell R. Ditzen
+L. Ron Hubbard
+Lucan
+Luc de Clapiers Vauvenargues
+Luc de Gapiers Vauvenargues
+Lucille Ball
+Lucille R. Taylor
+Lucretius
+Lucy Comellssen
+Lucy Comellsser i
+Lucy Cornellssen
+Ludwig A. Feuerbach
+Ludwig Boeme
+Ludwig Boerne
+Ludwig Borne
+Ludwig Feuerbach
+Ludwig Tieck
+Ludwig Wittgenstein
+Luigi Luzzatti
+Luis de Leon
+Luther Burbank
+Lydia Child
+Lydia H. Sigourney
+Lydia Sigourney
+Lyman Abbott
+Lyman L. Bryson
+Lyndon B. Johnson
+Lynn Caine
+Lynne Namka
+Lynn Johnston
+Mabel Collins
+Mack Stokes
+Madam Deluzy
+Madam de Stael
+Madame Chiang Kai-shek
+Madame de Stael
+Madame Guyon
+Madame Necker
+Madame Sevigne
+Madam Gasparin
+Madeleine de Scudery
+Maggie Kuhn
+Mahabharata
+Mahadevan
+Maharaj C. Singh
+Maimon Ben Joseph
+Maimonides
+Maitreya
+Ma Jaya Sati Bhagavati
+Maksim Gorky
+Malcolm J. MacLeod
+Malcolm Muggeridge
+Malcolm X
+Maltbie D. Babcock
+Manilus
+Manly Hall
+Mann
+Manu
+Mao Tse-tung
+Marc Chagall
+Marcellinus Ammianus
+Marcel Pagnol
+Marcel Proust
+Marcia Macintosh
+Marco Vassi
+Marcus Agrippa
+Marcus Aurelius
+Marcus Au relius
+Marcus Cato
+Marcus Manilius
+Margaret Anderson
+Margaret Cavendish
+Margaret Drabble
+Margaret Fuller
+Margaret Lee Runbeck
+Margaret Mead
+Margaret Mitchell
+Margaret Pounders
+Margaret Preston
+Margaret R. Stortz
+Margaret Stortz
+Margaret Thatcher
+Margaret W. Hungerford
+Margery Wilson
+Margo Howard
+Margot Asquith
+Marguerite De la Sabiere
+Marguerite of Navarre
+Maria Campbell
+Maria Edgeworth
+Maria Montessori
+Marian Anderson
+Marianne Williamson
+Maria Schell
+Marie A. du Deffand
+Marie Curie
+Marie-Louise von Franz
+Marie von Ebner Eschenbach
+Marie Von Ebner-Eschenbach
+Marilyn Ferguson
+Marilyn vos Savant
+Mario Morgan
+Marion Hilliard
+Marion Woodmaii
+Marion Woodman
+Marjorie Bowen
+MarkGerzon
+Mark Train
+Mark Twain
+Mark Van Doren
+Marpa
+Marquis de Condorcet
+Marquis de Custine
+Marquis De La Grange
+Marquis de Sade
+Marsha Sinetar
+Marsilio Ficino
+Marsilo Ficino
+Martha Courto
+Martha Smock
+Martha Washington
+Martial
+Martin Buber
+Martin E. P. Seligman
+Martin F. Tupper
+Martin Gray
+Martin Grey
+Martin Heidegger
+Martin L. King, Jr.
+Martin L. King, Sr.
+Martin Luther
+Martin Luther King, Jr.
+Martin Neimoller
+Martin Tapper
+Martin Tupper
+Marvin Minsky
+Marya Mannes
+Mary Baker Eddy
+Mary Bond
+Mary Catherwood
+■?—Mary C. Bateson
+Mary G. Brainard
+Mary Howitt
+Mary McCarthy
+Mary Pickford
+Mary R. Rinehart
+Mary Webb
+Mary Williams
+Mary W. Montagu
+Mary Wollstonecraft
+Mary Wortly Montagu
+Mary W. Shelley
+Mason Cooley
+Mason Horton
+Matheno
+Mathurin
+Matthew Arnold
+Matthew Fox
+Matthew Green
+Matthew Henry
+Matthew Kelty
+Matthew Prior
+Maturin Ballou
+Maurice Chevalier
+Maurice Maeterlinck
+Maurice Nicoll
+Maurice Sendak
+Max Cleland
+Max De Pree
+Max Ehrmann
+Max Freedom Long
+Max Gralnick
+Max Handel
+Maximus
+Max Lemer
+Max Lilienthal
+Max Muller
+MaxNordau
+Max Nordau
+Max Picard
+Max Planck
+Maxuiell Maltz
+Maxwell Maltz
+Maya Sarada Devi
+May L. Becker
+May Sarton
+McDonald Clarke
+M. C. Richards
+M. Denis DeRougemont
+M D. Petre
+MeherBaba
+Meher Baba
+Meister Echhart
+Meister Eckhart
+Melancholy, as every other wrong attitude, is due to a false mental starting point....
+Melba Colgrove
+Melvin Schleeds
+Melvyn Kinder
+Menander
+Mencius
+Mendele M. Seforim
+Mendel of Kotzk
+Mendel ofRymanov
+Menicus
+Meredith L. Young
+Meredith Young-Sowers
+Merle Shain
+Metrodorus
+M. Faraday
+Michael A. Sydner
+Michael Eldridge
+Michael Exeter
+Michael Grosso
+Michael Korda
+Michael Landon
+Michael LeBeouf
+Michael O’Neal
+Michael Philips
+Michael Sendivogius
+Michael Sneyd
+Michael Stark
+Michael Volen
+Michelangelo
+Michelangelo’s motto
+Michel Montaigne
+Michel Simon
+Mickey Rooney
+Midrash
+Midrash Tahama
+Midrash Tanhama
+Midrash Tanhuma
+Mignon McLaughlin
+Miguel de Cervantes
+Miguel de Yunamunojugo
+Mikhail A. Bakunin
+Mikhail Naimy
+Milan Kundera
+Milarepa
+Milovan Djilas
+Milton Erickson
+Ming Lum Paou Keen
+Minna von Bambelm
+Minnie Fiske
+Mme. de Deffand
+Mme. de La Fayette
+Mohammed
+Mohammed Moussa
+Mohandas Gandhi
+Mohandas K. Gandhi
+Moliere
+Morihei Uyeshisba
+Morris Bender
+Morris West
+Morton T. Kelsey
+Mort Walker
+Moses Harvey
+Moses Hess
+Moses H. Luzzatto
+Moses Ibn Ezra
+Moses Mendelssohn
+Mother Clara Hale
+Mother Marguerite
+Mother Teresa
+MouniSadhu
+Mouni Sadhu
+Mrigendra Agama
+Mrs. Humphry Ward
+M. Scott Peck
+Muhtananda
+Muktananda
+Muni Swamy
+Muriel Spark
+Muruganar
+Murunganar
+Nachman ofBratslav
+Nahman Bratzlav
+Nahman Krochmal
+Nanah
+Nancy Byrd Turner
+Nancy D. Potts
+Nancy Moser
+Nancy Pope Mayorga
+Nancy Pope Mayyorya
+Nansen
+Naomi Stephan
+Napoleon Bonaparte
+Napoleon Hill
+Narayana
+Natchintanai
+Nathalie Sarraute
+Nathan Ausubel
+Nathaniel Branden
+Nathaniel Emmons
+Nathaniel Hawthorne
+Nathaniel Hawthoyne
+Neem Karoli Baba
+Neils Bohr
+Nellie Melba
+Nels F. S. Ferre
+Nelson Henderson
+Neville Hobson
+New Testament
+Niccolo Machiavelli
+Nicholas of Cusa
+Nicholas Rodney
+Nicholas Rowe
+Nick Herbert
+Nicolas Boileau
+Nicolas Caussin
+Nicolas Chamfort
+Nicolas de Chamfort
+Nicolas de Cusa
+Niffari
+(night of death) —Emily Dickinson
+Nikhilananda
+Nikki Giovanni
+Nikolay Berdyayev
+Nik os Kazantzakis
+Nikos Kazantzakis
+Nikos Kaznntzakis
+Nisargadatta
+Nityananda
+Noah Porter
+Nora Ephron
+Norma Hawkins
+Norman Angell
+Norman Cousins
+Norman C. Schidle
+Norman Douglas
+Norman G. Shidle
+Norman Klein
+Norman Lear
+Norman MacEwan
+Norman Macleod
+Norman Mailer
+Norman Schwarzkopf
+Norman Thornton
+Norman V. Peale
+Northrop Frye
+Nothing in the universe is so solid as a thought.... — Ralph W. Emerson
+O. Carl Simonton
+Octavio Paz
+Ogden Nash
+Og Mandino
+O. Henry
+Ohiyesa
+Old Testament
+Oliver C. Wilson
+Oliver Goldsmith
+Oliver Lodge
+Oliver Sachs
+Oliver W. Holmes
+Olive Schreiner
+Olympia Morata
+Omaraam M. Aivanhov
+Omar Bradley
+Omar Khayyam
+Omraam M. Aivanhov
+Omraan M. Aivanhov
+One more step to- (last words in diary)—Henri F. Amiel
+Oprah Winfrey
+Oriental proverb
+Oriental saying
+Origen
+Orison S. Marden
+Orison S. Mar den
+Ormand McGill
+Ormond McGill
+Ornraam M. Aivanhov
+Orson S. Fowler
+Orville Dewey
+Osbert Sitwell
+Oscar Wilde
+Osho
+Ossie Davis
+Oswald Chambers
+Oswald J. Simon
+OtLatNom
+Otto Rank
+Otto von Bismarck
+Ovaries C. Colton
+Oveta Hobby
+Ovid
+Owen D. Young
+Owen Felltham
+Paavo Airola
+Pablo Casals
+Pablo Picasso
+Padre Pio
+Paid Brunton
+Palladas
+Panchatantra
+Pantanjali
+Papaji
+Papa Ramdas
+Papa Rarndas
+Paracelsus
+Paraceslus
+Paramahansa Yogananda
+Paramahansa Yoganda
+Paramanada
+Paramanananda
+Paramananda
+Paramanatida
+Parke Godwin
+Parmenides
+Patanjali
+Patricia Sun
+PaulBrunton
+Paul Brunton
+Paul Brunt on
+Paul Dirac
+Paul Eldridge
+Paul E. Sherer
+Paul E. Wood
+Paul Hewitt
+Paul of Tarsus
+Paul Roud
+Paul Tillich
+PaulToumier
+Paul Toumier
+Paul Tourier
+Paul Twitched
+Paul Twitchell
+Paul Valery
+Paul Williams
+Paul Williayns
+P. D. Ouspensky
+Peace Pilgrim
+Pearl Buck
+Pearl S. Buck
+Pedro Calderon
+Percy B. Shelley
+Percy Greaves
+Persian proverb
+Persian saying
+Peter Baida
+Peter Marshall
+Peter Matthiessen
+Peter Oppenheimer
+Peter Russell
+Peter Staler
+Peter Ustinov
+Petrarch
+Phaedus
+Philarete Charles
+Philemon
+Philip Bailey
+Philip Chesterfield
+Philip Chesterton
+Philip D. Stanhope
+Philip Henry
+Philip J. Bailey
+Philip Lee Ralph
+Philippe Quinault
+Philip Sidney
+Philip Slater
+Phil Laut
+Phillip Adams
+Phillip B. Power
+Phillip D. Stanhope
+Phillip J. Bailey
+Phillips Brooks
+Philo
+■?— Philo
+Phocylides
+Phyllis Bottome
+Phyllis George
+Phyllis McGinley
+Piero Ferrucci
+Pierre Bayle
+Pierre Charron
+Pierre Corneille
+Pierre de Beranger
+Pierre Nicole
+Pierre Proudhon
+Pierre Schmidt
+Piet Hein
+Pietro Aretino
+Pietro Metastais
+Pincus Goodblatt
+Pindar
+Pittacus
+Pius XII
+P. J. O’Rourke
+Plato
+Pla to
+Platonicus
+Plautus
+Pliny
+Pliny the Elder
+Plotinus
+Plutarch
+P. M. H. Atwater
+Polish proverb
+Polybius
+Pope Gregory I
+Pope Innocent
+Pope John Paul II
+Pope John XXIII
+Pope Leo XIII
+Pope St. Gregory I
+Porchia
+Prabhavananda
+Prabhushri
+Prayer
+Prentice Mulford
+Prince Bismarck
+Procl u s
+Proverb
+Ptahhotpe
+P. T. Bamum
+Ptolemy
+Publilius Synis
+Publilius Syrus
+Puzant K. Thomajan
+Pythagoras
+Qiarles Lamb
+Queen Elizabeth of Rumania
+Quentin Crisp
+Quintas C. Rufus
+Quintilian
+Rabbi Nachman
+Rabindranath Tagore
+Rabindrinath Tagore
+Rachel N. Remen
+Rahel L. Vamhagen
+Rainer M. Rilke
+Rajneesh
+Ralph Blum
+Ralph B. Perry
+Ralph Cudworth
+Ralph IV. Emerson
+Ralph IV. Trine
+Ralph Sockman
+Ralph Stayer
+Ralph W. Emerson
+Ralph W, Trine
+Ralph W. Trine
+Ramahrishna
+Ramakrishna
+Ramakrishnananda
+Raman a Maharshi
+Ramana Maharshi
+Ramana Mahrashi
+Ramanujan
+Ramayana
+Ramcharandas
+RamDass
+Ram Dass
+Ra mesh Balseka r
+Ramesh Balsekar
+Ramsay MacDonald
+Ramtha
+Randall Jarrell
+Randolph S. Bourne
+Randolph S. Foster
+Raphael
+Raphael Elijah
+Raphael Holinshed
+Raphael of Bershad
+Rarnana Maharshi
+RarnDass
+Rash Middlecombe
+Ravi Ravindra
+Ray Inman
+Ray Mitchell
+Raymond C. Barker
+Raymond C. Knox
+Raymond Hitchcock
+Ray Palmer
+R. C. Ferguson
+R. C. McCarthy
+Rebecca Beard
+(refused drugs on deathbed) —Maria Theresa
+Reginald Armor
+Reginald Heber
+Reinhold Niebuhr
+Rene Descartes
+R. G. Collingwood
+Richard Bach
+Richard Baxter
+Richard Beer-Hoffmann
+Richard Byrd
+Richard Carlile
+Richard Cecil
+Richard E. Burton
+Richard Evans
+Richard Foster
+Richard Gregg
+Richard H. Crossman
+Richard Hooker
+Richard J. Needham
+Richard Metcalf
+Richard M. Nixon
+Richard Moss
+Richard Needham
+Richard of Saint-Victor
+Richard Pape
+Richard Rorty
+Richard Sheridan
+Richard Steele
+Richard Whatley
+Richard Whatly
+Rick Fields
+Rinni
+Rinzai
+R. J. Heathom
+R. MacDonald Ladell
+Robert Adams
+Robert Aiken
+Roberta Jean Bryant
+Robert A. Johiison
+Robert A. Johnson
+Robert Alden
+Robert A. Russell
+Robert Assagioli
+Robert A. Willmott
+Robert Benson
+Robert Bly
+Robert Bolton
+Robert Boyle
+Robert Browning
+Robert Bums
+Robert Burton
+Robert Byrne
+Robert Cecil
+Robert C. Edwards
+Robert C. Linter
+Robert Coleman
+Robert Collier
+Robert C. Solomon
+Robert C. Winthrop
+Robert E. Burton
+Robert Eliot
+Robert Elliot
+Robert F. Kennedy
+Robert Freeman
+Robert Fritz
+Robert Frost
+Robert Fulghum
+Robert G. Allman
+Robert Goddard
+Robert Grudin
+Robert Hall
+Robert Henri
+Robert Herrick
+Robert Herrman
+Robert H. Schauffler
+Robert H. Schuller
+Robertine Maynard
+Robert Ingersoll
+Robert J. Burdette
+Robert Jones Burdette
+Robert J. Turnbull
+Robert Leighton
+Robert Lloyd
+Robert L. Stevenson
+Robert Lynd
+Robert Moore
+Robert Mueller
+Robert Muller
+Robert O’Brien
+Robert Powell
+Robert Quillen
+Robert Schaffer
+Robert Schuller
+Robert S. Ellwood
+Robert S. MacArthur
+Robert Smith
+Robertson Davies
+Robert South
+Robert Southey
+Robert Southle
+Robert Veninga
+Robert W. Buckingham
+Rob Gilbert
+Robin Casarjian
+Robin Worthington
+Roderick Thorp
+Rod McKuen
+Roger Ascham
+Roger Babson
+Roger de Busy-Rabutin
+Roger L'Estrange
+Roger L’Estrange
+Roger Walsh
+Rollo May
+Romain Rolland
+Ronald Beesley
+Ronald Blythe
+Ronnie Fisher
+Ron Smothemion
+Ron Smothermon
+Ron Watson
+Roshi P. Kayleau
+Rossiter Raymond
+Roswell D. Hitchcock
+Roswell Hitchcock
+Royal Egyptian Tomb, 2500 B.C.
+Roy E. Davis
+Roy M. Goodman
+Ruby Doe
+Rudolph Block
+Rudolph Flesch
+Rudyard Kipling
+Rufus Jones
+Rufus M. Jones
+Rufus W. Griswold
+Rumi
+Russell Green
+Russell H. Conwell
+Russian proverb
+Ruth Benedict
+Ruth Gordon
+Ruth Hanna
+RuZhijuan
+R. W. Wilde
+Ryllis G. Lynip
+Ryszard Kapuscinski
+Saadi
+Sahajananda
+Said Alinsky
+Sa’idibn AbiTKhayr
+Sally Kempton
+Sally Koch
+Sam E. Roberts
+Sam Goldwyn
+Samhita
+Sam Keen
+Samuel Butler
+Samuel Coleridge
+Samuel Gregory
+Samuel Hirsch
+Samuel Hoffenstein
+Samuel Johnson
+Samuel Longfellow
+Samuel Lucas
+Samuel Luzzatto
+Samuel M. Crothess
+Samuel M. Shoemaker
+Samuel Rutherford
+Samuel Smiles
+Samuel T. Coleridge
+Sanaya Roman
+Sankara
+Sankaracharya
+Sankhya-yoga
+Sanskrit saying
+Santi-deva
+Santon ki Shiksha
+Sappho
+Sarada Devi
+Saradamma
+Saraha
+Sara J. Hale
+Sara Kay Cohen
+Sarvepalli Radhakrishnan
+Satchidananda
+Sathya Sai Baba
+Saul Alinsky
+Saul Bellow
+Saul Chemihovsky
+Scandinavian saying
+Schemuel Ha-Nagid
+Scott Turow
+Scudder Parker
+Sdren Kierkegaard
+Sebastien Chamfort
+Seneca
+Seng ts'an
+Seng-ts’an
+Seng Ts’an
+Seng-Ts’an
+Sen Ts’an
+Seth
+Sevakram
+Sextus, the Pythagorean
+Shabistari
+Shakti Gawain
+Shalom Aleichem
+Shams Tabriz
+Shankara
+Shankaracharya
+Shantidasa
+Shan tidasa
+Shao Yung
+Sharon Garell
+Shaykh Ahmad al’Alawi
+Shekel Hakodesh
+Shekel Hakoodesh
+Sheldon Cheney
+Sheldon Shepard
+Shems Tabriez
+Shem Tob Falaquera
+Shen Hai
+Shen Hui
+Shepherd ofHermas
+Sherwood Anderson
+Sherwood Eddy
+Shih King
+Shinto saying
+Shirdi Sai Baba
+Shirley Briggs
+Shirley H. Jeffrey
+Shirley MacLaine
+Shit ou
+Shmuel Agnon
+Shnone Weil
+Shu King
+Shunryu Suzuki
+Siddharameshwar
+Sidney Dark
+Sidney Harris
+Sidney Lanier
+Sidney Smith
+Sigmund Freud
+Sikh proverb
+Silas Bent
+Silvio Pellico
+Simon Eleazar
+Simone Signoret
+Simone Weil
+Simon Weil
+Sister Consolata
+Sitting Bull
+Sivabhoga Saram
+Sivaiianda
+Sivananda
+Sivanarida
+Sivanatxda
+Sivatianda
+Smiaya Roman
+Smiley Blanton
+S. Nazir
+Socrates
+Sogyal Rinpoche
+Soichiro Honda
+Solomon Ibn Gabirol
+Solomon Rubin
+Somerset Maugham
+Sonya Friedman
+Sophocles
+Soren Kierkegaard
+Soreti Kierkegaard
+Spanish proverb
+S. Radhakrishnan
+Srimad Bhagavatam
+St. Ambrose
+Stanislas Bouttlers
+Stanislaus I
+Stanley Arnold
+Stanley Baldwin
+Stanley C. Allyn
+Stanley Keleman
+Stanley Lindquest
+St. Anthony
+St. Antony the Great
+St. Athanasius
+St. Basil
+St. Bernard
+St. Cadoc
+St. Clement
+St. Dionysius
+Stephanie Rhea
+Stephen H. Wolinsky
+Stephen Larsen
+Stephen Leacock
+Stephen Levine
+Stephen Mitchell
+Stephen M. Paulson
+Stephen R. Covey
+Stephin Levine
+Stewart Alsop
+Stewart Emery
+Stewert C. Easton
+St. Jerome
+St. Mark, the Ascetic
+St. Maximus
+St. Nilus
+Stonewall Jackson
+Storm Jameson
+St. Thomas
+Stuart Holroyd
+Stuart Wilde
+Studdert Kennedy
+Stu Mittleman
+Subhadra Bhihshu
+Subramania Bharati
+Sue A. Ebaugh
+Sue Sikhing
+Sue Sikking
+Sue Wahlroos
+Sufii saying
+Sufi proverb
+Sufi saying
+Sufi Saying
+Sujata
+Sunnah
+Sun Tzu
+Sunyata
+Surya Singer
+Susan B. Anthony
+Susan Marcotte
+Susan Partnow
+Susan Smith Jones
+Suzuki Roshi
+Sven Halla
+Swami Beyondananda
+Swami Rama
+Swedish proverb
+S. Weir Mitchell
+Sydney J. Harris
+Sydney Smith
+Symeon, the New Theologian
+Synesius
+Tacitus
+Taisen Deshimaru
+Tai-Shang
+T’ai Shang Kan Ying P’ien
+Takuan
+Tancred
+Tanna Akiba
+Taoist saying
+Tao saying
+Tapovan Maharaj
+Tarthang Tulku
+Tauler
+Ted Shackelford
+Teilhard de Chardin
+T. E. Lawrence
+Terence
+Teresa of Avila
+Teresa of A vila
+Tertullian
+Thaddeus Golas
+Thales
+The Aquarian Gospel
+The Cure d’Ars
+The Magi
+The Masnavi I Ma’Naui
+The Mishnah
+The Mountain Path
+Theo Bovet
+Theodora Wells
+Theodore I. Rubin
+Theodore Martin
+Theodore Monger
+Theodore Munger
+Theodore Parker
+Theodore Reik
+Theodore Roosevelt
+Theodore Roszak
+Theologica Germanica
+Theophrastus
+The Pali Canon
+The Prayer of an UnknownConfederate Soldier
+Theresa ofLisieux
+Theresa of Lisieux
+The Talmud
+The Upanishads
+The Uyanishads
+The Wizard of Oz
+The worst prison would be a closed
+TheZohar
+The Zohar
+Thich Nhat Hanh
+Thick Nhat Hanh
+Third Zen Patriarch
+This is the purpose of life.... — Papa Ramdas
+Thomas Adams
+Thomas A. Edison
+Thomas a Kempis
+Thomas a Kemp is
+Thomas Allen
+Thomas Aquinas
+Thomas Bacon
+Thomas B. Aldrich
+Thomas B. Brooks
+Thomas Bentham
+Thomas Binney
+Thomas B. Macaulay
+Thomas Brooks
+Thomas Brown
+Thomas Browne
+Thomas Browne All evils are negations....
+Thomas Burbridge
+Thomas Buxton
+Thomas Carlyle
+Thomas Cooper
+Thomas Cru m
+Thomas C. Wolfe
+Thomas Dekker
+Thomas De Quincey
+Thomas d Kempis
+Thomas Dreier
+Thomas Drummond
+Thomas Edison
+Thomas Fuller
+Thomas Guthrie
+Thomas Haliburton
+Thomas Harris
+Thomas H. Huxley
+Thomas Hobbes
+Thomas Hodgkin
+Thomas Horder
+Thomas Hughes
+Thomas Huxley
+Thomas Jefferson
+Thomas J. Watson
+Thomas Keating
+Thomas Kelly
+Thomas Malloy
+Thomas Mann
+Thomas Merton
+Thomas M. MacDonald
+Thomas Moore
+Thomas More
+Thomas Otway
+Thomas Paine
+Thomas R. Kelly
+Thomas Seeker
+Thomas Shadwell
+Thomas Sowell
+Thomas Sprat
+Thomas Szasz
+Thomas Traherne
+Thomas Troward
+Thomas Watson
+Thomas Wilson
+Thornton Wilder
+Thoyyias a Kempis
+Thurman Fleet
+T. H. White
+Tibetan Book of the Dead
+Tibetan proverb
+Tibetan saying
+Timothy Dwight
+TI]omas a Kempis
+Tirmizi
+Tkaddeus Golas
+Tom Hirshfield
+Tom Kubistant
+Tom Peters
+Tom Robbins
+Tom Seeley
+Tonna Ben Zona
+Tony Richardson
+Toyoh iko Kagawa
+Trimalchio
+Tripura Rahasya
+Trygve Lie
+Try on Edwards
+Tryon Edwards
+T. S. Eliot
+Tse-sze
+Tuharam
+Tulsi Das
+Turiyananda
+Turkish proverb
+U. G. Krishnamurti
+Ulysses S. Grant
+Union Prayer Book
+(upon relinquishing atheism)
+Upton Sinclair
+Ursula K. LeGuin
+Ursula LeGuin
+U. S. Anderson
+Vachaka Kovia
+Van der Leeu w
+Vayu-Purana
+Vedic saying
+Vernon Howard
+Vespasian
+Vicki Baum
+Victor Borge
+Victor Cousin
+Victor de Laprade
+Victor Franhl
+Victor Frankl
+Victor Hugo
+Vijaya L. Pandit
+Vilayat I. Khan
+Vimala Thakar
+Vince Lombardi
+Vincent de Paul
+Vincent McNabb
+Vincent Van Gogh
+Vinobe Bhave
+Viola Spolin
+Virgil
+Virginia Sale
+Virginia Woolf
+Vittorio Alfieri
+Vivehananda
+Vivekananda
+Vivien Larrimore
+Vladimir I. Lenin
+Vladimir Nabokov
+Voltaire
+Vonda K. Van Dyke
+Walt Disney
+Walter A. Keers
+Walter Anderson
+Walter Bagehot
+Walter B. Cannon
+Walter B. Wolf
+Walter B. Wolfe
+Walter C. Alvarez
+Walter Hilton
+Walter Lander
+Walter Lippmann
+Walter M. Horton
+Walter Mondale
+Walter Rathenau
+Walter Russell
+Walter Scott
+Walter S. Landor
+Walter Starche
+Walter Starcke
+Walter Winchell
+Walt Whitman
+Wang Yang Ming
+Wang Ying Ming
+Warren Bennis
+Washington Irving
+Watchman Nee
+Wayne Dyer
+W. C. Alvarez
+W. C. Fields
+W. C. Magee
+W. D. Hoard
+Webb B. Garrison
+Welsh proverb
+Wendell Phillips
+Wendy Kaminer
+Wendy Ward
+Werner Erhard
+Werner Heisenberg
+Werner von Braun
+Werner Von Braun
+Wess Roberts
+West African proverb
+W. G. Jordan
+What a joke we play on ourselves! The joke is that we are so slow in realizing that forgiveness is anything but a heavy, difficult step to take. Instead, it’s light-hearted, joyful, simple, and, most of all, fun!...
+W. H. Auden
+Whitall N. Perry
+White Eagle
+Whitney S. Seymour, Jr.
+Whittaker Chambers
+Wiess Roberts
+Wilferd A. Peterson
+Wilferd Peterson
+Wilfred Peterson
+Wilfred T. Grenfell
+Wilhelm Reich
+Wilhelm Stekel
+Wilhelm von Humboldt
+Wilkie Collins
+Will a Cather
+Willa Cather
+Willard Wirtz
+Will Carleton
+Will Durant
+Will Herberg
+William A. Brown
+William Alfred
+William Alger
+William A. Ward
+William A. White
+William Barkley
+William B. Clulow
+William Beveridge
+William Black
+William Blake
+William Bridges
+William Buck
+William B. Ullathome
+William Burnham
+William B. Villathome
+William B. Yeats
+William C. Bryant
+William Cobbett
+William Congreave
+William Cowper
+William Curtis
+William Curtiss
+William Danforth
+William Davenant
+William Duncan
+William E. Biederwolf
+William E. Channing
+William E. Channiyig
+William Faulkner
+William Feather
+William Gerber
+William Gibson
+William G. Jordan
+William Gladstone
+William G. McAdoo
+William Godwin
+William G. Simms
+William Haditt
+William Hamilton
+William Hazlitt
+William H. Danforth
+William H. Sheldon
+William Hunter
+William Hutton
+William H. White
+William James
+William Jay
+William J. Bryan
+William Law
+William L. Phelps
+William Matthews
+William McFee
+William Melmoth
+William M. Thackeray
+William O. Douglas
+William Ogden
+William Osier
+William Paley
+William Penn
+William Punshon
+William Rader
+William R. Alger
+William R. Inge
+William R. Ingle
+William R. Miller
+William, R. Miller
+William Romaine
+William Rootes
+William Rotsler
+William Saroyan
+William Shakespeare
+William Shenstone
+William Sherman
+William Simms
+William S. Ogden
+William S. Plumer
+William S. Sadler
+William Styron
+William Temple
+William T. Manning
+William Ullathome
+William Warburton
+William W. Atkinson
+William Westmoreland
+William Winter
+William Wordsworth
+Willis P. King
+Will Munson
+Will Rogers
+Winfred Rhodes
+Winston Churchill
+WiU. Durant
+W. J. Slim
+W. M. Paxton
+Wole Soyinka
+Wolfgang A. Mozart
+Woodrow Wilson
+Woodrow Wyatt
+Wright Field
+W. R. Inge
+W. T. Grenfell
+W. Winwood Reade
+Xavier de Maistre
+Xenophanes
+Xenophon
+Yasunari Kawabata
+Yeshe Dorje
+Yiddish proverb
+Yiddish saying
+yield up
+YogaSwami
+Yoga Swami
+Yoga Vasishtha
+Yoga Vasistha
+Yogi Bhajan
+Yogi Bhashya
+Yogi Bhujan
+Yoshida Kenko
+Yukteswar
+Yuliya Voznesenskaya
+Yves M. Congar
+Zadik
+Zarathustra
+Zeno
+Zenrin
+Zen saying
+Zona Gray
+Zoroaster
+Zoroastrian saying

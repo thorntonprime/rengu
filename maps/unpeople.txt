@@ -1,58 +1,68 @@
-      2   American Indian saying
-      2   Ancient Greek saying
-      4   Arabian saying
-      4   Buddhist saying
-      1   French saying
-      3   Hasidic saying
-      1   Hebrew saying
-     11   Hindu saying
-      2   Italian saying
-      1   Latin saying
-      1   Oriental saying
-      1   Persian saying
-      1   Sanskrit saying
-      1   Scandinavian saying
-      1   Shinto saying
-      1   Sufii saying
-     17   Sufi saying
-      1   Sufi Saying
-      1   Taoist saying
-      1   Tao saying
-      7   Tibetan saying
-      1   Vedic saying
-      4   Yiddish saying
-      5   Zen saying
-      1   Zoroastrian saying
-      1   Tibetan Book of the Dead
-      1   Union Prayer Book
-      1   Axel Munthe
-      2   Cato the Elder
-      2   Cyrus the Great
-      1   Frederick the Great
-      1   Gregory the Great
-      1   Jean Anouilh Fortune favors the bold....
-      1   Johann IV. Goethe
-      1   Johann W, Goethe
-     64   Johann W. Goethe
-      5   John of the Cross
-      2   John Smith, the Platonist
-      2   Pliny the Elder
-      1   Ronald Blythe
-      3   Sextus, the Pythagorean
-      1   St. Antony the Great
-      3   St. Mark, the Ascetic
-      1   Symeon, the New Theologian
-     15   The Aquarian Gospel
-      1   The Cure d’Ars
-      1   The Magi
-      1   The Masnavi I Ma’Naui
-      1   The Mishnah
-      1   The Mountain Path
-      1   The Pali Canon
-      1   The Prayer of an UnknownConfederate Soldier
-     32   The Talmud
-     26   The Upanishads
-      1   The Uyanishads
-      1   The Wizard of Oz
-     11   The Zohar
-      1   Tibetan Book of the Dead
+A Course In Miracles
+Anonymous
+African proverb
+American Indian prayer
+American Indian proverb
+American Indian saying
+Ancient Greek saying
+Ancient proverb
+Arabian proverb
+Arabian saying
+Buddhist saying
+Cameroonian proverb
+Catholic prayer
+Ch inese proverb
+Chinese proverb
+Creole proverb
+Danish proverb
+Eastern proverb
+English proverb
+French proverb
+French saying
+German proverb
+Greek proverb
+Hasidic saying
+Hebrew proverb
+Hebrew saying
+Hindu proverb
+Hindu saying
+Indian proverb
+Irish prayer
+Irish proverb
+Italian saying
+Japanese proverb
+Jewish proverb
+Korean proverb
+Latin proverb
+Latin saying
+Old Testament
+Oriental proverb
+Oriental saying
+Persian proverb
+Persian saying
+Polish proverb
+Proverb
+Russian proverb
+Sanskrit saying
+Scandinavian saying
+Shinto saying
+Sikh proverb
+Spanish proverb
+Sufii saying
+Sufi proverb
+Sufi saying
+Swedish proverb
+Taoist saying
+Tao saying
+Tibetan proverb
+Tibetan saying
+Turkish proverb
+Vedic saying
+Welsh proverb
+West African proverb
+Yiddish proverb
+Yiddish saying
+Zen saying
+Zoroastrian saying
+Apache Wedding Blessing
+Diamond Sutra
