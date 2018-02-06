@@ -330,7 +330,7 @@
 0b9fa355-645a-4b9b-8338-07c37beadaed BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
 0ba12d26-46c1-4d5b-9c26-1a44659af287 BY_NAME Hermes != Hermes Trismegistus
 0ba8bd53-80f6-45ff-a033-91f18950009e BY_MISSING
-0bae3040-a0ac-4eed-8e97-411315677092 BY_NOMATCH Fedor Ivanovvich Tyutchev
+0bae3040-a0ac-4eed-8e97-411315677092 BY_NAME Fedor Ivanovvich Tyutchev != Fyodor Tyutchev
 0bc04ca5-f917-496a-8809-a931f0989189 BY_MISSING
 0bc7b476-fb95-49aa-9ee2-3a7c814ab72c BY_MISSING
 0bc7d70b-2bf4-4b8e-9330-f28562eae8cd BY_NAME Bâyazid al-Bistâmî != Bayazid Bastami
@@ -2004,7 +2004,7 @@
 4cd016d3-78d7-435a-a7da-179982df4f03 BY_MISSING
 4cd5df8f-629c-494f-99f0-2a39033a504c BY_MISSING
 4cd78ce9-95c9-4128-a234-19608434f529 BY_MISSING
-4cdc96e1-4fc0-47af-b479-779741987b80 BY_NOMATCH Mevlana Jalaluddin Rumi
+4cdc96e1-4fc0-47af-b479-779741987b80 BY_NAME Mevlana Jalaluddin Rumi != Rumi
 4cdca447-1139-4b3a-a69d-c52bc2f95d05 BY_MISSING
 4cdca447-1139-4b3a-a69d-c52bc2f95d05 TITLE_SPELL meeked
 4cfe1287-eeb6-4990-b371-aa21c9de3fbd BY_NAME Jâmî != Jami
@@ -6796,7 +6796,6 @@ d1cd17af-0594-4d2f-9399-90b743be594d BY_NAME Manhae != Han Yong-un
 912c6fe6-fa7c-41aa-b9b5-4cf8e49aa153 BY_NAME Manhae != Han Yong-un
 3be8a6cc-b0a5-4984-b9c0-07402cfcdadf BY_NAME Manhae != Han Yong-un
 3be8a6cc-b0a5-4984-b9c0-07402cfcdadf TITLE_SPELL Thornbush
-2c6eef77-4541-4b0d-aab1-7dbefb0abbf1 BY_NAME Manhae != Han Yong-un
 fc36f91b-2e06-43af-80f7-e70bc8d4c43a BY_NAME Manhae != Han Yong-un
 bf61da31-97f8-41d5-a7f8-bb6e126e9b7e BY_NAME Manhae != Han Yong-un
 bf61da31-97f8-41d5-a7f8-bb6e126e9b7e TITLE_SPELL Misrecognition
@@ -6872,3 +6871,100 @@ f6618f2c-713d-4841-a285-d74e42306385 BY_NAME Sivananda != Sivananda Saraswati
 ad17cc92-a767-4bc3-9136-692aaad52caa BY_NOMATCH Seneca
 c0a0d4b5-34bc-429c-94c4-e968e27e900f BY_NOMATCH A Spiritual Warrior
 e07ef0a6-b12a-4ba5-87c4-0fd002cf6aac BY_NAME Nisargadatta != Nisargadatta Maharaj
+39428c7c-f846-45a2-961d-ea149732bacb BY_NAME da184f92-f119-42ee-8e45-06ab31cd9624 != Thomas Merton
+443b7c75-bfcf-4a13-a740-dee2daf1bc14 BY_MISSING
+ccf3f8bf-e973-42ce-845e-56bf5918d6a7 BY_NAME Manhae != Han Yong-un
+1c7f96ae-03be-432c-8aca-f9e9f3e2bf9b BY_NAME Manhae != Han Yong-un
+d3fff5e2-663c-49bb-889c-7fc6012258cb BY_NAME Manhae != Han Yong-un
+d3fff5e2-663c-49bb-889c-7fc6012258cb TITLE_SPELL Non'gae
+c97bee2f-a93f-4d4a-b7ed-81ce2908cdab BY_NAME Manhae != Han Yong-un
+84d2d6d5-e50e-46e7-a5c6-c863288756d9 BY_NAME Manhae != Han Yong-un
+8dcda603-ed6f-43e4-ade8-90e0a8e9e340 BY_NAME Manhae != Han Yong-un
+0f30f8e3-22e7-40b4-b7d9-c282775d73ba BY_NAME Manhae != Han Yong-un
+0da545b1-9785-4ad9-96bc-8258dd1e39da BY_NAME Manhae != Han Yong-un
+72f35906-ec18-4185-aeed-4f4a66d7b129 BY_NAME Manhae != Han Yong-un
+e033c669-5989-4ec4-874b-265379efc55b BY_NAME Manhae != Han Yong-un
+2c6eef77-4541-4b0d-aab1-7dbefb0abbf1 BY_NAME Manhae != Han Yong-un
+1caedbe3-6515-47ba-ad1e-e03768e2d287 BY_NOMATCH Sarmad
+77e54b27-8070-4752-b3e1-3a431521f65b BY_NOMATCH Colin Oliver
+aac00a5e-17e4-4f60-a451-7c10846dac95 BY_NOMATCH Edith Kanaka'ole
+a35e321a-1424-42cb-89b2-06b8ca742d43 BY_NOMATCH Edith Reninger
+6c0410fb-92cf-45c9-b1fd-717a9e5d73c9 BY_NOMATCH Juppensha Ikku
+ecec4816-6845-41cf-8a87-14c345754fe3 BY_NOMATCH Sachal Sarmast
+f6b52e8c-ed3d-41af-a644-beb72bfb56da BY_NOMATCH Abraham Maslow
+7bfdab23-e4a5-4ce2-a1ab-95a35ebe0c86 BY_NOMATCH Bhagavad-Gita
+934e74f2-4880-4d24-836a-ec63f2b4aa56 BY_NOMATCH Matthew Fox
+317f5beb-1d03-4f92-998b-23df7768f2b4 BY_MISSING
+6ee3790f-575b-429f-a7ab-7e36f0f994e3 BY_MISSING
+e9191115-0171-48fe-8cd7-eb38ffe1aec9 BY_NAME Sivananda != Sivananda Saraswati
+edc123ec-14a6-4c2c-a63c-99237320b8e3 BY_NOMATCH Ralph W. Emerson
+f8a0986c-2ce3-4d49-9bc5-f91e14646e29 BY_NOMATCH John Updike
+02ef688a-465b-4570-a05f-212687419dfa BY_NOMATCH Paramananda
+74e21c2c-0ba0-49da-a12a-610d2c0269ae BY_NOMATCH Florence Nightingale
+4a3ef397-96de-4efa-99e1-f085d51a17fc BY_NOMATCH Hitopadesa
+145e5d39-b393-498f-8829-2f0666e8e161 BY_NOMATCH Cuthbert Hall
+0fc6dc3e-fc2a-4330-83ab-28f5837438b2 BY_NOMATCH Norman Thornton
+df72cfb3-0335-41df-946b-3610dea963f0 BY_NOMATCH John K. Lavater
+c98a403a-3eb0-4f10-90f7-6a9c2e32da05 BY_NOMATCH Alfred Adler
+692eaaa9-6ff2-4595-a231-7a1a0e43e98f BY_NOMATCH R. W. Wilde
+5adf5b68-f515-450f-a7e1-6825c1b8abb9 BY_NOMATCH Johann W. Goethe
+b71fe7b5-5eb4-47cf-b7ad-850c5c2e9332 BY_MISSING
+303845c2-7f47-4bd3-876b-74b2bd731bbc BY_NOMATCH Albert Schweitzer
+bd9b466d-5300-44c6-942a-72efa2a9b3df BY_NOMATCH U. S. Anderson
+b32b5e5a-c8ea-4da9-ae28-a30a49ab67e9 BY_NOMATCH Thomas Fuller
+b86eaf06-4363-4071-9bfb-cb076e6c62ea BY_NAME Mohandas Gandhi != Mahatma Gandhi
+35550a85-024a-44ea-8372-2af9fca7986f BY_NOMATCH Henri Bergson
+4bf1d747-b7fb-4f34-b99a-a21eb02bc052 BY_NOMATCH Fred Van Amburgh
+dc1d5032-a560-4a6a-a4a8-1682041fb74a BY_NOMATCH Theodore Roosevelt
+a43b0ca6-9fca-4c18-9182-935badf9a9f3 BY_NOMATCH Georges Clemenceau
+e936dda7-bc5a-45a2-8af9-0891f9d63f17 BY_NOMATCH Shantidasa
+b2848776-8e5a-4d3e-9ae4-9acaa4f3f51a BY_NOMATCH Miguel de Cervantes
+0eca7e4a-2d39-41ed-a1d4-2a826a1b0c59 BY_NAME Sivananda != Sivananda Saraswati
+984ecdd7-70e8-4f06-8611-f4471d64b9a7 BY_NOMATCH John Milhoum
+bef98650-5a02-4f30-a1d0-3946b8ddcdd6 BY_NOMATCH Donald H. McGannon
+c83efe13-a195-4733-9cec-658c8f9bb55c BY_NOMATCH Egon Friedell
+94b7d8cd-7693-4943-97e5-35d12a3f092e BY_NAME Chuang Tse != Zhuang Zhou
+4d7239d3-dae1-421c-a81d-9d95028051d7 BY_NOMATCH St. Thomas
+13626a9d-6b1c-4e2b-97ad-e16ab442506f BY_MISSING
+20d9e52f-b08f-4de3-8c46-0ecc211885ce BY_NOMATCH George Eliot
+0fe4a81c-8aa2-4c5f-8846-aefe51759417 BY_NAME Sister Consolata != Consolata Bertone
+a485c15c-bc1e-4d2f-868e-6ab6036dab81 BY_MISSING
+efe13a70-15b3-46a2-bde6-5f2ae978c11b BY_NOMATCH Wayne Dyer
+c9bdca49-917e-4650-ab8d-81d970ebd94a BY_NOMATCH Johann W. Goethe
+9b02ffa4-bb30-46eb-ab78-9684a77b5d44 BY_NOMATCH G. K. Chesterton
+cf0ed5b1-d2dc-4ab7-bd35-d349df589d4f BY_NOMATCH John Ruskin
+af80c477-471c-495d-bb99-a4e6589e61ab BY_NOMATCH Karen Homey
+841604ea-308d-43b9-b69b-6ff37d9e4262 BY_NOMATCH Shekel Hakodesh
+3f184741-4b21-4a30-a927-5bb068721f71 BY_NOMATCH Henri F. Amiel
+1d6172da-14c7-4c4a-aefb-c2c39d6c1c0d BY_NOMATCH Edwin H. Chapin
+927143b5-ef64-4402-b5d5-e3187dbbacb6 BY_NOMATCH James Russell Lowell
+3d4ff0f6-402e-45c6-b388-5efcfa23c5d0 BY_NOMATCH Thomas A. Edison
+d3810a85-63bc-4d10-8c59-995220ac74b6 BY_NOMATCH Ralph W. Emerson
+4186b966-0c14-4789-9fbc-811ee46a8afe BY_NOMATCH Claude A. Helvetius
+ea842847-7c70-47ff-908c-d89668276c53 BY_NOMATCH Oliver W. Holmes
+5ac51c1e-3789-4526-a6d9-b53e2101a7f5 BY_NAME Mohandas Gandhi != Mahatma Gandhi
+bde29a83-9f88-4924-bd3a-f9c1c8a5beb6 BY_NAME Hermes != Hermes Trismegistus
+ab9fc003-f1ce-4ad6-8349-5bd08d2387aa BY_NOMATCH Christian Bovee
+20d4255a-6bb4-4ef8-b574-7382fd02b146 BY_NOMATCH W. J. Slim
+3b2e6c69-3593-4f36-8d95-656399189bd0 BY_NOMATCH Blaise Pascal
+a95a619a-7ba6-4b3c-a5c7-c26f7cef89ec BY_NOMATCH Oscar Wilde
+4904b170-1203-4dc6-97c1-57665e9a090c BY_NOMATCH Friedrich Engels
+6012f086-713a-4e0d-ba2a-9e68f12151fe BY_NOMATCH Carl Jung
+1c8039aa-9cd7-4bf6-99fd-a3d69f454cb5 BY_NOMATCH Krishna
+d9a36ccc-c095-4b5a-86f4-1cc1a23b68b5 BY_NOMATCH Tripura Rahasya
+49a70326-b9c4-4596-9650-2070d6103fe3 BY_NAME Henry T. Hamblin != Henry Thomas Hamblin
+60a40ca5-ea86-4a94-9965-28876d75ab6e BY_NOMATCH Lord Herbert
+00315433-f4f6-4072-b586-e7ec1a4bff84 BY_NOMATCH William Hazlitt
+5595cad4-ffd9-494d-a59a-17bd1c64aedd BY_MISSING
+6354f313-c407-4264-b7a3-2458b98e4c0e BY_NOMATCH John Locke
+b201707e-60d2-4848-855b-07dd7533bf8a BY_NOMATCH Robert S. MacArthur
+68c5fe01-9169-495e-ac8b-6db94729fe24 BY_NAME Marcus Aurelius != Marcus Aurelius Antoninus
+0daac4c2-94da-45ff-bb15-1bf0b2676c56 BY_NOMATCH David Thomas
+cc6277de-1615-40e7-8c3e-5c5ed48cc755 BY_NOMATCH Thomas Carlyle
+845140e2-c69d-4035-86de-5fdfcaafe121 BY_NOMATCH Johann W. Goethe
+1b52b577-18a2-4aad-933a-f65ae9d05fc9 BY_NOMATCH Papa Ramdas
+d92cf875-d35b-41c2-98f8-5b0e8c882712 BY_NOMATCH Wang Yang Ming
+52640cfe-e3a7-4654-bdb7-86887b509d14 BY_NOMATCH Ralph W. Emerson
+3eebcaca-f650-41a0-93e6-2d40ebc97f2c BY_NOMATCH Marie-Louise von Franz
+c8357f2d-2e5b-430f-b83e-a5354efdfdae BY_NOMATCH Barbara G. Harrison
+fc130ce1-7444-42f9-a893-aea5dfd9d9c2 BY_MISSING
