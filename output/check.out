@@ -3829,7 +3829,7 @@
 8fed6116-3e1d-4caa-834e-ae6ba1a95d2a BY_NAME 'Attâr != Attar of Nishapur
 8ffb225c-a9ff-4483-b42a-062d34fc5b32 BY_NAME Al-Kalâbâdhî != Abu Bakr al-Kalabadhi
 900d1b57-e0e5-41ab-a190-feac463f4486 BY_NAME Rûmî != Rumi
-9017abb9-2702-4569-b711-ebbe10982deb BY_NAME Pseudo-Dionysius != Pseudo-Dionysius the Areopagite
+9017abb9-2702-4569-b711-ebbe10982deb BY_NAME Pseudo-Dionysius != Dionysius the Areopagite
 90302313-d97c-4d54-becc-c1f2b36f7405 BY_NAME Hermes != Hermes Trismegistus
 9031a732-d2f8-4355-b0a1-57732409a2a9 BY_MISSING
 90364e64-07f9-4e23-b194-05cd65f4bbf0 BY_MISSING
@@ -6863,20 +6863,12 @@ f37ee96f-77ca-4df0-b0c1-a236bac4090b BY_MISSING
 f6618f2c-713d-4841-a285-d74e42306385 BY_NAME Sivananda != Sivananda Saraswati
 22197e33-3460-49de-a1a1-5e1b5b84b862 BY_NOMATCH Hitopadesa
 328b70ce-0e1f-4a88-987f-8ede4206ae42 BY_NOMATCH Jean P. Sartre
-3354db17-7fd5-4d2b-bdb9-c502b6ae5a3c BY_NOMATCH Edgar A. Poe
-3915343b-3862-4f3f-b897-7b270c636f15 BY_NOMATCH Harry A. Overstreet
-4d29b240-0c6b-4393-88ec-af1fd121f304 BY_NOMATCH Fernando Savater
-69342141-de74-4a1a-8080-c885dab091b9 BY_NOMATCH Dag Hammarskjold
+3354db17-7fd5-4d2b-bdb9-c502b6ae5a3c BY_NAME Edgar A. Poe != Edgar Allan Poe
+3915343b-3862-4f3f-b897-7b270c636f15 BY_NAME Harry A. Overstreet != Harry Allen Overstreet
+69342141-de74-4a1a-8080-c885dab091b9 BY_NAME Dag Hammarskjold != Dag Hammarskjöld
 72e01715-f473-43cc-912f-14da999fdd91 BY_NOMATCH Andre Grodin
-78475f42-ef26-46cd-acd1-35c4955bc0cf BY_NOMATCH Ernest Hemingway
-78e15940-a46d-4e50-84c1-fc9be17f4610 BY_NOMATCH Mother Teresa
 80b4909b-5f7b-4681-8a60-e3f7b7b0177a BY_NOMATCH Papa Ramdas
-8421f0d2-2444-4954-abcc-f33efc0bccc6 BY_NOMATCH William James
 903692b7-5413-409d-bbb0-d62db570a525 BY_NOMATCH Andrew Mercer
-a02cd452-d117-4f57-bebc-9963ffd30353 BY_NOMATCH William Gibson
 ad17cc92-a767-4bc3-9136-692aaad52caa BY_NOMATCH Seneca
 c0a0d4b5-34bc-429c-94c4-e968e27e900f BY_NOMATCH A Spiritual Warrior
-c7e7784c-9236-4344-8653-a5271dc49824 BY_NOMATCH Jerry Brown
-dcb63e2b-90e8-4916-889d-c7e29ea69ee2 BY_NOMATCH Peace Pilgrim
-e07ef0a6-b12a-4ba5-87c4-0fd002cf6aac BY_NOMATCH Nisargadatta
-e238e477-3150-4a4c-b327-ea7aa92a20ec BY_NOMATCH Eliphas Levi
+e07ef0a6-b12a-4ba5-87c4-0fd002cf6aac BY_NAME Nisargadatta != Nisargadatta Maharaj
