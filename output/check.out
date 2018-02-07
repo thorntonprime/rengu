@@ -26,7 +26,9 @@
 010d8b32-9d53-4a1c-b9a8-c04320d720f8 BY_NAME Swami Sivananda != Sivananda Saraswati
 012a0a14-b391-4b5f-b9e2-d46957ad5695 BY_NAME Sânti-deva != Shantideva
 013af2fb-67db-4280-a623-048db5721521 BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
+014d4ee6-35f2-4a61-b89b-c8f57a4715bb BY_NAME Pope Gregory I != Gregory I
 014d5eb6-21e2-4a79-9397-383ebf8e66d5 BY_NOMATCH Morienus
+01527bfc-a259-4ea3-980e-a51a669fd4fe BY_NAME Michel Montaigne != Michel de Montaigne
 015fe11d-43a6-469f-8138-642a2c5cef2e BY_MISSING
 0168750c-6241-4cc8-bc8b-275ac30828fb BY_NAME Dante != Dante Alighieri
 017237f8-c73f-45f5-aa47-3f8b6024dcaf BY_NAME Hermes != Hermes Trismegistus
@@ -65,12 +67,15 @@
 026734b4-433f-46a8-9dc8-026b3332bb55 BY_NAME St Alphonsus Liguori != Alphonsus Maria de Liguori
 027933d4-9f0f-4b4d-b67d-75b7ba0e0f70 BY_NAME Boehme != Böhme
 0299de24-0573-4378-b036-3f0d44cde3fb BY_MISSING
+02a35969-b0a3-461e-b1a4-1efcfcf91c12 BY_NAME Manhae != Han Yong-un
 02c35b68-197a-41b2-9f7b-fa5810ed2064 BY_MISSING
 02c7ceeb-bfe7-407f-a231-5be30bb3db2d BY_MISSING
 02cb4e8a-96e1-4aa4-827e-865a0aacc8f5 BY_NAME Lao-tzu != Laozi
 02cbbcd9-a076-4849-9cdd-62a92e3b096a BY_NAME Eckhart != Meister Eckhart
 02db3102-14f5-47de-ae9a-35ba2242d48a BY_MISSING
 02ed1cb6-b602-419f-8675-4591847994db BY_NAME Ibn 'Arabi != Ibn ul-Arabi
+02ef688a-465b-4570-a05f-212687419dfa BY_NAME Paramananda != Swami Paramananda
+02f72c97-4acc-4e0c-87a0-9d4b7c489d35 BY_NOMATCH Richard E. Burton
 02fde154-af65-44ff-a03e-3e60909d7cf5 BY_MISSING
 02ff8a01-06bb-42de-9ac6-a667a1f80211 BY_NAME Boehme != Böhme
 0312e707-5738-470f-b1ef-6f8700f75163 BY_NAME Sri Ramana Maharshi != Ramana Maharshi
@@ -176,6 +181,7 @@
 062279b6-3842-4cf6-9ba7-3482799b9a01 BY_MISSING
 0627debb-c86a-4d95-bfb3-2e4926db20b5 BY_MISSING
 06293bdc-c538-4b8d-a2d2-dc530dcdbdaf BY_MISSING
+062cd98e-5243-4cc4-a370-968963045d2d BY_NOMATCH Herbert Seibert
 062dafa2-ebbd-4086-b0be-eab5087321ca BY_MISSING
 0630d383-9e98-45f7-9765-1c8db34280de BY_MISSING
 064f02d4-9612-4e6e-bfff-ac2136075049 BY_MISSING
@@ -205,6 +211,8 @@
 06fed894-1e11-4e6f-abca-f87266f96ee7 BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
 07008dae-94c2-457b-b345-b6be88a0484c BY_MISSING
 070510bf-fdaf-4931-90bd-23d79161b083 BY_NAME Swami Sivananda != Sivananda Saraswati
+07333659-a38e-457d-97ca-6244b1e03841 BY_NAME Manhae != Han Yong-un
+07333659-a38e-457d-97ca-6244b1e03841 TITLE_SPELL Samadhi
 073a7ca6-9ef0-4d32-8c04-f4892cf16ae2 BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
 074406ec-f7b6-4bcd-b99f-337f85e9c1aa BY_NAME Eckhart != Meister Eckhart
 07453887-89da-423c-8d84-c9f2fc036347 BY_MISSING
@@ -236,6 +244,7 @@
 07dcf0af-fbad-4a25-a5f6-5492c8eb266e BY_NAME John Smith the Platonist != John Smith (Platonist)
 07e6b91e-f343-400b-bfeb-bad11f0c7b8b BY_MISSING
 07eb96ef-3c68-4b88-89e0-e07011c3d229 BY_MISSING
+07ecdf0c-ee52-4d07-96cb-e03f2b2e1d38 BY_NAME Manhae != Han Yong-un
 07f5c240-ad7a-4825-9aa7-d490012e84d0 BY_MISSING
 07f86e34-f412-4dbd-9eca-7c6ee2ba64e0 BY_NAME Hermes != Hermes Trismegistus
 07fa6cec-498f-4d96-ad7a-50f393ee486b BY_MISSING
@@ -245,11 +254,13 @@
 08641377-fd3f-4003-968b-53d30ee6bc09 BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
 08696878-2118-4b06-b935-1bc49ff1271e BY_NAME Becher != Johann Joachim Becher
 086aa46b-dfec-42de-abaa-8ae336671def BY_NAME Sextus the Pythagorean != Quintus Sextius
+087006ca-fd34-49a9-9d31-fdec316e4e73 BY_MISSING
 087424ec-06e8-41d2-9f5e-436e54ddcfcf BY_NOMATCH Anangavajra
 08899387-0e37-479d-a031-937738dcf9e9 BY_NAME Akka Mahâdêvî != Akka Mahadevi
 0890ac1f-ad65-41a7-b075-89a1d2e7666f BY_NAME Bâyazîd al-Bistâmi != Bayazid Bastami
 089443e8-fe2c-40cc-af4b-1e1530162665 BY_NAME Swami Sivananda != Sivananda Saraswati
 08a4fa35-7ec6-456f-8324-53341c411db1 BY_MISSING
+08a7a08d-c514-466b-a6af-2beed7c27ba4 BY_NAME Herbert Casson != Herbert Newton Casson
 08b1d6d0-c228-44e5-8468-00ca4fe5282b BY_NAME Ibn 'Arabi != Ibn ul-Arabi
 08b94136-7e01-4c17-8644-f132d2993aba BY_NAME Eckhart != Meister Eckhart
 08bdf4fe-d171-44ea-878d-60f7106a28fe BY_MISSING
@@ -265,6 +276,8 @@
 08fe4119-c840-4653-9a58-409d7ecde7f6 TITLE_SPELL Saadi
 08ffe5bc-0a76-4e4a-8eda-fefbeac17df6 BY_NAME Jâmi != Jami
 09035f0d-ba21-45cc-a14b-975cd7b4152d BY_NAME Philalethes != Henry More
+09330e0c-ecdb-49ec-be11-4c6f67b9eed2 BY_NOMATCH Gary Emery
+0952b2fe-b48a-492f-8d0b-eb8342641ac9 BY_NOMATCH Edward Clarendon
 09707f13-646b-4962-8f7f-e9a02ef773a7 BY_NAME Philalethes != Henry More
 0976a2dc-d2fe-4e29-bb9a-fa09ea6d593a BY_MISSING
 097ec34e-9359-4636-9693-378544cf669b BY_NAME Dante != Dante Alighieri
@@ -272,16 +285,19 @@
 099309e8-3da9-4381-81e6-43e4972fc26f BY_NAME Abû Sa'id ibn Abi 'l-Khayr != Abū-Sa'īd Abul-Khayr
 09a7deef-f27a-4189-bcdb-7fd0b135a0b3 BY_NAME Ananda Moyi != Anandamayi Ma
 09a8133d-40cc-4a26-b341-a92040a27edb BY_MISSING
+09aa99db-3989-40fb-a104-ad8bf808c4b4 BY_NAME Seneca != Seneca the Younger
 09ae7c9e-3cff-406a-82d6-112464e3017b BY_NAME Hujwiri != Ali Hujwiri
 09ba2769-5306-4369-8d99-4760c2af048b BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
 09bc7fa5-9478-45d6-8124-8f0bfd369709 BY_NAME Eckhart != Meister Eckhart
 09c07c33-d734-4537-bbeb-f90f4381c44d BY_NAME Chuang Tzu != Zhuang Zhou
 09c39077-2c70-4642-bac5-e3a295c8cce2 BY_MISSING
 09c39077-2c70-4642-bac5-e3a295c8cce2 TITLE_SPELL Bezaleel
+09ca4563-9ae0-4e9b-98c9-06aa58230951 BY_NAME Shantidasa != Shantidas Ashikari
 09d00757-ef64-419e-ac0e-6864f586f8bf BY_NAME Dante != Dante Alighieri
 09d1f200-3eda-4142-9bde-28907ba8b1ba BY_NAME Layman P'ang != Layman Pang
 09e672ab-23e4-46f4-819e-f91ec051893a BY_NAME Hermes != Hermes Trismegistus
 09e8147e-df99-4ce0-a958-ed1f3a10678a BY_NAME Lao-tzu != Laozi
+09f1b5a8-4018-4858-a875-a57f3b65666a BY_NAME Henry W. Shaw != Josh Billings
 09f5c627-e59f-4d7e-88ab-177a5b6325c9 BY_MISSING
 09f62a4c-f735-488c-86b1-0301f92943ea BY_MISSING
 0a0a313e-9ca9-4a68-a74f-b1061573cd86 BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
@@ -296,6 +312,7 @@
 0a7fd1dd-3b60-4f81-ab6f-d50a70e51a29 BY_MISSING
 0a87137a-ee60-4dbc-9e61-2ed2eea19e9a BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
 0a910dfe-c0e5-4d3f-976b-96160adce2b3 BY_MISSING
+0aa89b33-66e9-450b-a77a-8a36946a3cbc BY_NAME Thomas Haliburton != Thomas Chandler Haliburton
 0aaa3271-4817-46e9-822f-652c8f12f88f BY_MISSING
 0ab25dae-d0b2-4296-b705-10dde09b93b5 BY_NAME Geber != Pseudo-Geber
 0ac64b79-48ea-48bc-bee5-384c8538ba4a BY_NAME Omar Khayyâm != Omar Khayyám
@@ -313,6 +330,7 @@
 0b17289a-d903-4832-b47f-edc63aaf63fa BY_MISSING
 0b181e98-84c1-4c03-9198-54854f201d75 BY_MISSING
 0b1d36da-65b3-48c1-87a5-e7db955c96d3 BY_MISSING
+0b294dd6-cafe-4a04-b9fe-5b08c79be93f BY_NOMATCH Max Gralnick
 0b2af653-0972-4127-9359-ef1d19fa1f3b BY_NAME Eckhart != Meister Eckhart
 0b36a476-f554-4c9d-9b62-cb54407adff8 BY_NAME Philalethes != Henry More
 0b47026b-6064-4383-ba46-911b7ce4212a BY_NAME Boehme != Böhme
@@ -377,6 +395,7 @@
 0d4a1639-2dc8-40ca-ad80-932a6c0670be TITLE_SPELL Mahamudra
 0d4a1639-2dc8-40ca-ad80-932a6c0670be TITLE_SPELL Upadesa
 0d4a1639-2dc8-40ca-ad80-932a6c0670be TITLE_SPELL Tilopa
+0d4ea33d-255b-43ca-9ccf-41f595a54c75 BY_NAME Seneca != Seneca the Younger
 0d58e63d-21d5-493d-a409-7f1561150e49 BY_NAME Han Shan != Hanshan
 0d69a191-8b77-45e7-8594-50699bafb350 BY_NAME Eckhart != Meister Eckhart
 0d69f14b-ccaa-4c10-aed1-9b98a73bccb9 BY_NAME Dante != Dante Alighieri
@@ -385,6 +404,8 @@
 0d7cb6b6-e006-46db-8664-fdf713bf778a BY_MULTIPLE
 0d8556f2-3884-44e9-a3ac-5d7637b1c4e9 BY_NAME St Bernard != Saint Bernard
 0d907f40-d356-46f7-92fa-df77f12903cf BY_NAME St Louis de Montfort != Louis de Montfort
+0da545b1-9785-4ad9-96bc-8258dd1e39da BY_NAME Manhae != Han Yong-un
+0daac4c2-94da-45ff-bb15-1bf0b2676c56 BY_NOMATCH David Thomas
 0dae6d07-7010-4436-a285-6f134e720de8 BY_NAME Lao Tzu != Laozi
 0daf9e4e-f784-4b89-ba9e-c15819c02c08 BY_MISSING
 0db281f8-f71e-4342-97ec-37499ee7a3b1 BY_NAME Shen-hui != Shenhui
@@ -399,6 +420,7 @@
 0e3ad869-cdeb-4250-aaae-7f06bd1dde53 BY_MISSING
 0e5c290d-50ab-4f06-a2e6-4bbef5789078 BY_NAME Henry Madathanas != Adrian von Mynsicht
 0e61042f-1922-4512-bdda-8fcc920b99b4 BY_NAME b201cc24-b119-48e5-ab1f-ae84cdd442cf != Han Yong-un
+0e697e62-8977-4277-a56e-f9c0f3ea2a76 BY_MISSING
 0e6bcfb1-7e53-4f5c-8586-e7a7dd77adba BY_MISSING
 0e6f49e6-8182-4905-8f4f-55f95d8bf2d6 BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
 0e73e5da-6342-403b-9b93-e81b8ec1aa97 BY_MISSING
@@ -413,6 +435,7 @@
 0e9aea2a-093e-418a-9640-3b1972305986 TITLE_SPELL Entrustment
 0eb53b08-643d-494c-97c0-f9f9d17e58ab BY_NAME Sri Ramakrishna != Ramakrishna
 0ec0996e-92ba-4276-9dac-b11ef6cdc60c BY_NAME Chang Po-tuan != Zhang Boduan
+0eca7e4a-2d39-41ed-a1d4-2a826a1b0c59 BY_NAME Sivananda != Sivananda Saraswati
 0edcaa67-5d32-49aa-8ce3-1e2cfa203805 BY_MISSING
 0ee0a588-a9a0-4cf8-b135-1908b672ecb0 BY_MISSING
 0ee6e5da-dfee-470b-8253-ea417527b32b BY_NAME Eckhart != Meister Eckhart
@@ -426,6 +449,7 @@
 0f1b0cf0-be00-4d6c-89b8-9cf98519f98d BY_NAME Râbi'a of Basra != Rabia of Basra
 0f1cecdc-3cc6-4121-a631-2a1aed68722b BY_MISSING
 0f2d1bf4-e341-426a-91f9-aff0b77d7524 BY_MISSING
+0f30f8e3-22e7-40b4-b7d9-c282775d73ba BY_NAME Manhae != Han Yong-un
 0f41d4a9-87db-4d6f-86ed-ef992152e2f2 BY_NAME Henry Madathanas != Adrian von Mynsicht
 0f5a87c6-792a-4d76-a97b-829aad1a1e84 BY_NAME Shakespeare != William Shakespeare
 0f758fb6-cb8b-432c-bc48-ecc2bd633e50 BY_NAME Ibn 'Atâ'illâh != Ibn Ata Allah
@@ -433,14 +457,17 @@
 0f8118e0-d2b1-4728-9dbe-e8cd5c8ec4e7 BY_NAME Lao-tzu != Laozi
 0f887b80-6e9d-4029-b9e7-a061009e5082 BY_MISSING
 0f92cfde-eaee-4625-9826-d3fe2e14af15 BY_NAME Philalethes != Henry More
+0f9617b2-39f0-4ea0-be0c-b77e6ca0778b BY_NOMATCH Charles C. Colton
 0f968b95-299b-4c21-855c-4f603ab8119a BY_NAME Lao Tzu != Laozi
 0f9d2fa1-6096-448d-9f7a-ce517c46d8a6 BY_NAME Chang Po-tuan != Zhang Boduan
 0fb235a5-c532-4e92-a9c3-375e1f056cc2 BY_MISSING
 0fb5994c-5d6b-42a3-a608-30cfad4fb4c8 BY_NAME Ibn 'Atâ'illâh != Ibn Ata Allah
 0fb6d439-575f-40ad-9f0e-391ef6c32715 BY_NAME Shakespeare != William Shakespeare
+0fc6dc3e-fc2a-4330-83ab-28f5837438b2 BY_NOMATCH Norman Thornton
 0fc9fee0-bfd7-4b77-a3c7-f1c29274765c BY_NAME St John Damascene != John of Damascus
 0fce0a6a-c0b0-47a5-bd8d-feef2e048efa BY_NAME Hônen != Hōnen
 0fd4a262-b9ba-4005-81a3-341b0760fa36 BY_NAME da184f92-f119-42ee-8e45-06ab31cd9624 != Thomas Merton
+0fe4a81c-8aa2-4c5f-8846-aefe51759417 BY_NAME Sister Consolata != Consolata Bertone
 0fedc04e-c6a4-472c-a946-31b513168b02 BY_MISSING
 0fee161c-3952-46e6-91b5-b174012c1db9 BY_NAME Sri Ramakrishna != Ramakrishna
 0fee6fc6-990a-483f-a9d7-58f97654be45 BY_NAME Hermes != Hermes Trismegistus
@@ -542,6 +569,7 @@
 13427f67-364b-4ef7-87ca-9c1bef5cb34e BY_NAME Lao-tzu != Laozi
 1357cdaf-835d-49b4-bce7-18048f83cbb3 BY_MISSING
 1360d785-24e5-4313-9d12-f864a2d90e3b BY_NAME Philalethes != Henry More
+13626a9d-6b1c-4e2b-97ad-e16ab442506f BY_MISSING
 1365b35e-1806-4038-8bb3-701127224f3e BY_MISSING
 13677685-548c-4c6b-a088-92d9b96026e5 BY_NAME Hermes != Hermes Trismegistus
 1369e5df-e6dc-4c59-878c-0aa72202b02b BY_MISSING
@@ -570,6 +598,7 @@
 141bea34-42b1-4959-af52-6553651ec273 BY_NAME Eckhart != Meister Eckhart
 14232cef-c51e-4aa6-a236-e21feef0f39b BY_MISSING
 1436ffbc-bb8d-46db-af20-f249570acdae BY_NOMATCH Al-Sarrâj
+145e5d39-b393-498f-8829-2f0666e8e161 BY_NOMATCH Cuthbert Hall
 147940c3-487c-4ce7-a08f-d12907371049 BY_NAME Hermes != Hermes Trismegistus
 14844bb9-6a5d-471d-9c33-35426036ca98 BY_MISSING
 148cd29a-7fdc-43a6-923d-b7ec8b68b975 BY_MISSING
@@ -581,6 +610,7 @@
 14df4aa9-b091-46ef-a359-4557a0159752 BY_NAME John Smith the Platonist != John Smith (Platonist)
 14e26309-4a4d-499b-b7e8-33d498d13db8 BY_MISSING
 14e92490-fc5d-4d8d-bb40-95c1f458f4b3 BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
+14fc569b-1bff-4eae-a0be-eb596f6650b2 BY_NAME Manhae != Han Yong-un
 14fdbfee-d19d-491d-9f25-e8968b2efaf0 BY_MISSING
 14fe122b-1e14-4a42-a344-6ae4d6a658fc BY_NAME Eckhart != Meister Eckhart
 1512896a-7fe3-4d7c-8507-b3bd35e8d156 BY_MISSING
@@ -620,6 +650,7 @@
 16c22d9b-7f36-4751-8d66-65ab58c58969 BY_MISSING
 16c66068-4b0f-4f9b-9b43-8994fe51a7b3 BY_MISSING
 16ccb7d0-93d2-4f20-85f9-6dcf116fc118 BY_NAME Phadampa Sangay != Dampa Sangye
+16cde0ad-7523-4623-909e-2b76b72591c2 BY_NOMATCH Bolton Hall
 16d09779-a07a-4ede-ba5c-22af6963f19e BY_MISSING
 16d52a02-3f6d-4387-9587-2996f30a4eb8 BY_NAME Dante != Dante Alighieri
 16dcd697-cb51-48c6-966a-159b30eb7b9f BY_NAME b201cc24-b119-48e5-ab1f-ae84cdd442cf != Han Yong-un
@@ -717,6 +748,7 @@
 1a8a5b6b-f86a-41db-8b43-448a7a6a2413 BY_MISSING
 1a8b8a16-38f3-4430-8542-7a3f8c44cb6b BY_NAME Chang Po-tuan != Zhang Boduan
 1a903dba-e719-49a8-b93d-fa760b4809db BY_NAME Simplicius != Simplicius of Cilicia
+1aa152c4-be5e-424b-96fc-02a1876d29d7 BY_NAME Count Leo Nikolaevich Tolstoy != Leo Tolstory
 1ab4367f-bb6b-452e-83f7-a512e7f473ae BY_NAME St Augustine != Augustine of Hippo
 1ab55d9a-24c6-415d-8e39-036cfabdd920 BY_MISSING
 1ab74084-a4d7-4e99-958e-b755e6684ed7 BY_NAME Boehme != Böhme
@@ -730,10 +762,13 @@
 1aefa0c6-b895-49dd-aa1b-ca876cca7681 BY_MISSING
 1b0b8df7-39ab-4b42-be45-4f7c50dc092d BY_NAME 'Attâr != Attar of Nishapur
 1b13ec9f-470b-419b-805f-94b55a6c4e05 BY_NAME Hermes != Hermes Trismegistus
+1b20138e-82e2-44e0-9a54-a5127db202e9 BY_NOMATCH Karl von Knebel
 1b47d1d9-24ff-4e4a-93ac-5a81790983a0 BY_NAME Sri Ramakrishna != Ramakrishna
 1b4bb8c9-1bce-4675-a49d-bd5009926c5d BY_NAME St Louis de Montfort != Louis de Montfort
+1b52b577-18a2-4aad-933a-f65ae9d05fc9 BY_NAME Papa Ramdas != Swami Ramdas
 1b52ff97-be15-4552-ba81-20219e0cf633 BY_NAME St Augustine != Augustine of Hippo
 1b6efd78-08e2-44c7-a233-7dc524de1abf BY_NAME Eckhart != Meister Eckhart
+1b72333d-21b2-4864-98eb-2e9066a90621 BY_NAME da184f92-f119-42ee-8e45-06ab31cd9624 != Thomas Merton
 1b7a226d-5f0a-480b-84f7-d09c25cd1f90 BY_MISSING
 1b8ef0fb-cc17-4972-98ff-40a1a1c9607f BY_NAME Abu Sa'id ibn Abi 'l-Khayr != Abū-Sa'īd Abul-Khayr
 1bae8552-f7dd-4a4f-9d5f-565400ab78c8 BY_MISSING
@@ -743,11 +778,13 @@
 1bdcaef6-d22b-48dc-bc91-c539af5f95d7 BY_NAME Ibn 'Atâ'illâh != Ibn Ata Allah
 1be9ab30-9b02-4f3f-8393-a122606bef28 BY_MISSING
 1bef2439-1426-4bc2-9aa8-75becebe9f44 BY_NAME Tauler != Johannes Tauler
+1bf626b9-7ce4-4f8f-b2ab-57e5cbc59890 BY_MISSING
 1c0aa5e8-6d88-4be7-9791-05d12119dbc6 BY_NAME The Russian Pilgrim != The Russian Pilgrim (anonymous)
 1c0e81b5-7376-4fa4-b3ad-c36c1ed2306c BY_NAME Seng-ts'an != Jianzhi Sengcan
 1c0ea7a9-1fa4-4185-81e8-b9e2ac9d66a1 BY_NAME Sri Ramana Maharshi != Ramana Maharshi
 1c0f8912-e672-4c0b-b203-a0f39a8b16d4 BY_NAME Sri Ramana Maharshi != Ramana Maharshi
 1c18c7e4-da6f-4f43-b047-50902a6994dd BY_MISSING
+1c339992-6b5b-4a38-93d7-569a8621ab5d BY_NAME George J. Nathan != George Jean Nathan
 1c421613-0206-4d6d-8101-158e0336a68d BY_NOMATCH John A Mehung
 1c46cf33-a8db-4c3c-b6d4-b0e862defda6 BY_MISSING
 1c4e3e0f-0ad3-4a1e-80da-de71c5a5082b BY_MISSING
@@ -755,6 +792,8 @@
 1c58fcb1-a4c4-4e2d-b0cd-c63020160c54 BY_NAME St Teresa of Lisieux != Thérèse of Lisieux
 1c63bdb3-e67b-4f97-974f-5f1525d40785 BY_MISSING
 1c7cc4ee-a81c-4ce8-a3b7-21c039a586f8 BY_MISSING
+1c7f96ae-03be-432c-8aca-f9e9f3e2bf9b BY_NAME Manhae != Han Yong-un
+1c8039aa-9cd7-4bf6-99fd-a3d69f454cb5 BY_NOMATCH Krishna
 1c851789-58a5-494a-9f56-c5e79d881356 BY_MISSING
 1c887209-5d26-401b-a223-baf6d9247237 BY_NAME Eckhart != Meister Eckhart
 1c8ce692-57d4-4e3e-abc1-4ac15e80dc66 BY_MISSING
@@ -762,6 +801,7 @@
 1c9e8a12-96c2-4efe-b289-153a08320fbf BY_NAME Swâmi Brahmânanda != Swami Brahmananda
 1c9ef87a-523b-41e7-9608-3f9753464137 BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
 1ca89615-95c8-434d-b803-6f9e84e4ba84 BY_MISSING
+1caedbe3-6515-47ba-ad1e-e03768e2d287 BY_NOMATCH Sarmad
 1cb90642-0df6-4feb-a1c1-34fe6c0cadc9 BY_NOMATCH Joseph Gikatila
 1cbc20f7-f140-4ced-ba36-f866739145ff BY_NAME Hermes != Hermes Trismegistus
 1cc1b3cd-d5c5-4f3d-a6ab-1c29fd015a42 BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
@@ -780,6 +820,7 @@
 1d3cac54-d03d-4c0f-ab7b-8e6390c8be27 BY_MISSING
 1d5a48db-d956-402e-91b5-f53b335ebe30 BY_NAME Shakespeare != William Shakespeare
 1d5c01f3-7cd3-4e9e-8524-a3e7f90743ad BY_MISSING
+1d6172da-14c7-4c4a-aefb-c2c39d6c1c0d BY_NOMATCH Edwin H. Chapin
 1d76e381-2977-4ed5-a1e1-4cc497146166 TITLE_SPELL Unspeaking
 1d79548f-a649-470a-bc6c-0b51a2abc04c BY_MISSING
 1d7f866d-d513-4ff5-9350-ff0f8e4b865b BY_MISSING
@@ -797,6 +838,7 @@
 1e0a46e7-8b1d-4345-8cbe-b6feeb97b11e BY_NOMATCH Shirley Morgan
 1e0b0bf5-5979-4f4d-8670-d54fe97f7949 BY_NAME Eckhart != Meister Eckhart
 1e1b7771-d155-482e-a93d-574568d65b65 BY_MISSING
+1e31b54b-9a98-4337-ae86-351e141ec404 BY_NAME William Punshon != William Morley Punshon
 1e38935c-4d2e-4af9-90c2-0726f91034cd BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
 1e3d1fe9-18e7-44c6-8200-2989cfea2a25 BY_MISSING
 1e3f797d-b3ee-4c18-9d5d-6d3783879b91 BY_MISSING
@@ -829,6 +871,7 @@
 1f0e792b-5c69-4fda-b591-2d489b0c1522 BY_NAME St Thomas Aquinas != Thomas Aquinas
 1f150223-db7d-4ae1-b00e-efacbc593341 BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
 1f18d9d0-20c0-4c9e-8048-8ee5700d556e BY_NAME Pang Yun != Layman Pang
+1f191d58-51d1-4e85-84c5-9c5f61e152c8 BY_NOMATCH Jesus
 1f1f7a86-7938-47b0-8e0f-eca335d9abea BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
 1f203623-dc2f-4748-a565-7260750e31a4 BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
 1f291a80-50ee-4a86-99ed-a62c3c511090 BY_NAME Ansârî != Khwaja Abdullah Ansari
@@ -856,6 +899,7 @@
 1fcef3b4-6d34-462e-ba2c-74524f95fea8 BY_MISSING
 1fdcff5a-fae1-4412-88e7-965c5d81e318 BY_MISSING
 1fdef2d7-1bc6-4fc8-a4da-d8e6988fe84c BY_NAME da184f92-f119-42ee-8e45-06ab31cd9624 != Thomas Merton
+1feefc44-6f65-4b53-993f-a2468045e303 BY_NOMATCH Annarnalai Swarni
 1ff43657-5fdb-46c8-834c-9600ca99030e BY_MISSING
 20031354-4c96-4605-aad1-27af69feceae BY_NAME Swami Sivananda != Sivananda Saraswati
 20052793-30cc-42c4-b84e-377b0a6ab60c BY_NAME Hermes != Hermes Trismegistus
@@ -878,6 +922,7 @@
 20c2c4fa-6900-4be7-95eb-ce8cf54dd077 BY_MISSING
 20c9933d-6c75-4249-aff9-d3f44031a7cd BY_NAME Rûmi != Rumi
 20cfad1c-bc88-44f4-ba46-0026fb2084af BY_MISSING
+20d4255a-6bb4-4ef8-b574-7382fd02b146 BY_NOMATCH W. J. Slim
 20d7c0b7-a89a-47fb-84e3-d6c83b548c12 BY_NAME Sister Consolata != Consolata Bertone
 20d9d346-2466-41e7-bc9f-3be9105144c9 BY_NAME St Augustine != Augustine of Hippo
 20edd0af-02b5-458d-bd0e-a90015689762 BY_NAME St Teresa of Avila != Teresa of Ávila
@@ -886,6 +931,7 @@
 21053a51-d56e-4327-9695-f0c80551bf40 BY_NAME Hermes != Hermes Trismegistus
 210fcff6-3412-44b9-b5bb-b936865f054b BY_NAME Robert Herrick != Robert Herrick (poet)
 212b66c6-2f4f-4f15-9676-e9af71a6af56 BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
+21368acc-96ae-4b69-a883-a4755438f695 BY_NOMATCH Henry F. Amiel
 213f7814-8a53-49df-9418-4dbc7232367f BY_NAME 'Ali != Ali
 21407230-85f0-4537-8d45-65a295388461 BY_NAME Sister Consolata != Consolata Bertone
 2140d82c-dfa2-4055-9e98-abf275beda02 BY_MISSING
@@ -894,10 +940,12 @@
 21597ef3-4105-4e9e-92ae-63089d0d466c BY_MISSING
 2185850d-99a9-41be-91cc-4f9736fdcbaf BY_MISSING
 218962f8-d0f5-4e61-a7fe-aa98a43bc076 BY_MISSING
+2192ba8f-699f-42d5-8e25-2999909190af BY_NOMATCH Anonymous
 219e38a8-be94-4a78-bd90-b720245aa40b BY_NAME Eckhart != Meister Eckhart
 21b04a9e-6890-493c-a697-fe0adf984115 BY_MISSING
 21b04a9e-6890-493c-a697-fe0adf984115 TITLE_SPELL Gayatri
 21bfaec1-3aac-41e0-94f0-4858512cc194 BY_NAME Hermes != Hermes Trismegistus
+21d7ea32-d686-496b-b118-526a7e45d66d BY_NAME Paramananda != Swami Paramananda
 21dc48bf-34e7-47af-800c-3546e4574b0a BY_MISSING
 21e30f5d-f496-4c16-ae8a-2af695fb0e10 BY_NOMATCH Huai Nan Tzu
 21ed12d5-b4fa-4a56-b881-997bd5a52e35 BY_NAME Jâmî != Jami
@@ -908,6 +956,7 @@
 2206eb97-2565-4af9-bcb9-ff74501827a1 BY_MISSING
 2206eb97-2565-4af9-bcb9-ff74501827a1 TITLE_SPELL ensample
 220837da-573c-4ca7-85b8-7a62525e6166 BY_NOMATCH Playful-calf
+22197e33-3460-49de-a1a1-5e1b5b84b862 BY_NOMATCH Hitopadesa
 221d7897-ef0d-4561-9b32-b1d920646649 BY_MISSING
 22205ce0-1105-4f3e-862e-cb9fabc1fe58 BY_MISSING
 222cf7a8-adfd-498d-808e-54498e877831 BY_MISSING
@@ -934,6 +983,7 @@
 22d7b128-524c-45a8-8cbb-71714cec6063 BY_MISSING
 22e4e277-da54-46f7-bf27-59c9877e15da BY_NOMATCH Uyesugi Kenshin
 22ec477c-6ab6-4916-8117-2785a7e8714d BY_NAME Chuang Tzu != Zhuang Zhou
+22effe23-5b7f-43f4-962d-9bf4e3497fb0 BY_NOMATCH Fred Van Amburgh
 2310516f-daaa-4924-ad4d-b9bb3e1aa0ed BY_MISSING
 23108490-d6d8-4f32-b015-0ab7164a841f BY_NOMATCH Dai-o Kokushi
 23199e96-e966-48f7-b85d-c6c996bebe33 BY_NAME Shih-te != Shide
@@ -948,6 +998,7 @@
 23cc159f-c578-41d7-be73-ec8025329cca BY_NAME Hermes != Hermes Trismegistus
 23d6130e-5cbb-4b74-93da-49b343d8ec6c BY_MISSING
 23ded373-a86c-4712-a198-0cd60bf374de BY_NAME Boehme != Böhme
+23eabe51-b9ed-404b-bab1-96220b15baa6 BY_NOMATCH Arthur Gordon
 2403074e-2d8a-4d1c-b62f-61e65565261c BY_NAME St Thomas Aquinas != Thomas Aquinas
 2410a8cf-71c7-4e63-a9c4-afb46e25d51b BY_MISSING
 24113b7d-acbf-4694-97b9-a6529cd9d1a4 BY_MISSING
@@ -959,6 +1010,7 @@
 242c6227-4dc0-44d2-b25d-76ff21b60e11 BY_NAME Li Po != Li Bai
 2437f5b4-e51c-4b9f-b684-9513007f5072 BY_MISSING
 243d67d5-a1c7-4192-8b95-1856aa306681 BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
+244a502b-a825-481e-816e-35f927071ce1 BY_NOMATCH Bernice Strawn
 244c36ec-1130-4534-a70b-f7ae27a6c506 BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
 246323b0-ccfd-45fb-bf34-0e87941fbd29 BY_NAME Po Chu-i != Bai Juyi
 2466e82c-0392-40a0-8d05-9b18fad1270e BY_NAME Tauler != Johannes Tauler
@@ -974,6 +1026,7 @@
 24c0a48e-6a4d-411a-b352-d46be8996e5b BY_NAME St Thomas Aquinas != Thomas Aquinas
 24c0ba86-6792-4a44-8fd4-251c9d187039 BY_NAME Kôbô Daishi != Kūkai
 24c18d36-b9ed-4aa5-a3d6-f7f3423d55bf BY_NAME Eckhart != Meister Eckhart
+24c444bf-83ac-413e-acf5-b10615cb420e BY_NAME Ralph W. Trine != Ralph Waldo Trine
 24d0fa75-c415-457f-bee1-c7fe42efb175 BY_NOMATCH Mohsan Fânî
 24ead9df-4930-4b00-84e8-c3c89fb08d9d BY_MISSING
 24ead9df-4930-4b00-84e8-c3c89fb08d9d TITLE_SPELL Râ
@@ -1014,6 +1067,7 @@
 263cda06-0d42-4ce7-9d18-3d1a2603236a BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
 264191d5-9f01-4513-8d67-f1c453d9d2ef BY_NAME St Francis de Sales != Francis de Sales
 2649479f-352a-4956-a1f7-67972b38a74e BY_MISSING
+2658f004-39d8-4376-839a-25e7632fd9de BY_NAME Francois Fenelon != François Fénelon
 2663051e-0700-4c2a-909a-c3df8358f4f2 BY_MISSING
 266d41f6-3bfe-4f68-a226-089d98017a99 BY_MISSING
 2675f1a7-86b8-45dc-b46e-bf422a7bf107 BY_NAME Dante != Dante Alighieri
@@ -1043,6 +1097,7 @@
 272bca67-4c27-4993-8cd0-dde786ef758c TITLE_SPELL Chinaman
 272c4cf2-2b40-4339-95b6-bb8741e350e0 BY_NAME Swami Sivananda != Sivananda Saraswati
 274ca8bc-7465-4f56-9515-726e55f60c48 BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
+2756931f-f8e6-4cc7-8663-bbe63c53ab44 BY_NAME Shantidasa != Shantidas Ashikari
 275aff83-5ddb-46c8-9223-a97e6306df76 BY_MISSING
 27650c08-2e4b-4032-8ae1-eac904610efe BY_MISSING
 2768febe-c351-45d5-9310-85e36069011e BY_NAME Huang Po != Huangbo Xiyun
@@ -1064,6 +1119,7 @@
 282a977a-637c-4010-8a44-a3c49385919a BY_MISSING
 282d77cf-d20e-48fc-9a30-c464ad8fd667 BY_NOMATCH Niutou Farong
 28305cdf-4676-47b4-8aef-355b25fe2110 BY_NAME Lao Tzu != Laozi
+283d65d4-2b85-40a2-b137-b214ab566718 BY_NAME Chuang Tse != Zhuang Zhou
 284edf2b-77fc-4bef-8fc6-aa0364a48928 BY_NAME Ibn 'Arabi != Ibn ul-Arabi
 285c2bb6-3f75-4944-83fd-7c7c72e9a57e BY_MISSING
 286620f6-e01c-4230-8d72-fa59d2bd537a BY_NAME Li Liweng != Li Yu
@@ -1089,9 +1145,11 @@
 2959a914-6877-4a0b-b21e-24989712d15a BY_NAME Abû Sa'îd ibn Abi 'l-Khayr != Abū-Sa'īd Abul-Khayr
 296a3c03-75ae-4139-b4db-fd8ccea2f750 BY_NAME Boehme != Böhme
 296f187d-d3b9-4245-b1cf-b287fe41ad16 BY_MISSING
+29766822-4722-4453-b2b1-a580c08b55fb BY_NAME St. Jerome != Jerome
 2988cef6-9e12-4794-a69e-6cda4e12b464 BY_MISSING
 2994336b-971e-424d-8f20-436beff97908 BY_NAME Siddhartha Gautama != Gautama Buddha
 299d7ee5-4116-4e54-9076-0339b2fbdd00 BY_NOMATCH Abu 'l-Hasan al-Khurqânî
+299df700-4a18-4a64-8bfa-b34089255a8e BY_NOMATCH Yukteswar
 29a4f802-3f2e-4c68-b319-c73641978c12 BY_NAME Sri Ramakrishna != Ramakrishna
 29acd048-3c0a-4d0e-8a6d-eca15d46c140 BY_MISSING
 29c2587f-406a-4013-bc7b-90b72975c97c BY_MISSING
@@ -1147,6 +1205,7 @@
 2b7d535f-5c89-43b9-ac89-3d435e33a808 BY_MISSING
 2b878d66-913f-4e6b-ad9b-5d111644f69b BY_NAME Boehme != Böhme
 2ba45542-6e08-4b96-8619-79692bbfc554 BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
+2ba6edc9-51e6-49b2-9087-c3bbe4df021c BY_NOMATCH Robert Leighton
 2bc75a83-9b21-4c75-a0e7-39478a308517 BY_NAME Al-Muhâsibî != Harith al-Muhasibi
 2bcfac3d-380c-48bb-8f0c-c53532e1ec70 BY_NAME Ibn al-'Arif != Ibn al-Arif
 2be04de8-db83-454d-8e9e-c56fd1ba32cf BY_MISSING
@@ -1159,13 +1218,17 @@
 2c0177d4-51f5-4753-a691-04a643509220 BY_NAME St Augustine != Augustine of Hippo
 2c0a9186-9242-4b54-a9e4-6c5ed4a82eec BY_NAME Tauler != Johannes Tauler
 2c1dff35-7657-4b3e-ba11-044cc95d34da BY_NAME Tauler != Johannes Tauler
+2c283336-c44e-4760-a977-27f64395b5f3 BY_NOMATCH Edwin H. Chapin
 2c31d6dc-533b-4420-8171-f6cf5bc1c366 BY_NAME Eckhart != Meister Eckhart
+2c337b7c-b5fc-4d8f-89cc-9b30bb36b2fa BY_NAME Manhae != Han Yong-un
 2c40a092-764d-4610-add0-fbae4e4cd015 BY_NAME Philalethes != Henry More
 2c4a4224-57ab-4cc7-80de-9c7ee2d6c7da BY_NAME Sri Ramana Maharshi != Ramana Maharshi
 2c4e50d0-d713-49f1-8d81-0f999c2b144d BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
 2c5ff348-e366-4399-9aec-b3bdb23df817 BY_NAME Sri Chandrasekhara Bhârati Swâmigal != Chandrashekarendra Saraswati
 2c607e02-fab1-45a9-b6ac-941021c30685 BY_NAME Chaitanya != Chaitanya Mahaprabhu
 2c690c4d-1360-4867-a23f-e5f50d3ae2f9 BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
+2c6eef77-4541-4b0d-aab1-7dbefb0abbf1 BY_NAME Manhae != Han Yong-un
+2c6f977d-6d61-45dc-9385-41714f74c517 BY_NOMATCH J. M. Jussawalla
 2c712e2f-b25b-45a4-b302-6614503081a1 BY_NAME Sri Ramana Maharshi != Ramana Maharshi
 2c7cdeac-7618-4f0b-98e4-10b2d90b69e6 BY_NAME Shih-te != Shide
 2c813771-a926-43be-8418-1cc0e46e4838 BY_NAME Eckhart != Meister Eckhart
@@ -1191,6 +1254,7 @@
 2d42bf0f-9fea-4914-8040-bd1c2440941a BY_NAME Seng-ts'an != Jianzhi Sengcan
 2d46c05c-9e90-46a3-b0d8-90f19e343dc2 BY_MISSING
 2d497451-7471-47f2-ba77-00d4069435e3 BY_NAME St Bernard != Saint Bernard
+2d747d99-1c79-4c5e-82e5-bd9e4ae1c49e BY_NAME Papa Ramdas != Swami Ramdas
 2d92a91d-c553-45e0-ba7e-aced1c4a58be BY_NAME St Nilus != Nilus of Sora
 2dab024e-02ca-4630-9866-b42b8f4a6702 BY_NAME Han Shan != Hanshan
 2dbab95c-44fc-48ee-b690-92b0213e7911 BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
@@ -1229,6 +1293,7 @@
 2ef8da92-38c6-4f58-bf68-347895418c54 BY_NAME Sri Ramana Maharshi != Ramana Maharshi
 2efa3233-05f5-4167-aa5b-398a001ce7d0 BY_NAME Eckhart != Meister Eckhart
 2f006904-b14d-4bfe-9afc-1d9f7058725c BY_NAME Ibn 'Arabi != Ibn ul-Arabi
+2f1aff09-800c-404e-9448-823ef1eab9ba BY_NAME Shantidasa != Shantidas Ashikari
 2f1c362a-6412-4d35-a669-1ad25e3d4e41 BY_NAME Tauler != Johannes Tauler
 2f33c93e-f0bd-4e6d-8781-a06f2b247fc2 BY_MISSING
 2f417bf1-bd9b-4925-928b-e871b9a959c3 BY_MISSING
@@ -1268,6 +1333,7 @@
 309d04ad-dea1-45c1-bdc4-ecd6a0222a60 BY_NAME Shih-te != Shide
 30a47ecd-f86a-4ff8-88e5-f996110e6dac BY_NAME Jalal al-Din Rumi != Rumi
 30bbd0a3-d058-49a0-9827-59380c12f6e5 BY_MISSING
+30c1ba5d-e9a8-4a15-8f91-bfe86d60984e BY_NAME Shantidasa != Shantidas Ashikari
 30e59786-a910-42b5-9514-31fcda53d94d BY_NAME Lao-tzu != Laozi
 30e90158-402b-4164-a619-b0365625b97f BY_NAME Huang Po != Huangbo Xiyun
 30eb43d5-b77b-40d1-803f-8db095956879 BY_MISSING
@@ -1280,13 +1346,16 @@
 31240a19-2590-4ee4-b1f2-97722e8443c0 BY_NOMATCH John A. Mehung
 314a68eb-5dd5-4f3f-ab8e-409b720fae9e BY_NAME Sânti-deva != Shantideva
 315f7e3f-05af-4d59-a338-a267bc1e91a8 BY_NAME Michael Sendivogius != Sendivogius
+317f5beb-1d03-4f92-998b-23df7768f2b4 BY_MISSING
 31828c3c-e41c-41db-b45c-3d5ba08425ae BY_NAME Philalethes != Henry More
 3187ec5c-ffe2-42c7-a1a4-18763b8480a5 BY_NAME Lao Tzu != Laozi
 318835f1-87e0-41fb-bd8d-b203d51abfa0 BY_NAME Eckhart != Meister Eckhart
+3198e7c5-c039-4399-b98f-ac66cd719b5e BY_MISSING
 319b3655-adba-4aa2-85da-1d733db40332 BY_MISSING
 31a428ed-227d-4a0b-badb-405aa4142471 BY_MISSING
 31a66cb6-b7a9-4255-94be-90511f30bbb3 BY_MISSING
 31a7fc92-1337-4385-91cf-6ddd19ed16bd BY_NAME Eckhart != Meister Eckhart
+31a88336-e626-4da7-8414-482ba655472a BY_NAME George Byron != Lord Byron
 31bfe36a-b36e-4e88-bfc3-f1a354b96c46 BY_NAME Hermes != Hermes Trismegistus
 31d5deb4-e0ad-4d8a-98f3-f46ddf6b0e22 BY_NAME Hakuin != Hakuin Ekaku
 31ec5c35-b8a3-4227-a6c4-1e46ae539c21 BY_NAME Eckhart != Meister Eckhart
@@ -1296,6 +1365,7 @@
 32072bf7-e448-4280-a957-d15b4fd17139 BY_NAME Boehme != Böhme
 320f2db2-c644-4d9f-bda9-8aff03c76883 BY_NAME Bâyazîd al-Bistâmî != Bayazid Bastami
 321f2b92-de3b-47ca-a492-1f044b1bdeef BY_NAME Eckhart != Meister Eckhart
+321fc4c3-5688-4945-a255-58ed55bb7f82 BY_NAME Ralph W. Emerson != Ralph Waldo Emerson
 322b4c0a-8c57-4ac3-b8d6-f79570ec36b2 BY_NAME Rûmî != Rumi
 3241de99-68c9-4128-ac4f-7beb5fc8eefa BY_NAME Eckhart != Meister Eckhart
 324359ea-3720-459c-8871-0173c271787e BY_MISSING
@@ -1305,6 +1375,8 @@
 32827ac2-cee5-4679-afce-5b16119fb801 BY_NAME Eckhart != Meister Eckhart
 3284047b-3247-48c2-bea3-3ade1cbc308c BY_NAME St Augustine != Augustine of Hippo
 3285a92c-4f99-499e-8333-27d1cc047961 BY_MISSING
+328b70ce-0e1f-4a88-987f-8ede4206ae42 BY_NOMATCH Jean P. Sartre
+329c56c9-1094-42dd-8434-1c6a70d7b59e BY_NAME Mohandas Gandhi != Mahatma Gandhi
 329f6327-93dc-459f-8e53-4ea6123ca212 BY_NAME Boehme != Böhme
 32a6f933-399d-47f8-8101-b694e68bea37 BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
 32ac3ec9-5134-476f-9baa-03afb4496ac2 BY_NAME Shakespeare != William Shakespeare
@@ -1316,6 +1388,7 @@
 33110a81-334b-469d-a721-894c1971c4e0 BY_NAME Lao-tzu != Laozi
 332f9213-7991-4918-93c8-7bed2202ad27 BY_MISSING
 33461e81-f285-4857-bdbf-52ce42745c19 BY_MISSING
+3354db17-7fd5-4d2b-bdb9-c502b6ae5a3c BY_NAME Edgar A. Poe != Edgar Allan Poe
 335a1508-bc55-486d-833c-aca06079f8f6 BY_MISSING
 3363acf1-d03a-4d68-8068-22198fbcda90 BY_MISSING
 3366a0ec-e075-4207-a076-3324c3fdfdc6 BY_NAME John Smith the Platonist != John Smith (Platonist)
@@ -1328,6 +1401,7 @@
 33bb08fa-3253-47ec-9a47-bd1c48b6e3ff BY_NAME Eckhart != Meister Eckhart
 33c409ed-f538-46ff-ae67-97433d500fe4 BY_MISSING
 33ca79e8-1bdf-4e25-a94b-82bfac12f2c0 BY_NAME Hermes != Hermes Trismegistus
+33d08e87-b088-4249-aca7-2ed0eaf4acec BY_NOMATCH James Alexander
 33dfca51-5834-4109-b32e-b35913b5d38b BY_MISSING
 33e2417b-8cb5-4061-9800-873d3dd6a3ca BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
 3401f0a4-9570-4bd4-b2c9-a25d1ebe529b BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
@@ -1390,6 +1464,7 @@
 35a950d6-596a-4cbb-8ad9-2829f22888e7 BY_MISSING
 35ac142c-afcc-4c46-a1cb-5cd7f57592af BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
 35aecb9a-28d9-4f3f-9b89-c756cd8703b0 BY_MISSING
+35b3156f-d8c0-4a26-bc68-80dcde1adcbe BY_NOMATCH Edwin H. Chapin
 35b50886-ec73-483a-b81e-d39516fbe446 BY_NAME Lao-tzu != Laozi
 35b6fd8f-a252-4a9e-868a-62f3f4a79c0a BY_MISSING
 35bdeb56-df23-49cc-8cf5-d2eaf0f9a279 BY_MISSING
@@ -1408,6 +1483,7 @@
 3627e138-b829-4631-9753-63bd90d716dc BY_MISSING
 362df31a-ca12-4ef6-b3e4-084e809c4731 BY_MISSING
 363becb5-f6a0-4e29-bc78-5f77c8613916 BY_NAME St Justin != Justin Martyr
+36497cb9-8d14-411c-aff3-ca0c944f4d21 BY_NOMATCH Theodore Munger
 364dc25f-0c0f-4df2-ae3b-71e61ab4b2a6 BY_MISSING
 36517aae-1e6e-40f5-b26e-d7dd59285e50 BY_NAME Rûmi != Rumi
 36586ea1-df8d-41f7-9f2c-1cb865b1ab48 BY_NAME Philalethes != Henry More
@@ -1421,11 +1497,13 @@
 368e10e9-989d-4bd3-8d38-3f934fac74a2 BY_NAME Dionysius != Dionysius the Areopagite
 369caad1-408c-4528-acec-f48fce17bf8e BY_NAME St Augustine != Augustine of Hippo
 369ce089-d7e9-4f6b-b12c-d96eb3e22f91 BY_NAME St Francis de Sales != Francis de Sales
+36b78aaf-b5bb-4e10-a215-62d4ef887786 BY_NOMATCH Robert Ingersoll
 36ca8fbc-1a2a-4a3e-a182-baf415344d8b BY_MISSING
 36cf2a7b-d4e1-4f03-a280-e70db3693745 BY_NAME St John Chrysostom != John Chrysostom
 36d0529b-fea3-45bf-b55d-e062695db47d BY_NAME Al-Kalâbâdhi != Abu Bakr al-Kalabadhi
 36d1652e-a487-47c0-bc9a-49381917f833 BY_NAME Boehme != Böhme
 36d6da87-da1f-48e5-8b51-a4d3a957f78b BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
+36efe7a4-4adf-4e51-93b4-8261bf9a3aef BY_NOMATCH Robert Veninga
 370901d3-6811-4e2c-8742-3d7ee920970d BY_NAME Boehme != Böhme
 37106bd6-e67e-4f9d-9237-b15bc54a5bbf BY_NAME Abû Sulaymân al-Dârânî != Abū Sulaymān al-Dārānī
 371fd0d4-3aaa-4b8e-883d-351fd1f19e4d BY_MISSING
@@ -1453,6 +1531,7 @@
 37c142db-a500-46b7-801d-0d63ddffca46 BY_NAME Eckhart != Meister Eckhart
 37e81dae-26e2-4c88-8532-43072169a109 BY_NAME Shabistari != Shabestari
 37e971ee-ea17-4ca3-89a7-49b302421cfb BY_NAME Rûmî != Rumi
+37f864fa-b36a-4711-b72c-a0ba97227b7e BY_NAME Charles H. Spurgeon != Charles Spurgeon
 38073b43-e35e-4b99-9bd5-120eb8eef547 BY_MISSING
 38073b43-e35e-4b99-9bd5-120eb8eef547 TITLE_SPELL Ryonen's
 38221579-9fae-4052-9d01-609a37e875c4 BY_MISSING
@@ -1480,11 +1559,13 @@
 38f69826-db27-4d2f-95f7-99fc3ddf29f5 BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
 3908419a-f1c6-449b-bf49-99aa51d4bca8 BY_MISSING
 390f245f-b2c9-44a0-a319-965d1e64f90a BY_NAME Dionysius != Dionysius the Areopagite
+3915343b-3862-4f3f-b897-7b270c636f15 BY_NAME Harry A. Overstreet != Harry Allen Overstreet
 391ff9cb-f6a9-4a7f-be63-a0bc96bffad5 BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
 393137a9-123e-441c-90df-9891da79a8e8 BY_NAME John Smith the Platonist != John Smith (Platonist)
 39359371-9de4-4574-a1a7-d4f49c60da34 BY_NAME da184f92-f119-42ee-8e45-06ab31cd9624 != Thomas Merton
 3936712f-43ef-4b9a-9a4c-db69cdbdaa72 BY_MISSING
 39401666-2681-4b0e-a704-4088cb0b84f7 BY_NAME John Smith the Platonist != John Smith (Platonist)
+39428c7c-f846-45a2-961d-ea149732bacb BY_NAME da184f92-f119-42ee-8e45-06ab31cd9624 != Thomas Merton
 3949545b-2bad-4ab1-98c1-89e6c5cc7954 BY_MISSING
 3950f6e6-c614-4452-a135-1f833ce88d04 BY_NAME St Nilus Sorsky != Nilus of Sora
 395e8647-45f7-4da6-b606-22dbebc10d46 BY_MISSING
@@ -1504,8 +1585,11 @@
 39be0014-f229-4369-bf65-b8845571a4d9 BY_NAME Eckhart != Meister Eckhart
 39c479cf-52ad-43b2-ab03-4cc0258ef433 BY_NAME St Augustine != Augustine of Hippo
 39c55bc2-67ed-453b-bfc4-f4706c42e3b3 BY_NAME Robert Herrick != Robert Herrick (poet)
+39d63513-31ec-49f7-98fe-df7cc02dbe23 BY_NAME Sivananda != Sivananda Saraswati
 39dd79ef-312a-4331-8b21-7edaa2b91bab BY_NAME Keizan Jokin != Keizan
+39f13a6c-3a40-4447-a2e3-7f8be7184485 BY_NAME Sivananda != Sivananda Saraswati
 39fe368e-1e2f-4298-b4f8-4df79371ee4c BY_NAME da184f92-f119-42ee-8e45-06ab31cd9624 != Thomas Merton
+3a04b109-cf9e-44fa-b565-1c79b79d722a BY_NOMATCH White Eagle
 3a0ab01f-f260-48e0-919e-49653f4b3fe6 BY_MISSING
 3a0c2b13-5dd5-4026-85a3-5498a5e7711a BY_NAME Dionysius != Dionysius the Areopagite
 3a0d3103-3871-4476-8499-c2870aadc692 BY_MISSING
@@ -1534,6 +1618,7 @@
 3ad1d94b-ce52-49aa-9174-ed98d032d7a8 BY_NAME 'Ali != Ali
 3ad2f348-fcb0-492c-a172-1236d803bb96 BY_NAME Eckhart != Meister Eckhart
 3ad87630-caac-4843-add2-f1af1e762b93 BY_MISSING
+3adb71d7-b405-42ee-b712-e2fc9662e50c BY_NOMATCH William R. Miller
 3ae430a4-3171-46d6-931c-ab24c2514577 BY_MISSING
 3ae449ba-23fb-4d75-8958-c71d425e3375 BY_MISSING
 3aec1ced-bdfb-436b-a06a-5ae488cc0cc9 BY_MISSING
@@ -1547,8 +1632,10 @@
 3b2adf86-4e03-44e9-ab26-34a7c238fd56 BY_NOMATCH Belleh Shah
 3b2d10c0-ac69-4c6a-a495-ce8d85477ead BY_NAME Sri Ramana Maharshi != Ramana Maharshi
 3b354768-3c6f-4e35-8c94-036e2715f396 BY_NAME Jâmî != Jami
+3b43aef4-fe06-4abe-9159-dc9f93078616 BY_MISSING
 3b5054e3-af93-422e-aac6-88f7637abfab BY_NAME Hugh of Saint-Victor != Hugh of Saint Victor
 3b53694a-9bca-46f7-be90-4de9935e7c32 BY_MISSING
+3b546900-ac01-4d47-9c17-2f3470662329 BY_NOMATCH Alexander M. Proudfit
 3b5f56e5-c28a-4fd7-8012-404a22aff4e0 BY_NAME Sri Ramakrishna != Ramakrishna
 3b6546ce-2d6b-43d2-bb5b-d0a6455a1739 BY_NAME Chuang Tzu != Zhuang Zhou
 3b8597de-5e48-4abe-a926-4431b12289a7 BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
@@ -1561,6 +1648,8 @@
 3bd1f013-79eb-4c4c-9d6c-de04d941ecb9 BY_NAME Shakespeare != William Shakespeare
 3bd6aff8-f6c3-44be-9f0c-33c06e88800f BY_NAME St Augustine != Augustine of Hippo
 3be85957-2446-43e8-ad64-f14f7d135ff5 BY_NAME Rûmî != Rumi
+3be8a6cc-b0a5-4984-b9c0-07402cfcdadf BY_NAME Manhae != Han Yong-un
+3be8a6cc-b0a5-4984-b9c0-07402cfcdadf TITLE_SPELL Thornbush
 3bf73f4e-71fc-41f0-9ca8-716949364f38 BY_MISSING
 3bf872c5-7781-4a06-81b0-d01fe23b58c6 BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
 3bfd852c-aaad-4d09-a903-be297d2db29f BY_NAME Shabistari != Shabestari
@@ -1599,6 +1688,7 @@
 3d3150f4-80de-4e9f-bf80-cc6914ef5159 BY_NAME Hônen != Hōnen
 3d360680-c53f-44a7-93a3-2019bd396605 BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
 3d4af7cd-2e3e-4e77-bdcb-7951570871ee BY_NAME Rûmî != Rumi
+3d4ff0f6-402e-45c6-b388-5efcfa23c5d0 BY_NAME Thomas A. Edison != Thomas Alva Edison
 3d5850fd-60cd-45af-a697-19cf61cc740f BY_MISSING
 3d5d7859-a3c1-4912-a73d-48972b076c35 BY_MISSING
 3d62310b-da53-4994-91c7-8d55fbb3b36e BY_MISSING
@@ -1619,6 +1709,7 @@
 3de47d0c-15f7-41db-b7bf-9947bd67910c BY_NAME King Hammurabi != Hammurabi
 3deacac6-dcf8-43c0-a4a5-747690f4e26e BY_NAME John Smith the Platonist != John Smith (Platonist)
 3e0c148a-fb19-4f2f-9753-ecf4a9a0cc86 BY_MISSING
+3e1ce058-2b93-4281-a3d0-993314ad2f1c BY_NOMATCH William G. Jordan
 3e1f0854-76d2-482a-8518-aeea5bb821cd BY_NAME Ibn 'Arabi != Ibn ul-Arabi
 3e33a8bc-11fc-41f4-a19b-32ef98835c0d BY_MISSING
 3e77893e-f61f-45e7-b614-70b9dbe4f3ab BY_MISSING
@@ -1633,7 +1724,9 @@
 3ecd8974-d147-4f6f-b12f-e0047693cd9c BY_NAME Abû Sa'îd ibn Abi 'l-Khayr != Abū-Sa'īd Abul-Khayr
 3edc33e3-0eb0-4cd4-b4e3-d7f5e1e357f8 BY_NAME Swami Sivananda != Sivananda Saraswati
 3eec92f1-6dc6-47ec-99af-f01d136a38cd BY_NAME Eckhart != Meister Eckhart
+3efea307-3b46-4724-b26c-20a03e3d09b3 BY_NAME Manhae != Han Yong-un
 3f0e2052-d990-47c7-8c8a-a2bf4ceb8ba4 BY_MISSING
+3f184741-4b21-4a30-a927-5bb068721f71 BY_NOMATCH Henri F. Amiel
 3f238e5c-b5f1-41ad-952f-16baecc57e65 BY_NAME Sri Ramana Maharshi != Ramana Maharshi
 3f2dc8e9-77f7-4faf-a188-3172b85d9b39 BY_NAME Richard of Saint-Victor != Richard of Saint Victor
 3f3849eb-41bf-49e9-84dc-868bc19a9b3f BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
@@ -1646,6 +1739,7 @@
 3f6fe22b-59b3-4cab-bc04-abe0a704ce65 BY_NAME Eckhart != Meister Eckhart
 3f80f071-656c-4bba-adb6-c37ea96edf4f BY_NAME Hônen != Hōnen
 3f93af76-4661-48fa-85ab-2345c530619c BY_MISSING
+3f93d304-933c-4347-91d6-9f9720920622 BY_NOMATCH Anonymous
 3f98cd2b-63e1-4a7d-9dbb-a420ee1fe4a1 BY_MISSING
 3f99ffc1-a1a6-492d-9bd6-4aa232d66aca BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
 3f9d45e3-ee6e-4763-8ace-cf5deac52a8d BY_MISSING
@@ -1665,6 +1759,7 @@
 400f7a07-b7b0-48f2-8b1f-067e583f91cb BY_NAME Rûmî != Rumi
 401948a6-948e-4056-a75d-236928d49176 BY_NAME Philalethes != Henry More
 401dcc4d-ad45-4540-9f5a-dc5f089f825b BY_NAME Ibn 'Arabi != Ibn ul-Arabi
+40258935-aa4f-4409-a506-5644ddd2f1ec BY_NOMATCH Robert Eliot
 4025b008-3c8b-4ae7-b796-7a472f520faf BY_NAME Ansâri != Khwaja Abdullah Ansari
 403262c3-c4fd-4e24-8330-32c2b201a161 BY_MISSING
 403c6633-031c-4b4f-b3f1-20e0e3797ec1 BY_NAME Al-Kalâbâdhî != Abu Bakr al-Kalabadhi
@@ -1678,6 +1773,7 @@
 40797dfe-9695-4920-9d1f-30513eba2a84 BY_MISSING
 40848dd4-b96b-4241-876f-3f60061e6033 BY_NAME Huang Po != Huangbo Xiyun
 40924b2a-59fa-4646-9981-476dd1fe12ff BY_NAME Dôgen != Dōgen
+40924dc3-b768-49e3-aa7e-4d00b03745c1 BY_NAME da184f92-f119-42ee-8e45-06ab31cd9624 != Thomas Merton
 4094c21f-f4aa-485c-814e-06faf9915b26 BY_MISSING
 40993808-c3b1-4582-95b2-a8770525921b BY_NAME St Gregory of Sinai != Gregory of Sinai
 409e0745-2e28-4ad0-b170-c0393cdcf42e BY_MISSING
@@ -1708,6 +1804,7 @@
 41705fa5-12f1-4224-96d3-cedb35912b2c BY_MISSING
 4178e452-2718-4027-b0bd-d1d7f8e7e726 BY_NAME Sánti-deva != Shantideva
 41823bf4-a984-438e-b741-911ede899f49 BY_NAME Dante != Dante Alighieri
+4186b966-0c14-4789-9fbc-811ee46a8afe BY_NOMATCH Claude A. Helvetius
 4187b7a2-f6b6-4e56-af5a-15307c593a16 TITLE_SPELL Hallaj
 4187b9ef-b961-475a-8671-194d0b3ea585 BY_NAME Ryôkwan != Ryōkan
 419c2939-e63d-448b-bc10-f31c350ec785 BY_NAME Swami Sivananda != Sivananda Saraswati
@@ -1763,6 +1860,7 @@
 433e4e14-1d43-46b3-b981-5c7e1cc54151 BY_NAME St Francis de Sales != Francis de Sales
 434d30d0-c515-4e00-abc1-167777bc6bca BY_MISSING
 434f43db-5fe4-44b2-ba3e-62416416b7bc BY_MISSING
+43535695-f624-4fa0-aaa8-47421f6932f5 BY_NOMATCH Julian P. Johnson
 4355151b-e44d-4a91-8034-081dc12c586c BY_MISSING
 4368f498-b724-49a7-8cc0-fbbec087ae39 BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
 436ad70b-c725-45d9-9059-55327f2b4444 BY_NAME Ruysbroeck != John of Ruysbroeck
@@ -1770,6 +1868,7 @@
 437e42c8-9d2b-421d-9303-59428893dbb9 BY_MISSING
 438b89d4-4c50-4c88-aa44-74af54a5e4ab BY_NAME Hermes != Hermes Trismegistus
 439ad2b4-78fd-4bfc-beeb-89bd2e072ba5 BY_MISSING
+43a381d7-805e-48a4-ad4e-25303b43722b BY_NAME Orison S. Marden != Orison Swett Marden
 43acfef1-88cf-4fb8-8e2e-941ecf5359c7 BY_MISSING
 43c1ae6f-0e59-4f2f-9f3a-cbb4bb532912 BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
 43c900ab-f013-4839-a039-4c6d262b989a BY_MISSING
@@ -1780,6 +1879,7 @@
 4418f7f4-37bd-40ce-b9df-1d631891af7b BY_NAME da184f92-f119-42ee-8e45-06ab31cd9624 != Thomas Merton
 441cd3f8-b264-4d36-9524-dc62d10f59b0 BY_NAME Eckhart != Meister Eckhart
 4438e7eb-89f2-4f46-bf3d-86ed3d1b438b BY_NAME Rûmi != Rumi
+443b7c75-bfcf-4a13-a740-dee2daf1bc14 BY_MISSING
 443c2b92-a2bb-4e36-a031-e3ab51587623 BY_NAME Sri Ramakrishna != Ramakrishna
 443d5eca-999c-4d91-ba84-bcc06cad643d BY_MISSING
 44466a42-09d0-4fb8-bb6d-a5e8febebaa4 BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
@@ -1814,10 +1914,12 @@
 44f55763-1ec1-4d94-9614-1347c81d8ad8 BY_NAME Lao Tzu != Laozi
 44f711e6-540a-4f61-af71-f5ed06cb5674 BY_NAME Abu Sa'id ibn Abi 'l-Khayr != Abū-Sa'īd Abul-Khayr
 45008357-dd74-407f-ad86-44bcfc4cc2c8 BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
+4509dbb2-d0b4-4543-8fac-dd6996e65dbb BY_NOMATCH Francois La Rochefoucauld
 45127ec5-03be-4e36-a386-9d880c83d644 BY_NAME Eckhart != Meister Eckhart
 45191898-b126-4261-b8cb-371a61689e38 BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
 45193afa-5f6d-4cb6-9882-afcf853cdacf BY_MISSING
 4519811f-1749-4f8b-a962-45b0aa5a83e3 BY_NOMATCH Abraham Lambspring
+45272ace-f48a-476c-b8b0-d086ea2bf720 BY_NOMATCH William Osier
 452a74d9-30e0-4ca7-bc86-bc9665526f6a BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
 452bd0f0-b8ac-445d-a78e-19b77eee55e8 BY_NAME Rûmî != Rumi
 45333d21-e36e-4262-94a2-831147d79299 BY_NAME Han Shan != Hanshan
@@ -1848,6 +1950,7 @@
 46ccbadf-5a55-4035-b330-268a7d9d2645 BY_NOMATCH Sheikh Abûlfaiz Faiyazi
 46ce3beb-8310-4eec-a734-b0e39f0e2900 BY_NOMATCH Alphidius
 46d9c624-551f-45be-b45b-e0c377e9bd6f BY_MISSING
+46e7c3a2-76e1-42da-ba92-23fa448d4fce BY_NOMATCH St. Bernard
 46f1d558-bf71-425b-8cb6-aaa4e9dfbbee BY_MISSING
 46f2ee71-a916-40cd-95f3-d3844911dee3 BY_MISSING
 46fe9773-d51a-4ef9-b153-3c31f5bb90f1 BY_NAME da184f92-f119-42ee-8e45-06ab31cd9624 != Thomas Merton
@@ -1924,6 +2027,7 @@
 4984cf44-75cc-48ba-b655-c88fdcb0082d BY_NAME Shakespeare != William Shakespeare
 4991dd18-a5ad-4808-bbc6-866abde5aec6 BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
 4995b3a3-ead0-4503-aafe-acd2caf32253 BY_MISSING
+49a70326-b9c4-4596-9650-2070d6103fe3 BY_NAME Henry T. Hamblin != Henry Thomas Hamblin
 49b02eaf-26c9-44ed-a4cd-2fc0ad428e7e BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
 49b0ce26-b8fa-4935-a874-60065a40505b BY_NAME Hujwiri != Ali Hujwiri
 49c7a131-a467-41dd-a2ae-756ca9c08724 BY_NAME Rûmi != Rumi
@@ -1932,6 +2036,7 @@
 49ed0fb4-db99-4604-ae46-4068c71c35cd BY_NAME Ranier Maria Rilke != Rainer Maria Rilke
 4a00ac4c-8a60-454e-89d6-1090a621273a BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
 4a37b792-09f2-4bf9-a397-c362836e7be8 BY_MISSING
+4a3ef397-96de-4efa-99e1-f085d51a17fc BY_NOMATCH Hitopadesa
 4a4629b3-70eb-4322-8dd1-64a7b8ce23de BY_NAME Chang Po-tuan != Zhang Boduan
 4a58c63d-b8c6-40e5-ae89-42361593232a BY_MISSING
 4a671ffe-6ced-49f5-b275-091c378f024c BY_NAME Dante != Dante Alighieri
@@ -1957,11 +2062,13 @@
 4b38b527-95cf-419b-b8ad-7ef92cdeac40 BY_NAME Eckhart != Meister Eckhart
 4b3ad967-2d0c-44f0-a644-0f87641b7cb8 BY_NAME Hadewijch of Antwerp != Hadewijch
 4b417e9c-729e-443f-9df9-2a099066d7a3 BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
+4b4ae239-947f-4b0a-9a08-50b9ba898fe9 BY_NAME Honore de Balzac != Honoré de Balzac
 4b5dd690-96a9-4041-a2a3-6500aca90e3e BY_MISSING
 4b6ebaad-717d-4947-864a-980258ec8c0f BY_MISSING
 4b803ffc-f66d-499a-a922-3e7b764b7880 BY_NAME Dionysius != Dionysius the Areopagite
 4b8bd520-f6ef-4c32-9e9a-9b5a2d3fb653 BY_MISSING
 4b950f2c-a46b-43c7-b355-957a60632454 BY_MISSING
+4b9cea29-8697-47d3-8a63-4400206ebf56 BY_NOMATCH R. C. McCarthy
 4ba2a5f3-bcfa-478b-8a75-38ad8ac884a3 BY_NAME Hujwiri != Ali Hujwiri
 4ba4e784-bb83-496b-adeb-8dc7ef18acb1 BY_NAME Ibn 'Atâ'illâh != Ibn Ata Allah
 4ba714d0-cc98-43d1-abbe-f3495ae23ae7 BY_MISSING
@@ -1975,6 +2082,7 @@
 4be27bc9-d62e-4808-9e66-7bba3b7e1ffb BY_MISSING
 4bf0069d-0e28-4115-8a99-83f24e1e07dd BY_NAME Tauler != Johannes Tauler
 4bf0807b-2e92-4e28-8023-4f7c1ef9784b BY_MISSING
+4bf1d747-b7fb-4f34-b99a-a21eb02bc052 BY_NOMATCH Fred Van Amburgh
 4c0c5bc2-a731-408a-a1d2-567f70a3aa60 BY_NAME St Augustine != Augustine of Hippo
 4c16f263-af51-46c3-b22f-c3f7e2a63c8a BY_MISSING
 4c180531-93c3-478f-be49-8533d2289c8f BY_NAME Shabistari != Shabestari
@@ -2007,6 +2115,7 @@
 4cdc96e1-4fc0-47af-b479-779741987b80 BY_NAME Mevlana Jalaluddin Rumi != Rumi
 4cdca447-1139-4b3a-a69d-c52bc2f95d05 BY_MISSING
 4cdca447-1139-4b3a-a69d-c52bc2f95d05 TITLE_SPELL meeked
+4cfb8440-8073-4557-b355-fb6a9f963dbc BY_NOMATCH Sidney Harris
 4cfe1287-eeb6-4990-b371-aa21c9de3fbd BY_NAME Jâmî != Jami
 4d07c035-1bf6-4162-81b9-5e4e28746dbb BY_MISSING
 4d0c0d0d-035f-4ed3-8bc9-798e13feb056 BY_MISSING
@@ -2024,11 +2133,13 @@
 4d5ce52d-532a-4ed4-a2f2-1663a7e92ae0 BY_MISSING
 4d67f501-d454-4ce4-99a9-1aead46b533f BY_MISSING
 4d6a4ae9-65f9-4a95-b1f3-7e72c6055dc0 BY_NAME Sri Ramakrishna != Ramakrishna
+4d7239d3-dae1-421c-a81d-9d95028051d7 BY_NOMATCH St. Thomas
 4d7cded4-0b8a-48c0-872b-317f226db943 BY_MISSING
 4d7d8ed4-25e5-471d-93d8-c885a48fd2eb BY_NAME Ansârî != Khwaja Abdullah Ansari
 4d7f4715-038b-4ab9-95bb-fa0214265bbb BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
 4d7f4715-038b-4ab9-95bb-fa0214265bbb TITLE_SPELL Coversation
 4d855073-14cc-4de6-bcc0-910b0ff69cea BY_NAME Ansârî != Khwaja Abdullah Ansari
+4d8b0d0d-6e9a-4de2-8645-577205b271b7 BY_NAME Ralph W. Trine != Ralph Waldo Trine
 4d901e9f-9ae3-4bf8-ba4d-e3eeff4d1b1b BY_NAME Swami Sivananda != Sivananda Saraswati
 4d92262d-39ff-4d86-8386-ef5a5ea676cb BY_MISSING
 4d995221-a5da-4b16-922f-0635a12d17eb BY_MISSING
@@ -2051,6 +2162,7 @@
 4e22c0de-a002-41d6-978d-82c0a86ac564 BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
 4e23d7c4-aba9-4d14-8e30-5af50416964e BY_MISSING
 4e2abe48-fc58-4486-9c04-e506e2742e28 BY_NAME Sri Ramana Maharshi != Ramana Maharshi
+4e354367-f62e-46ca-add8-4b2860fe2085 BY_NAME Baird Spalding != Baird T. Spalding
 4e38c9f1-f582-4056-8e65-64efff0cf8ac BY_NAME 'Ali != Ali
 4e3ad73f-1fc5-42ab-a156-5b1d620fcd1f BY_MISSING
 4e451df4-4cc2-4dd2-89ac-bad322fd515f BY_NAME Hermes != Hermes Trismegistus
@@ -2075,6 +2187,7 @@
 4edfd861-4efa-4c47-9c95-c95649d79c4b BY_NAME Sri Ramana Maharshi != Ramana Maharshi
 4ee0e30c-7422-45b4-982f-2efd51d08515 BY_MISSING
 4ee6d16b-b185-40f6-a7d7-f98d35f86652 BY_MISSING
+4ef39433-6e84-4172-9830-53bd6f4b7f4a BY_NAME Seneca != Seneca the Younger
 4ef69ba2-ea60-4051-b9b7-be35c2ba2574 BY_NOMATCH Têng Ch'un
 4f007a13-ac2c-4d8d-9325-0ac21dae7ea4 BY_MISSING
 4f0cf377-8bff-44f7-81a4-b8382bb53107 BY_MISSING
@@ -2099,6 +2212,7 @@
 4f9911dc-001f-4750-92ad-ec65fe8d6f4a BY_MISSING
 4f992316-0494-4ea1-a575-a97d5ab99c9a BY_NAME Sri Ramana Maharshi != Ramana Maharshi
 4f9af84d-e84c-405a-8ba6-b988f3db7216 BY_NAME Henry Madathanas != Adrian von Mynsicht
+4faa84ba-4730-417c-8063-28347f76d35b BY_NAME Seneca != Seneca the Younger
 4fc08e94-6da9-4457-8b39-8479e50b7ed7 BY_MISSING
 4fc940ef-03f3-45e2-89bb-d941a9c89dea BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
 4fcec65e-c9bc-4f87-b978-d4144515968f BY_MISSING
@@ -2115,7 +2229,10 @@
 50609e1b-c6d4-48de-a341-a4bff9a8a33b BY_NAME Robert Herrick != Robert Herrick (poet)
 5060be15-3bb7-4c43-8436-7db01a61183d BY_MISSING
 5061f503-0e31-44cd-891d-8adbf73b96d8 BY_MISSING
+506685df-f82e-4ced-9ab4-37f1e1f0e26e BY_NAME Paul of Tarsus != Paul
+5078728b-145b-48cc-8d8f-a7b933d8f5a2 BY_NOMATCH Leland F. Wood
 507f143d-39d7-41b3-aae0-f5cc8c06b826 BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
+5086e082-6082-4fd1-99ad-c0b3ed6b7e5a BY_NAME Papa Ramdas != Swami Ramdas
 509ccd7f-648d-4b52-b553-c75b4c431ca0 BY_MISSING
 50a43c03-eefa-439e-8fbc-942a31ca356f BY_MISSING
 50a844a0-1a88-4b43-ba33-4ee1573299f4 BY_NAME Sri Ramakrishna != Ramakrishna
@@ -2123,6 +2240,7 @@
 50b5173b-87d7-4f22-9480-8e1281018234 BY_NAME St Augustine != Augustine of Hippo
 50b7c44c-a167-4750-8cd7-96b18b3444fe BY_NAME Philalethes != Henry More
 50badd25-0edf-4f55-8a13-b0d3f57eb313 BY_NAME Eckhart != Meister Eckhart
+50c99a67-bade-44b4-8580-f9106e7b4af8 BY_NAME Seneca != Seneca the Younger
 50ccc0ee-5046-431b-92fe-8ca71ff267bf BY_NAME Shakespeare != William Shakespeare
 50dc3321-f837-476e-a9fb-6d60750867a4 BY_NAME Eckhart != Meister Eckhart
 50e1e65d-17a0-45b5-937c-a5ed81caf7e9 BY_NAME Shabistari != Shabestari
@@ -2135,6 +2253,7 @@
 5122f5d5-5b67-4baa-a53f-dbe84852ede4 BY_NAME Swami Sivananda != Sivananda Saraswati
 512da4da-edcb-4740-8214-9b7c77c417bc BY_NAME Shakespeare != William Shakespeare
 513c54bd-7298-4ed6-b708-eb294402be86 BY_MISSING
+51493e7a-5691-4fd1-a2e6-7c8169ff3b69 BY_MISSING
 51501a12-3e0e-4cfe-b12f-643f71f7dfd4 BY_MISSING
 5157395d-ffc7-4895-be78-0eb4bf191d52 BY_NAME Shakespeare != William Shakespeare
 517a6ad1-8c4c-4683-8443-6f5102cd8714 BY_NAME Lao-tzu != Laozi
@@ -2169,11 +2288,13 @@
 52201155-9e04-4fb8-b03b-6ffd102412cd BY_MISSING
 524d8778-479e-4d8b-9519-1e84e1f047aa BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
 524e4f92-ae7b-4e68-ab07-e15c25213cc5 BY_MISSING
+52640cfe-e3a7-4654-bdb7-86887b509d14 BY_NAME Ralph W. Emerson != Ralph Waldo Emerson
 5266eac1-431b-45cb-bb87-c2302699b7e1 BY_MISSING
 526dc2e6-f3d7-4e1e-a945-b709362887ed BY_NOMATCH Dôken
 527d6cc1-efba-4e0b-95b7-e79212a26d65 BY_MISSING
 52940a07-326a-4c5d-b34d-df4e1799c3bd BY_NAME Al-Hallâj != Mansur Al-Hallaj
 529ffcdc-1f62-484b-8ae6-188cc12a1eb3 BY_NAME St Vincent de Paul != Vincent de Paul
+52b66c56-bc7e-46a9-9770-2d6895eee73e BY_NOMATCH Beilby Porteous
 52c4b9e9-e139-4500-a1d5-e781e64f6cb8 BY_MISSING
 52ccbcef-1652-4e99-b1f7-51653d7fba4e BY_NAME Sri Ramakrishna != Ramakrishna
 52cdda06-4e40-446d-8c8a-5db578df84ad BY_MISSING
@@ -2214,6 +2335,7 @@
 53ab732f-c4fb-410a-89ff-c3b89e549a76 BY_MISSING
 53ab732f-c4fb-410a-89ff-c3b89e549a76 TITLE_SPELL Shunkai
 53bbd389-d02e-46c9-a019-dd13c26d2757 BY_NAME Rûmi != Rumi
+53bd8a58-346c-435b-9dd9-b9d1c0f65e25 BY_NAME Shantidasa != Shantidas Ashikari
 53ccde3a-11ff-4a92-b9ad-7b7099f517ad BY_MISSING
 53ccde3a-11ff-4a92-b9ad-7b7099f517ad TITLE_SPELL Sutra
 53cd4074-90fb-4b3a-853b-9deea29adca1 BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
@@ -2262,6 +2384,7 @@
 555602ac-06a9-44e3-8a56-d518c2504e24 BY_NOMATCH Muhammad ibnu l'Munawwar
 5581bef7-fd7b-4337-9755-03e1a4b41f66 BY_MISSING
 55838f6e-2919-40a4-bb87-a30e870dc90a BY_NAME Han Shan != Hanshan
+5595cad4-ffd9-494d-a59a-17bd1c64aedd BY_MISSING
 55a68a2b-f874-4ad8-b9e0-1cd0f2ccf3cd BY_NAME Ruysbroeck != John of Ruysbroeck
 55ac8b9b-0d5c-4b5e-9a4e-8ef8a1d7888e BY_NOMATCH Padma-Karpo
 55b61f0d-9892-4d90-a788-f4b0f603ca9c BY_NAME Eckhart != Meister Eckhart
@@ -2270,11 +2393,11 @@
 55c9e2be-29ef-46c0-9f80-f57d68a106a9 BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
 55e29c3a-d258-4482-a8cb-51e1abf21102 BY_NAME Eckhart != Meister Eckhart
 55f011e9-77c8-4a4f-9bdf-dc31d0e41530 BY_NAME Eckhart != Meister Eckhart
-55f619c3-c5a2-42c8-bc65-252f59967a9c BY_NAME Manhae != Han Yong-un
 5600dda8-d806-467e-bcd1-385f71e8dd98 BY_NAME Dante != Dante Alighieri
 56053f30-e9f5-41c8-9767-6d23eb19bd00 BY_NAME Ahmed Et-Tahâwî != Al-Tahawi
 5606b24b-211e-4dd6-b3d6-f9ef894c2ad8 BY_MISSING
 56073e29-4ed5-43b1-a111-207e0c5bf4cc BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
+56158c5b-e29b-46c6-964e-ac5b8b34aae0 BY_MISSING
 56211690-65ac-44b9-bcb1-6a36e21f1b78 BY_NAME St Bernardine of Siena != Bernardino of Siena
 563a1315-5930-4f09-ad4b-eeadbb61abe3 BY_NAME Al-Ghazâlî != Al-Ghazali
 563dfbe7-7852-4d1b-9c80-4b54abffd8dd BY_MISSING
@@ -2390,10 +2513,12 @@
 5aa27b9d-ed07-4dfe-b71c-19d8bb5e21df BY_MISSING
 5aaac633-6639-4b2a-9dda-bb2ac29ad9f6 BY_NAME Hâfiz != Hafez
 5abc2150-2a0d-45b4-9f67-4bbd3b5acbdb BY_MISSING
+5ac51c1e-3789-4526-a6d9-b53e2101a7f5 BY_NAME Mohandas Gandhi != Mahatma Gandhi
 5ac755f4-a2d9-469a-9f04-d9ed0ca1e651 BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
 5aca54d2-e212-4b31-80a2-662fb5c8e986 BY_NAME St Augustine != Augustine of Hippo
 5ad16f9d-6998-4298-8dfa-ee0defde4d7a BY_MISSING
 5adba965-2d9b-48e8-8fcc-39676603e248 BY_NAME Michael Sendivogius != Sendivogius
+5adf5b68-f515-450f-a7e1-6825c1b8abb9 BY_NOMATCH Johann W. Goethe
 5aed7882-e4e0-4cb8-81a0-5a75ffa3735d BY_NAME 'Attâr != Attar of Nishapur
 5aff2ad6-5f49-4e60-8c08-faae381534c7 BY_MISSING
 5b02c353-eb41-433f-9adb-8bac259af75e BY_MISSING
@@ -2403,8 +2528,10 @@
 5b16d6e2-12e8-4aac-8f2f-aa801af056f8 BY_NAME Eckhart != Meister Eckhart
 5b1c65ef-0296-41e6-bd1f-49f43ab85734 BY_NAME Sri Chandrasekhara Bhârati Swâmigal != Chandrashekarendra Saraswati
 5b2b14f3-d32f-4bf8-8166-a8a2e9e8114a BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
+5b3f753a-e11b-4132-b391-e89be4065650 BY_NOMATCH Susan Marcotte
 5b40f947-2bc1-40cf-9d7f-51845797689c BY_NAME Eckhart != Meister Eckhart
 5b5ab44b-273a-42f3-9cde-71692abab295 BY_NAME Seng-ts'an != Jianzhi Sengcan
+5b61a062-a202-44a1-adca-aade713af535 BY_MISSING
 5b64cc8c-c765-4e13-8e29-44ed206d7bd3 BY_NAME Abu 'l-Husayn al-Nûrî != Saint Nuri
 5b69f33e-e0df-4d60-8fc5-cadaf024d7cf BY_MISSING
 5b75e75b-05db-4814-9f4e-50df29baa0be BY_NAME Ibn al-Fârid != Ibn al-Farid
@@ -2427,6 +2554,7 @@
 5bfe31d2-712c-4125-a23e-43e57cbeb37a BY_MISSING
 5bffd924-3f5e-42e2-a061-f4080626a1ef BY_NAME St Ignatius Loyola != Ignatius of Loyola
 5c074a2a-d6be-440a-bc16-bc708dfe543d BY_MISSING
+5c090b96-ec53-4ffc-9c94-1d922973140e BY_NAME Charles Haanel != Charles Francis Haanel
 5c0e824d-09e0-4b45-b588-e5b8a4d1cef5 BY_NAME Sânti-deva != Shantideva
 5c0f2348-abc6-43c2-8a94-53ba09411e96 BY_NAME Sri Sankarâchârya != Adi Shankara
 5c219879-ee6f-40b0-aa0d-eca17a493433 BY_NAME Justinian != Justinian I
@@ -2460,6 +2588,7 @@
 5d6e31cb-8960-4c5c-8e31-20a1b1d9e194 BY_MISSING
 5d851aef-5df6-41ed-884d-1ed3ed8a29c0 BY_NAME Tauler != Johannes Tauler
 5d854c47-10e3-466f-bf0a-f991bfd4f2a7 BY_NAME Shakespeare != William Shakespeare
+5d896d79-a12a-4647-864c-da1c0b36e1f6 BY_NAME Shantidasa != Shantidas Ashikari
 5daeaaa7-2380-4a6a-a827-4496d407a8d8 BY_MISSING
 5daeaaa7-2380-4a6a-a827-4496d407a8d8 TITLE_SPELL Tathagata
 5dbbdeae-42d5-499e-a61e-148317ce4394 BY_NAME R.S. Thomas != R. S. Thomas
@@ -2488,6 +2617,7 @@
 5e943212-4423-43c7-9f7f-cc93ef436650 BY_MISSING
 5e969c2a-4ca3-421c-a51c-24f2283631d6 BY_NAME Chögyam Trungpa Rinpoche != Chögyam Trungpa
 5ea2adf1-fd8f-4931-bd89-eb0eac4e4bc6 BY_NAME St Teresa of Lisieux != Thérèse of Lisieux
+5ea822b2-751c-4cde-b872-d94faae4088a BY_NAME Lao-tzu != Laozi
 5eaaa2d0-fe4f-47b9-9ece-d2f1e1853839 BY_NAME John Smith the Platonist != John Smith (Platonist)
 5eaacd54-0db2-4a92-9a5d-42ead96ad222 BY_NAME Lao-tzu != Laozi
 5eb83d2d-81ee-49c9-b161-286ec0b3a1a9 BY_NAME St Catherine of Siena != Catherine of Siena
@@ -2540,6 +2670,7 @@
 6080d601-9c62-4325-8d51-d7f21b1c5c07 BY_MISSING
 608bb4d7-d866-463e-ab0b-16521e580bd3 BY_NAME Sri Ramana Maharshi != Ramana Maharshi
 608f8730-5819-4a15-ac84-841813f13694 BY_NAME Shakespeare != William Shakespeare
+60a40ca5-ea86-4a94-9965-28876d75ab6e BY_NAME Lord Herbert != Edward Herbert, 1st Baron Herbert of Cherbury
 60a49f87-5d5d-4ca5-90e1-322db2628b2a BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
 60ad6685-2be9-4210-815d-82b2f2ecac1c BY_MISSING
 60b47c0f-d2b9-4453-8946-456ddcc67204 BY_NAME Eckhart != Meister Eckhart
@@ -2570,9 +2701,11 @@
 61bad616-53d6-4e1e-a882-c5a39972b9ce BY_NAME Hakuin != Hakuin Ekaku
 61cc80b3-ebd4-4103-84ec-fe9ec6098c5b BY_MISSING
 61d9488f-49f1-44e4-af0b-494165c7297c BY_NAME St Augustine != Augustine of Hippo
+61e64ddf-e96b-4f38-b31a-10a72781421e BY_NOMATCH Dinah M. Craik
 61f08763-4169-42a7-8681-356efbe8fd18 BY_MISSING
 61fa7212-7f66-4dc7-af33-5725d39d8346 BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
 620168b2-f243-4370-8e93-9ab6779592a3 BY_NOMATCH Genesis
+6202b9e3-c6aa-4155-ba64-f456e4d10bc2 BY_NOMATCH Shih King
 6212c346-375a-410f-8972-d9b95e7dec76 BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
 6212c346-375a-410f-8972-d9b95e7dec76 TITLE_SPELL Goldsmithing
 621e0213-ad9e-4196-b9ea-20c3f68a65c3 BY_NAME Sri Ramakrishna != Ramakrishna
@@ -2635,6 +2768,7 @@
 646b2a2c-2962-4482-b77a-d116569c8804 BY_NAME Comenius != Johann Amos Comenius
 6480c1f1-ac56-4d17-9014-f6a42da375d1 BY_MISSING
 6482a396-6511-45a4-9317-0335ac021e8b BY_NAME P'ang Yun != Layman Pang
+64bae9eb-054a-4d8d-9a01-9683105db9f0 BY_NAME Shantidasa != Shantidas Ashikari
 64bbfff2-f7ea-4c35-87d3-2b023985e86f BY_MISSING
 64bd3b92-52ff-4755-9f8b-60d95f781baf BY_NAME Sri Ramakrishna != Ramakrishna
 64c79f57-3ca9-43b4-907f-d382fd88a003 BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
@@ -2666,6 +2800,7 @@
 657b2f38-6530-4379-9432-afc1f35734e8 BY_NAME Richard of Saint-Victor != Richard of Saint Victor
 658b2276-a8da-47f3-b9be-aded35706ff4 BY_MISSING
 6599daba-50ed-497f-8053-f30a5d3db796 BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
+65a1ef5e-e80c-40bd-9669-00160bdb967d BY_NAME Fritz Kunkel != Fritz Künkel
 65a92bb4-5e26-482d-9a1f-7a412b8b03ba BY_NAME Dante != Dante Alighieri
 65aba200-dfb1-4285-9a1c-98eaba76e51a BY_NAME da184f92-f119-42ee-8e45-06ab31cd9624 != Thomas Merton
 65c61f0f-6487-4baf-b17a-6403a01d70c9 BY_MISSING
@@ -2718,9 +2853,12 @@
 670a0f83-d492-489e-86f8-b26d56592f67 BY_NAME Hermes != Hermes Trismegistus
 670f98a5-2462-4fbe-8cbd-edbcd9835cd5 BY_NAME Dante != Dante Alighieri
 672f6d7a-e266-4a45-8f1e-5aea3b04c82e BY_MISSING
+6743917c-677a-436e-8aa9-855cc8b97482 BY_NOMATCH Cyrus A. Bartol
 6754fe2e-1f24-4212-a6c6-3b8c12a1dc03 BY_NAME Swami Sivananda != Sivananda Saraswati
+6756305d-3862-4a02-b4d3-7c0f55e77210 BY_NOMATCH Anonymous
 6759cbc0-4031-43a2-9c88-9bb17c51d6b9 BY_MISSING
 675c1ccb-7d8b-498f-aafa-d7cf5eecabb2 BY_NAME Dionysius != Dionysius the Areopagite
+6766af84-8974-470a-ac52-ff6e2308428b BY_NAME Ralph W. Trine != Ralph Waldo Trine
 6767366a-194d-433f-91c5-5f0887308b38 BY_NOMATCH Samantabhadra Bodhisattva
 676851cc-1935-41df-b736-155ba03b22a0 BY_MISSING
 67804b5a-d28b-4362-8e05-2d8528676b27 BY_NAME Chi K'ang != Ji Kang
@@ -2753,14 +2891,18 @@
 683d55e1-e499-4912-bac0-026f89b01bf8 BY_NAME Sri Ramakrishna != Ramakrishna
 68456ecc-408d-4e97-acc5-870e879c93ee BY_NAME St Bernard != Saint Bernard
 684d222a-f9f7-4459-a9dc-05cc44551bc3 BY_MISSING
+684dcbd2-16a0-4e38-bfa3-31decf48b737 BY_MISSING
 6865a47f-0487-4b25-a98f-a71edd2e2908 BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
+68697a3d-409f-4e13-abf3-8f4220f283d3 BY_NAME Robert Schuller != Robert H. Schuller
 68a1e5e2-9dac-4470-8ac9-30fca1b8e00f BY_MISSING
 68ad2ba6-b242-4db5-b6ae-3660ebd85dd0 BY_NAME Rûmî != Rumi
 68b18fda-2204-4101-812d-de06ac2501f4 BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
 68b5d841-f11a-40ec-84ff-e028b8102414 BY_MISSING
 68b85952-5c0d-46ae-a3e0-6b7a82d32d41 BY_NAME Dante != Dante Alighieri
 68c3f9de-878a-4605-989d-4057eb70c291 BY_NAME al-Ghazâlî != Al-Ghazali
+68c5fe01-9169-495e-ac8b-6db94729fe24 BY_NAME Marcus Aurelius != Marcus Aurelius Antoninus
 68cc2699-fcc8-4fce-ab02-a3b742d1dad2 BY_NAME Sri Chandrasekhara Bhâratî Swâmigal != Chandrashekarendra Saraswati
+68d19e42-9bdf-4957-b12a-b398f8906765 BY_MISSING
 68d82231-1687-4123-b383-6d7f42dd83c9 BY_MISSING
 68ea62cf-469a-41c9-bf9d-84cc42c71e07 BY_NAME Manhae != Han Yong-un
 68edacac-26d8-45fb-9393-ef7a88f5de1b BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
@@ -2769,6 +2911,8 @@
 68f89439-ab89-4e99-8af5-9ffbb8d6316e BY_MISSING
 6901314e-e208-4018-8867-246863060a23 BY_MISSING
 6902f575-8765-4542-9e88-a755901e8eb7 BY_NAME Philalethes != Henry More
+692eaaa9-6ff2-4595-a231-7a1a0e43e98f BY_NOMATCH R. W. Wilde
+69342141-de74-4a1a-8080-c885dab091b9 BY_NAME Dag Hammarskjold != Dag Hammarskjöld
 694bb109-ed22-4acc-a3af-68c459b9d5af BY_NAME Hermes != Hermes Trismegistus
 695061f9-9d39-4790-9790-cfd0803ce0f2 BY_NAME Dante != Dante Alighieri
 69515899-cf56-452a-b75c-fdc77583f221 BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
@@ -2779,12 +2923,14 @@
 697dfc3c-5c73-49ea-ac7a-0eaa84ac20e5 BY_MISSING
 697f2b11-0dca-4096-a925-e616fd90f8df BY_NAME Velemir Vladimirovich Khlebnikov != Velimir Khlebnikov
 69806118-8289-4df5-af7b-24564ab0c989 BY_NAME Dante != Dante Alighieri
+698462d7-e0a2-40bc-9b61-70338846adf1 BY_NAME Manhae != Han Yong-un
 698d868e-a9c0-4d32-9cc2-25eb61f64439 BY_MISSING
 6990498f-6435-4f8a-9f7b-8e1b647e328c BY_NAME Han Shan != Hanshan
 6994588c-6a23-4750-b0e4-47095d31b795 BY_NAME Boehme != Böhme
 699b505d-9a57-4ace-bd2e-c5d11865787c BY_MISSING
 699bd5cb-1dbd-45b7-bc28-a134836a729c BY_NAME St Catherine of Siena != Catherine of Siena
 699d66a4-85cd-4d93-acee-d0675f508c41 BY_MISSING
+699e324b-899d-4864-ac2c-c61d2335075a BY_NAME Emmanuel != Inmanuel
 69a1cd8e-10a8-4d5f-83dc-a98199681833 BY_MISSING
 69af39a3-54a5-4cd3-bbbb-b60e8494be9e BY_MISSING
 69b80979-3795-4a1b-b118-4f8e718f2e3b BY_NAME Eckhart != Meister Eckhart
@@ -2796,16 +2942,19 @@
 69f2e9be-2896-4027-8581-91a430a77255 BY_NAME Sri Ramana Maharshi != Ramana Maharshi
 69f53039-9eef-495a-89f0-b960b196ea6f BY_NOMATCH Chih Kung
 6a01c81f-94ab-47f6-b87f-ac0b43211535 BY_MISSING
+6a03fa2e-690b-4d52-a9a8-f082900bbb41 BY_NAME Shantidasa != Shantidas Ashikari
 6a10c910-2cfe-4a6f-9211-f72758524613 BY_NOMATCH Styx
 6a17f878-453b-466e-967c-27802cbcf6a8 BY_NAME Phadampa Sangay != Dampa Sangye
 6a1b00a4-b5ad-4115-a452-1649ebf0074a BY_MISSING
 6a1b4280-7259-4ff1-ab07-58eb75b305de BY_MISSING
 6a224b3e-e059-4962-bd8f-d0199dca759d BY_MISSING
 6a2df429-e512-44a2-9894-1b1f8683538b BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
+6a2eafca-8ee1-4588-aa60-2429d405651f BY_NOMATCH Henry S. Haskins
 6a43b5ca-250d-41b8-8e2d-535b9143de8c BY_NAME Michael Sendivogius != Sendivogius
 6a489c95-90d5-4a9c-a071-dd90b0f12ecf BY_NAME Rûmi != Rumi
 6a55f5cb-77de-4c6c-8009-03db234a9046 BY_NAME Eckhart != Meister Eckhart
 6a56c226-cce8-4b6f-b5d3-f1be87a72959 BY_NAME Hakuin != Hakuin Ekaku
+6a679c3b-54a6-4073-9a27-4b5b0361d40a BY_NAME Henry T. Hamblin != Henry Thomas Hamblin
 6a688e8d-dc45-4469-9eb6-31a6b701f944 BY_NAME 'Attâr != Attar of Nishapur
 6a77c9e2-97ab-43e2-a799-fa9fa19b5ff3 BY_NAME Shakespeare != William Shakespeare
 6a82308e-b0f7-4752-8bbe-5340a62165b8 BY_NAME Eckhart != Meister Eckhart
@@ -2844,6 +2993,7 @@
 6bf0328f-24a3-4b24-b560-1da6ffac6ba2 BY_NAME Hermes != Hermes Trismegistus
 6c00b793-37b1-4982-ab84-fc310386776a BY_MISSING
 6c03d7a2-e6e1-4112-9b34-c55ebba7f088 BY_NAME Eckhart != Meister Eckhart
+6c0410fb-92cf-45c9-b1fd-717a9e5d73c9 BY_NOMATCH Juppensha Ikku
 6c17930c-d37e-4caa-b7a0-b98e83ad2269 BY_NAME Sri Sankarâchârya != Adi Shankara
 6c210002-1a2f-4d9f-bb8c-39fec754b425 BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
 6c248668-1d71-4bb3-b1a8-4056f588f535 BY_MISSING
@@ -2878,6 +3028,7 @@
 6d5fea9e-f553-4e84-b8a9-2e45f857d6ae BY_NOMATCH Nilakantha
 6d645dde-7c40-4a66-8337-3c90fdad985e BY_MISSING
 6d757872-e45e-4407-99ea-5fd86e6a24ab BY_MISSING
+6d79b126-9890-4ead-b9be-28008cfc453e BY_NOMATCH Fred Van Amburgh
 6d8578f9-20b8-45aa-8619-4120d811f209 BY_MISSING
 6d9246ad-b2b1-4b68-b86e-6e874f83fa5b BY_MISSING
 6d930e12-6c6d-48a7-9e90-4b8c55fad228 BY_MISSING
@@ -2887,9 +3038,12 @@
 6db02ffe-6844-4eab-82e0-a209bebf3b0f BY_NAME Swami Sivananda != Sivananda Saraswati
 6db818ae-1848-44f2-a4ec-fa0015d2ba8d BY_MISSING
 6dbc6f68-6677-41f0-ad82-bd03a17d2483 BY_NAME Hakuin != Hakuin Ekaku
+6dc03911-b57e-430c-9262-6c5d298c53e3 BY_NAME Manhae != Han Yong-un
 6dcbd16e-0f2c-48ed-9e27-ee5828286388 BY_MISSING
+6dceb809-6fb3-46ff-aed8-c530a0c944ce BY_NAME Paramananda != Swami Paramananda
 6dd435fa-19d5-4869-acbd-c13532668a9e BY_MISSING
 6dd463a4-2259-45b7-b11c-1bc8d4668658 BY_NAME St Alphonsus Liguori != Alphonsus Maria de Liguori
+6dde0aca-4808-4456-a9b4-47dd85816e20 BY_NOMATCH Abraham Hasdai
 6e006e4b-a76d-4322-beba-d0897bd9b916 BY_NAME Sri Ramakrishna != Ramakrishna
 6e0a4b75-df82-47a4-9d32-573a123c3485 BY_MISSING
 6e0c781a-d89f-46fc-9602-1b60c35aabff BY_NAME Philalethes != Henry More
@@ -2913,6 +3067,7 @@
 6ea79108-5c84-4746-90ec-483925ec3f11 BY_MISSING
 6ed0cb46-c25c-487f-b480-6afb3d73ccbe BY_NAME Lao Tzu != Laozi
 6ed4f5ef-dcc1-485b-9846-ed4e08c9b957 BY_NAME Eckhart != Meister Eckhart
+6ee3790f-575b-429f-a7ab-7e36f0f994e3 BY_MISSING
 6ee93be8-65ca-4625-a74a-6fe8e7585e20 BY_MISSING
 6eec22f4-eda2-408f-9138-3a24f36162cd BY_MISSING
 6ef5dbc3-048e-477c-a2ff-43d65dacc279 BY_NAME Ching Hao != Jing Hao
@@ -2930,10 +3085,12 @@
 6f7bf929-5369-43cd-a09f-b59e21bebe6c BY_MISSING
 6f7ccd50-d78c-45cc-a3ea-157bed4dd214 BY_NAME Sri Ramana Maharshi != Ramana Maharshi
 6f880231-0f57-413d-a05a-050ca4397443 BY_MISSING
+6f9b3dcd-4f32-49c8-bb0a-8eedc778b837 BY_NAME Manhae != Han Yong-un
 6fa678a9-e069-4185-8fb9-415a49eb5143 BY_MISSING
 6fa94aee-5909-4d24-80e9-09ce1b2e1dfa BY_MISSING
 6fad29dc-c8ca-40ad-aa99-6966f405e6ba BY_MISSING
 6fbd3d95-043e-4769-9e7d-b1ef1e5d384b BY_MISSING
+6fbe0216-2c88-404b-a0f6-05f6c52db59a BY_NAME Stephen R. Covey != Stephen Covey
 6fc3464b-777d-49bd-8de9-633aceadc0e6 BY_NAME Boehme != Böhme
 6fc5aa5d-3235-4a16-9fc1-43b438f5792b BY_MISSING
 6fdb2c32-8fd6-4318-b21d-181d3b9dddf8 BY_NAME Eckhart != Meister Eckhart
@@ -2977,6 +3134,7 @@
 70d4b64a-5e34-4457-80f9-adf9f4faadf5 BY_NOMATCH Walter Kauffman
 70d961cc-ded4-4ac9-87cc-b65b9139d0f0 BY_NAME Hermes != Hermes Trismegistus
 70e24bc9-5518-490b-8ac1-7074a126d3d9 BY_NAME Richard of Saint-Victor != Richard of Saint Victor
+70fe4c86-3319-4dcb-913a-11a68dd78fed BY_NAME Manhae != Han Yong-un
 71055de0-28c7-4c5b-bfe8-1c5e608cc4b0 BY_MISSING
 7117d1a4-3bb7-40bc-8055-673b4875604e BY_MISSING
 711bb852-4531-4acb-a198-b39d93296d46 BY_NAME Robert Herrick != Robert Herrick (poet)
@@ -2987,6 +3145,7 @@
 7160377a-8dff-46fb-b6b6-ada9abef7d0d BY_NAME Shakespeare != William Shakespeare
 71656713-c574-4d36-b2c7-4e41fac7fbb0 BY_NAME Philalethes != Henry More
 716f7ad1-0e62-43ca-a96a-7eaca74f901b BY_NAME Sri Ramana Maharshi != Ramana Maharshi
+718ed508-7828-4811-b378-bbfff5d0010d BY_NOMATCH Robert Benson
 71907d13-5229-43b5-b01c-a81fa56a20b2 BY_NAME Ibn 'Atâ'illâh != Ibn Ata Allah
 7198b67b-0725-4777-896c-06316d1735cf BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
 719e2a69-23c2-4036-b92a-30bd9dbf666c BY_NAME Siddhartha Gautama != Gautama Buddha
@@ -3019,8 +3178,10 @@
 72cd28de-86d8-4816-8e69-4d28acc49a75 BY_NAME Lao Tzu != Laozi
 72d9f34e-0026-437e-8545-a3f2b8ca2ab3 BY_NAME Modern English != Modern English (band)
 72df6709-de07-4e23-aeaf-b7e33f0dc642 BY_MISSING
+72e01715-f473-43cc-912f-14da999fdd91 BY_NOMATCH Andre Grodin
 72e0965c-6fc1-4f51-9db1-050e9c84218c BY_MISSING
 72eab7a9-0024-4cfc-a329-60b0736b7e50 BY_NAME Abu Sa'id ibn Abi 'l-Khayr != Abū-Sa'īd Abul-Khayr
+72f35906-ec18-4185-aeed-4f4a66d7b129 BY_NAME Manhae != Han Yong-un
 730901c1-dfdc-4270-9cd4-b150205e290d BY_MISSING
 732247e4-ef0e-4ff2-a468-d061368e2b4f BY_NAME Robert Herrick != Robert Herrick (poet)
 7323a41a-c785-4dc8-ac0d-97508887d5e9 BY_MISSING
@@ -3035,9 +3196,12 @@
 7367f369-c250-418b-a251-45a6a36f26a1 BY_MISSING
 7369580b-b3ab-40b9-b4b1-5dcaa19331be BY_NAME Eckhart != Meister Eckhart
 73749f31-0529-4734-a884-16a71ba1386d BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
+7398804f-5ed6-4176-910f-e084295a4b50 BY_NAME Ralph W. Trine != Ralph Waldo Trine
 739d6346-6900-49df-b12d-c5dd382db323 BY_MISSING
 73a549d7-107a-46dc-bef5-57969eb8a350 BY_MISSING
 73a9d000-fd6c-48a9-8171-bf6a243db209 BY_NAME Swami Sivananda != Sivananda Saraswati
+73b3f3e5-2e9e-4c57-b2d3-fd531a697af5 BY_NAME Manly Hall != Manly Palmer Hall
+73e3be18-08b5-4b6a-a396-55963f0f6145 BY_NAME Manhae != Han Yong-un
 73e47882-f592-46a7-a8a4-d1c7825902f4 BY_MISSING
 73ee30b3-54cd-45e7-a1f7-9870c26488c4 BY_MISSING
 73f710cc-c9b3-414d-9933-a1a11bede89e BY_MISSING
@@ -3065,6 +3229,7 @@
 74e0e0b2-b019-414e-8cbe-b34a23dc2d17 BY_NAME Phadampa Sangay != Dampa Sangye
 74f1b7df-2c42-46c5-8d79-e1fd52b27f25 BY_MISSING
 74fb1c33-eddc-4876-8464-339ab67fb9ab BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
+750b5f8b-b3b9-415e-aaf4-9d624832630a BY_NAME Niccolo Machiavelli != Niccolò Machiavelli
 75154244-7618-4399-ae32-efc37b4b4070 BY_MISSING
 751f14b4-6096-4e45-bdc9-c2ff1bd1798a BY_NAME Shakespeare != William Shakespeare
 751f9c27-5cc7-4c95-971b-e9c0d73080c8 BY_MISSING
@@ -3140,12 +3305,14 @@
 77c9755e-a542-4dd7-8c73-44d3e6df8307 BY_NOMATCH 'Irâqî
 77d2c23b-3654-4a13-b5a7-ccd7a6e47195 BY_NOMATCH Hsieh Ho
 77d70983-fb47-4082-bc7a-801fd934b5f2 BY_NAME John Smith the Platonist != John Smith (Platonist)
+77e54b27-8070-4752-b3e1-3a431521f65b BY_NOMATCH Colin Oliver
 77f0b4a3-6ff7-4bce-a734-19579c682e46 BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
 77f47e1e-a481-47fa-a9b0-9385ea481a85 BY_NAME Hermes != Hermes Trismegistus
 77f59c40-be61-461d-af08-33e837452d49 BY_MISSING
 77fcc990-b040-4eef-a5a2-127e1588acc4 BY_MISSING
 77fedbd6-fc69-4c2b-86b3-b6181fcec9d4 BY_MISSING
 781cd933-cb7a-486e-b393-078db3e5f50f BY_NAME Swami Sivananda != Sivananda Saraswati
+7820e657-5a1e-4d0d-8784-26a508ed4771 BY_NOMATCH Thomas Adams
 782105e3-6a34-45dd-a542-920928482aac BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
 7824e1e6-1d7f-454e-b32b-3cccd7a48cf2 BY_NAME John Smith the Platonist != John Smith (Platonist)
 78279b7e-60fa-4e91-8a4c-ee7ec166198e BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
@@ -3189,6 +3356,7 @@
 79670ae3-86f1-475c-bcfd-6a7bfadee6d9 BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
 79781e6d-0e88-43df-aac2-38a88b33c359 BY_MISSING
 7981f1d4-aadd-477b-89d5-9df275947149 BY_MISSING
+7997cc78-6751-411f-87c4-07c68feac071 BY_NAME Manhae != Han Yong-un
 79a87a8e-2d90-4ab7-9113-ce83aa76f501 BY_MISSING
 79ac94e9-60c7-4400-9670-4a6bc7e4734f BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
 79e9f131-f3f6-49c4-bbec-d55299bc949c BY_MISSING
@@ -3201,12 +3369,16 @@
 7a125535-349d-4b64-8b80-7f5a96a99509 BY_NAME Sri Chandrasekhara Bhârati Swâmigal != Chandrashekarendra Saraswati
 7a147d92-0abf-4f4b-85b0-ea0ca908e438 BY_NAME Chin Shengt'an != Jin Shengtan
 7a186dca-66e7-472e-8e2c-42caadff4056 BY_NAME St Francis of Assisi != Francis of Assisi
+7a2831a8-d96c-4123-b731-f1eac9fb9c52 BY_NOMATCH Anonymous
+7a3ab1de-7333-4e0c-baa1-4c4c0d8e8012 BY_NOMATCH Lowell Fillmore
 7a3dee11-8e96-48b8-9641-d90eaf6ecfc3 BY_NAME Hônen != Hōnen
+7a42a00c-27cf-4c48-8a0a-7ad1a8f4a3de BY_NOMATCH Dorthea Brande
 7a4b695a-eaca-4bb0-8065-121b2268eb5b BY_NAME Zhuang-Zi != Zhuang Zhou
 7a4efe7c-6956-4e83-a6d8-eb0af92052a6 BY_NOMATCH Palladius
 7a62a7be-2b39-4ff6-afe2-f6410dae06e5 TITLE_SPELL Platmates
 7a687f39-7dca-4543-85bb-7517e143e828 BY_MISSING
 7a7dc11d-a3f8-4a54-8ad9-72bbe0e9b621 BY_MISSING
+7a824fb5-b02d-44ee-8176-38de6f2f507b BY_NAME Samuel Coleridge != Samuel Taylor Coleridge
 7a8b3fb9-5ebe-438c-af91-fed074b475aa BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
 7a8f9133-36ad-47d8-af75-beeabd2abcf7 BY_NAME St Augustine != Augustine of Hippo
 7a9dbc03-ad1f-48cf-ab58-5a66032f7f51 BY_NOMATCH Geshe Sonam Rinchen
@@ -3234,6 +3406,7 @@
 7b581d16-e6a3-4916-9c2e-aac97be0a87a BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
 7b7d70d6-ce42-422a-8913-3cedbcc80441 BY_NAME Ohiyesa != Charles Eastman
 7b7ea560-482b-4fca-82a4-41212133ece2 BY_MISSING
+7b7fafc9-7f1d-40bb-b036-bf625be13794 BY_NOMATCH W. C. Magee
 7b822bc8-eeb0-43a1-aa64-bed93f369099 BY_NAME Honen != Hōnen
 7b82e4f7-887e-46ed-a75f-bc40e40a9af7 BY_MISSING
 7b9bd890-b35b-4dc5-bfa5-dab0e8a1720d BY_NAME Boehme != Böhme
@@ -3249,6 +3422,7 @@
 7bed230e-e3f6-4e4b-a5d1-b5242621e6cd BY_MISSING
 7beefde4-a8e8-4728-9cb5-5a0f56ac2821 BY_NAME Ibn 'Atâ'illâh != Ibn Ata Allah
 7bf3771d-e0a2-4f33-ac2b-234e49d2699a BY_NAME Lao Tzu != Laozi
+7bfdab23-e4a5-4ce2-a1ab-95a35ebe0c86 BY_NOMATCH Bhagavad-Gita
 7c01ada6-9ce6-4f69-85e3-b158205fe988 BY_NAME Tauler != Johannes Tauler
 7c01c88a-1f36-438c-ae2f-8e7f261d2978 BY_MISSING
 7c03ae28-f198-495f-9ecf-b4dbb46be0ba BY_NAME Ansârî != Khwaja Abdullah Ansari
@@ -3350,6 +3524,7 @@
 7f460c48-b163-47fe-a327-a424a10b5640 BY_MISSING
 7f4d9b11-9b18-4219-8509-44fd1530a4d2 BY_NAME Lao-tzu != Laozi
 7f50557b-1b4b-40e2-8d3c-8aec8f2edaeb BY_NAME John Smith the Platonist != John Smith (Platonist)
+7f514607-1348-4de6-8850-b1bb14af3b49 BY_NAME Solomon Ibn Gabirol != Solomon ibn Gabirol
 7f521425-a31b-40b3-9bac-1b77706163c2 BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
 7f5abe74-f1ff-4206-90d2-06a63025428a BY_NAME Boehme != Böhme
 7f5db0ae-4369-4711-a1e7-a98d0c0d8a01 BY_NAME Boehme != Böhme
@@ -3358,6 +3533,7 @@
 7f6198ea-4f65-4045-bf5e-3de22895e6a7 BY_NOMATCH Callistus
 7f6c6ec4-fab7-4e5c-9ed4-2000ced410ce BY_MISSING
 7f861c7f-0411-4a6a-ae0c-8c742dbf643b BY_NAME Huang Po != Huangbo Xiyun
+7f89edcb-c649-490e-af90-43854cf9c3c9 BY_NOMATCH Saadi
 7f8c9adb-c2e6-471d-95e6-d2ec55261a36 BY_NAME Ibn 'Atâ'illâh != Ibn Ata Allah
 7f9b708c-218b-4f3b-8504-09cefe21f816 BY_NAME Sri Chandrasekhara Bhâratî Swâmigal != Chandrashekarendra Saraswati
 7f9d3297-778a-43b8-bb11-c19153775ff1 BY_MISSING
@@ -3375,6 +3551,7 @@
 80221f74-607e-4886-a852-0f338e5296b6 BY_NAME Eckhart != Meister Eckhart
 80264940-d075-4a3e-8f1c-0e33cc08713f BY_NAME Hônen != Hōnen
 8036dbfb-75d9-46d6-8652-47d321a0d996 BY_MISSING
+80397dd4-d29d-47d5-ba94-8f05eda84a55 BY_NOMATCH Walter B. Wolfe
 804a1843-cd5d-4496-a7a6-95c39b3aa19f BY_NAME Eckhart != Meister Eckhart
 805270a8-67f0-4580-8054-9d5e23c4d592 BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
 80594772-b7ad-402b-860b-3ec466fcec19 BY_MISSING
@@ -3392,6 +3569,7 @@
 808d78a5-53c8-41a9-9fa7-f4c42393c9e3 TITLE_SPELL Efrom
 80991dbd-0ac8-4fef-b23f-6f7dc7ada304 BY_MISSING
 80a7547f-1095-494f-bcc1-10845d9479d8 BY_MISSING
+80b4909b-5f7b-4681-8a60-e3f7b7b0177a BY_NAME Papa Ramdas != Swami Ramdas
 80c6c913-7c49-4b33-9aa1-8c0cea18d898 BY_MISSING
 80c7fe62-ac47-4ca4-b4fa-47c3678fddeb BY_MISSING
 80c90bad-cced-4381-8126-c685d79cbbd4 BY_NAME Shakespeare != William Shakespeare
@@ -3400,6 +3578,7 @@
 80d2c4e0-e119-4bb7-becc-e1787ac17535 BY_NAME Siddhartha Gautama != Gautama Buddha
 80d5145f-7294-4f10-b295-d50c2d55d13e BY_MISSING
 80db2e82-f21a-45a6-a849-07154c03210d BY_MISSING
+80ecf2e2-8a12-4c32-bc20-8cd1325700cb BY_NAME Manhae != Han Yong-un
 80ef81d1-a22d-4815-b3da-1f65c810e63d BY_NAME Lao Tzu != Laozi
 80f5e45f-aa34-4107-9057-be5ae5124e5f BY_MISSING
 80fa8ad6-a6bf-4d1d-b9ac-df0759fc83a5 BY_NAME Lao Tzu != Laozi
@@ -3411,6 +3590,7 @@
 8112c778-a5a3-42e8-8fd9-25c7881a13ad BY_NAME Huai Nan Tzû != Huainanzi
 811a22dc-733d-4926-b9fd-91eae9c8c297 BY_NAME Hermes != Hermes Trismegistus
 812cad52-8e30-4c2b-acfc-e6bd57adb97a BY_MISSING
+813fef25-bfc2-4078-a365-c508038c70c8 BY_NAME Manhae != Han Yong-un
 81513149-e0ef-42b5-8e0e-476cb4da9e4e BY_NAME Eckhart != Meister Eckhart
 8154a583-a950-4b20-8a9a-247b59da3b5a BY_NAME John Smith the Platonist != John Smith (Platonist)
 81609ef8-259b-4396-a067-5995ab7fd834 BY_NAME Sri Ramana Maharshi != Ramana Maharshi
@@ -3424,6 +3604,7 @@
 81afc877-1267-4f44-814e-13c48f7ce4ec BY_MISSING
 81b3f167-9085-41fa-9d07-a4b2ecbe30fd BY_MISSING
 81b723cb-a02e-46cc-9543-10b7155434b2 BY_NAME Po Chu-i != Bai Juyi
+81bd524e-bc66-4033-baba-7d70d0870a57 BY_NOMATCH Fred Van Amburgh
 81c1302d-5742-40f6-bc99-08b4cbc87fb1 BY_NOMATCH K. V. Rangaswami Aiyangar
 81c9dd9b-56fa-4773-99ee-5762518aa23d BY_NAME Hônen != Hōnen
 81d29917-4041-4418-bc0f-076b38a73df3 BY_NAME St Justin != Justin Martyr
@@ -3441,6 +3622,7 @@
 822dfb35-b8d2-4093-8540-4124f252f08d BY_NAME Hermes != Hermes Trismegistus
 823005e5-c18f-4672-94bf-9c817919713a BY_NAME Swami Sivananda != Sivananda Saraswati
 823ae547-5aab-4bf9-ab2d-247a7953e190 BY_NAME Richard of Saint-Victor != Richard of Saint Victor
+82413ac4-47a0-4a58-8f1c-a21d054448af BY_NAME Henry T. Hamblin != Henry Thomas Hamblin
 82565a5f-296a-4171-b987-75940e4c2e76 BY_NAME John Smith the Platonist != John Smith (Platonist)
 828a33cf-32fc-410c-b8c0-bec224e87662 BY_NOMATCH Abû Hamza al-Khurâsâni
 8292de3e-2ea3-4747-9629-20eed5659d24 BY_MISSING
@@ -3480,22 +3662,27 @@
 839d8c3f-f252-4c3f-8192-8005e05a1dc8 BY_NAME Jalal al-din Rumi != Rumi
 839ee3aa-128a-49ad-af63-ebef3546cfe2 BY_NAME Boehme != Böhme
 83c71ffb-9c07-42b7-83ab-926e00bff7ff BY_NAME Sri Ramakrishna != Ramakrishna
+83c95092-28fc-4a16-8d7c-21bd792cedf6 BY_NOMATCH Henry W. Beecher
 83d1cbb2-380e-4399-aa3a-700e17d834fd BY_NAME Sri Ramana Maharshi != Ramana Maharshi
 83de2757-719c-41bf-99af-06203d2576f3 BY_NAME Huang Po != Huangbo Xiyun
 83ee9987-abbd-46e3-b12e-2a2023ac58f6 BY_NAME Boehme != Böhme
 83f9028e-ec38-4fc9-a447-07dc9092a496 BY_NAME Eckhart != Meister Eckhart
 8410cfe2-9598-4b13-b171-763bfb0a21ec BY_MISSING
+841604ea-308d-43b9-b69b-6ff37d9e4262 BY_NOMATCH Shekel Hakodesh
 84210f1e-f22f-435c-ac61-a9137684bd1d BY_NAME Hermes != Hermes Trismegistus
 842ebbdf-7bc6-4ba2-ad8c-b07b12b6a5a5 BY_MISSING
 843abb9e-9b38-4ac2-9df8-29a957a55555 BY_MISSING
 844592a5-520c-4273-82e9-43e96a641709 BY_NAME Sri Ramakrishna != Ramakrishna
+845140e2-c69d-4035-86de-5fdfcaafe121 BY_NOMATCH Johann W. Goethe
 845284de-9d73-4d36-a3d9-21d6fd77eac5 BY_NAME Sri Ramakrishna != Ramakrishna
 845b2578-81bb-4f08-adcd-e266afd797fd BY_NAME Richard of Saint-Victor != Richard of Saint Victor
 846bb857-bf2c-47c8-bc5e-c8004cf0e9f2 BY_MISSING
+84729ab2-82bd-4e0a-ad9e-f39877418543 BY_NAME Manhae != Han Yong-un
 8472ad4a-cea3-4c8e-ac20-e2a209823091 BY_MISSING
 84755aed-7547-4945-b7f5-6376fb614e05 BY_NAME Eckhart != Meister Eckhart
 848ad018-6549-4580-b53a-fdebe22000c6 BY_NAME Huang Po != Huangbo Xiyun
 848d6486-cbce-4fe6-9df7-14f132038e42 BY_MISSING
+849b8741-f562-45c2-8b42-3f94889b9e9f BY_NOMATCH John Gray
 84a3c067-60cc-4897-acb1-e860c0e28052 BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
 84a7ff89-899d-4ee3-b027-d765c3cfb739 BY_NAME Al-Kâtibi != Abi ALi Katibi
 84aee7f0-d67d-44c3-a34c-4bf752426759 BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
@@ -3507,12 +3694,15 @@
 84c4c7a0-9aeb-4e6a-b208-1bf2c79aa95a BY_NOMATCH Padma-Karpo
 84c8ec5d-cae1-432b-ba9e-13cbc74cfc26 BY_MISSING
 84cbfdd5-06e9-4871-a23c-88f61bcdf799 BY_NAME Shakespeare != William Shakespeare
+84d2d6d5-e50e-46e7-a5c6-c863288756d9 BY_NAME Manhae != Han Yong-un
 84d34b40-058e-4db2-88fd-c9d8e9be47bb BY_NAME Sri Ramana Maharshi != Ramana Maharshi
 84d59a1f-806e-4b6a-83e1-80f4cc293112 BY_MISSING
+84d7e933-9d29-4a14-9d39-788ed4b5724c BY_NAME Seneca != Seneca the Younger
 84e6c78b-df91-4b65-bedc-a2b1d380d2e9 BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
 84e842a3-8f15-443c-b44b-9d6efe403930 BY_NAME Eckhart != Meister Eckhart
 8509685e-dfbe-4550-919e-a12b26d57ffc BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
 8509e648-7202-4538-b50f-ea9d48d05397 BY_NAME Junayd != Junayd of Baghdad
+850a6fee-a759-47db-892b-2a254fdc0edc BY_NAME Soren Kierkegaard != Søren Kierkegaard
 850efae3-43a4-44d8-9ac7-74611a5ae039 BY_NAME Isaac of Acco != Isaac ben Samuel of Acre
 850f5359-50ef-4f5d-98b0-5b91a7c4fb79 BY_NAME Eckhart != Meister Eckhart
 8511aad9-9054-42b9-8800-114b2c915d09 BY_MISSING
@@ -3522,6 +3712,7 @@
 851a99e9-0d0e-4363-b7ee-131abff2be2c BY_NAME Ansârî != Khwaja Abdullah Ansari
 85223b05-1244-48f9-86fb-b7a4cf9a0548 BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
 85292fbe-ddb0-438e-8abd-51632e8327f6 BY_NAME Swami Sivananda != Sivananda Saraswati
+85299468-a1b9-4b05-aa9d-2eb1590cb80f BY_NAME Seneca != Seneca the Younger
 85316459-c268-4ac3-97c3-c12d903538f6 BY_MISSING
 85383af4-cc46-4062-818d-4f7c4f99fa23 BY_NAME St Simeon the New Theologian != Symeon the New Theologian
 8542df57-d67a-4acb-9ecc-4e267d6dde94 BY_NAME Eckhart != Meister Eckhart
@@ -3530,8 +3721,10 @@
 8569b140-9c2c-4c16-8f44-8fafeee0b52c BY_MISSING
 8574654d-8d21-4a03-9ced-67d354c01383 BY_NAME Lao Tzu != Laozi
 8585525e-f47d-4582-b55c-99a54ef58d7c BY_MISSING
+85859b56-33dd-4c04-9d08-0e6146650b4a BY_NOMATCH U. S. Anderson
 85891e83-a070-49eb-b3e3-c182875f137e BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
 85891e83-a070-49eb-b3e3-c182875f137e TITLE_SPELL Springwater
+85ae0cd9-ab29-4089-9770-f837a4353ced BY_NOMATCH Paul Toumier
 85b00fd8-1e75-4411-b44f-30a5d45a6e8b BY_NOMATCH Yoka Daishi
 85b827c1-8fa3-4b2a-a652-4b1e6ca0f7ed BY_NAME Rûmî != Rumi
 85b9350b-86ac-4c7f-9664-cd5ce1ee5e30 BY_NAME Chin Shengt'an != Jin Shengtan
@@ -3592,10 +3785,12 @@
 87c6bcb8-310a-46d8-88ab-2f7212b8d810 BY_NAME St Augustine != Augustine of Hippo
 87cbfa45-1f34-4259-a187-d1475c99c191 BY_MISSING
 87fbbb1a-1add-4b8d-ac60-4590537f24d2 BY_NAME Eckhart != Meister Eckhart
+87fcdb5f-3013-46bc-8234-63840cf1cf6c BY_NAME Marcus Aurelius != Marcus Aurelius Antoninus
 8802c737-9813-4f89-a06d-840950d46894 BY_NAME Robert Herrick != Robert Herrick (poet)
 8802c737-9813-4f89-a06d-840950d46894 TITLE_SPELL Judgement
 880515fe-f553-4679-a58b-67f467a07b74 BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
 880b2b09-0476-4a79-8120-b99c89f073c5 BY_MISSING
+880e29b0-74e9-4aff-bb9e-a715e021eaf0 BY_NAME Vladimir Solovyov != Vladimir Solovyov (philosopher)
 8821dfc0-9b4d-4771-8ace-8a7b417b6c5a BY_MISSING
 8826c8b8-a030-47d3-a7c3-5b450bdc8b5b BY_MISSING
 8828d5ea-46fa-4f43-81e0-3828033c82c4 BY_NAME Po Chu-i != Bai Juyi
@@ -3653,6 +3848,7 @@
 89fe2d73-d221-42ff-bfc9-19a581ff9c85 BY_MISSING
 89fe75b5-9bdd-410b-a964-55f9e3af3aab BY_NAME Al-'Arabi al-Hasanî ad-Darqâwî != Muhammad al-Arabi al-Darqawi
 8a022cb3-fb29-4c99-a5f4-414651ddc8dd BY_NOMATCH So Toba
+8a060c61-cb74-4783-9d3d-a442d939506b BY_NAME Manhae != Han Yong-un
 8a0cec02-fa54-47d2-aa47-d0a151dbe580 BY_MISSING
 8a11292a-fb4c-464d-a870-66aedbbd7429 BY_NOMATCH Abu 'l-Fadl Hasan of Sarakhs
 8a22b878-0104-4a1e-82a5-4bc87d7b4852 BY_MISSING
@@ -3692,10 +3888,12 @@
 8b61d19b-c89c-4485-8e1b-66e4ea82df5c BY_NAME Boehme != Böhme
 8b669b3f-6bdb-4c68-add9-80853c6c9eb4 BY_NAME Eckhart != Meister Eckhart
 8b6d6aaf-2d55-48f6-a3cd-f8b0e533033a BY_NAME St John of the Cross != John of the Cross
+8b797163-0b0e-419f-9998-076efb7128be BY_NOMATCH Gaude A. Helvetius
 8b815d93-c667-42ff-9e45-75497bb2e548 BY_NAME John Smith the Platonist != John Smith (Platonist)
 8b81bd98-2114-4727-abac-2a78775f5336 BY_MISSING
 8b8aff62-ea17-4de4-99c3-7eaa12a5934d BY_MISSING
 8b8aff62-ea17-4de4-99c3-7eaa12a5934d TITLE_NOTSTR ['Usnisa Vijaya Dharani Sutra', 'Purifying All Evil Paths']
+8b8ef71f-1540-4e26-81e4-a45092be95e7 BY_NAME Ralph W. Emerson != Ralph Waldo Emerson
 8b932bbd-edc3-4309-8e21-f80c68362b53 BY_MISSING
 8bb31f9b-06ef-4d0f-99aa-a74f3f166d1c BY_MISSING
 8bba2185-3134-4a83-b39e-16a59dc21a5a BY_MISSING
@@ -3756,6 +3954,7 @@
 8dbb06f4-752c-437f-8e3e-a979c5808546 BY_NAME Sri Sankarâchârya != Adi Shankara
 8dbb6b91-4836-45ed-89f8-5a874f7cd4d9 BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
 8dc12e68-e350-4578-90b1-ba8a30b8f132 BY_NAME St Gregory the Great != Gregory I
+8dcda603-ed6f-43e4-ade8-90e0a8e9e340 BY_NAME Manhae != Han Yong-un
 8dcf6075-a095-4722-a77d-3fa29892796b BY_MISSING
 8dd5da75-d590-4695-a2b0-3a3c5ea00138 BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
 8dd9ec06-8e4b-4d9d-8afe-57f2a95b64c6 BY_MISSING
@@ -3829,10 +4028,11 @@
 8fed6116-3e1d-4caa-834e-ae6ba1a95d2a BY_NAME 'Attâr != Attar of Nishapur
 8ffb225c-a9ff-4483-b42a-062d34fc5b32 BY_NAME Al-Kalâbâdhî != Abu Bakr al-Kalabadhi
 900d1b57-e0e5-41ab-a190-feac463f4486 BY_NAME Rûmî != Rumi
-9017abb9-2702-4569-b711-ebbe10982deb BY_NAME Pseudo-Dionysius != Dionysius the Areopagite
+9017abb9-2702-4569-b711-ebbe10982deb BY_NAME Pseudo-Dionysius != Pseudo-Dionysius the Areopagite
 90302313-d97c-4d54-becc-c1f2b36f7405 BY_NAME Hermes != Hermes Trismegistus
 9031a732-d2f8-4355-b0a1-57732409a2a9 BY_MISSING
 90364e64-07f9-4e23-b194-05cd65f4bbf0 BY_MISSING
+903692b7-5413-409d-bbb0-d62db570a525 BY_NOMATCH Andrew Mercer
 9039470a-c75f-4b3d-a049-fb3a30a024aa BY_NAME Philalethes != Henry More
 904d616e-3830-4e8e-8c5c-0d3b828605f5 BY_NAME Dante != Dante Alighieri
 90617aa1-98be-485a-a8be-fadb5ae3615c BY_MISSING
@@ -3859,6 +4059,7 @@
 911c9769-af11-4ccb-bf5d-5de7a33bb616 BY_NOMATCH John Sparrow
 91223b25-54ca-4dd7-bc34-61962c612fb0 BY_MULTIPLE
 91223b25-54ca-4dd7-bc34-61962c612fb0 BY_NAME d28ea2ec-b179-4f6a-923a-bc7e46c7bb2c != Ryōkan
+912c6fe6-fa7c-41aa-b9b5-4cf8e49aa153 BY_NAME Manhae != Han Yong-un
 912e7330-9c7d-4441-b06e-d8161f40c19a BY_MISSING
 91318a99-4325-4d87-8202-85ba7a99527c BY_NAME Lao Tzu != Laozi
 9138b3cf-d58f-42a4-88b1-de2347f24af3 BY_MISSING
@@ -3880,6 +4081,7 @@
 91b45cb4-91e8-45c4-8cde-d2adc2d6c415 BY_NAME St Augustine != Augustine of Hippo
 91c49d38-9363-42b5-8710-9e829e32d955 BY_NAME Dhu 'l-Nûn != Dhul-Nun al-Misri
 91c4ec9c-2d5f-4f13-98a0-bfe3e1725997 BY_MISSING
+91c92840-7729-4d00-850d-fdfde61ae5a1 BY_NOMATCH Lord Greville
 91ce4293-3031-482d-b32b-9102ed98a6c8 BY_MISSING
 91d5e99e-1e0c-4a19-9f0f-b0d5908ebec1 BY_MISSING
 91dbe92a-c598-4f42-bfd3-8e7068d5cd41 BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
@@ -3891,7 +4093,9 @@
 91f55ca7-2b82-479e-b1bb-319c95444c0a TITLE_SPELL travailous
 91fcad5c-0be2-4da7-868d-419907e419f2 BY_NAME Hônen != Hōnen
 91fd0595-4580-45e8-8c37-f32b852d8838 BY_NAME Lao-tzu != Laozi
+91fee00b-bc78-4f96-8fc5-d9354234eb4d BY_NAME Seneca != Seneca the Younger
 9202afe0-bb1d-4a3a-add5-0a371ec35250 BY_NAME Rûmi != Rumi
+921092bc-1306-451c-8916-b467e3ed39fb BY_NAME Henry T. Hamblin != Henry Thomas Hamblin
 9210abef-a278-40e7-bac6-8b488a0202ef BY_NAME Seng-ts'an != Jianzhi Sengcan
 9219564a-cbae-4c02-a1ef-a6bd079cff9e BY_NAME Han-shan Te-ch'ing != Hanshan Deqing
 922e6e49-7f0f-4991-8e6a-4a1fe3b4a6bf BY_MISSING
@@ -3902,6 +4106,7 @@
 92428102-22b3-4cd1-8daf-084bf0b45c2b BY_MISSING
 925327f3-aeef-462a-817f-5c80bfb2c215 BY_NAME 'Attâr != Attar of Nishapur
 92668685-14eb-4eb8-9af4-08be86231769 BY_MISSING
+92677b2b-5a54-4906-8412-8ebe827a7551 BY_NAME Alice H. Rice != Alice Hegan Rice
 926deba8-8fa1-417c-a9be-7a0143d0312e BY_NAME Shaykh Ahmad al-'Alawi != Ahmad al-Alawi
 92795b90-654a-462f-974a-40e52255f20c BY_NAME Han-shan Te-ch'ing != Hanshan Deqing
 928807a2-9b70-4516-b5b8-742f2d1aaf19 BY_MISSING
@@ -3920,6 +4125,7 @@
 930e6329-d704-486f-838c-3bd3eb068b4b BY_NAME 'Ali != Ali
 93103564-b068-4046-8080-5171c0562890 BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
 9335597a-c1ff-48a4-9a7b-6f4690a69097 BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
+93370a99-7d70-403d-a0ae-53338952e639 BY_NAME Seneca != Seneca the Younger
 93486044-dff4-454f-89d5-0e5b2ca9df98 BY_MISSING
 9349e777-166f-43a4-8f45-8787a04b88a5 BY_NAME St Augustine != Augustine of Hippo
 934fc875-21d6-408a-810d-0f517a6e958d BY_NAME Sri Ramakrishna != Ramakrishna
@@ -3964,6 +4170,7 @@
 94aa0f63-79f9-4196-b39d-192373d8b58e BY_NAME St Alphonsus Liguori != Alphonsus Maria de Liguori
 94b62ffa-67b8-453a-afd9-61143c1a1d3d BY_NAME Sri Ramakrishna != Ramakrishna
 94b6dfec-6733-4660-8a31-373f3bb89f12 BY_NOMATCH Alan Felsenthal
+94b7d8cd-7693-4943-97e5-35d12a3f092e BY_NAME Chuang Tse != Zhuang Zhou
 94b84385-a2c5-4091-b1cb-98ac282c5a06 BY_NAME Dhu 'l-Nûn != Dhul-Nun al-Misri
 94b92de4-69f0-4b62-9609-b968676de7f2 BY_MISSING
 94c2dc8d-c085-4a62-b2d8-04f1f3af41c9 BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
@@ -4019,6 +4226,7 @@
 96417fa8-e7a7-4922-a649-391549a7104a BY_MISSING
 9654b4d3-3d77-4414-a50f-78f47bf91a96 BY_NAME Hermes != Hermes Trismegistus
 965860f4-1e73-4506-9996-b53dfa596f5d BY_MISSING
+96587ed7-0b45-4cfd-ade7-911e8f5ed0a9 BY_NAME Manhae != Han Yong-un
 9659b635-d67e-461a-b263-397915708666 BY_MISSING
 966377d6-4bcf-4504-ab01-8416b535f15c BY_NAME Sri Ramana Maharshi != Ramana Maharshi
 9666ef88-a6c3-459e-b327-859a61faf261 BY_NAME Sánti-deva != Shantideva
@@ -4067,16 +4275,20 @@
 97bfa976-949a-4bb6-8b19-a8abc82df213 BY_NAME Sri Ramakrishna != Ramakrishna
 97ce94f1-5e60-4e5e-83b9-c88cfb3d011c BY_MISSING
 97e4905e-f7be-4b2c-bb63-04811f4d217b BY_NAME Tauler != Johannes Tauler
+97e56079-4974-427a-9fd3-41808636aca7 BY_NAME Papa Ramdas != Swami Ramdas
 97ebfad8-1ac2-476d-b8a4-fa916b1b6aff BY_MISSING
 97edf6cd-517a-4f48-b8e5-70fb88b25d91 BY_NAME Shakespeare != William Shakespeare
+97f68252-81b0-4d92-ae82-66d6b261d563 BY_NOMATCH Marquis De La Grange
 98037826-e726-4d76-ba12-dd78fd35a8b5 BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
 9803ad01-1603-4937-8f30-4ba5cb43b79c BY_NAME Shakespeare != William Shakespeare
 9804c52e-f9d6-49c1-9596-d0dc2e9dedc7 BY_MISSING
+980a6716-6737-469f-9489-c3548b0823f8 BY_NAME Manhae != Han Yong-un
 980ef856-6997-4d40-9e86-ab629959eb14 BY_MISSING
 9813ee7e-cc7b-4c72-95f6-22a72c8aaaf0 BY_NAME Sri Ramakrishna != Ramakrishna
 9829188d-ef91-4557-8719-3035b6b7fce4 BY_MISSING
 982ad380-54a9-42d9-850f-36605d7228d9 BY_MISSING
 9841813a-fee2-4a95-83d1-ef70d4a78be9 BY_NAME Lao-tzu != Laozi
+984ecdd7-70e8-4f06-8611-f4471d64b9a7 BY_NOMATCH John Milhoum
 984ed392-fe1a-4e71-b174-66ff623ccef6 BY_NAME Ruysbroeck != John of Ruysbroeck
 984fb1dd-fbef-4acf-8261-7e7568e7bb59 BY_NAME Soren Aabye Kierkegaard != Søren Kierkegaard
 9850ec6d-5f32-4d57-9f29-dacb53106a78 BY_MISSING
@@ -4086,6 +4298,7 @@
 9884dd6c-44c1-458c-b5c5-f3e92ae265c9 BY_NAME Sri Ramakrishna != Ramakrishna
 988b0889-2e9a-458a-a16e-e7bad3811319 BY_NAME Lao-tzu != Laozi
 988cc0f4-10c7-4501-ad4b-861a96ea482f BY_NOMATCH Death Cab for Cutie
+9896ef8d-7918-4a68-be3f-b576a3d7395e BY_NAME Ralph W. Trine != Ralph Waldo Trine
 9898d734-61ab-4aee-b954-39f0775008ab BY_NAME Dionysius != Dionysius the Areopagite
 989bd257-b6bd-48ec-aa5b-2769600a7f16 BY_MISSING
 98b6ff3f-058d-4d18-ada7-fc86892a7203 BY_MISSING
@@ -4110,6 +4323,7 @@
 99737590-3803-43f6-bc1d-ba1953e2f95d BY_NAME Rûmi != Rumi
 997d1325-0a59-450c-90d4-fc7f6a23a60c BY_MISSING
 998366db-b00a-444c-9d7f-e60f2a81cce4 BY_NAME Ibn 'Atâ'illâh != Ibn Ata Allah
+9985bf9a-fd75-4c79-8f6a-473074f7f88b BY_NAME Sivananda != Sivananda Saraswati
 998ea313-cb61-4f1f-a7a8-5cb2a705a3ff BY_MISSING
 9992dfe2-a55b-4b8d-a363-28cd10072da5 BY_NAME Sri Ramana Maharshi != Ramana Maharshi
 99948caa-cd9e-431a-ad16-edb00296c5bf BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
@@ -4124,9 +4338,11 @@
 99b44464-9754-4ffa-851b-91ccaf2558a6 BY_NAME Ibn'Arabi != Ibn ul-Arabi
 99bcee4a-1f8b-4e3f-ab53-6648d0eef30d BY_NAME Eckhart != Meister Eckhart
 99c61626-e63f-481b-a3b8-b985406aaafc BY_NAME Hujwiri != Ali Hujwiri
+99d06d2d-ce36-4a27-af94-bddda7c00b77 BY_NAME Ralph W. Trine != Ralph Waldo Trine
 99e2a290-fc3d-4850-a822-d8d5a5413350 BY_NAME John Smith the Platonist != John Smith (Platonist)
 99e78fef-83e4-41fa-b930-17a80c75f797 BY_NAME Ryôkwan != Ryōkan
 99f14fc5-dc2c-48db-b542-36bb99ad9734 BY_NAME Hermes != Hermes Trismegistus
+99f1942a-8187-45a1-9770-e07153fca703 BY_NAME St. Jerome != Jerome
 99f23025-c28e-4994-b4f5-6c6754c9ebf3 BY_NAME Jâmî != Jami
 99f508e7-f354-44fe-96c8-91e44b1ba98a BY_MISSING
 9a00a8e9-3106-4f5b-b2e4-863847e71c12 BY_NAME Shakespeare != William Shakespeare
@@ -4134,6 +4350,7 @@
 9a0ffd38-b718-43f0-94d5-4e50fcae0e98 BY_NAME Ibn al-Fârid != Ibn al-Farid
 9a103356-7db1-4fdc-be02-88b6ec9ed317 BY_NAME St Alphonsus Liguori != Alphonsus Maria de Liguori
 9a164717-3055-4ef5-8e61-5077c45a2294 BY_MISSING
+9a22ab0c-6056-4c61-8c2e-e4918b3bfdd2 BY_MISSING
 9a24a453-7cc9-4cdd-aa5e-f2d61e42a810 BY_MISSING
 9a3b4977-5fd9-49f4-bcb3-7163bb874d0e BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
 9a4562b7-85d0-4d8b-86ef-cc6d08548410 BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
@@ -4162,6 +4379,7 @@
 9af29d02-8fce-4a70-aba7-65750ecb9c6d BY_NAME 'Ali != Ali
 9b091b0b-81d7-4d4e-90da-76c813edf8ca BY_NAME Huang Po != Huangbo Xiyun
 9b0f5c9f-8256-4a4f-9fa5-9e736e1564ea BY_MISSING
+9b130461-0b45-4337-beeb-dd4538041e20 BY_MISSING
 9b26e3d7-28be-4e10-9af5-48c312d89094 BY_NAME Takuan != takuan
 9b351cf6-8863-497a-86b8-f2867cc1fccb BY_NAME St Alphonsus Liguori != Alphonsus Maria de Liguori
 9b47adec-c3d3-4f90-ac82-08766ba3949b BY_MISSING
@@ -4189,6 +4407,7 @@
 9c4dc1f1-b53b-406e-bb32-910cd66c23fc BY_NAME Boehme != Böhme
 9c509768-9194-4f44-a68c-9192cf780120 TITLE_SPELL Kabob
 9c6e4b6b-6a2d-4253-9fb9-6076fa0a3693 BY_MISSING
+9c77c10e-dff9-44af-84cf-fdf7f0e8e252 BY_NAME George Byron != Lord Byron
 9c7d0907-8ff3-48fb-8935-b6c67f6258b1 BY_MISSING
 9c894fb0-aca6-4761-9764-c34f63207bf3 BY_NAME Sri Ramana Maharshi != Ramana Maharshi
 9c94a9f5-30fc-4a34-854e-bd9ea0952463 BY_MISSING
@@ -4196,6 +4415,7 @@
 9c9b5b81-c83c-4dd3-8fdd-30f05bf54314 BY_NAME Thomas A'Kempis != Thomas à Kempis
 9c9f327c-b7d8-4dbf-8786-75beb0057297 BY_NAME Abu Muhammad Ruwaym != Ruwaym
 9ca97ba1-38c2-411a-aac4-db5daefa39b3 BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
+9ca97e88-a55b-40b4-9092-2f6bc68fb5d0 BY_NAME Seneca != Seneca the Younger
 9caa9167-dc7d-4c27-9353-a31a0e57d670 BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
 9cae70c0-44ca-4a5d-957b-4e6d8925fe48 BY_NAME Hallaj != Mansur Al-Hallaj
 9cb35f86-3e44-4989-b674-28dd458e2acc BY_NAME Dionysius != Dionysius the Areopagite
@@ -4203,6 +4423,7 @@
 9cd91779-944c-48cb-a586-5df9ff1f22a7 BY_MISSING
 9ce6273a-723d-4821-8083-af3d08d8d16c BY_NAME Hujwiri != Ali Hujwiri
 9ced86a8-bfa9-4871-b9d7-2f0ba3b4c6fd BY_NAME Sri Ramakrishna != Ramakrishna
+9cf321cf-bf43-4ab5-b266-3e181bde0b0e BY_NOMATCH William Matthews
 9d14ef60-44b7-4021-b1e1-ddea7d6a23e7 BY_MISSING
 9d158a70-a345-4323-99ef-8a42f33d44ae BY_MISSING
 9d1924fe-a06a-4366-89f7-be5258ba297c BY_NAME Lao Tzu != Laozi
@@ -4221,6 +4442,7 @@
 9d81e380-343d-4712-b24b-6789e5365c75 BY_NAME Boehme != Böhme
 9d83b655-c0a7-4811-bf50-f3d5713cdc5a BY_MISSING
 9d8aa355-889b-44c0-b163-9e89625d82bb BY_MISSING
+9d9ebfcb-0408-40f2-a0b5-96c4543b6ca5 BY_NAME Shantidasa != Shantidas Ashikari
 9da2f8db-4b2f-4732-8b96-9d5c336610fb BY_NAME Lao Tzu != Laozi
 9da8f78c-c00d-4162-affa-bb9a699c297b BY_NAME St Thomas Aquinas != Thomas Aquinas
 9dadf41f-d05f-480a-9226-d76bbeb8fdc6 BY_NAME Hermes != Hermes Trismegistus
@@ -4326,6 +4548,7 @@ a0fbab4c-8478-4f8e-8b4d-19bb1fcdb220 BY_NOMATCH Madan
 a104154c-d5f1-4095-840a-61b2c60eae1b BY_NAME Shakespeare != William Shakespeare
 a10df655-8a12-48b7-a9db-ca4183487175 BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
 a1112476-15dd-4a61-b149-8160db005801 BY_NAME Lao-tzu != Laozi
+a1162007-6de6-47c5-b4ce-c2a675836777 BY_NOMATCH Anonymous
 a11d9783-c975-4e02-8ad1-693cc86c73b8 BY_NAME Ananda Moyi != Anandamayi Ma
 a1430901-5a6e-4196-80b0-405b95c66323 BY_NOMATCH Patricia Donegan
 a14e3f48-e943-4592-a7c8-75bdfa6235aa BY_NAME Sextus the Pythagorean != Quintus Sextius
@@ -4340,9 +4563,11 @@ a1c39ea8-a804-4b27-b385-c01a18b9494d BY_NAME John Smith the Platonist != John Sm
 a1c3f375-756e-428c-849a-f1952c6ac5d6 BY_MISSING
 a1cedde7-3182-498c-b69b-ff5cb8f3f19b BY_MISSING
 a1d6d747-933f-4aa9-bd6a-2c6baab8ffdd BY_NAME Shakespeare != William Shakespeare
+a1e8822e-51dd-4be1-b36e-d7ec0a536441 BY_NAME Henry T. Hamblin != Henry Thomas Hamblin
 a1efb31a-6198-4799-96ed-9649d705474a BY_NAME St Augustine != Augustine of Hippo
 a1f6d06f-51ce-4635-a0da-ff174fb30edc BY_NAME Ananda Moyi != Anandamayi Ma
 a2134a69-ef5a-46a8-b8df-40d4cc5f3ffe BY_MISSING
+a21adde3-85f3-4d77-bfbb-6571c97d78b0 BY_NAME Manhae != Han Yong-un
 a22c5e56-82e3-4b90-8c81-657e6b5dd88e BY_MISSING
 a23bea6d-ec36-4c96-8259-99a57752d72a BY_NAME Boehme != Böhme
 a24e5d9c-c0c3-497c-8c68-b64158711f27 BY_MISSING
@@ -4362,6 +4587,7 @@ a2de36ba-240e-40bd-a7b7-782aa4bb0157 BY_MISSING
 a2f55b3f-0039-43eb-a6e4-0747ed87e0ec BY_MISSING
 a2f55b3f-0039-43eb-a6e4-0747ed87e0ec TITLE_SPELL Joshu's
 a2f6c521-0010-4dd1-aa3e-2373c52427d4 BY_NAME Shih-te != Shide
+a30b8547-5cbb-453b-9139-648b9a6d7370 BY_NOMATCH James Allen
 a3137ed9-509c-4f17-8970-b17c135b9c87 BY_NOMATCH Porphyry
 a3196ed2-7b88-443e-b940-37d937ac29a2 BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
 a339ef34-adb3-4013-a81b-c6926729cb20 BY_MISSING
@@ -4372,6 +4598,7 @@ a350ae89-2578-4a5d-8d9b-b43481cd5d1f BY_MISSING
 a350ae89-2578-4a5d-8d9b-b43481cd5d1f TITLE_SPELL Sutras
 a352df8e-7891-4235-90e4-533dfd67a5c7 BY_NAME Ibn 'Arabi != Ibn ul-Arabi
 a357ed54-b5d9-4e5b-a052-00462ea1b209 BY_MISSING
+a35e321a-1424-42cb-89b2-06b8ca742d43 BY_NOMATCH Edith Reninger
 a3684bc2-39b5-445d-9ae1-767bbcb9db22 BY_NAME Robert Herrick != Robert Herrick (poet)
 a3767a5d-afc9-494f-b17a-46ab4438b1f1 BY_NAME Ruysbroeck != John of Ruysbroeck
 a376d519-13d5-4089-a649-1dcd7b74c0f8 BY_NAME St Augustine != Augustine of Hippo
@@ -4380,6 +4607,7 @@ a37f581b-9239-47aa-acc8-0dd727e73052 BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7c
 a3a7ab88-04c3-49a6-923d-1a0f64b16901 BY_NAME Jalal al-Din Rumi != Rumi
 a3bab936-8c34-4cef-abdd-3c8ebd4f5e07 BY_NAME Lao-tzu != Laozi
 a3badb7a-9f7e-4cdb-a4ef-236f3157757b BY_NAME Sri Ramakrishna != Ramakrishna
+a3c778bd-f3be-4739-9fca-cc680b7f593b BY_NAME Henry T. Hamblin != Henry Thomas Hamblin
 a3cbd0de-7909-4404-ae74-8103726e11c3 BY_NAME Schuon != Frithjof Schuon
 a3d11a6f-2f76-460c-8f4e-1d0d150b9f0c BY_NAME Lao-tzu != Laozi
 a3d53d04-778d-48c9-9997-5bfbf14933ef BY_NAME Sri Ramakrishna != Ramakrishna
@@ -4401,9 +4629,12 @@ a46747a1-0065-4599-92d7-56abb1a75ba9 BY_NAME Eckhart != Meister Eckhart
 a46c92eb-8da5-4f7e-a6da-9dc4ed5fd0f1 BY_NAME Sri Ramana Maharshi != Ramana Maharshi
 a46d5acd-78e0-450f-84af-8fc97cc86f64 BY_NAME da184f92-f119-42ee-8e45-06ab31cd9624 != Thomas Merton
 a477ed15-ae68-45c3-a9c2-96f157b23872 BY_NAME Dante != Dante Alighieri
+a485c15c-bc1e-4d2f-868e-6ab6036dab81 BY_MISSING
 a48ab3fe-4590-4bf9-bde1-3bcb24816a6f BY_MISSING
+a48bba92-871a-4060-b8bd-4c37a9c4b4a0 BY_NAME Mohandas Gandhi != Mahatma Gandhi
 a48fe978-cc58-4003-a8b3-534c91db671b BY_NAME Eckhart != Meister Eckhart
 a4aff714-4252-4aea-b773-9581f7a2fd43 BY_NAME Dante != Dante Alighieri
+a4b6293f-4d5f-4b9b-a41c-bf80f01d59ca BY_NAME Marcus Aurelius != Marcus Aurelius Antoninus
 a4db0986-d8ec-4f41-bb7c-cbca06552b63 BY_NOMATCH John A. Mehung
 a4e8bde1-9533-48dd-9a11-7805cbb75f33 BY_MISSING
 a4e91c68-73ac-4be7-a790-b5fe8a70c3da BY_NAME Eckhart != Meister Eckhart
@@ -4421,8 +4652,10 @@ a535f4ea-cd8e-4d2d-8271-f2e3115100f1 BY_NAME Lao Tzu != Laozi
 a53b7153-a927-4c03-93d9-10c2d418ef6b BY_NAME Simplicius != Simplicius of Cilicia
 a53dcb3e-2fea-4dd4-98d3-cb2f3fb739ef TITLE_SPELL Piute
 a5501312-f6d4-4f68-9a6c-838a1e51f2a4 BY_MISSING
+a55049a3-a560-4bc6-b972-3892ca288138 BY_NAME Marcus Aurelius != Marcus Aurelius Antoninus
 a55100f7-819b-460b-bb4d-9108a480ab0b BY_NAME Hônen != Hōnen
 a5550e24-5976-4645-8e77-6d76b7fdd6ab BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
+a55ebd8f-39c8-45f7-8781-793f80ebc000 BY_NAME Jesse Jennings != Jesse D. Jennings
 a5616553-0590-4fa1-8c38-9ecd9a523244 BY_MISSING
 a5884688-2d3f-4362-92c3-b2280b2dcd2a BY_NAME Dante != Dante Alighieri
 a590e0ef-0bfb-47c3-8a18-c9516ac0ab6c BY_NAME Han Shan != Hanshan
@@ -4448,6 +4681,7 @@ a65fd1ea-ecd5-4484-a08c-9d7dcf6e34ef BY_MISSING
 a669fcf2-fd31-42c1-97ae-ba7c08218aae BY_NAME Huang Po != Huangbo Xiyun
 a6754c25-cd5f-4cb6-b6b0-8c5211b117bc BY_MISSING
 a680e232-dd7b-44a3-9528-132df7ec2862 BY_MISSING
+a68e7767-6000-42f9-afdd-faaec99a34e1 BY_NOMATCH Paramanada
 a69bfb39-0fca-4933-a0ee-843707682312 BY_NAME Richard of Saint-Victor != Richard of Saint Victor
 a6a4aff8-c539-4f25-aee1-d91ae1eafaba BY_NAME Chuang-Tzu != Zhuang Zhou
 a6a7a1ec-c88e-4bb9-9d46-00b7816f6f34 BY_NAME Hermes != Hermes Trismegistus
@@ -4461,10 +4695,13 @@ a6d997c8-3667-4ef7-b077-9e4ea01da172 BY_NAME 0200c883-e38f-4554-92bc-2eba913426b
 a6e327ec-76cf-4667-9967-4d705399a71f BY_NAME Boehme != Böhme
 a7033723-d34c-497a-9a12-86948064b852 BY_NAME Sri Ramana Maharshi != Ramana Maharshi
 a712510d-af0a-4e1a-a0a8-d293a4dd0462 BY_NAME Santi-deva != Shantideva
+a72925a8-a9b2-4941-a2ca-b91b8cc1f1b2 BY_NOMATCH Henry W. Beecher
+a72b759e-3a3b-4a7c-be1a-f52a9c474c01 BY_NAME Henry T. Hamblin != Henry Thomas Hamblin
 a7352869-a447-48c3-a5e2-48d51bde83c2 BY_NAME St Irenaeus != Irenaeus
 a73846e3-d42f-44b0-a667-b01dd1cc954e BY_NAME Lao Tzu != Laozi
 a73874f5-2bf3-4363-a4e3-8e5667aed030 BY_MISSING
 a75c50a0-3985-40d9-9a05-f60d2f33f6d8 BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
+a767f45d-bad6-4e25-ad47-7003433c6e00 BY_NOMATCH Ron Smothermon
 a76f0313-9cfb-4691-84c9-ae6d805c1683 BY_MISSING
 a770fd38-aee3-4503-b7b7-c90649182ebc BY_NAME Dante != Dante Alighieri
 a7837db6-5421-433b-8198-06f12354adf8 BY_NAME St Alphonsus Liguori != Alphonsus Maria de Liguori
@@ -4522,6 +4759,7 @@ a962b1a0-359d-4e9f-8864-932f28965057 BY_MISSING
 a971a3e1-f621-4558-adb3-a5d481517657 BY_MISSING
 a976b020-a01f-4034-9a80-0bdf916de5b8 BY_MISSING
 a9855260-1536-4efc-ba99-c64681c0cdc8 BY_MISSING
+a98db005-ec57-438f-aaf6-277b7c586c42 BY_NOMATCH Edwin & Sally Kiester
 a996ddf8-d564-4196-b29d-eec23f1d166f BY_NAME Eckhart != Meister Eckhart
 a9a8f184-be5b-4638-996a-a273da027cf9 BY_NAME Boehme != Böhme
 a9c6f2bc-99e5-45d1-b38d-e1e4c5c9485b BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
@@ -4542,6 +4780,7 @@ aaa120b7-7e33-40bd-b3c8-01e32822c7dd BY_NAME Zhuang-Zi != Zhuang Zhou
 aaa85855-b035-4f08-84a1-91f89f60b6ec BY_MISSING
 aaaa1fc6-e3a1-4b6d-a215-bed9375485a9 BY_NAME Jalal al-Din Rumi != Rumi
 aab27517-5096-42da-97d8-dd03d13b2317 BY_NAME Sri Ramakrishna != Ramakrishna
+aac00a5e-17e4-4f60-a451-7c10846dac95 BY_NOMATCH Edith Kanaka'ole
 aac541e0-8140-48f3-8006-eab0f14ac61a BY_NAME St Basil != Basil of Caesarea
 aadbb642-c869-421b-97e8-d624692cfc58 BY_MISSING
 aae476e0-05a3-41eb-b999-5bc2cdbcb648 BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
@@ -4554,12 +4793,14 @@ ab3278e0-44c7-4b21-a83f-6ebda8934d82 BY_NAME Sri Ramana Maharshi != Ramana Mahar
 ab3f6a64-0a23-4c15-bd74-8e19a32aa7b8 BY_NAME St Augustine != Augustine of Hippo
 ab4cec41-435b-423f-a790-ecb34993cacd BY_NAME Takuan != takuan
 ab504752-7834-4bf7-99c6-1eec87deb77b BY_NAME Shakespeare != William Shakespeare
+ab53246e-9974-4c67-b41b-5c17a0ca63c4 BY_NOMATCH Hannah W. Smith
 ab6ec81e-cb63-4ef3-9fc1-2df6fb43cb72 BY_NAME Han Shan != Hanshan
 ab712420-b494-42f3-9189-39dbcda4665a BY_NAME Hermes != Hermes Trismegistus
 ab751ba6-ec69-4ab2-8692-953502d9b0ba BY_NOMATCH Li Jih-hua
 ab7da945-c50d-4a0a-bf56-c708aa405eba BY_NAME Eckhart != Meister Eckhart
 ab8f5c3f-2776-484c-930a-aef60db0647e BY_MISSING
 ab96dc42-9711-42e0-a503-1e1d9a07d5de BY_NOMATCH Irenaeus Agnostus
+ab9fc003-f1ce-4ad6-8349-5bd08d2387aa BY_NAME Christian Bovee != Christian Nestell Bovee
 aba3bc53-0047-47ea-b5bd-71c99c69b96f BY_NAME Ansârî != Khwaja Abdullah Ansari
 aba5edcd-2459-4eea-8539-6f044a069f23 BY_MISSING
 abace956-e41d-4db0-ab64-2425200bd17a BY_NAME St John of the Cross != John of the Cross
@@ -4594,6 +4835,7 @@ acb071e3-7fac-49e7-b396-7fc66129a773 BY_NAME St Augustine != Augustine of Hippo
 acb0eaa1-338d-4fe4-8e53-f0aca58e36a7 BY_MISSING
 acb3ca8c-3380-4575-831a-b7fecc8144d1 BY_NAME Sri Ramana Maharshi != Ramana Maharshi
 acbcdbe8-eaab-466e-9879-f5e97b6bccce BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
+acbde577-cc16-4231-b630-3048c4f9565a BY_NOMATCH William B. Ullathome
 acc6677e-30b4-4900-82b3-76efb59666dc BY_MISSING
 acc6920e-ee7d-497e-8a7d-14359c495ec2 BY_MISSING
 accbe99d-72ee-4eff-b080-ba6c22c15c2b BY_MISSING
@@ -4601,9 +4843,11 @@ accdad53-fafd-4847-bdbc-10ee10558f38 BY_NAME Ruysbroeck != John of Ruysbroeck
 acd5f976-f6e9-42eb-91de-99ffcc54678d BY_MISSING
 acf254a1-5eb8-4a80-bed7-0adcf0e72265 BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
 acf6c370-4e1d-42b2-9b68-78c4a6c2ff31 BY_MISSING
+ad17cc92-a767-4bc3-9136-692aaad52caa BY_NAME Seneca != Seneca the Younger
 ad35b2ed-c8c4-4174-b4d8-38f65d2387f6 BY_NAME Lao-tzu != Laozi
 ad3d7a75-bc19-45ef-9f83-0b38a3907107 BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
 ad484835-9295-472f-bec2-6f85b55f8790 BY_NAME Dante != Dante Alighieri
+ad500351-ce2e-4f7a-8ded-b656d7e029ab BY_MISSING
 ad5d8017-1567-4f06-b435-0de4c7f8327b BY_NAME Nicholas Flamel != Nicolas Flamel
 ad8b8f2a-1cac-4153-ab87-433eafeb2bb1 BY_NOMATCH Muhammad b. al-Fadl
 adadbc6c-4878-4f6a-8d10-8eea44519241 BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
@@ -4616,6 +4860,7 @@ ade45036-439f-43bd-842f-e7858c6cd108 BY_MISSING
 adeb8c87-2614-4d97-8a14-1cc69a6fbcce BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
 adf257e6-4733-45b7-8ca5-b8675f4f5fe5 BY_NAME Al-Hallâj != Mansur Al-Hallaj
 adf2e79f-097c-47f9-8c7f-3463246d68b7 BY_MISSING
+adf54bd9-4a84-40d8-85d7-8f89072d4bc4 BY_NAME Minnie Fiske != Minnie Maddern Fiske
 adfcaafd-b405-49e7-8618-3a17d4520c03 BY_MISSING
 adfcaafd-b405-49e7-8618-3a17d4520c03 TITLE_SPELL Akkosa
 adfcaafd-b405-49e7-8618-3a17d4520c03 TITLE_SPELL Sutra
@@ -4624,6 +4869,7 @@ ae12e4f4-502b-40d8-9e92-bf50305e10f4 BY_NAME Sextus the Pythagorean != Quintus S
 ae2004ba-aba4-4ec7-8f6a-ba6d3ea1a2cb BY_NAME Swâmi Brahmânanda != Swami Brahmananda
 ae25ce33-e814-43c8-b02b-a675e106b2c6 BY_NAME Abû Hanifah != Abū Ḥanīfa
 ae27d666-22a5-4938-a329-77cf82ca0afb BY_MISSING
+ae2ab08b-4b96-40d1-943b-172a46bd80c5 BY_NOMATCH H. Bertram Lewis
 ae2bb49e-0d9d-4956-80a2-3571c79696d5 BY_NAME Boehme != Böhme
 ae2ead74-c803-4e55-8b0f-8421ec308ee0 BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
 ae2ead74-c803-4e55-8b0f-8421ec308ee0 TITLE_SPELL Pickaxe
@@ -4664,6 +4910,7 @@ af50bada-41b7-4700-a074-145528a1b2c9 BY_NAME Ibn 'Arabi != Ibn ul-Arabi
 af5c5f71-a6fb-4e33-abe3-6ae120fc356a BY_NAME Shabistari != Shabestari
 af651117-cac4-45bc-8d5a-a78a249b51ba BY_NAME Philalethes != Henry More
 af6e6baf-d340-49eb-b670-96ec1c8a9453 BY_NAME Shakespeare != William Shakespeare
+af80c477-471c-495d-bb99-a4e6589e61ab BY_NOMATCH Karen Homey
 af84d65d-0216-4f3a-aaba-22aa2252ad99 BY_NAME Eckhart != Meister Eckhart
 af859c94-d851-488a-a5d6-2e7615cb55ea BY_MISSING
 af859c94-d851-488a-a5d6-2e7615cb55ea TITLE_SPELL Amida's
@@ -4693,6 +4940,7 @@ b041151b-c865-4a70-a06a-a80212d89f57 BY_NAME Shakespeare != William Shakespeare
 b045604b-7cbb-4cd0-a714-cdb099f01d83 BY_NAME Rûmi != Rumi
 b04cd40b-ec40-463c-8a8b-c2c4ce051db6 BY_NAME Boehme != Böhme
 b04e5da2-ac14-4e75-8fc3-c2e0d5718991 BY_NAME St Thomas Aquinas != Thomas Aquinas
+b051e326-69d6-4b0c-9ab4-74673c50c3a5 BY_NAME Manhae != Han Yong-un
 b064cce6-8979-499b-9083-cf2c7f365c4b BY_NAME Shakespeare != William Shakespeare
 b069f598-1950-4a43-b384-3f1d30acab78 BY_NOMATCH Israel Baal Shem
 b06bf982-9e20-41fa-a055-9ee84559e833 BY_NAME Boehme != Böhme
@@ -4717,8 +4965,10 @@ b0ece196-3718-48ad-898f-193043f20d10 BY_MISSING
 b1018edc-4c46-4882-8e33-53332819db86 BY_NAME Shakespeare != William Shakespeare
 b1057bdc-419b-41ad-9876-8298541d63c3 BY_MISSING
 b107c425-fd79-4565-9048-e48df53f0b5a BY_NOMATCH Hsun Ch'ing
+b11ad2f2-6b34-4751-b25b-cdf35a13d654 BY_NOMATCH Ben Johnson
 b11f12c7-0134-49cf-b6e8-bd64042f04da BY_NAME Eckhart != Meister Eckhart
 b1298492-be8e-4d7b-8e48-93c44bc57029 BY_NOMATCH Abu 'l-Qâsim Bishr-i Yâsîn
+b12ad1d6-2e6d-468c-a866-82ba4b0d18e6 BY_NAME Scarrooyady != Scarouady
 b13fb288-16bb-481d-8219-335ffa6a2733 BY_NAME Philalethes != Henry More
 b1454aba-29f3-49e0-9e61-1168252998e8 BY_NAME Bâyazid al-Bistâmî != Bayazid Bastami
 b162a6a4-b2c7-4bfb-b587-521a8215172e BY_MISSING
@@ -4732,6 +4982,7 @@ b196496a-c0c6-45d7-9c22-041c498bca1d BY_NAME Ko Hung != Ge Hong
 b19a1f0e-a1c5-4164-bb35-6a23aaddf0d1 BY_MISSING
 b1a8422d-d56b-4191-89e9-1a6f79fd2b2e BY_MISSING
 b1a9c1cf-ddc1-45cf-b9f5-7b37a204567f BY_MISSING
+b1ab8613-84c0-4078-bc43-512917832580 BY_NAME Papa Ramdas != Swami Ramdas
 b1adff6a-d0dd-4b9d-9414-0a82e53a86ad BY_NAME Ruysbroeck != John of Ruysbroeck
 b1bdc9dc-ebf5-4148-99eb-2737b1823e0b BY_MISSING
 b1be29a3-556c-485f-b689-5a71520c1fa6 BY_NAME 'Attâr != Attar of Nishapur
@@ -4743,6 +4994,7 @@ b1f06ba9-3ae4-4f35-a31e-7a500d6c295a BY_NAME St Augustine != Augustine of Hippo
 b1fd5151-07b9-4d48-aa47-ed0104a8d9cf BY_NAME Eckhart != Meister Eckhart
 b1fe60c9-c372-4947-8339-6039bd1b2951 BY_NAME Eckhart != Meister Eckhart
 b1fe952c-6324-4a80-82cc-a10d952362b8 BY_NAME Lao Tzu != Laozi
+b201707e-60d2-4848-855b-07dd7533bf8a BY_NOMATCH Robert S. MacArthur
 b20e4bd1-19c9-46b7-bf30-9ef5b881f6c6 BY_MISSING
 b22195c3-8402-4933-8a5b-692f8689a42a BY_MISSING
 b2301067-191c-4fef-8eb1-6e3be3b8a8c8 BY_NAME Lao-tzu != Laozi
@@ -4757,6 +5009,8 @@ b29cc96f-a6ba-493b-b53e-58416ff75b7a BY_MISSING
 b2ab5193-89b7-4858-8442-854b9c09a7a4 BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
 b2abc975-2ef3-43c6-b301-b6b808104d28 BY_NAME Hujwiri != Ali Hujwiri
 b2ac5464-8314-4880-800b-71fea4d28a68 BY_MISSING
+b2afda16-39e5-4b8d-b5b1-9beb67bfac4d BY_NOMATCH William Alger
+b2b2bfad-8a8c-42bc-acaf-63eca7e63883 BY_NOMATCH Faith Forsyte
 b2bcf487-f47c-4a64-8be1-4f79c5a39ccf BY_MISSING
 b2be672e-b675-4a54-8288-c7602cdad705 BY_NAME Shakespeare != William Shakespeare
 b2c1bd5c-6d2a-42d2-8b86-5535ef056ad8 BY_MISSING
@@ -4778,6 +5032,7 @@ b36278d6-6737-405e-8f9d-57d245303fb1 BY_NAME Swami Sivananda != Sivananda Sarasw
 b368fff3-c8b4-428c-9848-91c019927fc2 BY_NAME Ben Zoma != Simeon ben Zoma
 b372d073-dcc3-4f4f-ae6b-50686e22a2dd BY_MISSING
 b379355d-6ff3-49a0-b218-a92936a19a24 BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
+b387162a-70f9-4848-b8a0-9200c60dbf5c BY_NOMATCH Fred Van Amburgh
 b38a1165-797a-4b37-bffe-8f027060d496 BY_MISSING
 b394d271-e65b-4546-9543-1d6019ea3c57 BY_NAME Hônen != Hōnen
 b3a32c2f-faf5-4d0b-9b6a-e6f4f0e38b94 BY_MISSING
@@ -4802,6 +5057,7 @@ b428dfed-41c5-43dd-b603-9aa98789d2e2 BY_NAME Sri Ramakrishna != Ramakrishna
 b42d3ba2-c827-473a-9b39-6db7e4ac7f6c BY_NAME Dante != Dante Alighieri
 b42ec544-9c98-4b02-bf69-a81141bdf56a BY_NOMATCH Conjure One
 b42f448d-143b-4c29-ab22-890d5e53af26 BY_MISSING
+b43dc342-490b-49bb-bd13-777297a79d1d BY_NOMATCH Martin L. King, Jr.
 b44b5537-ab46-47e4-a7a4-e0900e9869eb BY_NAME John of Cronstadt != John of Kronstadt
 b4583127-8334-411d-a079-b539992d0699 BY_NAME Eckhart != Meister Eckhart
 b45bc94e-0fba-4b09-a504-2821c756a1a5 BY_NOMATCH William Cavanaugh
@@ -4818,7 +5074,6 @@ b4af5f48-197d-4add-9ffc-a6441efd04be BY_MISSING
 b4e9c863-3d1f-4f10-be0d-5b807cb52f39 BY_MISSING
 b4f47cbc-29fa-4b34-a123-88330d9e2bf4 BY_NAME Robert Herrick != Robert Herrick (poet)
 b4fbe4e3-b58c-41d4-a525-4f682209c4b6 BY_NAME Ohiyesa != Charles Eastman
-b4fc441f-5bb8-4a30-9afe-72bc70a9c3da BY_NAME Manhae != Han Yong-un
 b5079909-2c5a-4680-92fc-d785440aaeaa BY_MISSING
 b50c15fa-29c3-4b40-adec-a45626eef4dd BY_NAME Boehme != Böhme
 b50eaa98-9ca2-48b4-a89d-ac3e60c39208 BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
@@ -4831,6 +5086,7 @@ b5589b6f-8694-47e9-be8e-0f3bb9910520 BY_NOMATCH Kenshin
 b55dd0d6-f3f8-4af2-9dfd-ce86db3b8941 BY_NAME Shabistari != Shabestari
 b58134aa-fe0b-4413-a4f7-2204dee37121 BY_MISSING
 b58beae9-89d5-4951-9f36-16b2bc186419 BY_MISSING
+b5964bc6-29f7-42c8-a025-e2289c934691 BY_NOMATCH William Jay
 b5aad0ec-5894-46ba-9087-389fb2fd785c BY_MISSING
 b5ad6f7e-6d0f-436f-a9f0-829814b1f39f BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
 b5d5de27-0797-4e50-8f19-6126f67f4bfb BY_NAME Chang Po-tuan != Zhang Boduan
@@ -4845,9 +5101,11 @@ b60f167f-7874-471b-ab6b-dc55d3ef76f4 BY_NAME St Louis de Montfort != Louis de Mo
 b6234c35-ac56-4269-a44b-59c5056c6f75 BY_NAME St Catherine of Siena != Catherine of Siena
 b6294ac0-660a-4b4a-bd04-a31aa35cc06e BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
 b6382baf-af49-430f-89b1-4bd1d54fa013 BY_NAME Robert Herrick != Robert Herrick (poet)
+b63e25ec-28de-4e2e-a030-1419204ab6a1 BY_NOMATCH Julian P. Johnson
 b6476477-0fa4-4c9c-907a-08f802dff99d BY_NAME Hujwiri != Ali Hujwiri
 b64af54d-5981-4803-9a62-3cf74b46f702 BY_MISSING
 b64af54d-5981-4803-9a62-3cf74b46f702 TITLE_SPELL Hoshin
+b64afa2e-a59d-40db-8f77-b41061730fdc BY_MISSING
 b65d969b-396f-4deb-ad86-347999208e84 BY_NAME Philalethes != Henry More
 b65f209a-2d5a-4d7a-be27-154b1615273c BY_NAME St Thomas Aquinas != Thomas Aquinas
 b6628225-0eab-4e0a-9b2e-e2ba0bacc508 BY_NAME Eckhart != Meister Eckhart
@@ -4864,8 +5122,10 @@ b6f9b28c-f158-402b-b10e-da325d7960ca BY_MISSING
 b7018797-859a-43d8-b882-d0770f1ad426 BY_MISSING
 b70280c7-e976-403c-9ef3-d58f8a70737b BY_MISSING
 b70362c5-5924-46db-b649-250876830a58 BY_NAME William Stafford != William Stafford (poet)
+b704a6ee-1387-4bd0-8460-723ada94ffea BY_MISSING
 b7182ce0-7fd9-4ff6-8ba9-92f6ea9d75ec BY_NAME Eckhart != Meister Eckhart
 b7190127-b1a4-4e42-a1aa-141ac7226692 BY_MISSING
+b71fe7b5-5eb4-47cf-b7ad-850c5c2e9332 BY_MISSING
 b72a3bb5-b370-4931-a8dd-35adbe51dd5f BY_MISSING
 b7327419-00e8-4404-ae64-4e4c46e18766 BY_MISSING
 b73ddd95-f1a6-4943-a22b-3c18a807ee55 BY_MISSING
@@ -4899,7 +5159,9 @@ b8450f91-ceb4-4394-8ccd-b2b62214078d BY_MISSING
 b849fab3-e62a-4eeb-873b-fdbe751f8ca5 BY_MISSING
 b85420a9-bee9-4459-9692-7f45a26b547d BY_MISSING
 b855c39e-2c05-47ee-977a-d812175fd549 BY_MISSING
+b856b93f-0167-49c8-a15d-f215667a75ac BY_NAME Manhae != Han Yong-un
 b8661ead-d651-4c95-b930-b9ba86478dac BY_MISSING
+b86eaf06-4363-4071-9bfb-cb076e6c62ea BY_NAME Mohandas Gandhi != Mahatma Gandhi
 b87d8909-1d55-4c7f-8daf-6471cbf58aff BY_NAME Huang Po != Huangbo Xiyun
 b88ad80a-d7da-4688-9988-3557a5e60b1d BY_NAME Sánti-deva != Shantideva
 b8951e08-7402-4f1c-9fdb-4c2e42d84ee0 BY_NOMATCH Shuson Kato
@@ -4914,6 +5176,7 @@ b8ca15bd-cad9-476a-b36b-761a9c69b6ee BY_NAME Swami Sivananda != Sivananda Sarasw
 b8cd10e2-6cf8-4847-8693-c360a40980a1 BY_NAME Huang Po != Huangbo Xiyun
 b8cf4d06-eeaa-4123-8d98-fcbd43d2242b BY_NAME Ibn 'Atâ'illâh != Ibn Ata Allah
 b8d1e106-b9f7-465f-8b68-0e364c409cae BY_NAME St Ignatius of Antioch != Ignatius of Antioch
+b8d1ec5d-142c-4012-934a-ce54d54b2868 BY_NOMATCH John Neal
 b8e07418-3486-485a-b30b-ad54281608d7 BY_NAME Shakespeare != William Shakespeare
 b8e4d449-5b51-4567-a2f3-fb96b41f430a BY_NAME Hermes != Hermes Trismegistus
 b8e6b5de-ac48-46d8-b72b-ed06880f299a BY_NAME Shabistari != Shabestari
@@ -4922,11 +5185,13 @@ b8ea378c-0159-4ed5-921b-700b1c0db910 BY_NAME Hermes != Hermes Trismegistus
 b8ec5a31-61f8-4983-aec4-9946e3f51dd3 BY_NAME Sister Consolata != Consolata Bertone
 b8f12db2-10b6-4162-ad25-6ff51be47207 BY_NAME Dante != Dante Alighieri
 b8f7dc68-7fd3-4f2d-b3b2-aefe48f6522f BY_NAME Tauler != Johannes Tauler
+b8f91f6e-206f-4da5-8f9b-933705743ae6 BY_NAME Henry T. Hamblin != Henry Thomas Hamblin
 b913573e-de6e-4a0c-bb5c-6880904deec5 BY_NAME Boehme != Böhme
 b92c4dd7-cd01-4b4e-95e9-e0c2fdc15347 BY_NAME St Gregory the Great != Gregory I
 b92e0c49-06b8-489e-9cc4-31c1c2040f90 BY_NAME Boehme != Böhme
 b93c2486-1e6a-4c84-860a-a5d1734f9f61 BY_NAME St Augustine != Augustine of Hippo
 b93c4957-71f2-403e-b3cb-34977f79d136 BY_MISSING
+b9459251-1372-4140-aa08-56f7745f2c01 BY_NOMATCH Patricia Sun
 b94c569f-2079-459f-a4e9-0f269c705b98 BY_NAME Tauler != Johannes Tauler
 b952113a-6145-4cbf-b726-7c892c877486 BY_NAME Eckhart != Meister Eckhart
 b9560cca-7b42-4a0e-9b7b-38fa0344e72a BY_NAME Henry Madathanas != Adrian von Mynsicht
@@ -4944,11 +5209,14 @@ b9cee0d1-ad4f-4ae5-9975-8960d46ef8cb BY_MISSING
 b9d733f1-a1b9-48e6-923b-7a456a177349 BY_NAME Siddhartha Gautama != Gautama Buddha
 b9d89535-f19b-431f-bbf1-b5f89d28e921 BY_NAME St Gregory of Nyssa != Gregory of Nyssa
 b9f6ecb3-1d7c-4b43-aeca-7926fb78ad53 BY_MISSING
+b9f8ae97-5858-4426-b36e-bd363bd92d13 BY_NAME Manhae != Han Yong-un
 b9feed65-6910-481a-bd93-d3071b6a9a84 BY_NAME Eckhart != Meister Eckhart
 ba051420-78c2-4d66-a01d-8d9f0243214d BY_NOMATCH Za Paltrül Rinpoche
 ba0ad68b-461a-4c24-ba58-fa638d60ec22 BY_NAME Sri Ramakrishna != Ramakrishna
+ba21f97d-7feb-447c-8957-147b1aa656fa BY_NAME Walter B. Cannon != Walter Bradford Cannon
 ba48820f-3e7c-4e78-b331-f6352a434d99 BY_MISSING
 ba5b4563-3b27-4058-a0de-2ae0e2e29b47 BY_NAME Tauler != Johannes Tauler
+ba64a992-f9d6-4805-a61d-d5e15a8bd836 BY_NAME Shantidasa != Shantidas Ashikari
 ba6f0716-b502-4578-971b-db4a4568f31e BY_MISSING
 ba74352d-47c9-4af6-98a3-42578f31a3f4 BY_MISSING
 ba82f443-205b-4dfa-af8e-32fa5fe6940f BY_MISSING
@@ -4969,6 +5237,8 @@ bafc9b89-1a1c-4bcf-bba7-bec34a58b6d4 BY_MISSING
 bb017709-d976-4a0f-8cb3-27949584a9a6 BY_NAME Manhae != Han Yong-un
 bb064eb1-4658-4298-8c07-547ccae1d4a4 BY_MISSING
 bb0c8324-cae8-4037-a1b4-9de500a956a5 BY_NAME Swami Sivananda != Sivananda Saraswati
+bb0cbd85-9c99-43d1-8597-897ab82fdbdc BY_NOMATCH John & Muriel James
+bb187def-b9bc-488d-b29a-295fe60de21e BY_NAME Oliver W. Holmes != Oliver Wendell Holmes
 bb225397-9ee4-4db1-ab07-d581366af906 BY_NAME John Smith the Platonist != John Smith (Platonist)
 bb29591e-2280-4108-8abe-9a641bed7e53 BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
 bb34cc5d-d9a1-4842-9b55-eb41ed1d9e25 BY_NAME Sri Ramana Maharshi != Ramana Maharshi
@@ -5034,14 +5304,17 @@ bd66dc6a-3d4e-4414-9dc3-772701ba970a BY_MISSING
 bd7b66fb-eb56-4279-b977-3e09dbd3d73a BY_MISSING
 bd811916-677d-4c50-b504-2635bb59c50a BY_NAME Eckhart != Meister Eckhart
 bd838396-5f5c-45b5-9118-edd708c7721e BY_NOMATCH The Ortha Nan Gaidheal
+bd8cf1d3-864d-49e4-a66f-a55f28613a4a BY_NOMATCH U. S. Anderson
 bd90bd11-1cba-4cf5-9f68-8f23a6669d3f BY_NAME Ruysbroeck != John of Ruysbroeck
 bd99069f-b3e4-465e-91ea-2a7e4bcf8bee BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
+bd9b466d-5300-44c6-942a-72efa2a9b3df BY_NOMATCH U. S. Anderson
 bda82034-8845-4ddb-b846-b5ad20b2f93a BY_MISSING
 bdaf07e2-c37a-4c7f-b5ac-b0785acdcd4a BY_MISSING
 bdc24352-e42a-4011-b229-6afe3a1e595a BY_NAME Tagore != Rabindranath Tagore
 bdc3f428-0b59-4a9a-894a-c0ac5b51388f BY_NOMATCH Thomas Wildcat Alford
 bdc5dc37-d0bf-4d3e-8bce-317e0066d72e BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
 bdced002-ab69-4bb3-a0e0-68322c18b3e1 BY_NAME Siddhartha Gautama != Gautama Buddha
+bde29a83-9f88-4924-bd3a-f9c1c8a5beb6 BY_NAME Hermes != Hermes Trismegistus
 bdeeac8d-49cf-4c28-9360-fab3134e8db4 BY_NAME b201cc24-b119-48e5-ab1f-ae84cdd442cf != Han Yong-un
 bdf3c076-afb8-412e-996c-f8d79eac687a BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
 bdfa3628-c168-4637-bef0-751b43e782b0 BY_NAME Hermes != Hermes Trismegistus
@@ -5064,6 +5337,7 @@ bee31ed5-73a4-450b-a69c-0405ec6d6aa0 BY_NAME Siddhartha Gautama != Gautama Buddh
 bee8cb2c-9506-42d7-a365-245c689c1453 BY_MISSING
 bee8e5cf-dd00-4ca9-b04e-90362d47be10 BY_NAME Eckhart != Meister Eckhart
 beefd9e8-1083-42e0-8ae7-2eae2dea4828 BY_NAME Sri Ramakrishna != Ramakrishna
+bef98650-5a02-4f30-a1d0-3946b8ddcdd6 BY_NOMATCH Donald H. McGannon
 bf0617a0-2fd3-4b62-9b77-62646b620339 BY_MISSING
 bf0badca-b494-47ca-85e0-6e39dc0f38b9 BY_NAME Sri Ramana Maharshi != Ramana Maharshi
 bf0de4ea-7196-4216-9496-c0f63ddd1edb BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
@@ -5074,6 +5348,8 @@ bf463fc4-e4cd-41ad-a5a4-ab5c233cb797 BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7c
 bf46ed6f-fb18-443f-9042-f703ed5c0da2 BY_MISSING
 bf4743ae-fa11-4867-890b-cb429272f4fe BY_NAME Geber != Pseudo-Geber
 bf5d8b4a-c86d-49a8-9109-327f843fef89 BY_NAME John Smith the Platonist != John Smith (Platonist)
+bf61da31-97f8-41d5-a7f8-bb6e126e9b7e BY_NAME Manhae != Han Yong-un
+bf61da31-97f8-41d5-a7f8-bb6e126e9b7e TITLE_SPELL Misrecognition
 bf64169d-8163-4cd0-b674-fca10a280dad BY_MISSING
 bf7579ec-2c72-49b1-8da4-92866d18d707 BY_NAME Hermes != Hermes Trismegistus
 bf82104a-2d48-4796-bb44-642fe54a7585 BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
@@ -5091,22 +5367,27 @@ c003629f-4728-4461-bffd-8a2895a1965f BY_NAME Ibn al-'Arif != Ibn al-Arif
 c011857b-3dbb-45a2-aefc-aa7139238d01 BY_NAME Hung Chih != Hongzhi Zhengjue
 c0166099-bf9a-4350-9b9f-21504a85f381 BY_MISSING
 c0197dbc-a551-4f22-a4a0-6776202f0e17 BY_NAME Eckhart != Meister Eckhart
+c0235ccd-ef67-42c8-8660-f494762f3e5e BY_NAME Manhae != Han Yong-un
 c0250de5-927c-4e8e-a53a-dec1e2f157d6 BY_NOMATCH Shih-shu
 c025efa2-b490-4d11-90b0-10e173f3bb72 BY_NAME Shakespeare != William Shakespeare
 c0365a42-c8bd-4a16-ab70-03755ef55ba1 BY_MISSING
 c03e5390-adc7-4567-b02f-bf5049af3117 BY_NAME Dion Chrysostom != Dio Chrysostom
+c04c63ff-a3db-40b0-bfeb-ba474eb6912f BY_NOMATCH Simon Eleazar
 c05050d9-2cdf-4a08-954a-b7d33bd38d5b BY_NOMATCH Muhammad al-Harrâq
 c0617071-f01c-40d0-81fe-9f3a10cb1ce4 BY_MISSING
+c063a628-96e9-4570-9708-e2645c28ef5e BY_NOMATCH Philip Chesterfield
 c066aeb1-e97b-4768-adf7-e055a944268d BY_NAME Chang Yen-yuan != Zhang Yanyuan
 c06add7b-fceb-40d1-ab91-4ad33785ffce BY_NAME Tulsî Dâs != Tulsidas
 c0794874-907b-46d3-b51a-2304764f4b32 BY_NAME Siddhartha Gautama != Gautama Buddha
 c0882793-9c56-459e-94a6-60bae7475e0f BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
 c09827be-e4b1-4e2e-84b8-7df5cba4c8ef BY_MISSING
 c09fe718-f21d-4a8a-a748-4ca386c1745d BY_MISSING
+c0a0d4b5-34bc-429c-94c4-e968e27e900f BY_NOMATCH A Spiritual Warrior
 c0a432a3-22ff-4d79-924a-9c8689ee3555 BY_MISSING
 c0a5e309-11c6-4013-8e11-eee601c1421c BY_MISSING
 c0b1245d-7076-49a7-824e-9dbb3c518600 BY_NAME Tauler != Johannes Tauler
 c0bd6e98-1686-436f-bea1-3484fe34d1a0 BY_NAME 'Ali != Ali
+c0c33d55-5e04-45c6-a538-045cd084307e BY_NAME Harry Truman != Harry S. Truman
 c0d4b8b0-7ad2-42f5-9b95-985b11762c5a BY_MISSING
 c0d4c1c7-4807-4190-a61d-55888bcca2b0 BY_NAME Eckhart != Meister Eckhart
 c0d97224-acb9-4b89-9def-e9f41c232fe1 BY_MISSING
@@ -5144,8 +5425,11 @@ c1fcca5e-bae9-4ce5-b349-9a9ebd7cc252 BY_NAME Ruysbroeck != John of Ruysbroeck
 c2205ab5-d2c5-4863-9ee1-c696475d1f8c BY_NAME Hakuin != Hakuin Ekaku
 c22ba65c-5d8c-4d37-994a-e35d1986bfb5 BY_NAME Attar != Attar of Nishapur
 c23440ee-0d0a-40b0-8102-46b2002d0c2d BY_MISSING
+c251d439-438c-4118-8c85-3d3ee41bece4 BY_NAME Manhae != Han Yong-un
 c2549146-6253-4c90-8273-57cf0171051e BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
+c26530a7-e7e8-401a-8487-9a0837b1efc3 BY_NOMATCH Joseph Newton
 c267f98d-c5ea-44b0-a2db-75b2bf421331 BY_NAME Dante != Dante Alighieri
+c26b5c5a-484e-4105-9ad1-96baf589bae4 BY_MISSING
 c28977dd-c008-48c9-b580-c92216c93195 BY_MISSING
 c291c540-2406-4970-8bff-d2b03ef31854 BY_NAME Tauler != Johannes Tauler
 c29bcdea-8724-4f29-95e8-fccafb03e428 BY_NAME St Teresa of Avila != Teresa of Ávila
@@ -5155,6 +5439,7 @@ c2b869e2-5e19-4e24-9c5a-6c1e8447aea7 BY_NAME Tauler != Johannes Tauler
 c2c7b5b5-e721-446d-8191-10fc93453759 BY_NAME Shabistari != Shabestari
 c2d3e121-8153-4eb9-8874-21c38ec2b5e4 BY_NAME Abu Sa'id ibn Abi 'l-Khayr != Abū-Sa'īd Abul-Khayr
 c2d544f8-df1e-4d9a-abf1-0f754fad91c2 BY_NAME Richard of Saint-Victor != Richard of Saint Victor
+c2d77260-1940-407f-9bef-d70e30205929 BY_NOMATCH Friedrich W. Nietzsche
 c2e185e9-bee3-40e3-8adb-3399acd658f2 BY_MISSING
 c2e83291-b737-4e03-ab5a-e33c80c6129f BY_MISSING
 c2e8a279-a225-44b2-b9f1-925ed413eb8c BY_MISSING
@@ -5183,6 +5468,8 @@ c40c3712-dde2-4bd3-9da3-2042e73411f8 BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7c
 c40d41fa-cf6f-4dd2-91d1-7e78ea9f54db BY_NAME 'Attar != Attar of Nishapur
 c41081af-df0c-4c07-b40a-e37cc16a2f04 BY_MISSING
 c41a48d5-6d30-4fce-a5fe-4f8944ae1d87 BY_MISSING
+c423c7d7-3b19-45df-9295-f1b6c52cdb20 BY_NOMATCH Henry F. Amiel
+c428039b-2402-4b33-9e8f-1ceb0926e954 BY_NOMATCH Frank M. Colby
 c42a52f6-98af-4b07-a672-b70eba63ca9b BY_MISSING
 c46e93f4-62d7-4dbb-8f1e-65aa11c3ba99 BY_NAME John Smith the Platonist != John Smith (Platonist)
 c47fa11d-0dad-4654-9bc7-5e5378b5ac82 BY_MISSING
@@ -5205,6 +5492,7 @@ c522b9dc-ed4d-4a0e-a267-eed81bf3c557 BY_MISSING
 c526cf4a-9562-414a-8f10-1a6a0b0378f6 BY_NAME Philalethes != Henry More
 c53c7b32-ab28-4974-8e05-241c816e944c BY_NAME Eckhart != Meister Eckhart
 c5428531-56f6-417a-97cf-6cf055865b61 BY_NAME Boehme != Böhme
+c543aadf-ba96-44c8-8cb2-283e5d6110fa BY_NOMATCH Charles C. Colton
 c5637d6f-f540-439d-95f7-2d5599410e90 BY_NOMATCH Nicholas Flamell
 c56ff56d-6bf2-48b7-963e-3979f2421481 BY_NAME Lao Tzu != Laozi
 c5823e32-190b-4107-acef-859c40af7b70 BY_NAME Shakespeare != William Shakespeare
@@ -5241,6 +5529,7 @@ c673cb9d-1794-497f-af89-308e67328b23 BY_NAME Râbi'a of Basra != Rabia of Basra
 c692eccc-b153-4072-abe6-d0001677ac17 BY_NAME Sri Ramana Maharshi != Ramana Maharshi
 c69419b4-5f1f-49b6-99b7-f5920ada49c3 BY_MISSING
 c6a44bf7-e228-44cc-af16-33edc3c2a28a BY_NAME Henry Madathanas != Adrian von Mynsicht
+c6aba1b7-0c72-4c4c-8687-104fe84354e9 BY_NOMATCH Fred Van Amburgh
 c6b0867e-f65a-46d4-817c-d7ca061d6364 BY_NAME John Smith the Platonist != John Smith (Platonist)
 c6bdbb7d-83e5-424b-a10a-23e554a961c4 BY_NAME 'Abd al-Wahhâb al-Sha'rânî != Al-Sha'rani
 c6c27a1f-8bb0-46f1-8bc9-e70509013a9d BY_NAME Rûmi != Rumi
@@ -5255,6 +5544,7 @@ c71abf72-1b7f-41d8-a2ef-d088fbb199de BY_MISSING
 c72b163d-e3ea-4652-9584-a0dfe07cf17b BY_MISSING
 c7304ad9-a21c-4506-aed6-6d81e1fffaf0 BY_MISSING
 c7322663-a600-4fb9-b8fa-7069d00af0c1 BY_MISSING
+c732f652-d5ad-401d-aadd-776d47719ae3 BY_NOMATCH Jordan & Margaret Paul
 c7465a33-3b4c-459f-a1b4-81fa02e780d3 BY_MISSING
 c746caf4-89a0-40ed-a86d-7d900a06d8c1 BY_NAME Sri Sankarâchârya != Adi Shankara
 c7485484-f420-4521-b1f0-314f3f4959a6 BY_MISSING
@@ -5289,11 +5579,13 @@ c8017618-17f4-4f8d-86e9-eff01d67b84c BY_NAME Sri Ramakrishna != Ramakrishna
 c809609c-50a1-40fa-8a3f-424d1eda24f8 BY_MISSING
 c8098f3e-0a57-4d68-abb3-9f276cfda6f9 BY_NAME Lao Tzu != Laozi
 c81229d3-fbe7-4acb-9016-3710ba93d4b3 BY_NOMATCH Binavâli
+c8166c15-b6e1-4828-b426-acc46726ed50 BY_NOMATCH Jean La Bruyere
 c816fe28-acf8-485b-a5d3-5054a793f924 BY_NAME Sri Ramakrishna != Ramakrishna
 c81ee5a7-127d-421c-900e-44a564bb3823 BY_NAME Sri Ramakrishna != Ramakrishna
 c82b58c4-5b0e-44a1-99e4-4323121ab202 BY_NAME Sri Ramana Maharshi != Ramana Maharshi
 c83123ec-32ed-40ab-9b6e-cd4b8deb66c4 BY_NAME Hujwiri != Ali Hujwiri
 c8318662-c0d8-443c-8b56-27382e7485cd BY_NAME Sai Baba != Sathya Sai Baba
+c8357f2d-2e5b-430f-b83e-a5354efdfdae BY_NAME Barbara G. Harrison != Barbara Grizzuti Harrison
 c83c5949-2eab-4882-81ad-bda780d12d8f BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
 c84142ab-7b7f-41b2-8f95-6db0e3ee83e8 BY_MISSING
 c857faf5-a62d-42b1-959f-96fe26a6e079 BY_NAME Henry Madathanas != Adrian von Mynsicht
@@ -5305,6 +5597,7 @@ c87d2934-e4cd-4529-85e3-547dd9e55932 BY_NAME da184f92-f119-42ee-8e45-06ab31cd962
 c881ed43-f910-4cd1-a8b9-074a636cbdb5 BY_NAME Hermes != Hermes Trismegistus
 c89014fc-4a86-4835-aee3-b993c113edcf BY_MISSING
 c8a7ba63-adfb-433a-8696-7ae350448f0c BY_NAME Hônen != Hōnen
+c8a943a2-fe0e-4ac3-92a5-caf45d923d12 BY_NOMATCH William C. Bryant
 c8cac202-a951-45bf-8786-b8aa5202416e BY_MISSING
 c8cac202-a951-45bf-8786-b8aa5202416e TITLE_SPELL giveth
 c8ce4d55-f517-4208-91c4-f64e9c5a5a65 BY_MISSING
@@ -5312,23 +5605,29 @@ c8ee51b7-2ddf-4996-8df5-03dfdf207003 BY_MISSING
 c8f9503f-e701-4d7c-bca5-6ab25faa3dc0 BY_MISSING
 c8fe74c0-9085-4316-be5b-4433dab423fb BY_NAME Ching Hao != Jing Hao
 c9122360-250f-4c7e-925d-105edd76cdc0 BY_NAME Shakespeare != William Shakespeare
+c92cd9e8-568c-459b-a5fd-17d44a6ed79a BY_NOMATCH Carl Roivan
 c935e225-c5f9-4c32-9ac3-323b66e22671 BY_NAME Sri Chandrasekhara Bhârati Swâmigal != Chandrashekarendra Saraswati
 c9496d28-1d33-403a-b624-7a1594f77f22 BY_NAME Dante != Dante Alighieri
 c9527a03-1c39-4487-bffb-a1961800b080 BY_NAME John Smith the Platonist != John Smith (Platonist)
 c968c426-15a4-47ca-8caf-a3ac7304ea24 BY_NAME Sri Ramana Maharshi != Ramana Maharshi
 c9796afe-c18f-47df-9ae8-47a7ac35094e BY_MISSING
+c97bee2f-a93f-4d4a-b7ed-81ce2908cdab BY_NAME Manhae != Han Yong-un
 c98a9659-02f0-4cd3-aa66-a5656b6ca596 BY_NAME Sri Ramakrishna != Ramakrishna
 c9919095-b2de-4095-bd40-13067367b88f BY_MISSING
 c99fbfea-02ed-46ae-8707-3df3234a7433 BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
 c9b2a235-4f5b-4d21-a403-cbabb11c17be BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
 c9b5d510-e82d-4506-b1fe-5651e0f57455 BY_MISSING
 c9b8d13b-f0e3-4826-ae08-abf81ad83c00 BY_NAME Swami Sivananda != Sivananda Saraswati
+c9bdca49-917e-4650-ab8d-81d970ebd94a BY_NOMATCH Johann W. Goethe
 c9c2426b-edac-4a3e-a904-47dcfa2fe62c BY_NAME Sextus the Pythagorean != Quintus Sextius
+c9c478b8-76fc-45d0-be5d-83481fd590f0 BY_NOMATCH Margaret R. Stortz
 c9ca6db6-82f6-4514-9382-dabc0a46c9f9 BY_MISSING
 c9d02844-c074-45b6-abf4-d744d71ae498 BY_MISSING
 c9d9dbaa-c662-4cac-9bc1-f6be32091dc0 BY_NAME Hermes != Hermes Trismegistus
 c9e21ff5-a6e1-45a7-bffe-9f24fae2aba6 BY_NAME Shakespeare != William Shakespeare
+c9e5ceab-92d5-4996-a029-859de83ec89f BY_NAME Paramananda != Swami Paramananda
 c9ecbfa2-5299-4b9a-a85a-a3cb6e3d9b81 BY_MISSING
+ca0668fc-c85f-44ad-8d58-670f5a5b35e3 BY_NAME Nisargadatta != Nisargadatta Maharaj
 ca085be6-3317-4b9f-b1c1-e7beed62e257 BY_NAME Swami Sivananda != Sivananda Saraswati
 ca08ba1c-442c-4020-9524-338c39f8892e BY_NAME Shakespeare != William Shakespeare
 ca212104-725d-4b5f-9378-6820396a00b1 BY_NAME Philalethes != Henry More
@@ -5336,9 +5635,11 @@ ca26f829-392f-4a3d-aff5-eceed6e92ee8 BY_NAME Michael Sendivogius != Sendivogius
 ca3a59ea-2904-4c9c-a6a9-2ac10ee6d463 BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
 ca4b6b45-3c62-415b-a201-1dc8bebab4c9 BY_NAME 'Attâr != Attar of Nishapur
 ca5a541a-b95f-4064-a484-6a62287b0514 BY_NAME Ibn Arabi != Ibn ul-Arabi
+ca614fb7-edcb-4bd0-ac23-44a570e28ba4 BY_NAME Manhae != Han Yong-un
 ca61f859-a3a0-4448-912e-b061acba9e4e BY_MISSING
 ca68ba77-025c-4867-9dc1-d9b1b9a11ad1 BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
 ca734db4-2a38-4bba-b32f-b0f03f414707 BY_NAME Sri Ramana Maharshi != Ramana Maharshi
+ca75c320-06da-4dc1-8dd4-d6933e28fbaf BY_NAME Henry W. Longfellow != Henry Wadsworth Longfellow
 ca82ab75-8678-463d-8fdf-a017237b6874 BY_NAME St Augustine != Augustine of Hippo
 ca885248-5b10-4cbf-8411-64c58138d521 BY_NAME Boehme != Böhme
 ca88e808-fb59-46e0-abd1-8459edcf2627 BY_NAME Hermes != Hermes Trismegistus
@@ -5355,6 +5656,7 @@ cacd5cf3-f1cc-4363-aafe-0d42a7dd2106 BY_NAME Sextus the Pythagorean != Quintus S
 cacf190e-e073-43a8-8244-d1f05b462cfe BY_NAME Shih-te != Shide
 cad115c1-5275-4731-bd59-d3e94e1ea76f BY_MISSING
 cad936ad-1c83-48c2-bb0c-9e5d834d7e89 BY_MISSING
+cadc42e0-9e7e-4f34-a460-dd6d5981fe7c BY_NAME Charlotte Bronte != Charlotte Brontë
 cadf4d8a-e148-49fb-b7cc-62e9819b1799 BY_NAME St Bernardine of Siena != Bernardino of Siena
 cadfba59-8215-4277-a331-74a29fdd2468 BY_MISSING
 cae55c5d-08fc-4434-b59b-9d7d98abce89 BY_MISSING
@@ -5397,6 +5699,7 @@ cc247d03-21d4-478c-89e7-d9b9c934d218 BY_NAME Eckhart != Meister Eckhart
 cc2667dc-8c36-4279-853c-9613235add33 BY_NAME Lao-tzu != Laozi
 cc2a66cc-a346-4b4e-a8b8-db00cd845a64 BY_NAME Han-shan Te-ch'ing != Hanshan Deqing
 cc2c55b9-5d3f-4d0c-8f60-bcc6315fc915 BY_NAME St Augustine != Augustine of Hippo
+cc2d1d41-cb5b-450c-988d-971083e95648 BY_NOMATCH Fred Van Amburgh
 cc320377-0927-4e41-a44d-5d22e8ee9830 BY_NAME Ansârî != Khwaja Abdullah Ansari
 cc377e00-3811-4030-83c1-1bebdf0a14f3 BY_NAME Eckhart != Meister Eckhart
 cc3b0e57-1535-4563-b07f-a8e6094a2739 BY_MISSING
@@ -5421,17 +5724,20 @@ ccd20112-443d-4f05-a276-39fdfbc84b25 BY_NAME Sri Ramakrishna != Ramakrishna
 cce071b3-92ae-46f6-aa96-9bb30da7479a BY_NAME Eckhart != Meister Eckhart
 cce97e8f-077d-4acb-93ab-e9cb8473327e BY_NAME John Smith the Platonist != John Smith (Platonist)
 cceb1fef-0f7c-4e86-a278-dbe22a093226 BY_NAME 'Ali != Ali
+ccf3f8bf-e973-42ce-845e-56bf5918d6a7 BY_NAME Manhae != Han Yong-un
 ccf609d6-e7d8-473b-b05b-88eb5bc073c3 BY_NAME Sri Sankarâchârya != Adi Shankara
 ccf6b480-885a-45b1-ae53-a3e624952c2a BY_NAME St Ignatius of Antioch != Ignatius of Antioch
 ccfb3be0-0c35-479d-9c84-a4e56f00c07c BY_NAME Bâyazid al-Bistâmî != Bayazid Bastami
 cd064cc9-0237-4907-9ede-d500fecd7e2f BY_NAME Shabistari != Shabestari
 cd22fd3f-a77e-4bcd-a892-9106ab19069c BY_MISSING
+cd35247d-b518-4eae-95b9-ebda732dbcd7 BY_NOMATCH Ot Lat Nom
 cd35e4ee-7e31-4b95-966e-b05d13075f35 BY_NAME Sri Ramakrishna != Ramakrishna
 cd384a84-3609-4a24-826e-9d4d45694208 BY_NAME da184f92-f119-42ee-8e45-06ab31cd9624 != Thomas Merton
 cd3db6e0-eca9-4858-94a5-83d793f3fe51 BY_MISSING
 cd5572e3-b70f-4cf7-8bf6-cd37ac17551a BY_MISSING
 cd5b5c29-7073-4f2b-9bd3-cde4464ccd07 BY_NAME Padma-Sambhava != Padmasambhava
 cd60fdc5-607e-4933-89d5-a3e9c9bec9f9 BY_MISSING
+cd723445-88b2-45f9-9159-7e4f0adc8b79 BY_NOMATCH Bhagavad-Gita
 cd75174e-16ef-4de5-a1b8-b1b47c8211e5 BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
 cd787bc6-5128-40d0-8d7f-881248d2cbee BY_MISSING
 cd78ae6a-2bed-4380-b4c5-ef4986a9ca4b BY_MISSING
@@ -5457,6 +5763,7 @@ ce42a744-e30b-411a-81d4-a2714d7b8946 BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7c
 ce4cf93b-2f82-4819-bfb6-28b10b5ce232 BY_NAME Sri Ramana Maharshi != Ramana Maharshi
 ce61b193-d913-4368-95c3-ee6ade382905 BY_NAME Hazrat Inayat Khan != Inayat Khan
 ce62cb1a-06c2-43af-ab2b-df06c9c7c9be BY_NAME Hermes != Hermes Trismegistus
+ce694982-36d2-4fa5-a288-87d021d53c62 BY_NOMATCH Arthur S. Roche
 ce6ce473-3fa8-43a3-982d-368dca9f8457 BY_NAME Boehme != Böhme
 ce7903fc-3990-4477-a06b-fe902351c070 BY_NAME 'Attâr != Attar of Nishapur
 ce8aea0a-7533-4164-8527-ed9191c4c87e BY_NAME Sri Ramakrishna != Ramakrishna
@@ -5490,6 +5797,8 @@ cf29c287-6e66-4413-ac47-6c4736dc539c BY_MISSING
 cf2ce246-cd4f-47a6-a78f-25494e40bacd BY_NAME Saichi != Saichi Asahara
 cf2e42a9-f84c-4bd2-bc18-c40fe1b8a1cb BY_MISSING
 cf2fdb64-3cdf-4915-ba4c-1debe77dcdb4 BY_NOMATCH Bokuju
+cf3408a6-1325-490d-ba5a-852e7169696a BY_NAME Solomon Ibn Gabirol != Solomon ibn Gabirol
+cf3a5a30-0077-4718-932f-a42ef0f07f59 BY_NOMATCH Elinor MacDonald
 cf3c19c4-6fca-44ea-858d-55d4531eee67 BY_NAME Eckhart != Meister Eckhart
 cf3f2467-e59a-4e74-9eb1-8364c5bd7d00 BY_NAME Hermes != Hermes Trismegistus
 cf40c196-3ad0-49e2-bfb0-2d031e2df160 BY_MISSING
@@ -5513,6 +5822,7 @@ cfbf876f-692b-4e71-8a77-75ceb064f67b BY_NAME Boehme != Böhme
 cfc42562-3d90-4a32-8176-d995a532e020 BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
 cfcc18b5-fe5b-4da9-bbf7-8d9a0c4b2623 BY_MISSING
 cfd3d806-35ad-466e-89a8-1d2865efacd8 BY_MISSING
+cfd87922-8241-46eb-9512-412e99544f49 BY_NAME da184f92-f119-42ee-8e45-06ab31cd9624 != Thomas Merton
 cfda70ac-3887-41f2-8b72-91bac4fc33bc BY_NAME Hermes != Hermes Trismegistus
 cfdaf3ce-760f-4244-b40c-ef289c40e2e7 BY_NAME Dhu 'l-Nûn != Dhul-Nun al-Misri
 cffd19ce-e66c-4c45-a5b9-7ccb93161061 BY_NAME Hakuin != Hakuin Ekaku
@@ -5541,6 +5851,7 @@ d0ad9843-0950-4681-b43b-f146a784ffa4 BY_NAME Sister Consolata != Consolata Berto
 d0bb561a-9795-4d5a-a0a1-ac1259456f33 BY_NAME Eckhart != Meister Eckhart
 d0c03aac-7396-4ab7-8ff7-64c8e77df7b7 BY_NOMATCH Father Jerome Gratian
 d0c4343e-94e6-4098-957d-d8f4315844a4 BY_NAME Sri Ramana Maharshi != Ramana Maharshi
+d0dc7da4-d747-4974-8749-644e6e8f26bb BY_NAME Mohandas Gandhi != Mahatma Gandhi
 d0e12e45-1018-4367-b16c-4d83761403fa BY_NAME St Augustine != Augustine of Hippo
 d0f35026-ce85-498c-9244-f3e5f4d8a740 TITLE_SPELL Pont
 d0f35026-ce85-498c-9244-f3e5f4d8a740 TITLE_SPELL du
@@ -5557,8 +5868,10 @@ d175d124-5c44-4293-84a9-4d9c9068565a BY_MISSING
 d184d68b-8d2b-4af9-970c-7f00af9b21c0 BY_MISSING
 d195594d-5812-4844-a96c-a9f6279ec567 BY_NAME Sri Sankarâchârya != Adi Shankara
 d19bf996-2f82-4233-be29-f74c37246808 BY_NAME Shakespeare != William Shakespeare
+d1a120a0-800d-4af1-a904-510a694f9481 BY_NAME Nisargadatta != Nisargadatta Maharaj
 d1b6c033-62cd-4bb9-b2b1-77fc419ad3c3 BY_MISSING
 d1c84328-ef1f-415b-922f-667ceee355cb BY_MISSING
+d1cd17af-0594-4d2f-9399-90b743be594d BY_NAME Manhae != Han Yong-un
 d1dd4ecb-c577-4bbe-a32b-baeb27d042c0 BY_NAME Sri Ramakrishna != Ramakrishna
 d1eb07bb-3489-4bf5-9e46-8cdbbe22a97d BY_NAME Shakespeare != William Shakespeare
 d1f36fc1-87af-44e1-bba3-cd6e6e12f172 BY_MISSING
@@ -5577,6 +5890,7 @@ d2430928-0796-4541-ac59-a56d1464bf1c BY_NAME Eckhart != Meister Eckhart
 d24ae56c-50d9-4101-abd5-56b01866448a BY_NAME Tauler != Johannes Tauler
 d2549b5a-4738-4e5b-812d-4cb0d20c1c5e BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
 d25e0acb-9b13-4b36-b3be-b1253ac22ca2 BY_NAME Jâmî != Jami
+d2687914-b0b1-4a7f-b839-4414beb7e391 BY_NOMATCH Friedrich W. Nietzsche
 d28bf08f-3904-4085-b602-9963f1a451be BY_NAME Sri Ramana Maharshi != Ramana Maharshi
 d2942982-c318-42fe-9bba-1c8c0242028d BY_MISSING
 d2b2043b-e136-4170-9ddf-eb6105fe271c BY_MISSING
@@ -5592,11 +5906,13 @@ d30e024e-9df6-4a0c-9a44-b5a627c212c1 BY_NAME da184f92-f119-42ee-8e45-06ab31cd962
 d31463a9-1bce-4065-92a1-79be51e4de1e BY_NAME Henry Madathanas != Adrian von Mynsicht
 d3195529-41af-48e9-a212-fc46169d7041 BY_NAME Boehme != Böhme
 d3208841-1a07-4df4-b6f3-cb68df2bcbd5 BY_NAME Lao-tzu != Laozi
+d33e998a-300f-40ab-9c54-31a9da1fd729 BY_NOMATCH John Denham
 d34da29c-315f-4be4-ba9c-41588d8832b4 BY_MISSING
 d34ebc46-b1e0-4d93-9f54-089aa529c5e5 BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
 d3612f73-30a9-4efa-a602-a5c645138e15 BY_NAME Eckhart != Meister Eckhart
 d36c84b3-0ca3-4b45-ad49-242554da8e76 BY_MISSING
 d36e5765-7bac-40eb-bd63-4e70179f4147 BY_NAME Omar Khayyâm != Omar Khayyám
+d3810a85-63bc-4d10-8c59-995220ac74b6 BY_NAME Ralph W. Emerson != Ralph Waldo Emerson
 d382535e-7f8e-4dac-9d42-03c3f91f2644 BY_NAME St Alphonsus Liguori != Alphonsus Maria de Liguori
 d388a9a2-5d4c-47c6-a91d-3ee7ba11e518 BY_NAME Lao Tzu != Laozi
 d38b21e5-2c91-4f1f-b596-bd1c6415ff36 BY_NAME St Gregory of Sinai != Gregory of Sinai
@@ -5615,6 +5931,8 @@ d3d2f5dd-17f3-4272-a85d-99ab18d5c273 BY_NAME Tauler != Johannes Tauler
 d3e555fa-f9aa-4e3e-84e7-e8559720a79c BY_NAME Siddhartha Gautama != Gautama Buddha
 d3f5d2df-87f0-4cac-91bd-d252bd5a27c8 BY_NAME Philalethes != Henry More
 d3f7d8cf-ba22-4237-b0c2-509bda59526d BY_NAME Simplicius != Simplicius of Cilicia
+d3fff5e2-663c-49bb-889c-7fc6012258cb BY_NAME Manhae != Han Yong-un
+d3fff5e2-663c-49bb-889c-7fc6012258cb TITLE_SPELL Non'gae
 d415104f-431f-4139-a427-65cce53ab091 BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
 d4174fe7-baa1-4e37-953d-9c37354662b5 BY_MISSING
 d41c795c-eaa6-46d3-8c83-e018b4bd37c9 BY_NAME Lao Tzu != Laozi
@@ -5622,6 +5940,7 @@ d420f5be-0692-40f6-8d80-501294c25278 BY_NAME Robert Herrick != Robert Herrick (p
 d428cd11-8705-4889-9956-6b567aac27e2 BY_MISSING
 d4341014-f3ee-4828-a18e-f6bc61abd045 BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
 d43a98f7-681c-4866-bc4e-857baaaf1a5d BY_MISSING
+d43cc3a5-56bf-48d8-9330-9acbea3fd758 BY_NAME Ralph W. Trine != Ralph Waldo Trine
 d43cf4fc-a018-4882-8da7-0359edb9cc29 BY_MISSING
 d43d6dcc-d7ca-4878-95c1-3a52ca242063 BY_NAME St Augustine != Augustine of Hippo
 d448e3a8-aeb3-46f4-b96d-a2cf4dd60c0e BY_NAME Lao-tzu != Laozi
@@ -5644,10 +5963,12 @@ d5266b11-744f-4048-947a-fbaf3252c516 BY_MISSING
 d52cdb17-2c1d-4d04-afd3-bc883e3757ee BY_MISSING
 d541841f-d914-4d1a-83a3-0f8de89339a8 BY_NOMATCH John Sparrow
 d5434e0e-7114-4f02-b46b-1d331a3c1cb6 BY_MISSING
+d545151c-5998-4d60-a1ed-8ddb32733c99 BY_NOMATCH Lord Birket
 d54a3951-d5e5-421a-bd33-3098a1fd2339 BY_NAME Zhuang-Zi != Zhuang Zhou
 d56d893e-868b-4794-8f1c-b61d4112f41b BY_MISSING
 d573c413-1602-4ae0-a4fa-519e13162115 BY_NAME Ibn al-Fârid != Ibn al-Farid
 d57675a1-3045-4588-b172-277e8df39e66 BY_NOMATCH Samuel ben Kalonymus
+d585de41-a5a6-476a-9b3c-eb0aaddd16a7 BY_NOMATCH Thomas Bacon
 d5966f6e-2c64-41c3-aba8-4ca7ff37315a BY_MISSING
 d5ac0384-0e45-451e-b0e1-0b1d2b304343 BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
 d5ac0384-0e45-451e-b0e1-0b1d2b304343 TITLE_SPELL Quo
@@ -5684,6 +6005,8 @@ d68f6c12-6c1e-4251-9c80-294121d87bce BY_NAME Sri Ramana Maharshi != Ramana Mahar
 d6a70c44-9ac9-4164-b99b-44f4957b8ce6 BY_NAME Ananda Moyi != Anandamayi Ma
 d6a7e7da-3215-4f23-bb79-cad2cbb20d6a BY_MISSING
 d6b19946-8b63-482b-a5f1-2c98dd6f95d8 BY_NAME Lao Tzu != Laozi
+d6bc4eee-9001-46c2-8fbd-32edaf7dc647 BY_NOMATCH Joseph Hall
+d6cb1f38-9b9d-4a3b-b46e-e45a808f9dbe BY_NOMATCH Anonymous
 d6cd4e1d-fc80-457d-8471-1679a624f097 BY_NAME Eckhart != Meister Eckhart
 d6ce1aba-cd5d-4a17-a96c-97e86339e30f BY_MISSING
 d6d5c722-5d90-46b4-8ca5-4b2ac3769935 BY_NAME 'Attâr != Attar of Nishapur
@@ -5695,8 +6018,10 @@ d6ea2a67-514e-4e48-805f-8402e62dcf01 BY_NAME Lao-tzu != Laozi
 d70da06a-5b53-49ef-8424-5566cb184165 BY_NAME Ananda Moyi != Anandamayi Ma
 d71c314b-5e2e-42cf-9be4-946f4941d65b BY_MISSING
 d728e47b-83ec-4fed-8fdc-ac5647db5283 BY_MISSING
+d72a5525-3cce-4e2d-bb9b-f0832466b4dd BY_NOMATCH Anthony Shaftesbury
 d73a62df-b55b-4121-a3ef-d4ed7c8ddbda BY_NAME Swami Sivananda != Sivananda Saraswati
 d7416fa8-19b8-408a-b064-a644df22b1b8 BY_NAME Swami Sivananda != Sivananda Saraswati
+d747fc97-d2cd-4714-a4b7-575ef8fb9f92 BY_NOMATCH Edwin H. Chapin
 d74ac6d9-f7b4-4b73-a1f6-c0fa42fdfe5e BY_MISSING
 d758afbc-d608-44d8-9fb5-b53ca9229b6f BY_NAME Sri Ramakrishna != Ramakrishna
 d75d50a6-887b-457d-adea-0595cf6ca1ad BY_NAME Eckhart != Meister Eckhart
@@ -5714,15 +6039,19 @@ d7b53f44-ad32-41c8-af90-f498d0f70dd3 BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7c
 d7bb923f-3e8e-4fe6-bfdf-14f938b5c627 BY_MISSING
 d7bfeef5-5371-4b30-baad-7d2d12dffec8 BY_NAME Lao Tzu != Laozi
 d7c5e1dd-1f14-40af-a403-b154751766da BY_MISSING
+d7df4274-5a88-4326-a773-8d9a26daf526 BY_MISSING
 d7df89b8-60a2-4f86-bc34-d982eacebb67 BY_NAME Sri Ramana Maharshi != Ramana Maharshi
 d7fbf112-7acd-468c-8e23-d568e3196b9a BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
 d80add3c-0c81-4425-a83c-c45c4f7ded79 BY_MISSING
 d810eeeb-d98f-475e-abb0-531772f1acb9 BY_MISSING
+d8183b7e-545d-469e-a772-05b158da1b08 BY_MISSING
 d8213d90-bd14-485f-b0b9-3050226fb908 BY_NAME Rûmî != Rumi
 d82a5b8a-e5bc-4431-a526-ada809f0524d BY_MISSING
 d82baf06-19b7-4f6c-a06a-e06cacb39108 BY_NAME Ibn al-Fârid != Ibn al-Farid
 d83395a0-865d-4996-aa20-20571e6a332f BY_MISSING
+d83e03ee-05fd-4dca-b428-ab0440b77c1b BY_NOMATCH William Winter
 d841384e-87d2-4711-aa3d-c0bc0e2c0a47 BY_NAME Lao-tzu != Laozi
+d84f98cc-5058-4f0a-97f2-02f17cd7f8c5 BY_NAME Manhae != Han Yong-un
 d8504d59-25be-43f4-a1bc-9cfd9bdb7d6e BY_NAME Hônen != Hōnen
 d86b1114-9b67-4b5d-b620-1e0a88e1056e BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
 d879ff57-4e4b-4790-8718-b53429d2eed8 BY_MISSING
@@ -5734,11 +6063,14 @@ d8c0a6f2-46d9-49c3-bd1e-258e16bb734a BY_NAME Eckhart != Meister Eckhart
 d8c126a3-1c99-4f50-82d2-0c0fa94416c4 BY_NAME Rûmi != Rumi
 d8ec2a3a-3d5e-4774-9ace-721de51dc6e3 BY_NAME Hujwiri != Ali Hujwiri
 d8ecd184-4742-4744-b6f8-44231763c35e BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
+d90655e1-d715-4907-8c4f-f3daf4a8323d BY_NAME Oliver W. Holmes != Oliver Wendell Holmes
 d90e06e8-0cb1-4d27-b0c4-d24b6231086e BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
 d91bb293-2684-4a3f-ace3-779a4f95996b BY_NAME Hujwiri != Ali Hujwiri
+d92cf875-d35b-41c2-98f8-5b0e8c882712 BY_NAME Wang Yang Ming != Wang Yangming
 d92d879a-a309-462a-8dcf-61268a90181c BY_MISSING
 d9339368-f96d-4661-8857-241d17090c96 BY_MISSING
 d93c2a6e-27a8-461a-8977-bd1b16edf914 BY_NAME Shakespeare != William Shakespeare
+d9463877-be3f-4045-b17a-f0b68041bf8e BY_NAME Michel Montaigne != Michel de Montaigne
 d9572fcb-b6a8-403f-a889-c7403ce2ec61 BY_NAME Ananda Moyi != Anandamayi Ma
 d95f64fc-d12a-4bac-8e5c-a63ab851f426 BY_MISSING
 d96c228e-50d4-4963-9a68-efafaff8dac3 BY_NAME Po Chu-i != Bai Juyi
@@ -5749,6 +6081,7 @@ d990e805-ff21-4e26-a4d6-fa0acb4db194 BY_NAME Ibn 'Atâ'illâh != Ibn Ata Allah
 d993885d-5d8f-406d-a8be-4a9b0bb241db BY_MISSING
 d99438b4-eb70-4689-9a5f-d7c750696cef BY_NAME Huai Nan Tzû != Huainanzi
 d9977cd5-4f75-4e65-9639-39efc76189c8 BY_MISSING
+d9a36ccc-c095-4b5a-86f4-1cc1a23b68b5 BY_NOMATCH Tripura Rahasya
 d9a9721c-e3f7-4cf7-a9e1-bbc6769803a9 BY_MISSING
 d9d57e44-2a90-4d6f-b67d-5637a0aa1517 BY_NAME St Catherine of Siena != Catherine of Siena
 d9d5e3b1-ed46-47c6-bbc7-c97a068e9193 BY_MISSING
@@ -5763,13 +6096,14 @@ da1421ab-6ae7-4375-a9ba-1c3c17c4c546 BY_NAME Ananda Moyi != Anandamayi Ma
 da185e1a-889e-44a0-9ea5-db0ad92377bb BY_NAME Swami Sivananda != Sivananda Saraswati
 da26f3d5-850b-4636-bb0e-2c9ac0a2184d BY_MISSING
 da31b526-9b35-4a7a-a64f-0ea31727411f BY_NOMATCH Yahyâ b. Mu'àdh al-Râzi
+da3f5bb4-6965-4688-abd2-11fbf0150c91 BY_NAME Georg C. Lichtenberg != Georg Christoph Lichtenberg
 da404ca4-264d-4703-9909-f6a55ed78f52 BY_NAME Richard of Saint-Victor != Richard of Saint Victor
-da4ac834-29d4-477f-8c13-498edd7fa1de BY_NAME Manhae != Han Yong-un
 da519d7d-510a-488a-976d-e05cb9fe12a8 BY_NAME Sri Ramana Maharshi != Ramana Maharshi
 da636cbb-137e-4f3f-9fbb-fb7d0de14f6d BY_NAME Tauler != Johannes Tauler
 da6b494f-7163-4275-a7cc-5215c564289d BY_MISSING
 da6babe1-f1a4-430c-8d59-16b184fbb293 BY_MISSING
 da78dce2-b338-4a01-81c0-e70a7984215a BY_NAME St Augustine != Augustine of Hippo
+da7f45c6-479d-4828-97ca-0ada3d47d547 BY_NAME Elbert Hubbard != Elbert Green Hubbard
 da89d691-a8ff-46eb-b474-8483abbbb810 BY_NAME Ibn al-'Arif != Ibn al-Arif
 daa32c01-28c0-4dcf-a180-9ec5020e811a BY_NAME Swami Sivananda != Sivananda Saraswati
 daa800bf-7593-4513-b8e1-26919f15cf80 BY_MISSING
@@ -5817,6 +6151,7 @@ dc5a0516-c46b-4e4e-931c-e123c6fea1ee BY_NAME Swami Sivananda != Sivananda Sarasw
 dc70a646-af16-4ebb-8b1b-b9b4e952f9ec BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
 dc7bda43-f805-4aac-8fd2-53216fb5ca2f BY_NAME St Augustine != Augustine of Hippo
 dc7c82c7-58fd-4b06-beee-be0a57e2db41 BY_NAME da184f92-f119-42ee-8e45-06ab31cd9624 != Thomas Merton
+dc84bc74-4898-4ff9-9da2-b532723826b3 BY_NOMATCH Jean La Bruyere
 dca32f23-375d-4045-be8b-50a931f3ba08 BY_MISSING
 dca4fb04-2ad6-4799-b8fd-6e0c3ded8254 BY_MISSING
 dcaf8949-8f1e-4779-b906-b7768ee4733c BY_NAME Rûmi != Rumi
@@ -5853,6 +6188,7 @@ dd9a47c0-5da7-42f6-822f-bfb3a3d09008 BY_NAME Attar != Attar of Nishapur
 dd9d343a-2bcf-4e68-af14-3d84c234dc60 BY_MISSING
 dda3ed62-f3f0-4ae7-8ef5-fdd480e90d85 BY_NAME Dante != Dante Alighieri
 dda9206c-1c97-482f-ada1-7fa3e9f3112e BY_MISSING
+ddad52e6-a271-4031-b4ae-87806cbaff2e BY_NAME Soren Kierkegaard != Søren Kierkegaard
 ddaec714-2d2b-438f-9330-605bad027031 BY_MISSING
 ddbc7ab6-cc43-49be-b664-11fb8922d684 BY_MISSING
 ddbfdd47-e187-467d-b39f-237b5d0523a4 BY_NAME Hâfiz != Hafez
@@ -5891,7 +6227,6 @@ deaed49a-77ec-4824-a39f-1c76fae07cb7 BY_NAME St Gregory of Sinai != Gregory of S
 deb120d4-1c0d-44d8-b36f-087454295fc4 BY_NAME Lao Tzu != Laozi
 deb120d4-1c0d-44d8-b36f-087454295fc4 TITLE_SPELL Unimportance
 deb26093-3ac4-4559-9ac0-27c26ad4d3dd BY_NAME Sextus the Pythagorean != Quintus Sextius
-deb977bb-637d-4996-8c95-402c24a7cff0 BY_NAME Manhae != Han Yong-un
 deba67b9-b0aa-425c-8398-2c54b767043b BY_NAME Lao Tzu != Laozi
 dec14cab-bb6f-446c-87b1-f464e22f190a BY_NAME Lao Tzu != Laozi
 decc0659-80ee-4484-b309-e142432f6fca BY_MISSING
@@ -5910,6 +6245,7 @@ df57523f-54b5-41bf-84ff-b3be15e5a8f5 BY_NAME Robert Herrick != Robert Herrick (p
 df607111-94c4-485b-b848-7bba47c93f67 BY_NAME Eckhart != Meister Eckhart
 df68be0c-bf43-406e-a429-a8db6504ace7 BY_MISSING
 df6f4f6b-4718-440b-8fed-803822e6d799 BY_MISSING
+df72cfb3-0335-41df-946b-3610dea963f0 BY_NOMATCH John K. Lavater
 df764d48-e1e4-4dbf-98d8-ed9b399805f6 BY_NAME St Francis de Sales != Francis de Sales
 df839e77-92d3-43a4-8ea1-ca5efd1f20a8 BY_MISSING
 df846ea1-306d-486e-a031-db0e96d98227 BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
@@ -5922,6 +6258,7 @@ dfbc13ed-d012-4773-8195-c5c68fde7a84 BY_NAME Sri Sankarâchârya != Adi Shankara
 dfbdea55-0f0d-414c-ad9b-030f9ba3e57d BY_MISSING
 dfca354c-cba0-42b7-b136-929fe29fee23 BY_MISSING
 dfcd6744-e133-481a-a39e-5ab9d4ccc932 BY_MISSING
+dfd46452-f38e-4dbf-9870-8d2bc166f12b BY_NAME Papa Ramdas != Swami Ramdas
 dfd539f5-6fd1-4280-a5d2-bdc914f197b2 BY_NAME Shabistari != Shabestari
 dfd90242-ba72-49ce-96aa-abac72785f09 BY_NAME Robert Herrick != Robert Herrick (poet)
 dfeda355-5f53-47cb-a7d8-22a744e49043 BY_NAME Eckhart != Meister Eckhart
@@ -5932,8 +6269,11 @@ e012675f-7af4-4ee8-a36a-13749ae15b80 BY_MISSING
 e016f78d-a7ef-4cea-ac7e-db418bf3a3e4 BY_NAME Michael Sendivogius != Sendivogius
 e01a853e-69ce-444e-a710-ca597c1fcc90 BY_MISSING
 e0239591-69b1-4b6d-a37a-838f9c36635b BY_NOMATCH Abraham Lambspring
+e033c669-5989-4ec4-874b-265379efc55b BY_NAME Manhae != Han Yong-un
 e037250f-ae15-49e0-b95c-87903f9505b8 BY_NAME Hermes != Hermes Trismegistus
+e05727d1-dff6-497b-91b8-ede209d6532f BY_MISSING
 e070d86d-94b4-45db-9986-147a2828f308 BY_NAME Hermes != Hermes Trismegistus
+e07ef0a6-b12a-4ba5-87c4-0fd002cf6aac BY_NAME Nisargadatta != Nisargadatta Maharaj
 e07f2b9c-9b49-46ce-8a62-801649cf744f BY_NAME Hermes != Hermes Trismegistus
 e08d3d4e-6e0c-4fec-bd58-ee2d12a2698f BY_MISSING
 e0935921-ee86-46e8-8e14-c7bfbd62390e BY_MISSING
@@ -5943,6 +6283,7 @@ e0a4815b-666e-4c51-a848-92a5d2d624d1 BY_NAME St Louis de Montfort != Louis de Mo
 e0a8953f-8915-4485-a269-c99738489bdc BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
 e0b06dea-44a9-409b-b34f-f79176883553 BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
 e0c6b0cc-7181-40d8-b2df-0fd9f3c09918 BY_MISSING
+e0c89c3a-f81e-46d2-8824-5d7082239e07 BY_NOMATCH Jean B. Moliere
 e0ca6011-1d61-4147-812b-50d21f6a60c4 BY_NAME Philalethes != Henry More
 e0e1868c-3048-4912-a1ad-bb90df12dd49 BY_NAME Sri Ramakrishna != Ramakrishna
 e0f55919-0405-4240-a17b-15562f95291d BY_NAME Hadewijch of Antwerp != Hadewijch
@@ -5998,6 +6339,7 @@ e2d64127-7529-4c59-b657-550b963f6426 BY_MISSING
 e2e770b3-b139-49c3-bd5b-c7eea93d0778 BY_MISSING
 e2e8cc16-ad58-4af1-8cbd-aa0f549380c0 BY_NAME Buddha != Gautama Buddha
 e30a034c-a224-424e-af87-f6df4b445c0b BY_NAME Shabistari != Shabestari
+e30e3471-b66f-4f79-b7ed-aba2be5ac29b BY_NAME Solomon Ibn Gabirol != Solomon ibn Gabirol
 e317bc92-6637-48d0-b1ee-1f57d7676301 BY_MISSING
 e31972d9-b5f9-4ea2-8a10-5a7dcb6514e9 BY_MISSING
 e3233683-558b-4e5e-a260-0e3ffbeca52d BY_NAME Philalethes != Henry More
@@ -6011,6 +6353,7 @@ e34e50c1-ba39-4efb-b877-a76e820a2c69 BY_NAME Lao Tzu != Laozi
 e350708e-64be-4259-913e-96afa9577114 BY_NAME Eckhart != Meister Eckhart
 e370b9a7-b6a5-494f-ae2c-5c29c71a574c BY_MISSING
 e37b86c7-fdbe-42e8-b8d3-0b9adee77284 BY_NAME Tulsî Dâs != Tulsidas
+e37bcdcb-c207-418b-b0e0-1efe3e230def BY_NAME Anne Bronte != Anne Brontë
 e391f130-a14e-464f-9294-088dc69b205f BY_NAME Swami Sivananda != Sivananda Saraswati
 e3946754-15ed-462b-baa9-af95e59305a6 BY_NAME Sânti-deva != Shantideva
 e3a20e66-bf14-44bc-9e31-7b3727cb71a2 BY_NOMATCH Chang Ch'ao
@@ -6018,6 +6361,7 @@ e3c333d7-8362-4409-aea2-67a2ad51e106 BY_NAME Hujwiri != Ali Hujwiri
 e3c47274-a483-4563-8780-1a06684cd443 BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
 e3c499cb-71c4-4d45-bc5b-f7a11f2f9539 BY_NAME St Gregory of Sinai != Gregory of Sinai
 e3cf42a6-d0d8-43c4-974f-0df3c2e6620d BY_NAME Hesychios != Hesychius
+e3ddc123-b4e3-4db5-8b22-082c6b8bb14e BY_NOMATCH Claudianus
 e3df9529-721a-466d-98b4-a98a77890e5f BY_NAME 60af07b4-02b0-4784-89ba-048a2963574b != The Cranberries
 e3e1665e-41fd-4a67-a26a-efd83fcb5a22 BY_MISSING
 e3f1ece0-6877-4683-83fc-435c010080af BY_NAME Rûmi != Rumi
@@ -6025,6 +6369,7 @@ e4049640-2944-4e13-beef-c8dfcee2996b BY_MISSING
 e426aa2b-aaca-4f28-a22a-22d28cea9017 BY_NAME Eckhart != Meister Eckhart
 e429b24b-6da0-4675-8919-1ef997147efc BY_MISSING
 e42f8ddc-a19b-413e-9b88-0e06fa9a0ea1 BY_NAME Dante != Dante Alighieri
+e42fc0c1-4441-4d27-80c4-fe64e7f65772 BY_NOMATCH Joseph M. Wade
 e447d587-fc39-45ef-9afd-56aad89247c2 BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
 e4629413-b44c-484f-99b4-67ac96b608e5 BY_NAME St Francis de Sales != Francis de Sales
 e46ce5e0-39ac-4eec-8468-2f5e4d8c2f56 BY_NAME Rûmi != Rumi
@@ -6043,6 +6388,7 @@ e4ea54e7-72bb-43b1-a6e9-ff131d1ca6b7 BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7c
 e4f0600a-f9bc-47e2-8781-abbf8915d745 BY_NAME Ibn 'Atâ'illâh != Ibn Ata Allah
 e4f15a94-9830-4a4e-b1ad-e2a60f45f718 BY_NAME Hermes != Hermes Trismegistus
 e4f6cdb4-19ca-4e4c-8b7d-c288afd17ee5 BY_NAME Eckhart != Meister Eckhart
+e4faf962-b440-4893-a45b-f2e96de7ce51 BY_NOMATCH Charles C. Colton
 e4fe83c7-902a-4e3c-a28e-a1de68aaeb2a BY_MISSING
 e501ce44-a255-41f9-a7f3-73e6b84bc307 BY_NAME Hermes != Hermes Trismegistus
 e50af1d0-497d-46fa-b9c7-46533949dd01 BY_MISSING
@@ -6088,6 +6434,7 @@ e6500c3e-38c4-4aae-a801-0f40b4ed010c BY_MISSING
 e6513078-ca29-434e-abcb-dda4132ed79c BY_NAME Huang Po != Huangbo Xiyun
 e664566e-7e34-4f0b-af8e-eb23be32534d TITLE_SPELL Celestials
 e66b167a-6707-49f8-9938-5bff2d9862e0 BY_NAME Boehme != Böhme
+e66b4d5e-ffbb-4140-b24c-63ef23c11762 BY_NAME Michel Montaigne != Michel de Montaigne
 e66bdf76-f0a5-45e4-b656-eed5e17ac00c BY_NAME Bâyazîd al-Bistâmî != Bayazid Bastami
 e680691b-6517-45e1-abc0-809afc5b8123 BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
 e694bb0e-42a0-4136-bce4-bc8718e6d234 BY_MISSING
@@ -6118,6 +6465,7 @@ e79a7cb9-bfc1-4bd0-ba32-c3fb79ed3095 BY_NAME 0200c883-e38f-4554-92bc-2eba913426b
 e7a0f931-e42a-4a44-a940-284ceec8e163 BY_NAME Hermes != Hermes Trismegistus
 e7a262dc-cf83-43b7-8f84-41431f453ff0 BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
 e7a489f0-bb43-43e4-94c5-e36c06a9e63f BY_NAME Sri Ramakrishna != Ramakrishna
+e7a4db03-b5d0-4686-ab77-85d4e2eb589e BY_NOMATCH Thurman Fleet
 e7c93845-cf51-4643-a2e0-959c605bf355 BY_NAME Hermes != Hermes Trismegistus
 e7caea29-d378-4e2d-a25a-8ead1bd52679 BY_NAME Lao-tzu != Laozi
 e7d302a8-e8fb-496f-8743-44599e141032 BY_MISSING
@@ -6159,8 +6507,10 @@ e905ff56-6692-4af5-a3e4-752323a1a3f9 BY_NAME 0200c883-e38f-4554-92bc-2eba913426b
 e90b276c-2019-4865-b665-ed85f24b9c23 BY_NAME Eckhart != Meister Eckhart
 e9109b4b-a4f0-4cdd-b7ec-34c0212caad9 BY_NAME Boehme != Böhme
 e916916d-c273-42d1-ab2b-4631bf82c2f9 BY_NAME Ohiyesa != Charles Eastman
+e9191115-0171-48fe-8cd7-eb38ffe1aec9 BY_NAME Sivananda != Sivananda Saraswati
 e91f7a9f-68f9-46d4-983a-c1f23fa25b84 BY_NAME Eckhart != Meister Eckhart
 e93186cd-8b5b-47c1-bdd8-ff95c7587ddb BY_NAME Michael Sendivogius != Sendivogius
+e936dda7-bc5a-45a2-8af9-0891f9d63f17 BY_NAME Shantidasa != Shantidas Ashikari
 e93e22b3-cfaa-4429-bb52-ae0a52d113cb BY_NAME 'Ali != Ali
 e9427938-61fa-4645-a514-e4f5b3e47915 BY_NAME Al-Ghazâlî != Al-Ghazali
 e9458d8f-0b7b-443a-8a15-0512d78b3344 BY_NAME Sri Ramana Maharshi != Ramana Maharshi
@@ -6182,15 +6532,18 @@ e9dbe734-00c4-4a5c-b00c-a52b50ce06cf BY_MISSING
 e9e1ab8b-0989-4d95-a23c-8a146292eba6 BY_NAME Swami Sivananda != Sivananda Saraswati
 e9e7d531-d7ef-4e99-9df1-11ad67dee58a BY_MISSING
 e9e7dec2-e262-4071-a0d6-970b119778dd BY_NOMATCH John A Mehung
+e9ea1253-d48c-41e3-b363-b253760cd7f5 BY_NAME Mohandas Gandhi != Mahatma Gandhi
 e9ead0cd-e201-4d2b-8d55-798b36a56eb2 BY_NAME Lao Tzu != Laozi
 e9f0cf1a-ca3e-45dd-bd62-1df01da1db79 BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
 e9f21531-62c8-4163-a5cc-1e8ccde75446 BY_NAME Lao Tzu != Laozi
 e9f42fae-6665-443c-8d92-57f8b22794ae BY_MISSING
+e9f5099b-ad1b-4ad1-8797-9af4a5e81e6c BY_NOMATCH Richard E. Burton
 e9f581b2-ef95-428d-a5dd-0bcc6980eb4e BY_MISSING
 e9fc1669-493e-4aa3-976a-3571e842c8a0 BY_NAME Robert Herrick != Robert Herrick (poet)
 ea0142a5-731b-46b7-8a51-250df3201106 BY_MISSING
 ea04ec4e-6116-4391-8dce-312917ab5049 BY_MISSING
 ea0bc7ae-711d-4996-af1c-cea28800b444 BY_MISSING
+ea225aea-af29-48e8-b3eb-a39cc48a690e BY_NAME Olympia Morata != Olympia Fulvia Morata
 ea233be4-ca8b-4e8c-8a38-c1473afd6371 BY_NAME Padma-Sambhava != Padmasambhava
 ea2a13fb-9fc7-437e-965f-812593e68c65 BY_NAME St Louis de Montfort != Louis de Montfort
 ea2ad9af-81e7-4733-b12c-79f8c1eb5784 BY_NAME Sri Chandrasekhara Bhârati Swâmigal != Chandrashekarendra Saraswati
@@ -6211,6 +6564,7 @@ ea708370-bac1-499f-9c57-d4e22950b870 BY_NAME Hujwiri != Ali Hujwiri
 ea76973e-3143-4c57-960c-63f7e361e4e9 BY_MISSING
 ea7e348a-cca8-4a47-a17c-e99c7b5ba89c BY_NAME Boehme != Böhme
 ea818d30-a99c-4078-8cc7-83ca5985d0bb BY_MISSING
+ea842847-7c70-47ff-908c-d89668276c53 BY_NAME Oliver W. Holmes != Oliver Wendell Holmes
 ea96db87-f15f-4ee1-bb73-e605ed6eaa4b BY_MISSING
 ea9cd799-db79-4f85-ad91-ce113857edf6 BY_MISSING
 eaa5b7ba-a8f3-4de2-8947-00d6d4855966 BY_MISSING
@@ -6258,6 +6612,7 @@ ebcf98b8-0ab6-4239-967c-1e0ae4b90cfc BY_MISSING
 ebd09bdc-8f99-448f-9c0f-3229bb868b77 BY_NAME Swami Sivananda != Sivananda Saraswati
 ebd41a68-b92b-4651-a729-7ba3f757d8fe BY_MISSING
 ebfab92d-1545-453f-8f75-20e51fed25f0 BY_NAME Huang Po != Huangbo Xiyun
+ec0473c2-b5c8-47f5-9fd6-54cc8e3572a1 BY_NOMATCH Edwin C. Bliss
 ec0cf88a-c670-48be-80ec-eeae6bed3bff BY_MISSING
 ec11d628-4d1d-4087-a50d-1635b3787608 BY_NAME Philalethes != Henry More
 ec142117-a8d1-4882-b6d7-2e9ec65296ea BY_MISSING
@@ -6272,6 +6627,7 @@ ec667892-889a-4568-8e1f-e3747f5ea79a BY_MISSING
 ec69c1ed-510f-4947-8257-9133717326a1 BY_MISSING
 ec81f164-a158-4275-8e06-f0fa15f482f6 BY_MISSING
 ec8a1112-b713-45ed-93c2-4536d676a0dc BY_NAME Sri Ramana Maharshi != Ramana Maharshi
+ec8d293b-21fe-47bf-9b03-a2f07f5fbb60 BY_NAME Lady Blessington != Marguerite Gardiner, Countess of Blessington
 ec8e0c7f-372e-4664-b5d9-224f6ec76f10 BY_MISSING
 ec94c00d-6845-4b42-acef-f38b48f44e81 BY_MISSING
 ecac2d2f-9157-48b7-8025-cb3020ec2cec BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
@@ -6308,6 +6664,7 @@ edb17410-195a-4d43-9650-68b3bc2545c2 BY_MISSING
 edb64cee-59b5-47ca-956d-feccb697ee0b BY_NAME Ibn 'Atâ'illâh != Ibn Ata Allah
 edb951cb-80b2-4fa9-afac-627d353169b6 BY_NAME Eckhart != Meister Eckhart
 edbdce32-becc-42b3-9bb2-0f765eb0d017 BY_NAME Hermes != Hermes Trismegistus
+edc123ec-14a6-4c2c-a63c-99237320b8e3 BY_NAME Ralph W. Emerson != Ralph Waldo Emerson
 edd8005c-7357-4153-93d5-03afe5521f33 BY_NAME Rûmî != Rumi
 edd8903b-b11c-4c40-850c-749971d3c3fd BY_NOMATCH Anangavajra
 edd9577d-4de4-413e-b67d-e584eddded67 BY_MISSING
@@ -6323,6 +6680,7 @@ ee37044f-cc0b-4666-aa76-e9fd83babea4 BY_MISSING
 ee370b62-292f-430d-872a-16fb73d08ae3 BY_NAME Swami Sivananda != Sivananda Saraswati
 ee373b01-16e8-40db-ab7e-e7da37e27f91 BY_MISSING
 ee4bc03d-d7a5-4ccf-98b0-d94daf076fd3 BY_NOMATCH Maggid of Merzeritch
+ee4d1e97-4d1b-4a2b-808f-d2f77223cb8e BY_NAME Manhae != Han Yong-un
 ee4ff90f-474c-47b6-9c91-0fa47b3fdd86 BY_NAME Abû Tâlib al-Makkî != Abu Talib al-Makki
 ee633d18-06dc-4bd7-bdb2-7792f0c3acdc BY_NAME Chang Po-tuan != Zhang Boduan
 ee681730-0c00-4df8-b8dc-5624183845f2 BY_NAME Sri Ramana Maharshi != Ramana Maharshi
@@ -6354,6 +6712,7 @@ ef676578-a03f-4e3d-8eba-ae46f52b1a63 BY_NAME Sister Consolata != Consolata Berto
 ef7fae72-ef60-4790-8284-c8f6c22916ef BY_NAME John Smith the Platonist != John Smith (Platonist)
 ef821c0b-df82-41c2-a451-b428b0f1d235 BY_NAME St Bernard != Saint Bernard
 ef84298b-0f43-4e94-9b72-f1090f031359 BY_MISSING
+ef8d4caa-1552-4581-9430-518392fea046 BY_NAME Manhae != Han Yong-un
 ef907ca5-2747-48bf-a052-9429deebf828 BY_NAME Eckhart != Meister Eckhart
 efa7d359-fd08-4db4-81c4-b6866d586729 BY_NAME Ananda Moyi != Anandamayi Ma
 efb2e0f1-6d16-4702-bb34-26585dc869ec BY_MISSING
@@ -6390,6 +6749,7 @@ f0cae0d3-8c95-4d38-b257-60eaf36772f8 BY_NAME 0200c883-e38f-4554-92bc-2eba913426b
 f0d5b986-5786-455e-91da-c1313eb9043f BY_NAME Hônen != Hōnen
 f0d77e23-04f3-47b8-828d-d5af7424ad23 BY_NOMATCH Jesaias Rompler von Lôwenhalt
 f0f02cc9-d8eb-4bad-95ec-15a0212131e4 TITLE_SPELL Riprap
+f0fc7cb4-ce5e-43e2-8508-dbbd95a0c185 BY_NAME Albertano of Brescia != Albertanus of Brescia
 f0fe14bb-794f-4f1f-a7f3-1fbd6dd6e5a5 BY_NAME Abu 'l-Husayn al-Nùrî != Saint Nuri
 f106d251-3417-4937-95c6-8187c2ec3b49 BY_NAME da184f92-f119-42ee-8e45-06ab31cd9624 != Thomas Merton
 f10e94a8-be61-439a-b022-09f538214248 BY_MISSING
@@ -6421,6 +6781,7 @@ f2013119-82f7-465a-b21b-2963360cea2a BY_MISSING
 f2184151-8435-49f9-9de4-02caa81f8322 BY_NAME Al-Ghazâlî != Al-Ghazali
 f219e171-9c82-47be-877f-2e465b2919b4 BY_MISSING
 f22c4173-7a21-4150-b98b-bf6beed0cbf0 BY_NOMATCH Kwaisen
+f23a0034-3cab-480b-949c-9534b2f7aa37 BY_NOMATCH Henry S. Hawkins
 f24746c1-4a28-4488-9c3f-5e07a21f0f0d BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
 f24db91a-bbe0-4537-8ce9-ca881193f6cb BY_MISSING
 f272bb25-5a40-43e4-96ba-412923c0eb14 BY_NAME Hermes != Hermes Trismegistus
@@ -6455,6 +6816,7 @@ f33e8568-ffc5-49ab-9f6a-657e074717bd BY_NAME Eckhart != Meister Eckhart
 f3432676-032b-4842-bfd1-2fee4228ed96 BY_MISSING
 f3525ca5-2ddd-4789-afac-361ca2dd3204 BY_NAME Eckhart != Meister Eckhart
 f378e43e-41ed-4eff-9ed5-f81e48501086 BY_NAME Henry Madathanas != Adrian von Mynsicht
+f37ee96f-77ca-4df0-b0c1-a236bac4090b BY_MISSING
 f382d38a-9ff0-4ae1-a8b0-5948b446fd42 BY_MISSING
 f3902d27-7039-48be-9276-1d2ba4decc13 BY_NAME Rûmi != Rumi
 f394b66f-7a46-4d39-bdf2-58c792180341 BY_MISSING
@@ -6466,6 +6828,7 @@ f3d19dc7-d604-4146-8c54-6bc7984ebfbd BY_NOMATCH Marpa
 f3d48886-804a-4e9e-868d-f5fdd9ffae5a BY_NAME 'Ali != Ali
 f3da6817-9f98-4da1-b151-b4d2f6151959 BY_MISSING
 f3debfdb-201c-409a-99fa-26ec485e1a28 BY_NAME St Catherine of Siena != Catherine of Siena
+f3e551e8-e5e8-44f5-9745-45b462ef2155 BY_NAME Manhae != Han Yong-un
 f3eb8743-204a-4dfb-add9-8ab874e1b36d BY_NAME Rûmî != Rumi
 f3ebaa3b-9fd0-47fe-98a1-c5173b9ba2bc BY_MISSING
 f4052821-9c1f-4f25-a79d-c98f735d3f29 BY_MISSING
@@ -6527,6 +6890,7 @@ f6325a22-ed5f-4d7f-ae9c-61f175585f29 BY_NAME 0200c883-e38f-4554-92bc-2eba913426b
 f6401ed6-623e-428e-8cab-4743a45e7a22 BY_NAME St Augustine != Augustine of Hippo
 f65b9774-c2f5-446e-9ad6-9ba2f0527fc8 BY_NAME Shakespeare != William Shakespeare
 f6601cec-7ed2-4cb7-97be-7d758cd74482 BY_NAME Seng-ts'an != Jianzhi Sengcan
+f6618f2c-713d-4841-a285-d74e42306385 BY_NAME Sivananda != Sivananda Saraswati
 f673eed8-830d-4c1d-aeaf-a7d83f2a9395 BY_MISSING
 f6752295-2e82-46fe-921c-0241f14f6322 BY_MISSING
 f67705ce-a4b1-4157-9624-ed7ea8873829 BY_MISSING
@@ -6535,8 +6899,10 @@ f67f0bb5-913c-4332-8b69-4c3f4081ba78 BY_NOMATCH Yamei
 f685252c-fdb2-47b3-9f72-fba1d68d2242 BY_NAME Al-Suhrawardi != Abu al-Najib Suhrawardi
 f693329a-3314-4e66-9ffc-e193c58ea44f BY_NAME Dionysius != Dionysius the Areopagite
 f69ff6b0-955a-4d4d-b0e0-b9bbee05465d BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
+f6a773d0-c3b8-4c12-b4e8-cc0cdca58078 BY_NOMATCH Charles C. Colton
 f6ab296a-aac8-4953-b2f8-c129793894aa BY_NAME Sextus the Pythagorean != Quintus Sextius
 f6b1466f-b3d6-405e-880e-2bd0261f2ea8 BY_MISSING
+f6b9cbc3-7d3f-472a-a8b1-df5bc720072d BY_NOMATCH Panchatantra
 f6d04eb8-8e2d-4cf5-952e-b67db67f185c BY_NAME Boehme != Böhme
 f6da3110-99f7-44cd-8b61-8d523b67d5bd BY_NAME Sextus the Pythagorean != Quintus Sextius
 f6e3740c-132e-413b-9023-da06065d3a9c BY_NAME Michael Sendivogius != Sendivogius
@@ -6563,6 +6929,7 @@ f7f3583a-5422-410f-a6a7-0cd0001f259b BY_NAME Sânti-deva != Shantideva
 f7f48d29-e31a-436c-8492-5e7d2e52c463 BY_MISSING
 f7fe373b-4f1c-4f33-8958-74110adc693b BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
 f802c472-a900-43b9-b3bb-dcbff734613b BY_MISSING
+f805ac99-779e-4a89-923e-f3eb60d19f2a BY_NAME Henry T. Hamblin != Henry Thomas Hamblin
 f81ba8d4-4905-4b44-9607-bd9165ef132a BY_MISSING
 f8221f37-e198-4c6c-8d7f-efe805675b54 BY_NAME St Bonaventura != Bonaventure
 f822b00c-d70f-40a8-8d62-7235bdf75a76 BY_NAME Robert Herrick != Robert Herrick (poet)
@@ -6579,6 +6946,7 @@ f884bc7f-da6c-4ffd-b22a-993a63c0ef30 BY_NAME Hermes != Hermes Trismegistus
 f885eed5-f2b2-43ff-b960-1241b23c541d BY_NAME Theresa of Avila != Teresa of Ávila
 f89296e6-7181-467f-b426-db21914a311d BY_NAME Jelaluddin Rumi != Rumi
 f898ca69-8afb-4473-83a4-2d6fa14a75c5 BY_NAME Ohiyesa != Charles Eastman
+f8a60ea2-a269-4ece-9c76-5c38e54af53d BY_NAME Nisargadatta != Nisargadatta Maharaj
 f8a72376-a58a-4d8e-ba74-16f00bb6db46 BY_NAME St John of the Cross != John of the Cross
 f8b0be04-21d6-4365-be3a-78cfbb9417bf BY_MISSING
 f8bc2d92-1a54-4181-b9a1-f2b11cf6f8b0 BY_MISSING
@@ -6607,9 +6975,12 @@ f9857735-b88b-42f9-bf38-19e473eaf5f7 BY_NAME Ibn 'Arabi != Ibn ul-Arabi
 f98f676c-30cd-4f91-83d7-18daba5b2070 BY_MISSING
 f994006c-f0bd-428c-a394-ccae53a74e9f BY_MISSING
 f99a28ff-9e7b-4381-a431-cd8eaa496045 BY_NAME Richard of Saint-Victor != Richard of Saint Victor
+f99d69e3-7fb9-4f4a-96f1-7952ba213341 BY_NAME Napoleon Bonaparte != Napoleon
 f9a2f637-43c3-4814-a2c9-c46a22dd8817 BY_NAME Eckhart != Meister Eckhart
+f9a57913-3592-4c2b-a73c-0c31849d5a6a BY_NAME Papa Ramdas != Swami Ramdas
 f9a9490f-c9c8-4213-a55e-28ada2767972 BY_NAME Dionysius != Dionysius the Areopagite
 f9d27b74-c39d-4a39-a028-3994d4180b8d BY_NAME da184f92-f119-42ee-8e45-06ab31cd9624 != Thomas Merton
+f9d7e367-b433-486a-80fe-df53326f83f6 BY_MISSING
 f9f260d6-b685-483c-97ab-32662a87d8e9 BY_MISSING
 f9f38e2b-6535-44cc-a29e-8fe64690f41d BY_MISSING
 f9fb054c-aa62-42f2-a036-77babf3e058f BY_NAME Sister Consolata != Consolata Bertone
@@ -6630,11 +7001,11 @@ fa616282-b93f-4bd7-87b9-02dde6e4f19d BY_NAME Hakuin != Hakuin Ekaku
 fa69ec47-6806-4683-b9bd-4d7bda132945 BY_NAME Jâmî != Jami
 fa6a91e1-62cd-4f49-84a9-cd548dfcaff2 BY_MISSING
 fa6d437d-3d41-4314-84b4-2780f15b1b42 BY_MISSING
+fa6e1de2-d670-4d89-9cfb-40a3ad0d3e0d BY_NAME Paul of Tarsus != Paul
 fa7fad11-d6ec-48b9-aec4-4db809dca954 BY_NOMATCH Fleetwood Mac
 fa8032f9-80fe-463e-bc2e-38dbe7776661 BY_MISSING
 fa80c649-bd9c-49ad-ae11-f2e89bd86ff9 BY_MISSING
 fa81f6c7-cbc0-4c07-96da-d9057d69ebba BY_NAME Shakespeare != William Shakespeare
-fa869174-e3ae-420a-815d-c6a87eb38aff BY_NAME Manhae != Han Yong-un
 fa8b75a4-131a-4758-8c73-b2fae5a479b2 BY_NAME Sri Ramakrishna != Ramakrishna
 fa8f4003-ee0f-4ecc-aecb-1066b389e38e BY_MISSING
 fa9baeb5-18a9-4c79-9abc-4c8a8499abe5 BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
@@ -6644,7 +7015,10 @@ faa6f956-3067-474a-9c04-c18f9e7edfbc BY_MISSING
 faadb01a-e5be-4619-9e40-4a8295ec93d6 BY_MISSING
 fab629fa-ada6-49f5-a4b8-871d2198cbc7 BY_MISSING
 fab8e15c-35bf-45b5-84f5-57e9fec2fa92 BY_NAME Sri Ramakrishna != Ramakrishna
+fabfe298-7d8f-4810-91cc-4d548360ddf9 BY_NOMATCH John Bradshaw
+fac9d8cc-337b-4f4a-a01e-5a4b7dab6e2b BY_NAME Martin Neimoller != Martin Niemöller
 fadf7d20-d51c-4cc7-a498-1ac05658059d BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
+faeb03eb-2e6b-4013-a32e-281d9014a46e BY_NOMATCH Louise Doud
 fb00e875-7298-4e17-b9a3-8efc818f4c74 BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
 fb0b108c-a239-4614-b147-9859f990f7dc BY_NOMATCH Nicholas Valois
 fb1e144b-e174-4fa6-a1c5-9ae952d5a7f4 BY_NAME John Smith the Platonist != John Smith (Platonist)
@@ -6656,6 +7030,7 @@ fb609504-f855-4ab3-90e7-b5456e66d51c BY_NAME 'Ali != Ali
 fb6d9e79-92f2-45ce-8182-ae8800c745c0 BY_NAME Robert Herrick != Robert Herrick (poet)
 fb7301c6-d44b-42c8-9496-b2b372776178 BY_NAME Eckhart != Meister Eckhart
 fb78b0cd-98bf-42df-9dd1-02799788a1f1 BY_NAME Eckhart != Meister Eckhart
+fb833d62-acea-408e-9d1b-28b39e623127 BY_NAME Gerald G. May != Gerald May
 fb86dfcc-c1a1-45a6-9c0e-c53fe68b9d3d BY_MISSING
 fb87cedc-b596-42b4-85a7-b7c00fbf6239 BY_NAME Al-Ghazâlî != Al-Ghazali
 fb9ea858-15a7-46b4-b333-2347154ec2fa BY_NAME Shakespeare != William Shakespeare
@@ -6672,13 +7047,17 @@ fbd7693c-50ea-44ed-80f2-137b4e2d12ab BY_NOMATCH Abraham Lambspring
 fbf7896e-0fbc-46f4-8df8-8f5d7e3f9959 BY_MISSING
 fc05da5c-fa10-4a72-b510-6a3783e9e197 BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
 fc0a9d4b-7a4f-4a43-bde8-6826a3cf053e BY_NAME Eckhart != Meister Eckhart
+fc0cf44f-23a6-400c-8e88-310f997fcc45 BY_NOMATCH Jean P. Camus
 fc12346e-9d78-4609-81fb-d77fce1c1351 BY_NAME Shakespeare != William Shakespeare
+fc130ce1-7444-42f9-a893-aea5dfd9d9c2 BY_MISSING
 fc19e3a4-bfe5-4cf5-8c27-31c0179d4cc3 BY_NAME Dante != Dante Alighieri
+fc36f91b-2e06-43af-80f7-e70bc8d4c43a BY_NAME Manhae != Han Yong-un
 fc39207b-f63a-4630-9a84-bfadbca57b76 BY_NAME John Smith the Platonist != John Smith (Platonist)
 fc44cf3a-6f24-4d22-93f7-54ee09a0d545 BY_NAME Sri Ramakrishna != Ramakrishna
 fc4ad723-f46f-4b55-9861-c30a9525f515 BY_NOMATCH Dai-o Kokushi
 fc535923-0d84-4c96-802f-885a9f42a288 BY_MISSING
 fc5bc699-e55c-419f-b9db-03bd07677729 BY_NAME Hakuin != Hakuin Ekaku
+fc5d45f6-39d6-4f31-9c0d-3063c81e8d57 BY_MISSING
 fc626af5-bc6d-4225-8247-753e33f0c757 BY_MISSING
 fc636c21-90c5-4e9b-82fc-d51b79047989 BY_MISSING
 fc69556a-01fa-429e-b370-a9b7e3e902c3 BY_NAME Theresa of Avila != Teresa of Ávila
@@ -6687,6 +7066,7 @@ fc9a9436-09cb-4b2c-b34b-48b6223fd4b9 BY_NOMATCH Eobold Vogelius
 fca71574-0270-4ed1-9909-b20e4a9d8ccb BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
 fcc9c1a8-23f4-4d68-9923-3d7ea70a9895 BY_NAME da184f92-f119-42ee-8e45-06ab31cd9624 != Thomas Merton
 fcd4606b-108e-4185-9463-e6f27ea3268b BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd != Hafez
+fcd85054-2f7e-4b15-b16b-4f3f9cb3fbde BY_NOMATCH John A. Schindler
 fcecdde4-0a3c-490d-b4aa-fc893f75d107 BY_NAME Ou-yang Hsiu != Ouyang Xiu
 fcee7038-5888-4295-8100-5ffaf525b946 BY_MISSING
 fcf6fb57-f408-4407-8a1d-debdf6465893 BY_MISSING
@@ -6700,6 +7080,7 @@ fd248a02-23ff-44a6-9a4f-1c3be4dc9c6a BY_MISSING
 fd28938c-cc5e-40d6-95b7-bfdd9423ff0c BY_NAME Ibn'Arabi != Ibn ul-Arabi
 fd2add5c-6333-4102-955f-0bf827062dad BY_NAME Eckhart != Meister Eckhart
 fd2f65db-8d78-48a2-8c04-c817cea3973c BY_NAME Philalethes != Henry More
+fd482d62-7454-45c3-9268-90b3a7f5790c BY_NOMATCH Fred Van Amburgh
 fd4e6901-7e3c-47b7-984d-d3bc7d326b86 BY_NAME Rûmi != Rumi
 fd66d4d4-c6f1-4334-9b01-84e652474058 BY_MISSING
 fd6e478f-a533-48d4-b23a-35290ff26d58 BY_NAME Richard of Saint-Victor != Richard of Saint Victor
@@ -6748,6 +7129,7 @@ fecaaf89-aa6d-47fc-8967-d0798ae8bbcf BY_NAME Tauler != Johannes Tauler
 fedd97a9-ce2c-4387-94e6-b2801eeace4e BY_MISSING
 fee24190-c055-4dac-b47c-58b2deebe063 BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
 fee2d075-b97f-439d-b2e7-a028e203e453 BY_MISSING
+fee658df-1564-46f6-8072-534803349b7a BY_NAME Manhae != Han Yong-un
 fee68c8d-f91c-4ef7-be63-90429ce9c481 BY_NAME Shakespeare != William Shakespeare
 fef2c956-597b-4653-9b38-ba72a508e56d BY_NOMATCH Muhammad b. Khafff
 fef5526e-4e47-45ac-9ee8-786fc19201f3 BY_NAME Shabkar != Shabkar Tsokdruk Rangdrol
@@ -6756,6 +7138,7 @@ ff0384a6-8993-4f7a-af4c-40af3b1a2a7b BY_NAME 6e692c9a-52ef-49c0-a8c5-4ab5e733a7c
 ff10f48b-e77d-44dd-88a3-554c726fdef1 BY_NAME Junayd != Junayd of Baghdad
 ff141832-025d-4471-ad38-03c5b0dd8721 BY_NAME Ibn al-Fârid != Ibn al-Farid
 ff1aebc7-5b82-4fc9-814b-443566ca0d18 BY_NAME Hermes != Hermes Trismegistus
+ff2d23ef-2f6c-44cf-8083-64d52b3c063b BY_NOMATCH Edgar W. Howe
 ff322b19-dc88-4fa8-b700-63a9dea93dae BY_MISSING
 ff3b4af4-b124-4607-b30a-b4837909d3ce BY_NAME Ananda Moyi != Anandamayi Ma
 ff4d17a6-4514-4292-a1ef-d5f5584f0b7f BY_NAME da184f92-f119-42ee-8e45-06ab31cd9624 != Thomas Merton
@@ -6768,398 +7151,33 @@ ff8448b4-caf6-4f01-a61f-a677ffeee066 BY_NAME 0200c883-e38f-4554-92bc-2eba913426b
 ff853780-4ae7-4c5a-86dc-d0609d9b31d3 BY_MISSING
 ffaef2f5-5050-4569-b867-ef5c1f39d5ad BY_MISSING
 ffba86e9-e937-49b7-94d4-195a275dd3fc BY_NAME 'Ali != Ali
+ffe34f5e-8b83-428d-9f7a-5ac73075caee BY_NAME Manhae != Han Yong-un
 ffeef70b-a623-48c0-9c0c-c5a95d55fa2f BY_NAME St John of the Cross != John of the Cross
 fffadb22-b427-4c90-a9ce-45660d6299e3 BY_NAME Hermes != Hermes Trismegistus
 fffdead2-eda3-4245-836d-05a24f004a06 BY_NAME St Augustine != Augustine of Hippo
 ffff793c-4903-49e7-9704-96b90f902e80 BY_NOMATCH Richard Nickson
+7d2e00b3-24f7-4c5d-8785-16c3b25a7032 BY_NOMATCH Hugo von Hofmannsthal
+98264ce3-7718-413f-87c0-9a61ecea7ab5 BY_NOMATCH Fr. Gregory Boyle
+d737ffbe-c6cc-43c9-98af-3dbe547ef7f7 BY_MISSING
+da4ac834-29d4-477f-8c13-498edd7fa1de BY_NAME Manhae != Han Yong-un
+b4fc441f-5bb8-4a30-9afe-72bc70a9c3da BY_NAME Manhae != Han Yong-un
+fa869174-e3ae-420a-815d-c6a87eb38aff BY_NAME Manhae != Han Yong-un
+55f619c3-c5a2-42c8-bc65-252f59967a9c BY_NAME Manhae != Han Yong-un
+deb977bb-637d-4996-8c95-402c24a7cff0 BY_NAME Manhae != Han Yong-un
+8784c7e8-2e9f-4296-b276-5c4676f203eb BY_NAME Manhae != Han Yong-un
+3acd689d-a4af-4df9-820f-21fd6110806f BY_NAME Manhae != Han Yong-un
+3acd689d-a4af-4df9-820f-21fd6110806f TITLE_SPELL Kyewŏrhyang
+f20ad6cb-c684-4dd9-834e-cbb7786f8687 BY_NAME Manhae != Han Yong-un
+a0322383-a457-4aa0-816f-daa18f0e5af1 BY_NAME Manhae != Han Yong-un
+62c40e4a-f240-4f88-8727-830abc2e043c BY_NAME Manhae != Han Yong-un
+39abdf93-cb7e-4f98-af09-b54440f24f5d BY_NAME Manhae != Han Yong-un
+cf9cbbae-7316-4f55-969f-53087f8a2857 BY_NAME Manhae != Han Yong-un
+f55bb7af-f049-4300-a392-624cccd745c4 BY_NAME Manhae != Han Yong-un
+ec35e316-eca6-4eca-9486-f6a98342c1e3 BY_NAME Manhae != Han Yong-un
 a02c49e1-c099-47b1-9c9a-6e0be32e0ffb BY_NAME Manhae != Han Yong-un
-a21adde3-85f3-4d77-bfbb-6571c97d78b0 BY_NAME Manhae != Han Yong-un
-f3e551e8-e5e8-44f5-9745-45b462ef2155 BY_NAME Manhae != Han Yong-un
-980a6716-6737-469f-9489-c3548b0823f8 BY_NAME Manhae != Han Yong-un
-ee4d1e97-4d1b-4a2b-808f-d2f77223cb8e BY_NAME Manhae != Han Yong-un
-fee658df-1564-46f6-8072-534803349b7a BY_NAME Manhae != Han Yong-un
-40924dc3-b768-49e3-aa7e-4d00b03745c1 BY_NAME da184f92-f119-42ee-8e45-06ab31cd9624 != Thomas Merton
-fc5d45f6-39d6-4f31-9c0d-3063c81e8d57 BY_MISSING
-b64afa2e-a59d-40db-8f77-b41061730fdc BY_MISSING
-1aa152c4-be5e-424b-96fc-02a1876d29d7 BY_NAME Count Leo Nikolaevich Tolstoy != Leo Tolstory
-1b72333d-21b2-4864-98eb-2e9066a90621 BY_NAME da184f92-f119-42ee-8e45-06ab31cd9624 != Thomas Merton
-3198e7c5-c039-4399-b98f-ac66cd719b5e BY_MISSING
-b12ad1d6-2e6d-468c-a866-82ba4b0d18e6 BY_NAME Scarrooyady != Scarouady
-cfd87922-8241-46eb-9512-412e99544f49 BY_NAME da184f92-f119-42ee-8e45-06ab31cd9624 != Thomas Merton
-6dc03911-b57e-430c-9262-6c5d298c53e3 BY_NAME Manhae != Han Yong-un
-02a35969-b0a3-461e-b1a4-1efcfcf91c12 BY_NAME Manhae != Han Yong-un
-6f9b3dcd-4f32-49c8-bb0a-8eedc778b837 BY_NAME Manhae != Han Yong-un
-d1cd17af-0594-4d2f-9399-90b743be594d BY_NAME Manhae != Han Yong-un
-2c337b7c-b5fc-4d8f-89cc-9b30bb36b2fa BY_NAME Manhae != Han Yong-un
-7997cc78-6751-411f-87c4-07c68feac071 BY_NAME Manhae != Han Yong-un
-70fe4c86-3319-4dcb-913a-11a68dd78fed BY_NAME Manhae != Han Yong-un
-912c6fe6-fa7c-41aa-b9b5-4cf8e49aa153 BY_NAME Manhae != Han Yong-un
-3be8a6cc-b0a5-4984-b9c0-07402cfcdadf BY_NAME Manhae != Han Yong-un
-3be8a6cc-b0a5-4984-b9c0-07402cfcdadf TITLE_SPELL Thornbush
-fc36f91b-2e06-43af-80f7-e70bc8d4c43a BY_NAME Manhae != Han Yong-un
-bf61da31-97f8-41d5-a7f8-bb6e126e9b7e BY_NAME Manhae != Han Yong-un
-bf61da31-97f8-41d5-a7f8-bb6e126e9b7e TITLE_SPELL Misrecognition
-96587ed7-0b45-4cfd-ade7-911e8f5ed0a9 BY_NAME Manhae != Han Yong-un
-84729ab2-82bd-4e0a-ad9e-f39877418543 BY_NAME Manhae != Han Yong-un
-c0235ccd-ef67-42c8-8660-f494762f3e5e BY_NAME Manhae != Han Yong-un
-07333659-a38e-457d-97ca-6244b1e03841 BY_NAME Manhae != Han Yong-un
-07333659-a38e-457d-97ca-6244b1e03841 TITLE_SPELL Samadhi
-ca614fb7-edcb-4bd0-ac23-44a570e28ba4 BY_NAME Manhae != Han Yong-un
-b051e326-69d6-4b0c-9ab4-74673c50c3a5 BY_NAME Manhae != Han Yong-un
-14fc569b-1bff-4eae-a0be-eb596f6650b2 BY_NAME Manhae != Han Yong-un
-8a060c61-cb74-4783-9d3d-a442d939506b BY_NAME Manhae != Han Yong-un
-80ecf2e2-8a12-4c32-bc20-8cd1325700cb BY_NAME Manhae != Han Yong-un
-ffe34f5e-8b83-428d-9f7a-5ac73075caee BY_NAME Manhae != Han Yong-un
-b9f8ae97-5858-4426-b36e-bd363bd92d13 BY_NAME Manhae != Han Yong-un
-d84f98cc-5058-4f0a-97f2-02f17cd7f8c5 BY_NAME Manhae != Han Yong-un
-698462d7-e0a2-40bc-9b61-70338846adf1 BY_NAME Manhae != Han Yong-un
-07ecdf0c-ee52-4d07-96cb-e03f2b2e1d38 BY_NAME Manhae != Han Yong-un
-c251d439-438c-4118-8c85-3d3ee41bece4 BY_NAME Manhae != Han Yong-un
+66e824c1-2c69-436b-86d5-c85bede5489d BY_NAME Manhae != Han Yong-un
 a1de5aba-f2a5-4541-a093-de9dae4e5e78 BY_NAME Manhae != Han Yong-un
-b856b93f-0167-49c8-a15d-f215667a75ac BY_NAME Manhae != Han Yong-un
-813fef25-bfc2-4078-a365-c508038c70c8 BY_NAME Manhae != Han Yong-un
-73e3be18-08b5-4b6a-a396-55963f0f6145 BY_NAME Manhae != Han Yong-un
-ef8d4caa-1552-4581-9430-518392fea046 BY_NAME Manhae != Han Yong-un
-3efea307-3b46-4724-b26c-20a03e3d09b3 BY_NAME Manhae != Han Yong-un
-e37bcdcb-c207-418b-b0e0-1efe3e230def BY_NAME Anne Bronte != Anne Brontë
-880e29b0-74e9-4aff-bb9e-a715e021eaf0 BY_NAME Vladimir Solovyov != Vladimir Solovyov (philosopher)
-1bf626b9-7ce4-4f8f-b2ab-57e5cbc59890 BY_MISSING
-9b130461-0b45-4337-beeb-dd4538041e20 BY_MISSING
-e05727d1-dff6-497b-91b8-ede209d6532f BY_MISSING
-062cd98e-5243-4cc4-a370-968963045d2d BY_NOMATCH Herbert Seibert
-09330e0c-ecdb-49ec-be11-4c6f67b9eed2 BY_NOMATCH Gary Emery
-09ca4563-9ae0-4e9b-98c9-06aa58230951 BY_NAME Shantidasa != Shantidas Ashikari
-1f191d58-51d1-4e85-84c5-9c5f61e152c8 BY_NOMATCH Jesus
-1feefc44-6f65-4b53-993f-a2468045e303 BY_NOMATCH Annarnalai Swarni
-23eabe51-b9ed-404b-bab1-96220b15baa6 BY_NOMATCH Arthur Gordon
-24c444bf-83ac-413e-acf5-b10615cb420e BY_NAME Ralph W. Trine != Ralph Waldo Trine
-29766822-4722-4453-b2b1-a580c08b55fb BY_NAME St. Jerome != Jerome
-329c56c9-1094-42dd-8434-1c6a70d7b59e BY_NAME Mohandas Gandhi != Mahatma Gandhi
-3adb71d7-b405-42ee-b712-e2fc9662e50c BY_NOMATCH William R. Miller
-3f93d304-933c-4347-91d6-9f9720920622 BY_NOMATCH Anonymous
-4e354367-f62e-46ca-add8-4b2860fe2085 BY_NAME Baird Spalding != Baird T. Spalding
-506685df-f82e-4ced-9ab4-37f1e1f0e26e BY_NAME Paul of Tarsus != Paul
-5c090b96-ec53-4ffc-9c94-1d922973140e BY_NAME Charles Haanel != Charles Francis Haanel
-5ea822b2-751c-4cde-b872-d94faae4088a BY_NAME Lao-tzu != Laozi
-6756305d-3862-4a02-b4d3-7c0f55e77210 BY_NOMATCH Anonymous
-6766af84-8974-470a-ac52-ff6e2308428b BY_NAME Ralph W. Trine != Ralph Waldo Trine
-699e324b-899d-4864-ac2c-c61d2335075a BY_NAME Emmanuel != Inmanuel
-6a679c3b-54a6-4073-9a27-4b5b0361d40a BY_NAME Henry T. Hamblin != Henry Thomas Hamblin
-6fbe0216-2c88-404b-a0f6-05f6c52db59a BY_NAME Stephen R. Covey != Stephen Covey
-7a3ab1de-7333-4e0c-baa1-4c4c0d8e8012 BY_NOMATCH Lowell Fillmore
-82413ac4-47a0-4a58-8f1c-a21d054448af BY_NAME Henry T. Hamblin != Henry Thomas Hamblin
-85ae0cd9-ab29-4089-9770-f837a4353ced BY_NOMATCH Paul Toumier
-99d06d2d-ce36-4a27-af94-bddda7c00b77 BY_NAME Ralph W. Trine != Ralph Waldo Trine
-9d9ebfcb-0408-40f2-a0b5-96c4543b6ca5 BY_NAME Shantidasa != Shantidas Ashikari
-a1e8822e-51dd-4be1-b36e-d7ec0a536441 BY_NAME Henry T. Hamblin != Henry Thomas Hamblin
-a767f45d-bad6-4e25-ad47-7003433c6e00 BY_NOMATCH Ron Smothermon
-b9459251-1372-4140-aa08-56f7745f2c01 BY_NOMATCH Patricia Sun
-c9c478b8-76fc-45d0-be5d-83481fd590f0 BY_NOMATCH Margaret R. Stortz
-cf3a5a30-0077-4718-932f-a42ef0f07f59 BY_NOMATCH Elinor MacDonald
-d43cc3a5-56bf-48d8-9330-9acbea3fd758 BY_NAME Ralph W. Trine != Ralph Waldo Trine
-f37ee96f-77ca-4df0-b0c1-a236bac4090b BY_MISSING
-f6618f2c-713d-4841-a285-d74e42306385 BY_NAME Sivananda != Sivananda Saraswati
-22197e33-3460-49de-a1a1-5e1b5b84b862 BY_NOMATCH Hitopadesa
-328b70ce-0e1f-4a88-987f-8ede4206ae42 BY_NOMATCH Jean P. Sartre
-3354db17-7fd5-4d2b-bdb9-c502b6ae5a3c BY_NAME Edgar A. Poe != Edgar Allan Poe
-3915343b-3862-4f3f-b897-7b270c636f15 BY_NAME Harry A. Overstreet != Harry Allen Overstreet
-69342141-de74-4a1a-8080-c885dab091b9 BY_NAME Dag Hammarskjold != Dag Hammarskjöld
-72e01715-f473-43cc-912f-14da999fdd91 BY_NOMATCH Andre Grodin
-80b4909b-5f7b-4681-8a60-e3f7b7b0177a BY_NAME Papa Ramdas != Swami Ramdas
-903692b7-5413-409d-bbb0-d62db570a525 BY_NOMATCH Andrew Mercer
-ad17cc92-a767-4bc3-9136-692aaad52caa BY_NAME Seneca != Seneca the Younger
-c0a0d4b5-34bc-429c-94c4-e968e27e900f BY_NOMATCH A Spiritual Warrior
-e07ef0a6-b12a-4ba5-87c4-0fd002cf6aac BY_NAME Nisargadatta != Nisargadatta Maharaj
-39428c7c-f846-45a2-961d-ea149732bacb BY_NAME da184f92-f119-42ee-8e45-06ab31cd9624 != Thomas Merton
-443b7c75-bfcf-4a13-a740-dee2daf1bc14 BY_MISSING
-ccf3f8bf-e973-42ce-845e-56bf5918d6a7 BY_NAME Manhae != Han Yong-un
-1c7f96ae-03be-432c-8aca-f9e9f3e2bf9b BY_NAME Manhae != Han Yong-un
-d3fff5e2-663c-49bb-889c-7fc6012258cb BY_NAME Manhae != Han Yong-un
-d3fff5e2-663c-49bb-889c-7fc6012258cb TITLE_SPELL Non'gae
-c97bee2f-a93f-4d4a-b7ed-81ce2908cdab BY_NAME Manhae != Han Yong-un
-84d2d6d5-e50e-46e7-a5c6-c863288756d9 BY_NAME Manhae != Han Yong-un
-8dcda603-ed6f-43e4-ade8-90e0a8e9e340 BY_NAME Manhae != Han Yong-un
-0f30f8e3-22e7-40b4-b7d9-c282775d73ba BY_NAME Manhae != Han Yong-un
-0da545b1-9785-4ad9-96bc-8258dd1e39da BY_NAME Manhae != Han Yong-un
-72f35906-ec18-4185-aeed-4f4a66d7b129 BY_NAME Manhae != Han Yong-un
-e033c669-5989-4ec4-874b-265379efc55b BY_NAME Manhae != Han Yong-un
-2c6eef77-4541-4b0d-aab1-7dbefb0abbf1 BY_NAME Manhae != Han Yong-un
-1caedbe3-6515-47ba-ad1e-e03768e2d287 BY_NOMATCH Sarmad
-77e54b27-8070-4752-b3e1-3a431521f65b BY_NOMATCH Colin Oliver
-aac00a5e-17e4-4f60-a451-7c10846dac95 BY_NOMATCH Edith Kanaka'ole
-a35e321a-1424-42cb-89b2-06b8ca742d43 BY_NOMATCH Edith Reninger
-6c0410fb-92cf-45c9-b1fd-717a9e5d73c9 BY_NOMATCH Juppensha Ikku
-7bfdab23-e4a5-4ce2-a1ab-95a35ebe0c86 BY_NOMATCH Bhagavad-Gita
-317f5beb-1d03-4f92-998b-23df7768f2b4 BY_MISSING
-6ee3790f-575b-429f-a7ab-7e36f0f994e3 BY_MISSING
-e9191115-0171-48fe-8cd7-eb38ffe1aec9 BY_NAME Sivananda != Sivananda Saraswati
-edc123ec-14a6-4c2c-a63c-99237320b8e3 BY_NAME Ralph W. Emerson != Ralph Waldo Emerson
-02ef688a-465b-4570-a05f-212687419dfa BY_NAME Paramananda != Swami Paramananda
-4a3ef397-96de-4efa-99e1-f085d51a17fc BY_NOMATCH Hitopadesa
-145e5d39-b393-498f-8829-2f0666e8e161 BY_NOMATCH Cuthbert Hall
-0fc6dc3e-fc2a-4330-83ab-28f5837438b2 BY_NOMATCH Norman Thornton
-df72cfb3-0335-41df-946b-3610dea963f0 BY_NOMATCH John K. Lavater
-692eaaa9-6ff2-4595-a231-7a1a0e43e98f BY_NOMATCH R. W. Wilde
-5adf5b68-f515-450f-a7e1-6825c1b8abb9 BY_NOMATCH Johann W. Goethe
-b71fe7b5-5eb4-47cf-b7ad-850c5c2e9332 BY_MISSING
-bd9b466d-5300-44c6-942a-72efa2a9b3df BY_NOMATCH U. S. Anderson
-b86eaf06-4363-4071-9bfb-cb076e6c62ea BY_NAME Mohandas Gandhi != Mahatma Gandhi
-4bf1d747-b7fb-4f34-b99a-a21eb02bc052 BY_NOMATCH Fred Van Amburgh
-e936dda7-bc5a-45a2-8af9-0891f9d63f17 BY_NAME Shantidasa != Shantidas Ashikari
-0eca7e4a-2d39-41ed-a1d4-2a826a1b0c59 BY_NAME Sivananda != Sivananda Saraswati
-984ecdd7-70e8-4f06-8611-f4471d64b9a7 BY_NOMATCH John Milhoum
-bef98650-5a02-4f30-a1d0-3946b8ddcdd6 BY_NOMATCH Donald H. McGannon
-94b7d8cd-7693-4943-97e5-35d12a3f092e BY_NAME Chuang Tse != Zhuang Zhou
-4d7239d3-dae1-421c-a81d-9d95028051d7 BY_NOMATCH St. Thomas
-13626a9d-6b1c-4e2b-97ad-e16ab442506f BY_MISSING
-0fe4a81c-8aa2-4c5f-8846-aefe51759417 BY_NAME Sister Consolata != Consolata Bertone
-a485c15c-bc1e-4d2f-868e-6ab6036dab81 BY_MISSING
-c9bdca49-917e-4650-ab8d-81d970ebd94a BY_NOMATCH Johann W. Goethe
-af80c477-471c-495d-bb99-a4e6589e61ab BY_NOMATCH Karen Homey
-841604ea-308d-43b9-b69b-6ff37d9e4262 BY_NOMATCH Shekel Hakodesh
-3f184741-4b21-4a30-a927-5bb068721f71 BY_NOMATCH Henri F. Amiel
-1d6172da-14c7-4c4a-aefb-c2c39d6c1c0d BY_NOMATCH Edwin H. Chapin
-3d4ff0f6-402e-45c6-b388-5efcfa23c5d0 BY_NAME Thomas A. Edison != Thomas Alva Edison
-d3810a85-63bc-4d10-8c59-995220ac74b6 BY_NAME Ralph W. Emerson != Ralph Waldo Emerson
-4186b966-0c14-4789-9fbc-811ee46a8afe BY_NOMATCH Claude A. Helvetius
-ea842847-7c70-47ff-908c-d89668276c53 BY_NAME Oliver W. Holmes != Oliver Wendell Holmes
-5ac51c1e-3789-4526-a6d9-b53e2101a7f5 BY_NAME Mohandas Gandhi != Mahatma Gandhi
-bde29a83-9f88-4924-bd3a-f9c1c8a5beb6 BY_NAME Hermes != Hermes Trismegistus
-ab9fc003-f1ce-4ad6-8349-5bd08d2387aa BY_NAME Christian Bovee != Christian Nestell Bovee
-20d4255a-6bb4-4ef8-b574-7382fd02b146 BY_NOMATCH W. J. Slim
-1c8039aa-9cd7-4bf6-99fd-a3d69f454cb5 BY_NOMATCH Krishna
-d9a36ccc-c095-4b5a-86f4-1cc1a23b68b5 BY_NOMATCH Tripura Rahasya
-49a70326-b9c4-4596-9650-2070d6103fe3 BY_NAME Henry T. Hamblin != Henry Thomas Hamblin
-60a40ca5-ea86-4a94-9965-28876d75ab6e BY_NAME Lord Herbert != Edward Herbert, 1st Baron Herbert of Cherbury
-5595cad4-ffd9-494d-a59a-17bd1c64aedd BY_MISSING
-b201707e-60d2-4848-855b-07dd7533bf8a BY_NOMATCH Robert S. MacArthur
-68c5fe01-9169-495e-ac8b-6db94729fe24 BY_NAME Marcus Aurelius != Marcus Aurelius Antoninus
-0daac4c2-94da-45ff-bb15-1bf0b2676c56 BY_NOMATCH David Thomas
-845140e2-c69d-4035-86de-5fdfcaafe121 BY_NOMATCH Johann W. Goethe
-1b52b577-18a2-4aad-933a-f65ae9d05fc9 BY_NAME Papa Ramdas != Swami Ramdas
-d92cf875-d35b-41c2-98f8-5b0e8c882712 BY_NAME Wang Yang Ming != Wang Yangming
-52640cfe-e3a7-4654-bdb7-86887b509d14 BY_NAME Ralph W. Emerson != Ralph Waldo Emerson
-c8357f2d-2e5b-430f-b83e-a5354efdfdae BY_NAME Barbara G. Harrison != Barbara Grizzuti Harrison
-fc130ce1-7444-42f9-a893-aea5dfd9d9c2 BY_MISSING
-97e56079-4974-427a-9fd3-41808636aca7 BY_NAME Papa Ramdas != Swami Ramdas
-9896ef8d-7918-4a68-be3f-b576a3d7395e BY_NAME Ralph W. Trine != Ralph Waldo Trine
-92677b2b-5a54-4906-8412-8ebe827a7551 BY_NAME Alice H. Rice != Alice Hegan Rice
-50c99a67-bade-44b4-8580-f9106e7b4af8 BY_NAME Seneca != Seneca the Younger
-c8a943a2-fe0e-4ac3-92a5-caf45d923d12 BY_NOMATCH William C. Bryant
-ea225aea-af29-48e8-b3eb-a39cc48a690e BY_NAME Olympia Morata != Olympia Fulvia Morata
-a72b759e-3a3b-4a7c-be1a-f52a9c474c01 BY_NAME Henry T. Hamblin != Henry Thomas Hamblin
-40258935-aa4f-4409-a506-5644ddd2f1ec BY_NOMATCH Robert Eliot
-d2687914-b0b1-4a7f-b839-4414beb7e391 BY_NOMATCH Friedrich W. Nietzsche
-22effe23-5b7f-43f4-962d-9bf4e3497fb0 BY_NOMATCH Fred Van Amburgh
-fac9d8cc-337b-4f4a-a01e-5a4b7dab6e2b BY_NAME Martin Neimoller != Martin Niemöller
-fcd85054-2f7e-4b15-b16b-4f3f9cb3fbde BY_NOMATCH John A. Schindler
-30c1ba5d-e9a8-4a15-8f91-bfe86d60984e BY_NAME Shantidasa != Shantidas Ashikari
-31a88336-e626-4da7-8414-482ba655472a BY_NAME George Byron != Lord Byron
-d6bc4eee-9001-46c2-8fbd-32edaf7dc647 BY_NOMATCH Joseph Hall
-9ca97e88-a55b-40b4-9092-2f6bc68fb5d0 BY_NAME Seneca != Seneca the Younger
-e4faf962-b440-4893-a45b-f2e96de7ce51 BY_NOMATCH Charles C. Colton
-a72925a8-a9b2-4941-a2ca-b91b8cc1f1b2 BY_NOMATCH Henry W. Beecher
-d747fc97-d2cd-4714-a4b7-575ef8fb9f92 BY_NOMATCH Edwin H. Chapin
-02f72c97-4acc-4e0c-87a0-9d4b7c489d35 BY_NOMATCH Richard E. Burton
-8b8ef71f-1540-4e26-81e4-a45092be95e7 BY_NAME Ralph W. Emerson != Ralph Waldo Emerson
-e3ddc123-b4e3-4db5-8b22-082c6b8bb14e BY_NOMATCH Claudianus
-c9e5ceab-92d5-4996-a029-859de83ec89f BY_NAME Paramananda != Swami Paramananda
-37f864fa-b36a-4711-b72c-a0ba97227b7e BY_NAME Charles H. Spurgeon != Charles Spurgeon
-a30b8547-5cbb-453b-9139-648b9a6d7370 BY_NOMATCH James Allen
-f805ac99-779e-4a89-923e-f3eb60d19f2a BY_NAME Henry T. Hamblin != Henry Thomas Hamblin
-91fee00b-bc78-4f96-8fc5-d9354234eb4d BY_NAME Seneca != Seneca the Younger
-4d8b0d0d-6e9a-4de2-8645-577205b271b7 BY_NAME Ralph W. Trine != Ralph Waldo Trine
-3b546900-ac01-4d47-9c17-2f3470662329 BY_NOMATCH Alexander M. Proudfit
-4b4ae239-947f-4b0a-9a08-50b9ba898fe9 BY_NAME Honore de Balzac != Honoré de Balzac
-2c6f977d-6d61-45dc-9385-41714f74c517 BY_NOMATCH J. M. Jussawalla
-ec8d293b-21fe-47bf-9b03-a2f07f5fbb60 BY_NAME Lady Blessington != Marguerite Gardiner, Countess of Blessington
-f99d69e3-7fb9-4f4a-96f1-7952ba213341 BY_NAME Napoleon Bonaparte != Napoleon
-2c283336-c44e-4760-a977-27f64395b5f3 BY_NOMATCH Edwin H. Chapin
-e0c89c3a-f81e-46d2-8824-5d7082239e07 BY_NOMATCH Jean B. Moliere
-99f1942a-8187-45a1-9770-e07153fca703 BY_NAME St. Jerome != Jerome
-bd8cf1d3-864d-49e4-a66f-a55f28613a4a BY_NOMATCH U. S. Anderson
-e30e3471-b66f-4f79-b7ed-aba2be5ac29b BY_NAME Solomon Ibn Gabirol != Solomon ibn Gabirol
-a3c778bd-f3be-4739-9fca-cc680b7f593b BY_NAME Henry T. Hamblin != Henry Thomas Hamblin
-81bd524e-bc66-4033-baba-7d70d0870a57 BY_NOMATCH Fred Van Amburgh
-84d7e933-9d29-4a14-9d39-788ed4b5724c BY_NAME Seneca != Seneca the Younger
-39d63513-31ec-49f7-98fe-df7cc02dbe23 BY_NAME Sivananda != Sivananda Saraswati
-1e31b54b-9a98-4337-ae86-351e141ec404 BY_NAME William Punshon != William Morley Punshon
-83c95092-28fc-4a16-8d7c-21bd792cedf6 BY_NOMATCH Henry W. Beecher
-9cf321cf-bf43-4ab5-b266-3e181bde0b0e BY_NOMATCH William Matthews
-c26b5c5a-484e-4105-9ad1-96baf589bae4 BY_MISSING
-b43dc342-490b-49bb-bd13-777297a79d1d BY_NOMATCH Martin L. King, Jr.
-91c92840-7729-4d00-850d-fdfde61ae5a1 BY_NOMATCH Lord Greville
-36497cb9-8d14-411c-aff3-ca0c944f4d21 BY_NOMATCH Theodore Munger
-5b61a062-a202-44a1-adca-aade713af535 BY_MISSING
-a55049a3-a560-4bc6-b972-3892ca288138 BY_NAME Marcus Aurelius != Marcus Aurelius Antoninus
-85299468-a1b9-4b05-aa9d-2eb1590cb80f BY_NAME Seneca != Seneca the Younger
-36efe7a4-4adf-4e51-93b4-8261bf9a3aef BY_NOMATCH Robert Veninga
-f6b9cbc3-7d3f-472a-a8b1-df5bc720072d BY_NOMATCH Panchatantra
-73b3f3e5-2e9e-4c57-b2d3-fd531a697af5 BY_NAME Manly Hall != Manly Palmer Hall
-ae2ab08b-4b96-40d1-943b-172a46bd80c5 BY_NOMATCH H. Bertram Lewis
-b704a6ee-1387-4bd0-8460-723ada94ffea BY_MISSING
-b8d1ec5d-142c-4012-934a-ce54d54b2868 BY_NOMATCH John Neal
-b2b2bfad-8a8c-42bc-acaf-63eca7e63883 BY_NOMATCH Faith Forsyte
-718ed508-7828-4811-b378-bbfff5d0010d BY_NOMATCH Robert Benson
-2ba6edc9-51e6-49b2-9087-c3bbe4df021c BY_NOMATCH Robert Leighton
-35b3156f-d8c0-4a26-bc68-80dcde1adcbe BY_NOMATCH Edwin H. Chapin
-33d08e87-b088-4249-aca7-2ed0eaf4acec BY_NOMATCH James Alexander
-4b9cea29-8697-47d3-8a63-4400206ebf56 BY_NOMATCH R. C. McCarthy
-6743917c-677a-436e-8aa9-855cc8b97482 BY_NOMATCH Cyrus A. Bartol
-61e64ddf-e96b-4f38-b31a-10a72781421e BY_NOMATCH Dinah M. Craik
-adf54bd9-4a84-40d8-85d7-8f89072d4bc4 BY_NAME Minnie Fiske != Minnie Maddern Fiske
-d1a120a0-800d-4af1-a904-510a694f9481 BY_NAME Nisargadatta != Nisargadatta Maharaj
-ab53246e-9974-4c67-b41b-5c17a0ca63c4 BY_NOMATCH Hannah W. Smith
-fd482d62-7454-45c3-9268-90b3a7f5790c BY_NOMATCH Fred Van Amburgh
-09f1b5a8-4018-4858-a875-a57f3b65666a BY_NAME Henry W. Shaw != Josh Billings
-93370a99-7d70-403d-a0ae-53338952e639 BY_NAME Seneca != Seneca the Younger
-7f89edcb-c649-490e-af90-43854cf9c3c9 BY_NOMATCH Saadi
-b8f91f6e-206f-4da5-8f9b-933705743ae6 BY_NAME Henry T. Hamblin != Henry Thomas Hamblin
-c732f652-d5ad-401d-aadd-776d47719ae3 BY_NOMATCH Jordan & Margaret Paul
-c063a628-96e9-4570-9708-e2645c28ef5e BY_NOMATCH Philip Chesterfield
-4509dbb2-d0b4-4543-8fac-dd6996e65dbb BY_NOMATCH Francois La Rochefoucauld
-c0c33d55-5e04-45c6-a538-045cd084307e BY_NAME Harry Truman != Harry S. Truman
-d72a5525-3cce-4e2d-bb9b-f0832466b4dd BY_NOMATCH Anthony Shaftesbury
-85859b56-33dd-4c04-9d08-0e6146650b4a BY_NOMATCH U. S. Anderson
-b387162a-70f9-4848-b8a0-9200c60dbf5c BY_NOMATCH Fred Van Amburgh
-6a2eafca-8ee1-4588-aa60-2429d405651f BY_NOMATCH Henry S. Haskins
-ff2d23ef-2f6c-44cf-8083-64d52b3c063b BY_NOMATCH Edgar W. Howe
-0e697e62-8977-4277-a56e-f9c0f3ea2a76 BY_MISSING
-7a824fb5-b02d-44ee-8176-38de6f2f507b BY_NAME Samuel Coleridge != Samuel Taylor Coleridge
-8b797163-0b0e-419f-9998-076efb7128be BY_NOMATCH Gaude A. Helvetius
-f8a60ea2-a269-4ece-9c76-5c38e54af53d BY_NAME Nisargadatta != Nisargadatta Maharaj
-01527bfc-a259-4ea3-980e-a51a669fd4fe BY_NAME Michel Montaigne != Michel de Montaigne
-97f68252-81b0-4d92-ae82-66d6b261d563 BY_NOMATCH Marquis De La Grange
-1b20138e-82e2-44e0-9a54-a5127db202e9 BY_NOMATCH Karl von Knebel
-87fcdb5f-3013-46bc-8234-63840cf1cf6c BY_NAME Marcus Aurelius != Marcus Aurelius Antoninus
-e42fc0c1-4441-4d27-80c4-fe64e7f65772 BY_NOMATCH Joseph M. Wade
-21368acc-96ae-4b69-a883-a4755438f695 BY_NOMATCH Henry F. Amiel
-283d65d4-2b85-40a2-b137-b214ab566718 BY_NAME Chuang Tse != Zhuang Zhou
-d6cb1f38-9b9d-4a3b-b46e-e45a808f9dbe BY_NOMATCH Anonymous
-56158c5b-e29b-46c6-964e-ac5b8b34aae0 BY_MISSING
-b11ad2f2-6b34-4751-b25b-cdf35a13d654 BY_NOMATCH Ben Johnson
-7820e657-5a1e-4d0d-8784-26a508ed4771 BY_NOMATCH Thomas Adams
-39f13a6c-3a40-4447-a2e3-7f8be7184485 BY_NAME Sivananda != Sivananda Saraswati
-c8166c15-b6e1-4828-b426-acc46726ed50 BY_NOMATCH Jean La Bruyere
-5086e082-6082-4fd1-99ad-c0b3ed6b7e5a BY_NAME Papa Ramdas != Swami Ramdas
-4faa84ba-4730-417c-8063-28347f76d35b BY_NAME Seneca != Seneca the Younger
-e66b4d5e-ffbb-4140-b24c-63ef23c11762 BY_NAME Michel Montaigne != Michel de Montaigne
-c423c7d7-3b19-45df-9295-f1b6c52cdb20 BY_NOMATCH Henry F. Amiel
-f6a773d0-c3b8-4c12-b4e8-cc0cdca58078 BY_NOMATCH Charles C. Colton
-d33e998a-300f-40ab-9c54-31a9da1fd729 BY_NOMATCH John Denham
-da3f5bb4-6965-4688-abd2-11fbf0150c91 BY_NAME Georg C. Lichtenberg != Georg Christoph Lichtenberg
-0b294dd6-cafe-4a04-b9fe-5b08c79be93f BY_NOMATCH Max Gralnick
-750b5f8b-b3b9-415e-aaf4-9d624832630a BY_NAME Niccolo Machiavelli != Niccolò Machiavelli
-cf3408a6-1325-490d-ba5a-852e7169696a BY_NAME Solomon Ibn Gabirol != Solomon ibn Gabirol
-d545151c-5998-4d60-a1ed-8ddb32733c99 BY_NOMATCH Lord Birket
-43a381d7-805e-48a4-ad4e-25303b43722b BY_NAME Orison S. Marden != Orison Swett Marden
-3e1ce058-2b93-4281-a3d0-993314ad2f1c BY_NOMATCH William G. Jordan
-2d747d99-1c79-4c5e-82e5-bd9e4ae1c49e BY_NAME Papa Ramdas != Swami Ramdas
-ca0668fc-c85f-44ad-8d58-670f5a5b35e3 BY_NAME Nisargadatta != Nisargadatta Maharaj
-dc84bc74-4898-4ff9-9da2-b532723826b3 BY_NOMATCH Jean La Bruyere
-f23a0034-3cab-480b-949c-9534b2f7aa37 BY_NOMATCH Henry S. Hawkins
-ca75c320-06da-4dc1-8dd4-d6933e28fbaf BY_NAME Henry W. Longfellow != Henry Wadsworth Longfellow
-45272ace-f48a-476c-b8b0-d086ea2bf720 BY_NOMATCH William Osier
-d90655e1-d715-4907-8c4f-f3daf4a8323d BY_NAME Oliver W. Holmes != Oliver Wendell Holmes
-684dcbd2-16a0-4e38-bfa3-31decf48b737 BY_MISSING
-80397dd4-d29d-47d5-ba94-8f05eda84a55 BY_NOMATCH Walter B. Wolfe
-46e7c3a2-76e1-42da-ba92-23fa448d4fce BY_NOMATCH St. Bernard
-d83e03ee-05fd-4dca-b428-ab0440b77c1b BY_NOMATCH William Winter
-921092bc-1306-451c-8916-b467e3ed39fb BY_NAME Henry T. Hamblin != Henry Thomas Hamblin
-4cfb8440-8073-4557-b355-fb6a9f963dbc BY_NOMATCH Sidney Harris
-2192ba8f-699f-42d5-8e25-2999909190af BY_NOMATCH Anonymous
-a68e7767-6000-42f9-afdd-faaec99a34e1 BY_NOMATCH Paramanada
-0f9617b2-39f0-4ea0-be0c-b77e6ca0778b BY_NOMATCH Charles C. Colton
-d9463877-be3f-4045-b17a-f0b68041bf8e BY_NAME Michel Montaigne != Michel de Montaigne
-299df700-4a18-4a64-8bfa-b34089255a8e BY_NOMATCH Yukteswar
-849b8741-f562-45c2-8b42-3f94889b9e9f BY_NOMATCH John Gray
-ba21f97d-7feb-447c-8957-147b1aa656fa BY_NAME Walter B. Cannon != Walter Bradford Cannon
-d7df4274-5a88-4326-a773-8d9a26daf526 BY_MISSING
-5d896d79-a12a-4647-864c-da1c0b36e1f6 BY_NAME Shantidasa != Shantidas Ashikari
-3a04b109-cf9e-44fa-b565-1c79b79d722a BY_NOMATCH White Eagle
-1c339992-6b5b-4a38-93d7-569a8621ab5d BY_NAME George J. Nathan != George Jean Nathan
-43535695-f624-4fa0-aaa8-47421f6932f5 BY_NOMATCH Julian P. Johnson
-5b3f753a-e11b-4132-b391-e89be4065650 BY_NOMATCH Susan Marcotte
-6d79b126-9890-4ead-b9be-28008cfc453e BY_NOMATCH Fred Van Amburgh
-4ef39433-6e84-4172-9830-53bd6f4b7f4a BY_NAME Seneca != Seneca the Younger
-51493e7a-5691-4fd1-a2e6-7c8169ff3b69 BY_MISSING
-65a1ef5e-e80c-40bd-9669-00160bdb967d BY_NAME Fritz Kunkel != Fritz Künkel
-cd35247d-b518-4eae-95b9-ebda732dbcd7 BY_NOMATCH Ot Lat Nom
-e7a4db03-b5d0-4686-ab77-85d4e2eb589e BY_NOMATCH Thurman Fleet
-7398804f-5ed6-4176-910f-e084295a4b50 BY_NAME Ralph W. Trine != Ralph Waldo Trine
-09aa99db-3989-40fb-a104-ad8bf808c4b4 BY_NAME Seneca != Seneca the Younger
-f0fc7cb4-ce5e-43e2-8508-dbbd95a0c185 BY_NAME Albertano of Brescia != Albertanus of Brescia
-2f1aff09-800c-404e-9448-823ef1eab9ba BY_NAME Shantidasa != Shantidas Ashikari
-a48bba92-871a-4060-b8bd-4c37a9c4b4a0 BY_NAME Mohandas Gandhi != Mahatma Gandhi
-fa6e1de2-d670-4d89-9cfb-40a3ad0d3e0d BY_NAME Paul of Tarsus != Paul
-a55ebd8f-39c8-45f7-8781-793f80ebc000 BY_NAME Jesse Jennings != Jesse D. Jennings
-9985bf9a-fd75-4c79-8f6a-473074f7f88b BY_NAME Sivananda != Sivananda Saraswati
-5078728b-145b-48cc-8d8f-a7b933d8f5a2 BY_NOMATCH Leland F. Wood
-6a03fa2e-690b-4d52-a9a8-f082900bbb41 BY_NAME Shantidasa != Shantidas Ashikari
-321fc4c3-5688-4945-a255-58ed55bb7f82 BY_NAME Ralph W. Emerson != Ralph Waldo Emerson
-b63e25ec-28de-4e2e-a030-1419204ab6a1 BY_NOMATCH Julian P. Johnson
-faeb03eb-2e6b-4013-a32e-281d9014a46e BY_NOMATCH Louise Doud
-36b78aaf-b5bb-4e10-a215-62d4ef887786 BY_NOMATCH Robert Ingersoll
-cc2d1d41-cb5b-450c-988d-971083e95648 BY_NOMATCH Fred Van Amburgh
-0952b2fe-b48a-492f-8d0b-eb8342641ac9 BY_NOMATCH Edward Clarendon
-fc0cf44f-23a6-400c-8e88-310f997fcc45 BY_NOMATCH Jean P. Camus
-f9d7e367-b433-486a-80fe-df53326f83f6 BY_MISSING
-e9ea1253-d48c-41e3-b363-b253760cd7f5 BY_NAME Mohandas Gandhi != Mahatma Gandhi
-c2d77260-1940-407f-9bef-d70e30205929 BY_NOMATCH Friedrich W. Nietzsche
-fabfe298-7d8f-4810-91cc-4d548360ddf9 BY_NOMATCH John Bradshaw
-a4b6293f-4d5f-4b9b-a41c-bf80f01d59ca BY_NAME Marcus Aurelius != Marcus Aurelius Antoninus
-9a22ab0c-6056-4c61-8c2e-e4918b3bfdd2 BY_MISSING
-2756931f-f8e6-4cc7-8663-bbe63c53ab44 BY_NAME Shantidasa != Shantidas Ashikari
-f9a57913-3592-4c2b-a73c-0c31849d5a6a BY_NAME Papa Ramdas != Swami Ramdas
-6dceb809-6fb3-46ff-aed8-c530a0c944ce BY_NAME Paramananda != Swami Paramananda
-c04c63ff-a3db-40b0-bfeb-ba474eb6912f BY_NOMATCH Simon Eleazar
-c428039b-2402-4b33-9e8f-1ceb0926e954 BY_NOMATCH Frank M. Colby
-ad500351-ce2e-4f7a-8ded-b656d7e029ab BY_MISSING
-0aa89b33-66e9-450b-a77a-8a36946a3cbc BY_NAME Thomas Haliburton != Thomas Chandler Haliburton
-d0dc7da4-d747-4974-8749-644e6e8f26bb BY_NAME Mohandas Gandhi != Mahatma Gandhi
-cadc42e0-9e7e-4f34-a460-dd6d5981fe7c BY_NAME Charlotte Bronte != Charlotte Brontë
-cd723445-88b2-45f9-9159-7e4f0adc8b79 BY_NOMATCH Bhagavad-Gita
-c543aadf-ba96-44c8-8cb2-283e5d6110fa BY_NOMATCH Charles C. Colton
-b2afda16-39e5-4b8d-b5b1-9beb67bfac4d BY_NOMATCH William Alger
-087006ca-fd34-49a9-9d31-fdec316e4e73 BY_MISSING
-64bae9eb-054a-4d8d-9a01-9683105db9f0 BY_NAME Shantidasa != Shantidas Ashikari
-6dde0aca-4808-4456-a9b4-47dd85816e20 BY_NOMATCH Abraham Hasdai
-7f514607-1348-4de6-8850-b1bb14af3b49 BY_NAME Solomon Ibn Gabirol != Solomon ibn Gabirol
-850a6fee-a759-47db-892b-2a254fdc0edc BY_NAME Soren Kierkegaard != Søren Kierkegaard
-21d7ea32-d686-496b-b118-526a7e45d66d BY_NAME Paramananda != Swami Paramananda
-ce694982-36d2-4fa5-a288-87d021d53c62 BY_NOMATCH Arthur S. Roche
-d8183b7e-545d-469e-a772-05b158da1b08 BY_MISSING
-7a2831a8-d96c-4123-b731-f1eac9fb9c52 BY_NOMATCH Anonymous
-16cde0ad-7523-4623-909e-2b76b72591c2 BY_NOMATCH Bolton Hall
-2658f004-39d8-4376-839a-25e7632fd9de BY_NAME Francois Fenelon != François Fénelon
-0d4ea33d-255b-43ca-9ccf-41f595a54c75 BY_NAME Seneca != Seneca the Younger
-bb0cbd85-9c99-43d1-8597-897ab82fdbdc BY_NOMATCH John & Muriel James
-c26530a7-e7e8-401a-8487-9a0837b1efc3 BY_NOMATCH Joseph Newton
-6202b9e3-c6aa-4155-ba64-f456e4d10bc2 BY_NOMATCH Shih King
-52b66c56-bc7e-46a9-9770-2d6895eee73e BY_NOMATCH Beilby Porteous
-acbde577-cc16-4231-b630-3048c4f9565a BY_NOMATCH William B. Ullathome
-b5964bc6-29f7-42c8-a025-e2289c934691 BY_NOMATCH William Jay
-014d4ee6-35f2-4a61-b89b-c8f57a4715bb BY_NAME Pope Gregory I != Gregory I
-a1162007-6de6-47c5-b4ce-c2a675836777 BY_NOMATCH Anonymous
-b1ab8613-84c0-4078-bc43-512917832580 BY_NAME Papa Ramdas != Swami Ramdas
-ddad52e6-a271-4031-b4ae-87806cbaff2e BY_NAME Soren Kierkegaard != Søren Kierkegaard
-ba64a992-f9d6-4805-a61d-d5e15a8bd836 BY_NAME Shantidasa != Shantidas Ashikari
-7a42a00c-27cf-4c48-8a0a-7ad1a8f4a3de BY_NOMATCH Dorthea Brande
-a98db005-ec57-438f-aaf6-277b7c586c42 BY_NOMATCH Edwin & Sally Kiester
-dfd46452-f38e-4dbf-9870-8d2bc166f12b BY_NAME Papa Ramdas != Swami Ramdas
-fb833d62-acea-408e-9d1b-28b39e623127 BY_NAME Gerald G. May != Gerald May
-68d19e42-9bdf-4957-b12a-b398f8906765 BY_MISSING
-3b43aef4-fe06-4abe-9159-dc9f93078616 BY_MISSING
-68697a3d-409f-4e13-abf3-8f4220f283d3 BY_NAME Robert Schuller != Robert H. Schuller
-e9f5099b-ad1b-4ad1-8797-9af4a5e81e6c BY_NOMATCH Richard E. Burton
-d585de41-a5a6-476a-9b3c-eb0aaddd16a7 BY_NOMATCH Thomas Bacon
-7b7fafc9-7f1d-40bb-b036-bf625be13794 BY_NOMATCH W. C. Magee
-bb187def-b9bc-488d-b29a-295fe60de21e BY_NAME Oliver W. Holmes != Oliver Wendell Holmes
-08a7a08d-c514-466b-a6af-2beed7c27ba4 BY_NAME Herbert Casson != Herbert Newton Casson
-da7f45c6-479d-4828-97ca-0ada3d47d547 BY_NAME Elbert Hubbard != Elbert Green Hubbard
-c6aba1b7-0c72-4c4c-8687-104fe84354e9 BY_NOMATCH Fred Van Amburgh
-9c77c10e-dff9-44af-84cf-fdf7f0e8e252 BY_NAME George Byron != Lord Byron
-ec0473c2-b5c8-47f5-9fd6-54cc8e3572a1 BY_NOMATCH Edwin C. Bliss
-244a502b-a825-481e-816e-35f927071ce1 BY_NOMATCH Bernice Strawn
-53bd8a58-346c-435b-9dd9-b9d1c0f65e25 BY_NAME Shantidasa != Shantidas Ashikari
-c92cd9e8-568c-459b-a5fd-17d44a6ed79a BY_NOMATCH Carl Roivan
+cf5f37e3-2046-48ad-bdfe-14f9c9a64c7f BY_NAME Ryokan != Ryōkan
+8b6eca99-2aea-4116-8075-eb30c1568213 BY_NAME da184f92-f119-42ee-8e45-06ab31cd9624 != Thomas Merton
+8b6eca99-2aea-4116-8075-eb30c1568213 TITLE_SPELL thge
+f591198c-1122-4d00-87e5-723bd79c3419 BY_NOMATCH Yehuda Amichai
