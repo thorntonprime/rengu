@@ -70,7 +70,4 @@ def alternate_names(name):
 
 if __name__ == '__main__':
 
-    for name in [x.strip() for x in sys.stdin.readlines() ]:
-        for alt_name in alternate_names(name):
-            print(alt_name)
-
+    wiki_lookup()
