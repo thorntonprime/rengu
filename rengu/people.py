@@ -54,9 +54,9 @@ def load_people_map():
             people[name] = {'RealName': real_name}
         else:
             if real_name == name:
-                people[real_name] = {'AlternateNames': [], 'Url': wiki_url}
+                people[real_name] = {'AlternateNames': [], 'URLs': [wiki_url] }
             else:
-                people[real_name] = {'AlternateNames': [name], 'Url': wiki_url}
+                people[real_name] = {'AlternateNames': [name], 'URLs': [wiki_url]}
                 people[name] = {'RealName': real_name}
 
     return people
@@ -88,7 +88,7 @@ def load_yaml_file(f):
                 if len(alternate_names) > 0:
                     x['AlternateNames'] = alternate_names
 
-                if 'Url' in people_map[name]:
-                    x['Url'] = people_map[name]['Url']
+                if 'URLs' in people_map[name]:
+                    x['URLs'] = people_map[name]['URLs']
 
             return x
