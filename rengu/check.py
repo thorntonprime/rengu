@@ -5,7 +5,7 @@ import sys
 from uuid import UUID
 
 from blitzdb import FileBackend
-from blitzdb.document import DoesNotExist
+from blitzdb.document import DoesNotExist, MultipleDocumentsReturned
 
 from rengu.db.people import Person
 from rengu.db.verses import Verse
@@ -36,6 +36,9 @@ def find_person(backend, name):
     try:
         person = backend.get(Person, {'Name': name})
     except DoesNotExist:
+        person = None
+    except MultipleDocumentsReturned:
+        print("Multiple people for %s ... this is broken." % (name))
         person = None
 
     # Or maybe an alternate name?
