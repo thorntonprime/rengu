@@ -15,21 +15,28 @@ usage ()
 
 stop ()
 {
-    celery-3 multi stop
-    rm tmp/celery-*.pid
+    celery-3 multi stop 10 \
+        --pidfile=tmp/celery-%n.pid
 }
 
 status ()
 {
-    celery-3 multi show
+    celery-3 multi show 10 \
+        --pidfile=tmp/celery-%n.pid
+}
+
+restart () 
+{
+    celery-3 multi restart 10 \
+        --pidfile=tmp/celery-%n.pid
 }
 
 start () 
 {
     celery-3 multi start 10 \
         -A rengu \
-        -l info -c4 \
-        -f %n-%i.log \
+        -f tmp/%n-%i.log \
+	-l info -c4 \
         --pidfile=tmp/celery-%n.pid
 }
 
@@ -38,7 +45,6 @@ case "$1" in
     status) status ;;
     start) start ;;
     restart|reload|force-reload) restart ;;
-    # condrestart) condrestart ;;
     *) usage ;;
 esac
 
