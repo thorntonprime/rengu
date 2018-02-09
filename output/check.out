@@ -2517,7 +2517,7 @@
 5aca54d2-e212-4b31-80a2-662fb5c8e986 BY_NAME St Augustine != Augustine of Hippo
 5ad16f9d-6998-4298-8dfa-ee0defde4d7a BY_MISSING
 5adba965-2d9b-48e8-8fcc-39676603e248 BY_NAME Michael Sendivogius != Sendivogius
-5adf5b68-f515-450f-a7e1-6825c1b8abb9 BY_NOMATCH Johann W. Goethe
+5adf5b68-f515-450f-a7e1-6825c1b8abb9 BY_NAME Johann W. Goethe != Johann Wolfgang von Goethe
 5aed7882-e4e0-4cb8-81a0-5a75ffa3735d BY_NAME 'Attâr != Attar of Nishapur
 5aff2ad6-5f49-4e60-8c08-faae381534c7 BY_MISSING
 5b02c353-eb41-433f-9adb-8bac259af75e BY_MISSING
@@ -3671,7 +3671,7 @@
 842ebbdf-7bc6-4ba2-ad8c-b07b12b6a5a5 BY_MISSING
 843abb9e-9b38-4ac2-9df8-29a957a55555 BY_MISSING
 844592a5-520c-4273-82e9-43e96a641709 BY_NAME Sri Ramakrishna != Ramakrishna
-845140e2-c69d-4035-86de-5fdfcaafe121 BY_NOMATCH Johann W. Goethe
+845140e2-c69d-4035-86de-5fdfcaafe121 BY_NAME Johann W. Goethe != Johann Wolfgang von Goethe
 845284de-9d73-4d36-a3d9-21d6fd77eac5 BY_NAME Sri Ramakrishna != Ramakrishna
 845b2578-81bb-4f08-adcd-e266afd797fd BY_NAME Richard of Saint-Victor != Richard of Saint Victor
 846bb857-bf2c-47c8-bc5e-c8004cf0e9f2 BY_MISSING
@@ -5616,7 +5616,7 @@ c99fbfea-02ed-46ae-8707-3df3234a7433 BY_NAME 0200c883-e38f-4554-92bc-2eba913426b
 c9b2a235-4f5b-4d21-a403-cbabb11c17be BY_NAME 0200c883-e38f-4554-92bc-2eba913426b7 != Rumi
 c9b5d510-e82d-4506-b1fe-5651e0f57455 BY_MISSING
 c9b8d13b-f0e3-4826-ae08-abf81ad83c00 BY_NAME Swami Sivananda != Sivananda Saraswati
-c9bdca49-917e-4650-ab8d-81d970ebd94a BY_NOMATCH Johann W. Goethe
+c9bdca49-917e-4650-ab8d-81d970ebd94a BY_NAME Johann W. Goethe != Johann Wolfgang von Goethe
 c9c2426b-edac-4a3e-a904-47dcfa2fe62c BY_NAME Sextus the Pythagorean != Quintus Sextius
 c9c478b8-76fc-45d0-be5d-83481fd590f0 BY_NOMATCH Margaret R. Stortz
 c9ca6db6-82f6-4514-9382-dabc0a46c9f9 BY_MISSING
@@ -7430,8 +7430,27 @@ e45db8c0-841e-4de4-9860-b6a90e3a73c3 BY_NOMATCH Vachaka Kovia
 aa7968fa-b497-4996-812f-b754ca68c546 BY_NOMATCH Robert Benson
 1363e32b-de99-45ba-9b39-294bee240178 BY_NOMATCH Ronald Beesley
 0a446847-b179-4a4a-95e5-04bed68fd155 BY_NOMATCH Gerald Jampolsky
-7457e8d3-fbc6-4457-afca-57f5c4baa928 BY_NOMATCH Johann W. Goethe
+7457e8d3-fbc6-4457-afca-57f5c4baa928 BY_NAME Johann W. Goethe != Johann Wolfgang von Goethe
 e67b06ea-2769-40a1-877c-4f11d4589f57 BY_NOMATCH Anonymous
 1e45017c-d331-4bd4-bdd2-350bfc236932 BY_NOMATCH Mason Horton
 8ed74508-40c2-463a-a9ff-deb530801e46 BY_NOMATCH Paul Williams
 f19ffc28-cf24-4f52-8c9b-e1bdc36e495f BY_NAME Shantidasa != Shantidas Ashikari
+aafa7f3c-55e0-4b61-b6c0-3c3645736d17 BY_NOMATCH May Sarton
+1c279783-1c7d-44bf-bc7a-3c05dad5fbf2 BY_NAME da184f92-f119-42ee-8e45-06ab31cd9624 != Thomas Merton
+d5556f56-bc2e-4afa-a777-4139d5b6fa47 BY_MISSING
+3f278d52-7b1d-42fe-a73e-2da8efead7bf BY_NOMATCH Philip Massinger
+5f40da0c-e5a9-47f2-8b59-7f4b562b01bc BY_MISSING
+eddd253c-f76f-4829-92d7-27d9b3b71301 BY_NAME Manhae != Han Yong-un
+c5a3e3cd-4a96-4984-a774-bd5a546fc583 BY_NAME Manhae != Han Yong-un
+902b4bcf-3b6f-4af4-b04a-9645e8334835 BY_NAME Manhae != Han Yong-un
+a4a5996e-d03e-4bcd-9bdd-f618bff277a6 BY_NAME Manhae != Han Yong-un
+70a6f3da-0c45-4141-a7df-5ce32c6e79f4 BY_NAME Manhae != Han Yong-un
+70a6f3da-0c45-4141-a7df-5ce32c6e79f4 TITLE_SPELL Komun'go
+e65cf5f5-e6af-4cc1-81a2-fe2b2265082b BY_NAME Manhae != Han Yong-un
+4282d048-675b-4367-93a1-60a6ea9f03a7 BY_NAME Manhae != Han Yong-un
+03c21d33-ae18-40a7-be68-853820bc4610 BY_NAME Manhae != Han Yong-un
+6b9f040b-31e9-4dfa-a5bb-e6b2fbfb6b6f BY_NAME Manhae != Han Yong-un
+9fe86bc6-31b7-40a2-af29-b9c9cefb477e BY_NAME Manhae != Han Yong-un
+fd9d95bf-413d-4e50-ba3f-a72d6f6b8276 BY_NOMATCH Jay Ramsay
+7821cd02-a3ef-4544-afc9-a00138b4e5ad BY_MISSING
+7821cd02-a3ef-4544-afc9-a00138b4e5ad TITLE_SPELL Pima
