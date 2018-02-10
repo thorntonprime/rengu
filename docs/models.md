@@ -1,6 +1,6 @@
 
 
-# People
+### People
 
 ```
 Name: str
@@ -10,7 +10,7 @@ Influences: [str,]
 Description: str
 ```
 
-# People (Group)
+### People (Group)
 
 ```
 Name: str
@@ -21,7 +21,7 @@ Influences: [str,]
 Description: str
 ```
 
-# Source
+### Source
 
 ```
 ID:
@@ -38,7 +38,9 @@ Source:
 ```
 
 
-# Verse
+### Verse
+```
 Title:
 By:
 Source: {}
+```
