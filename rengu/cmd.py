@@ -135,6 +135,8 @@ class RenguCmd(cmd.Cmd, object):
         '''
 
         import rengu.db.people
+        # backend.create_index(Person, params="Name", unique=True )
+        # backend.rebuild_index('people', key="Name")
         rengu.db.people.load_all_yaml()
 
         import rengu.db.sources
