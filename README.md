@@ -1,6 +1,7 @@
 
 ## Processing Sources
 * [Daily Scans](https://drive.google.com/drive/folders/0B89-2Njmo7xgbGgzZnZWMFMtVW8) - [I Ching](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching)
+* [Books in Process](https://prajna.yoyoweb.com/books/rengu-in-process/)
 
 ## Primary Sources
 * [Sacred Texts Archive](http://www.sacred-texts.com/) - [Local](https://prajna.yoyoweb.com/books/theos/ista09/index.htm)
