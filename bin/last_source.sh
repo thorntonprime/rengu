@@ -56,20 +56,27 @@ longing() {
     xargs bin/rengu json | jq -r '._id + " " + (.Source.Locus.Page | tostring) + " " + (.Source.Locus.Loc | tostring) + " " + .Title + "/" + .By' | sort -k 2g
 }
 
-t_o_s() {
+tosw() {
   grep -l 57c5499b-c3b2-4b09-92a9-a6e977a32050 verses/* | \
     xargs bin/rengu json | \
     jq -r '.Source.Locus.Page' | sort -g | uniq -c
 }
 
-FUNS="$( grep '()' $0 | sed -e 's@() {@@' | paste -sd '|' )"
+FUNS=$( grep '[[:alnum:]]*()' $0 | sed -e 's@() {@@' | paste -sd '|' )
+
+do_help() {
+    echo "Select one of:"
+    for x in $( echo ${FUNS} | tr '|' ' ' | sed -e 's/FUNS.*//' ); do
+      echo "  $x"
+    done
+}
 
 for ARG in $@; do
 
   if [[ "$ARG" =~ ^\($FUNS\)$ ]]; then
 	$ARG
   elif [[ "$ARG" == "help" ]]; then
-    echo "Select one of $FUNS"
+	do_help
   else
     echo "Not found (try help)"
   fi

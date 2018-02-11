@@ -747,7 +747,7 @@
 1a8a5b6b-f86a-41db-8b43-448a7a6a2413 BY_MISSING
 1a8b8a16-38f3-4430-8542-7a3f8c44cb6b BY_NAME Chang Po-tuan != Zhang Boduan
 1a903dba-e719-49a8-b93d-fa760b4809db BY_NAME Simplicius != Simplicius of Cilicia
-1aa152c4-be5e-424b-96fc-02a1876d29d7 BY_NAME Count Leo Nikolaevich Tolstoy != Leo Tolstory
+1aa152c4-be5e-424b-96fc-02a1876d29d7 BY_NAME Count Leo Nikolaevich Tolstoy != Leo Tolstoy
 1ab4367f-bb6b-452e-83f7-a512e7f473ae BY_NAME St Augustine != Augustine of Hippo
 1ab55d9a-24c6-415d-8e39-036cfabdd920 BY_MISSING
 1ab74084-a4d7-4e99-958e-b755e6684ed7 BY_NAME Boehme != Böhme
@@ -4015,7 +4015,7 @@
 8fed6116-3e1d-4caa-834e-ae6ba1a95d2a BY_NAME 'Attâr != Attar of Nishapur
 8ffb225c-a9ff-4483-b42a-062d34fc5b32 BY_NAME Al-Kalâbâdhî != Abu Bakr al-Kalabadhi
 900d1b57-e0e5-41ab-a190-feac463f4486 BY_NAME Rûmî != Rumi
-9017abb9-2702-4569-b711-ebbe10982deb BY_NAME Pseudo-Dionysius != Pseudo-Dionysius the Areopagite
+9017abb9-2702-4569-b711-ebbe10982deb BY_NAME Pseudo-Dionysius != Dionysius the Areopagite
 90302313-d97c-4d54-becc-c1f2b36f7405 BY_NAME Hermes != Hermes Trismegistus
 9031a732-d2f8-4355-b0a1-57732409a2a9 BY_MISSING
 90364e64-07f9-4e23-b194-05cd65f4bbf0 BY_MISSING
@@ -7293,7 +7293,6 @@ eee159e8-c322-4c34-9fc4-63ab4c386059 BY_NOMATCH James Allen
 694bf10a-7c15-4fae-85f0-77da9860d07f BY_NAME Seneca != Seneca the Younger
 65863e39-4945-47f3-acf7-611fa8028c72 BY_NAME Ralph W. Emerson != Ralph Waldo Emerson
 d8df02ca-a274-43cd-8353-cce54838628e BY_MISSING
-e8b5da44-7ac2-473b-94fc-f80c81ef6ec4 BY_NOMATCH Procl u s
 39f4ff35-f431-4cfa-ad41-38d37dace78f BY_NAME Shantidasa != Shantidas Ashikari
 aba1e775-85d1-46cc-aa98-cabe5d3ca640 BY_NOMATCH Shem Tob Falaquera
 e80e5a84-de62-4ce7-8693-1e38c9183320 BY_MISSING
@@ -7487,3 +7486,51 @@ f22e787b-a471-42a4-abe2-1eeb06cf3f7d BY_MISSING
 f2181d0e-e162-4538-b8c1-56dfb09ee0d8 BY_NAME Emanuel Swedenborg != Emmanuel Swedenborg
 6b9cd2c9-eac9-423c-a89b-48aefb17a74b BY_NOMATCH Jean P. Camus
 0106162a-24b5-4561-aff8-abacd6cd4b1a BY_MISSING
+48d44caa-5969-4bae-b644-37519428967a BY_NAME da184f92-f119-42ee-8e45-06ab31cd9624 != Thomas Merton
+103926b2-95a7-4bd6-820d-df71c83c6cb8 BY_MISSING
+0b07ecb8-2a49-4ee1-9867-4889198d49ab BY_NAME Charles Robert Darwin != Charles Darwin
+5f33621f-080e-49f6-961d-71c8646ac95a BY_NAME Frederick W. Robertson != Frederick William Robertson
+c9f36d12-3ce0-4034-8941-444365626595 BY_NOMATCH Qiarles Lamb
+1c4833e5-3c8a-4224-b902-812f290500a1 BY_NAME Henry Home != Henry Home, Lord Kames
+e9738a14-4f49-4ba9-968b-8803ff9b1bbc BY_MISSING
+b75f146b-73b9-4d3a-9ba6-60edf87f608e BY_NAME Seneca != Seneca the Younger
+d631bc33-e7dc-4502-888b-776935e4cfab BY_NOMATCH Jean Paid Richter
+67435d49-515d-4934-874a-7537a3557813 BY_NAME Shantidasa != Shantidas Ashikari
+ecac92b3-cfc4-4475-b31e-b858fd1d3419 BY_NOMATCH Nachman ofBratslav
+e50cc442-3c4f-4d04-8a09-8db6bd583655 BY_NOMATCH Hillel
+4b8f27ef-1281-471f-b742-b6d167c265bd BY_NOMATCH Jean P. Camus
+c2784fa4-0851-4317-a9a8-1f00661317c2 BY_NAME Padre Pio != Padre pio
+50bbd46b-26b8-4457-9a1d-d21c2165a26c BY_MISSING
+833e3f12-1b20-405f-a96a-15aeb4082fde BY_NOMATCH Robert W. Buckingham
+bfcca54f-fa79-4132-b550-c302d5e0ceab BY_NOMATCH Stephen Levine
+3380008a-4d81-448b-9d97-e7fd80aaf69d BY_NOMATCH Susan Partnow
+6140f209-f2eb-453a-8036-05ba94789e36 BY_NAME Pope John XXIII != John XXIII
+30772a93-753e-49e6-a3f1-8d76cd739f10 BY_NAME Pearl Buck != Pearl S. Buck
+61b077ed-a66f-4ced-a14c-231c32cbbbb8 BY_NAME Georg C. Lichtenberg != Georg Christoph Lichtenberg
+9e5cee9e-8533-4ff4-b76d-916654b24d51 BY_NOMATCH Edgar N. Jackson
+b6499ec2-5c09-44de-90d8-862b6aaaf6d1 BY_NOMATCH Janet Falldron
+139dc69b-9c9d-4b38-96ec-dc7d309cd807 BY_NAME Erik H. Erikson != Erik Erikson
+c21e162f-3ba5-4e01-b3ba-eb0925bf4690 BY_NAME Johann W. Goethe != Johann Wolfgang von Goethe
+7465ced5-909b-4612-9677-4ecbe985049b BY_NOMATCH Louis Binstock
+45433172-9e11-4454-aeb9-84b05463891c BY_NAME Ralph W. Trine != Ralph Waldo Trine
+cf455f84-968b-4d49-a0ef-a26b07829e59 BY_NOMATCH Dorothy Law Nolte
+ba82d1d8-2311-452a-8e9d-e0b503d3672b BY_NAME Kahlil Gibran != Jalil Gibran
+d13ed90a-7558-4f7e-a3ab-38440d077795 BY_NOMATCH Menicus
+6d9c816d-c70a-49fc-9615-c32b13246e1e BY_NAME Charles Peguy != Charles Péguy
+8681d252-b043-49bb-a583-4eba88d3086b BY_NOMATCH Friedrich W. Nietzsche
+85087622-ca0c-4ee9-af10-787d4fd03840 BY_NAME Frater Achad != Charles Stansfeld Jones
+b67d4802-a0b0-4da2-865b-270b738f58d8 BY_NAME Yogi Bhajan != Harbhajan Singh Yogi
+32c7a02d-b730-4dd3-b57e-60a0e343e4cb BY_NOMATCH Eric Butterworth
+3aa8d781-228f-46a2-830f-80299b35cecd BY_NOMATCH David Seaburi
+c7976ca7-f23e-4dcb-b7ce-62ddc8a1fe94 BY_NOMATCH Ann Liza Bray
+6f499151-b085-405c-a840-1d6b2e48548e BY_NOMATCH Midrash
+c19b01f1-571c-43d5-9d63-c27a93bc8360 BY_NOMATCH Edwin Bulwer-Lytton
+cbb385fa-8d36-4932-aab0-d02b44ce88de BY_NAME Constantin Brancusi != Constantin Brâncuși
+12bfd697-cd52-4059-bd01-be08fdf33d9d BY_NAME Adam Oehlenschlager != Adam Oehlenschläger
+9e0b8bf2-9130-43aa-adff-5eb6cf5a1960 BY_NAME Takuan != Takuan Sōhō
+cd2e4d0f-8a40-4733-9b25-36430f269633 BY_NAME Hazrat Inayat Khan != Inayat Khan
+3fd93aa1-39ce-49af-a905-0cf8062f6f57 BY_NOMATCH Gary Emery
+1af2ed47-8208-4f8d-a6b1-9e7eb8d7b7c2 BY_NAME Froebel != Friedrich Fröbel
+84ad5a71-ae6a-43d9-bfa9-9a7284ae7761 BY_MISSING
+53139f2d-3c85-4074-a988-38dc803d5353 BY_NOMATCH Harold S. Hubert
+d60172d4-b16f-4922-ae09-720edf4e43f5 BY_NAME Johann W. Goethe != Johann Wolfgang von Goethe
