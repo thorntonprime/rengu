@@ -44,6 +44,13 @@ iching-siu() {
 
 }
 
+cold-mountain() {
+
+  grep -l 1ea75c7b-679c-4c20-bf1a-1ea2b09be427 verses/* | \
+      xargs bin/rengu json | \
+      jq -r '@text "\(._id) \(.Source.Locus.Page)\t\(.Source.Locus.Number)"' | \
+      msort --quiet --line -n 2 -c n -n 3 --number-system roman -c n
+}
 
 manhae() {
   grep -l e13d8994-eff6-4830-981a-b30658d44b81 verses/* |
