@@ -29,18 +29,19 @@ cloud() {
     msort --line --position 1 --comparison-type numeric --number-system roman --quiet --suppress-log
 }
 
-iching_siu_main() {
-  grep -l 503bbcad-73dd-49e6-96a0-bde44020aeb4 verses/* | \
-    xargs bin/rengu json | \
-    jq -r '@text "\(._id) \(.Hexagram)\t\(if .Locus.Line then .Locus.Line else .Locus.Description end)"' | \
-    grep -v null | \
-    sort -k 2
+iching-siu() {
 
-  grep -l 503bbcad-73dd-49e6-96a0-bde44020aeb4 verses/* | \
-    xargs bin/rengu json | \
-    jq -r '@text "\(._id) \(.Source.Locus.Hexagram)\t\(if .Source.Locus.Line then .Source.Locus.Line else .Source.Locus.Description end)"' | \
-    grep -v null | \
-    sort -k 2
+  (
+    grep -l 503bbcad-73dd-49e6-96a0-bde44020aeb4 verses/* | \
+      xargs bin/rengu json | \
+      jq -r '@text "\(._id) \(.Hexagram)\t\(if .Locus.Line then .Locus.Line else .Locus.Description end)*"'
+
+    grep -l 503bbcad-73dd-49e6-96a0-bde44020aeb4 verses/* | \
+      xargs bin/rengu json | \
+      jq -r '@text "\(._id) \(.Source.Locus.Hexagram)\t\(if .Source.Locus.Line then .Source.Locus.Line else .Source.Locus.Description end)"'
+
+  ) | grep -v null | sort -k2
+
 }
 
 
