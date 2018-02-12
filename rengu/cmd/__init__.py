@@ -17,6 +17,23 @@ class RenguCmd(cmd.Cmd, object):
     prompt = '> '
 
     @auto_help
+    def do_quit(self, args):
+        '''quit
+        Quit the tool
+        '''
+        return True
+    do_EOF = do_quit
+
+    @auto_help
+    def do_load(self, args):
+        '''load
+        Subcommands to load data
+        '''
+        from rengu.cmd.load import RenguLoadCmd
+        load_cmd = RenguLoadCmd()
+        load_cmd.cmdloop()
+
+    @auto_help
     def do_dumpfile(self, line):
         '''dumpfile
         dump file in a flat format with dot names
