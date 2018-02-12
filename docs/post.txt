@@ -1,0 +1,13 @@
+
+# Download ntlk
+python3
+>>> import nltk
+>>> nltk.download()
+
+# install Spacy tokenizer
+ts python3 -m spacy download en
+ts python3 -m spacy download en_core_web_md
+ts python3 -m spacy download xx_ent_wiki_sm
+ts python3 -m spacy download en_vectors_web_lg
+ts python3 -m spacy download en_vectors_glove_md
+
