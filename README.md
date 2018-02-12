@@ -24,9 +24,6 @@
 * [YwRilke](http://yearwithrilke.blogspot.com/2011/01/)
 * [Cloud of Unknowing](http://www.ccel.org/ccel/anonymous2/cloud.pdf)
 
-## Source Specific
-* [Sannya Osho Wiki](http://www.sannyas.wiki/index.php)
-
 ## Data Tools
 * [Kaggle - Faith and Traditions](https://www.kaggle.com/tags/faith-and-traditions)
 
