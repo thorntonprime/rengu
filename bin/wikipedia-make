@@ -51,6 +51,10 @@ if __name__ == '__main__':
         label = page.data.get("label")
         url = page.data.get("url", "")
         what = page.data.get("what", "NONE")
+
+        #wikibase = page.data.get("wikibase")
+        #pegeid= page.data.get("pageid")
+
         if type(what) is tuple:
             what = ','.join(what)
         if what == 'Wikimedia disambiguation page':

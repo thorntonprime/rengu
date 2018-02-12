@@ -70,6 +70,12 @@ tosw() {
     jq -r '.Source.Locus.Page' | sort -g | uniq -c
 }
 
+eckhart() {
+  grep -l 1bcc9afb-a524-4e83-8eb6-1bdafee25e0f verses/* | \
+    xargs bin/rengu json | \
+    jq -r '@text "\(._id) \(.Source.Locus.Page) \(.Title)"' | sort -k2 -g 
+}
+
 FUNS=$( grep '[[:alnum:]]*()' $0 | sed -e 's@() {@@' | paste -sd '|' )
 
 do_help() {
