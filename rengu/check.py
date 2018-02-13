@@ -34,7 +34,8 @@ def find_person(backend, name):
 
     # Person is a real name
     try:
-        person = backend.get(Person, {'Name': name})
+        #person = backend.get(Person, {'Name': name})
+        person = backend.get(Person, {'Name': { "$regex": "^" + name + "$", "$options" : "i" } })
     except DoesNotExist:
         person = None
     except MultipleDocumentsReturned:

@@ -34,6 +34,17 @@ class RenguCmd(cmd.Cmd, object):
         load_cmd.cmdloop()
 
     @auto_help
+    def do_find(self, args):
+        '''find
+        Subcommands to find data
+        '''
+        from rengu.cmd.find import RenguFindCmd
+        find_cmd = RenguFindCmd()
+        find_cmd.cmdloop()
+
+    ###################
+
+    @auto_help
     def do_dumpfile(self, line):
         '''dumpfile
         dump file in a flat format with dot names
