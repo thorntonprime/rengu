@@ -6,34 +6,34 @@ from rengu.tools import flatten, is_uuid, remove_accents
 
 import yaml
 
-People = []
+Authors = []
 
 
 def load():
-    people = Path('people')
+    authors = Path('authors')
 
-    for pfile in people.iterdir():
+    for pfile in authors.iterdir():
         for i in yaml.load_all(open(pfile).read()):
             if i:
                 i['_uid'] = pfile.name
-                People.append(i)
+                Authors.append(i)
 
 
 def find(name):
     fixed = remove_accents(name)
-    for p in People:
+    for p in Authors:
         if fixed in p["Name"]:
             print(p["_uid"])
 
 
-def load_people_map():
+def load_authors_map():
 
-    people = {}
-    map_file = open('docs/people.md', 'r')
+    authors = {}
+    map_file = open('docs/authors.md', 'r')
 
-    for person in map_file.readlines():
+    for author in map_file.readlines():
         try:
-            (wiki, data, name) = [x.strip() for x in person.split('|')]
+            (wiki, data, name) = [x.strip() for x in author.split('|')]
 
             if is_uuid(name):
                 continue
@@ -49,37 +49,37 @@ def load_people_map():
         except:
             continue
 
-        if real_name in people:
-            people[real_name]['AlternateNames'].append(name)
-            people[name] = {'RealName': real_name}
+        if real_name in authors:
+            authors[real_name]['AlternateNames'].append(name)
+            authors[name] = {'RealName': real_name}
         else:
             if real_name == name:
-                people[real_name] = {'AlternateNames': [], 'URLs': [wiki_url] }
+                authors[real_name] = {'AlternateNames': [], 'URLs': [wiki_url] }
             else:
-                people[real_name] = {'AlternateNames': [name], 'URLs': [wiki_url]}
-                people[name] = {'RealName': real_name}
+                authors[real_name] = {'AlternateNames': [name], 'URLs': [wiki_url]}
+                authors[name] = {'RealName': real_name}
 
-    return people
+    return authors
 
 
 def load_yaml_file(f):
 
-    people_map = load_people_map()
+    authors_map = load_authors_map()
 
     for x in yaml.load_all(open(f).read()):
         if x:
 
             name = x['Name']
 
-            if name in people_map:
+            if name in authors_map:
 
-                if 'RealName' in people_map[name]:
+                if 'RealName' in authors_map[name]:
                     x['AlternateNames'] = x.get('AlternateNames', [])
                     x['AlternateNames'].append([name])
-                    name = people_map[name]['RealName']
+                    name = authors_map[name]['RealName']
                     x['Name'] = name
 
-                alternate_names = people_map[name].get('AlternateNames', [])
+                alternate_names = authors_map[name].get('AlternateNames', [])
                 alternate_names.extend(x.get('AlternateNames', []))
 
                 alternate_names = list(
@@ -88,7 +88,7 @@ def load_yaml_file(f):
                 if len(alternate_names) > 0:
                     x['AlternateNames'] = alternate_names
 
-                if 'URLs' in people_map[name]:
-                    x['URLs'] = people_map[name]['URLs']
+                if 'URLs' in authors_map[name]:
+                    x['URLs'] = authors_map[name]['URLs']
 
             return x

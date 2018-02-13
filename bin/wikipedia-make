@@ -8,12 +8,12 @@ import yaml
 
 sys.path.append('')
 from rengu.tools import YamlDumper, walk_search
-from rengu.check import find_person
+from rengu.check import find_author
 
 from blitzdb import FileBackend
 from blitzdb.document import DoesNotExist
 
-from rengu.db.people import Person
+from rengu.db.authors import Author
 
 def normalize(input_str):
     # Returns a NFKD normalized form of the input string
@@ -62,12 +62,12 @@ if __name__ == '__main__':
 
         if what == 'human':
 
-            exists = find_person(backend, name)
+            exists = find_author(backend, name)
             if exists:
                 print("Weird ... I already have" ,name, exists.Name)
                 continue
 
-            data = find_person(backend, label)
+            data = find_author(backend, label)
             if data:
                 data = dict(data)
 

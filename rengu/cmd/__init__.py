@@ -118,9 +118,9 @@ class RenguCmd(cmd.Cmd, object):
             print(body.replace(":", "："))
 
     @auto_help
-    def do_people(self, line):
-        '''people
-        dump people referenced in verse files
+    def do_authors(self, line):
+        '''authors
+        dump authors referenced in verse files
         '''
 
         for f in line.split():
@@ -162,10 +162,10 @@ class RenguCmd(cmd.Cmd, object):
         Load the YAML files into the blitzdb
         '''
 
-        import rengu.db.people
-        # backend.create_index(Person, params="Name", unique=True )
-        # backend.rebuild_index('people', key="Name")
-        rengu.db.people.load_all_yaml()
+        import rengu.db.authors
+        # backend.create_index(Author, params="Name", unique=True )
+        # backend.rebuild_index('authors', key="Name")
+        rengu.db.authors.load_all_yaml()
 
         import rengu.db.sources
         rengu.db.sources.load_all_yaml()
@@ -174,16 +174,16 @@ class RenguCmd(cmd.Cmd, object):
         rengu.db.verses.load_all_yaml()
 
     @auto_help
-    def do_peoplemap(self, line):
-        '''peoplemap
-        Load people map
+    def do_authorsmap(self, line):
+        '''authorsmap
+        Load authors map
         '''
 
-        import rengu.people
-        people_map = rengu.people.load_people_map()
+        import rengu.authors
+        authors_map = rengu.authors.load_authors_map()
 
         import json
-        print(json.dumps(people_map, sort_keys=True, indent=2))
+        print(json.dumps(authors_map, sort_keys=True, indent=2))
 
     @auto_help
     def do_check(self, line):

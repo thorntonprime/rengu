@@ -7,7 +7,7 @@ from uuid import UUID
 from blitzdb import FileBackend
 from blitzdb.document import DoesNotExist, MultipleDocumentsReturned
 
-from rengu.db.people import Person
+from rengu.db.authors import Author
 from rengu.db.verses import Verse
 from rengu.tools import check_roman, is_uuid
 
@@ -19,40 +19,40 @@ backend = FileBackend("./db")
 nlp = spacy.load('en')
 
 
-def find_person(backend, name):
+def find_author(backend, name):
 
-    person = None
+    author = None
 
     # name is actually a UUID
     if (is_uuid(name)):
         try:
-            person = backend.get(Person, {'_id': UUID(name).hex})
+            author = backend.get(Author, {'_id': UUID(name).hex})
         except DoesNotExist:
-            person = None
+            author = None
 
-        return person
+        return author
 
-    # Person is a real name
+    # Author is a real name
     try:
-        #person = backend.get(Person, {'Name': name})
-        person = backend.get(Person, {'Name': { "$regex": "^" + name + "$", "$options" : "i" } })
+        author = backend.get(Author, {'Name': name})
+        #author = backend.get(Author, {'Name': { "$regex": "^" + name + "$", "$options" : "i" } })
     except DoesNotExist:
-        person = None
+        author = None
     except MultipleDocumentsReturned:
-        print("Multiple people for %s ... this is broken." % (name))
-        person = None
+        print("Multiple authors for %s ... this is broken." % (name))
+        author = None
 
     # Or maybe an alternate name?
-    if not person:
+    if not author:
         try:
-            person = backend.filter(
-                Person, {'AlternateNames': {'$in': [name]}})[0]
+            author = backend.filter(
+                Author, {'AlternateNames': {'$in': [name]}})[0]
         except IndexError:
-            person = None
+            author = None
         except DoesNotExist:
-            person = None
+            author = None
 
-    return person
+    return author
 
 
 def check_By(backend, uid, by):
@@ -67,15 +67,15 @@ def check_By(backend, uid, by):
             check_By(backend, uid, n)
             return
 
-    person = find_person(backend, by)
+    author = find_author(backend, by)
 
-    if not person:
+    if not author:
         print(uid, "BY_NOMATCH", by)
 
-    elif person.Name != by:
-        print(uid, "BY_NAME", by, "!=", person.Name)
+    elif author.Name != by:
+        print(uid, "BY_NAME", by, "!=", author.Name)
 
-    elif person.Name == by:
+    elif author.Name == by:
         pass
         # print(uid, "BY_OK", by)
 
