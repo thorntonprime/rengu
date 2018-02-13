@@ -78,12 +78,13 @@ def load_yaml_file(f):
 
     # verse should be read line by line
     elif rdoc['Format'].lower() == 'verse':
-        for p in re.split("\n\n", doc.strip()):
+        for p in re.split("\n\n", doc):
             lines = [re.sub("\n", "", x.rstrip())
                      for x in re.split("\n(?! \w)", p.rstrip())]
 
             rdoc["Lines"].append(lines)
 
+    # Structured format ... TBD
     elif rdoc['Format'].lower() == 'structured':
         del(rdoc['Lines'])
         rdoc['Structure'] = yaml.load(doc)
@@ -109,8 +110,8 @@ def load_yaml_file(f):
                 lines = [str(x.strip()) for x in blob.sentences]
                 rdoc["Lines"].append(lines)
 
-    # strip whitespace and set Body
-    rdoc['Body'] = doc.strip()
+    # Set Body, remove final CR
+    rdoc['Body'] = doc.rstrip()
 
     # W.Perry tags by number
     if 'Tags' in rdoc:
