@@ -13,7 +13,7 @@ from rengu.check import find_author
 from blitzdb import FileBackend
 from blitzdb.document import DoesNotExist
 
-from rengu.db.authors import Author
+from rengu.db.author import Author
 
 def normalize(input_str):
     # Returns a NFKD normalized form of the input string

@@ -4,7 +4,7 @@ from uuid import UUID
 
 from blitzdb import Document, FileBackend
 
-from rengu.authors import load_yaml_file
+from rengu.author import load_yaml_file
 
 
 class Author(Document):

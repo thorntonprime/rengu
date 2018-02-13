@@ -1,6 +1,7 @@
 
 import cmd
 
+import rengu.config
 from rengu.cmd import auto_help
 
 

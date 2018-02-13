@@ -162,16 +162,16 @@ class RenguCmd(cmd.Cmd, object):
         Load the YAML files into the blitzdb
         '''
 
-        import rengu.db.authors
+        import rengu.db.author
         # backend.create_index(Author, params="Name", unique=True )
         # backend.rebuild_index('authors', key="Name")
-        rengu.db.authors.load_all_yaml()
+        rengu.db.author.load_all_yaml()
 
-        import rengu.db.sources
-        rengu.db.sources.load_all_yaml()
+        import rengu.db.source
+        rengu.db.source.load_all_yaml()
 
-        import rengu.db.verses
-        rengu.db.verses.load_all_yaml()
+        import rengu.db.verse
+        rengu.db.verse.load_all_yaml()
 
     @auto_help
     def do_authorsmap(self, line):
@@ -179,8 +179,8 @@ class RenguCmd(cmd.Cmd, object):
         Load authors map
         '''
 
-        import rengu.authors
-        authors_map = rengu.authors.load_authors_map()
+        import rengu.author
+        authors_map = rengu.author.load_authors_map()
 
         import json
         print(json.dumps(authors_map, sort_keys=True, indent=2))
