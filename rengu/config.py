@@ -9,8 +9,8 @@ timezone = 'America/Los_Angeles'
 enable_utc = True
 
 # BlitzDB configuration file backend
-# from blitzdb import FileBackend
-# DB = FileBackend("./db")
+#from blitzdb import FileBackend
+#DB = FileBackend("./db")
 
 # Or MongoDB backend
 from pymongo import MongoClient

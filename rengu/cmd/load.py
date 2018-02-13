@@ -3,6 +3,9 @@ import cmd
 
 from rengu.cmd import auto_help
 
+from pprint import pprint
+
+from rengu.config import DB
 
 class RenguLoadCmd(cmd.Cmd):
 
@@ -24,4 +27,12 @@ class RenguLoadCmd(cmd.Cmd):
 
     @auto_help
     def do_author(self, args):
-        print("load authors")
+        from rengu.author import Author
+
+        for fn in args.split():
+            
+            for a in Author.read_yaml_file(fn):
+                print("Loaded", a['pk'])
+                a.save(DB)
+
+        DB.commit()

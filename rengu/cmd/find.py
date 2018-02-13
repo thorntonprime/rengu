@@ -4,6 +4,9 @@ import cmd
 import rengu.config
 from rengu.cmd import auto_help
 
+from rengu.config import DB
+
+import json
 
 class RenguFindCmd(cmd.Cmd):
 
@@ -25,4 +28,8 @@ class RenguFindCmd(cmd.Cmd):
 
     @auto_help
     def do_author(self, args):
-        print("find authors")
+        from rengu.author import Author
+
+        results = [dict(x) for x in list(DB.filter(Author, eval(args)))]
+        print(json.dumps(results, sort_keys=True, indent=2))
+

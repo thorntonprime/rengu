@@ -4,10 +4,30 @@ from pathlib import Path
 
 from rengu.tools import flatten, is_uuid, remove_accents
 
+from blitzdb import Document, FileBackend
+
 import yaml
 
-Authors = []
 
+class Author(Document):
+
+    class Meta(Document.Meta):
+        collection = 'authors'
+
+    @staticmethod
+    def read_yaml_file(fn):
+        for data in yaml.load_all(open(fn).read()):
+            if data:
+                if not data.get('pk'):
+                    from os.path import basename
+                    data['pk'] = basename(fn)
+                
+                yield Author(data)
+
+
+##### OLD STUFF BELOW HERE
+
+Authors = []
 
 def load():
     authors = Path('authors')
@@ -15,7 +35,7 @@ def load():
     for pfile in authors.iterdir():
         for i in yaml.load_all(open(pfile).read()):
             if i:
-                i['_uid'] = pfile.name
+                i['pk'] = pfile.name
                 Authors.append(i)
 
 

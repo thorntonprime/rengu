@@ -11,7 +11,6 @@ def auto_help(func):
     setattr(cmd.Cmd, 'help_' + func.__name__[3:], _help)
     return func
 
-
 class RenguCmd(cmd.Cmd, object):
     intro = 'Rengu tool'
     prompt = '> '
@@ -27,11 +26,14 @@ class RenguCmd(cmd.Cmd, object):
     @auto_help
     def do_load(self, args):
         '''load
-        Subcommands to load data
+        Subcommands to import data from yaml files
         '''
         from rengu.cmd.load import RenguLoadCmd
         load_cmd = RenguLoadCmd()
-        load_cmd.cmdloop()
+        if len(args) > 1:
+            return load_cmd.onecmd(args)
+        else:
+            return load_cmd.cmdloop()
 
     @auto_help
     def do_find(self, args):
@@ -40,7 +42,10 @@ class RenguCmd(cmd.Cmd, object):
         '''
         from rengu.cmd.find import RenguFindCmd
         find_cmd = RenguFindCmd()
-        find_cmd.cmdloop()
+        if len(args) > 1:
+            return find_cmd.onecmd(args)
+        else:
+            return find_cmd.cmdloop()
 
     ###################
 
