@@ -1,0 +1,6 @@
+
+RENGUDIR=`pwd`
+RENGUDB=${RENGUDIR}/db
+
+[[ ":$PATH:" != *":${RENGUDIR}/bin:"* ]] && PATH="${RENGUDIR}/bin:${PATH}"
+
