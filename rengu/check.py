@@ -26,7 +26,7 @@ def find_author(backend, name):
     # name is actually a UUID
     if (is_uuid(name)):
         try:
-            author = backend.get(Author, {'_id': UUID(name).hex})
+            author = backend.get(Author, {'pk': UUID(name).hex})
         except DoesNotExist:
             author = None
 

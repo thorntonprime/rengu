@@ -71,8 +71,8 @@ if __name__ == '__main__':
             if data:
                 data = dict(data)
 
-                uid = str(uuid.UUID(data['_id']))
-                del data['_id']
+                uid = str(uuid.UUID(data['pk']))
+                del data['pk']
 
                 if data.get('AlternateNames'):
                     data['AlternateNames'].append(name)

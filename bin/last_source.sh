@@ -34,11 +34,11 @@ iching-siu() {
   (
     grep -l 503bbcad-73dd-49e6-96a0-bde44020aeb4 verses/* | \
       xargs bin/rengu json | \
-      jq -r '@text "\(._id) \(.Hexagram)\t\(if .Locus.Line then .Locus.Line else .Locus.Description end)*"'
+      jq -r '@text "\(.pk) \(.Hexagram)\t\(if .Locus.Line then .Locus.Line else .Locus.Description end)*"'
 
     grep -l 503bbcad-73dd-49e6-96a0-bde44020aeb4 verses/* | \
       xargs bin/rengu json | \
-      jq -r '@text "\(._id) \(.Source.Locus.Hexagram)\t\(if .Source.Locus.Line then .Source.Locus.Line else .Source.Locus.Description end)"'
+      jq -r '@text "\(.pk) \(.Source.Locus.Hexagram)\t\(if .Source.Locus.Line then .Source.Locus.Line else .Source.Locus.Description end)"'
 
   ) | grep -v null | sort -k2
 
@@ -48,20 +48,20 @@ cold-mountain() {
 
   grep -l 1ea75c7b-679c-4c20-bf1a-1ea2b09be427 verses/* | \
       xargs bin/rengu json | \
-      jq -r '@text "\(._id) \(.Source.Locus.Page)\t\(.Source.Locus.Number)"' | \
+      jq -r '@text "\(.pk) \(.Source.Locus.Page)\t\(.Source.Locus.Number)"' | \
       msort --quiet --line -n 2 -c n -n 3 --number-system roman -c n
 }
 
 manhae() {
   grep -l e13d8994-eff6-4830-981a-b30658d44b81 verses/* |
     xargs bin/rengu json | \
-    jq -r '._id + " " + (.Source.Locus.Number | tostring) + " " + (.Source.Locus.Page | tostring)' | \
+    jq -r '.pk + " " + (.Source.Locus.Number | tostring) + " " + (.Source.Locus.Page | tostring)' | \
     sort -k 2g -k 3g
 }
 
 longing() {
   grep -l 82a0aaf9-3f47-4e8c-9075-b14ae205f2a5 verses/* |
-    xargs bin/rengu json | jq -r '._id + " " + (.Source.Locus.Page | tostring) + " " + (.Source.Locus.Loc | tostring) + " " + .Title + "/" + .By' | sort -k 2g
+    xargs bin/rengu json | jq -r '.pk + " " + (.Source.Locus.Page | tostring) + " " + (.Source.Locus.Loc | tostring) + " " + .Title + "/" + .By' | sort -k 2g
 }
 
 tosw() {
@@ -73,7 +73,7 @@ tosw() {
 eckhart() {
   grep -l 1bcc9afb-a524-4e83-8eb6-1bdafee25e0f verses/* | \
     xargs bin/rengu json | \
-    jq -r '@text "\(._id) \(.Source.Locus.Page) \(.Title)"' | sort -k2 -g 
+    jq -r '@text "\(.pk) \(.Source.Locus.Page) \(.Title)"' | sort -k2 -g 
 }
 
 FUNS=$( grep '[[:alnum:]]*()' $0 | sed -e 's@() {@@' | paste -sd '|' )

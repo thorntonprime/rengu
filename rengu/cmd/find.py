@@ -24,12 +24,21 @@ class RenguFindCmd(cmd.Cmd):
 
     @auto_help
     def do_source(self, args):
-        print("find sources")
+        from rengu.source import Source
+
+        try:
+            results = [dict(x) for x in list(DB.filter(Source, eval(args)))]
+            print(json.dumps(results, sort_keys=True, indent=2))
+        except SyntaxError as e:
+            print(e)
 
     @auto_help
     def do_author(self, args):
         from rengu.author import Author
 
-        results = [dict(x) for x in list(DB.filter(Author, eval(args)))]
-        print(json.dumps(results, sort_keys=True, indent=2))
+        try:
+            results = [dict(x) for x in list(DB.filter(Author, eval(args)))]
+            print(json.dumps(results, sort_keys=True, indent=2))
+        except SyntaxError as e:
+            print(e)
 

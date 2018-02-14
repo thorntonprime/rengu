@@ -30,7 +30,7 @@ def load_yaml_file(f):
     i = f.split('/')[-1]
 
     rdoc = {
-        "_id": i
+        "pk": i
     }
 
     # Read in the default document to handle as the Body

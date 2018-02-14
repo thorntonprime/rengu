@@ -4,7 +4,26 @@ from pathlib import Path
 
 from rengu.tools import remove_accents
 
+from blitzdb import Document, FileBackend
+
 import yaml
+
+class Source(Document):
+
+    class Meta(Document.Meta):
+        collection = 'sources'
+
+    @staticmethod
+    def read_yaml_file(fn):
+        for data in yaml.load_all(open(fn).read()):
+            if data:
+                if not data.get('pk'):
+                    from os.path import basename
+                    data['pk'] = basename(fn)
+                
+                yield Source(data)
+
+############
 
 Sources = []
 

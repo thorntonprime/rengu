@@ -23,7 +23,15 @@ class RenguLoadCmd(cmd.Cmd):
 
     @auto_help
     def do_source(self, args):
-        print("load sources")
+        from rengu.source import Source
+
+        for fn in args.split():
+            
+            for a in Source.read_yaml_file(fn):
+                print("Loaded", a['pk'])
+                a.save(DB)
+
+        DB.commit()
 
     @auto_help
     def do_author(self, args):
