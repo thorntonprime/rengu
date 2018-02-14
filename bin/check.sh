@@ -1,7 +1,12 @@
 #!/bin/sh
 
 rm -rf db
-bin/rengu loaddb
+
+bin/rengu load verse verses/*
+bin/rengu load source sources/*
+bin/rengu load author authors/*
+
 bin/rengu check > output/check.out
+
 grep NOMATCH output/check.out | sed -e 's/.*NOMATCH//' | sort | uniq | bin/wikipedia-make
 

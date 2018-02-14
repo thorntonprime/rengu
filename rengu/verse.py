@@ -19,7 +19,6 @@ class Verse(Document):
     @staticmethod
     def read_yaml_file(fn):
         from os.path import basename
-        from rengu.tags import TreasuryTagMap
 
         rin = open(fn, 'r')
     
@@ -107,18 +106,7 @@ class Verse(Document):
         # Set Body, remove final CR
         rdoc['Body'] = doc.rstrip()
 
-        # W.Perry tags by number
-        if 'Tags' in rdoc:
-            if isinstance(rdoc['Tags'], str):
-                tags = rdoc['Tags'].split()
-                rdoc['Tags'] = tags
-            else:
-                for t in rdoc['Tags'].copy():
-                    if str(t) in TreasuryTagMap:
-                        rdoc['Tags'].remove(t)
-                        rdoc['Tags'].append(TreasuryTagMap[str(t)])
-
-        # Clean up By
+        # Unescape By Field
         if rdoc.get("By") and isinstance(
                 rdoc["By"], str) and rdoc["By"][0] == '\\':
             rdoc["By"] = rdoc["By"][1:]

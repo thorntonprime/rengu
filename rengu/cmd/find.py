@@ -23,8 +23,8 @@ class RenguFindCmd(cmd.Cmd):
         from rengu.verse import Verse
 
         try:
-            results = list( dict(x) for x in list(DB.filter(Verse, eval(args))) )
-            print(json.dumps(results, sort_keys=True, indent=2))
+            for v in DB.filter(Verse, eval(args)):
+                print(json.dumps(dict(v), sort_keys=True, indent=2))
         except SyntaxError as e:
             print(e)
 
@@ -34,8 +34,8 @@ class RenguFindCmd(cmd.Cmd):
         from rengu.source import Source
 
         try:
-            results = list( dict(x) for x in list(DB.filter(Source, eval(args))) )
-            print(json.dumps(results, sort_keys=True, indent=2))
+            for s in DB.filter(Source, eval(args)):
+                print(json.dumps(dict(s), sort_keys=True, indent=2))
         except SyntaxError as e:
             print(e)
 
@@ -44,8 +44,9 @@ class RenguFindCmd(cmd.Cmd):
         from rengu.author import Author
 
         try:
-            results = [dict(x) for x in list(DB.filter(Author, eval(args))) ]
-            print(json.dumps(results[:], sort_keys=True, indent=2))
+            for a in DB.filter(Author, eval(args)):
+                print(json.dumps(dict(a), sort_keys=True, indent=2))
+
         except SyntaxError as e:
             print(e)
 
