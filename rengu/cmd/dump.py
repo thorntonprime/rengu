@@ -2,12 +2,11 @@
 import cmd
 
 from rengu.cmd import auto_help
-
 from rengu.config import DB
+from rengu.tools import YamlDumper
 
 import yaml
 
-from rengu.tools import YamlDumper
 
 class RenguDumpCmd(cmd.Cmd):
 
@@ -24,7 +23,7 @@ class RenguDumpCmd(cmd.Cmd):
         from rengu.verse import Verse
 
         for pk in args.split():
-            v = DB.get(Verse, { "pk" : pk })
+            v = DB.get(Verse, {"pk": pk})
 
             body = v["Body"].replace(":", "：")
             if body[0] == "'" or body[0] == '"' or body[0:3] == "...":
@@ -49,31 +48,29 @@ class RenguDumpCmd(cmd.Cmd):
         from rengu.source import Source
 
         for pk in args.split():
-            s = DB.get(Source, { "pk" : pk })
+            s = DB.get(Source, {"pk": pk})
 
             print("---")
-            print( yaml.dump(
-                    dict(s),
-                    Dumper=YamlDumper,
-                        default_flow_style=False,
-                        width=70,
-                        indent=2).strip())
+            print(yaml.dump(
+                dict(s),
+                Dumper=YamlDumper,
+                default_flow_style=False,
+                width=70,
+                indent=2).strip())
         print("---")
-
 
     @auto_help
     def do_author(self, args):
         from rengu.author import Author
 
         for pk in args.split():
-            a = DB.get(Author, { "pk" : pk })
+            a = DB.get(Author, {"pk": pk})
 
             print("---")
-            print( yaml.dump(
-                    dict(a),
-                    Dumper=YamlDumper,
-                        default_flow_style=False,
-                        width=70,
-                        indent=2).strip())
+            print(yaml.dump(
+                dict(a),
+                Dumper=YamlDumper,
+                default_flow_style=False,
+                width=70,
+                indent=2).strip())
         print("---")
-

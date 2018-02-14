@@ -2,9 +2,9 @@
 
 from pathlib import Path
 
-from rengu.tools import flatten, is_uuid, remove_accents
+from blitzdb import Document
 
-from blitzdb import Document, FileBackend
+from rengu.tools import flatten, is_uuid, remove_accents
 
 import yaml
 
@@ -21,13 +21,14 @@ class Author(Document):
                 if not data.get('pk'):
                     from os.path import basename
                     data['pk'] = basename(fn)
-                
+
                 yield Author(data)
 
 
-##### OLD STUFF BELOW HERE
+# OLD STUFF BELOW HERE
 
 Authors = []
+
 
 def load():
     authors = Path('authors')
@@ -74,9 +75,10 @@ def load_authors_map():
             authors[name] = {'RealName': real_name}
         else:
             if real_name == name:
-                authors[real_name] = {'AlternateNames': [], 'URLs': [wiki_url] }
+                authors[real_name] = {'AlternateNames': [], 'URLs': [wiki_url]}
             else:
-                authors[real_name] = {'AlternateNames': [name], 'URLs': [wiki_url]}
+                authors[real_name] = {
+                    'AlternateNames': [name], 'URLs': [wiki_url]}
                 authors[name] = {'RealName': real_name}
 
     return authors

@@ -1,8 +1,8 @@
 import cmd
+import json
 
 from rengu.cmd import auto_help
-import json
-import sys
+
 
 class RenguJSONCmd(cmd.Cmd):
 
@@ -39,4 +39,3 @@ class RenguJSONCmd(cmd.Cmd):
             for d in Author.read_yaml_file(fn):
                 a = dict(d)
                 print(json.dumps(a, sort_keys=True, indent=2))
-

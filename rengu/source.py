@@ -2,11 +2,12 @@
 
 from pathlib import Path
 
+from blitzdb import Document
+
 from rengu.tools import remove_accents
 
-from blitzdb import Document, FileBackend
-
 import yaml
+
 
 class Source(Document):
 
@@ -20,8 +21,9 @@ class Source(Document):
                 if not data.get('pk'):
                     from os.path import basename
                     data['pk'] = basename(fn)
-                
+
                 yield Source(data)
+
 
 ############
 

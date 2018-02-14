@@ -1,8 +1,10 @@
 import cmd
 
 from rengu.cmd import auto_help
-import yaml
 from rengu.tools import YamlDumper
+
+import yaml
+
 
 class RenguYAMLCmd(cmd.Cmd):
 

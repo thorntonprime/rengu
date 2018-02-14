@@ -1,12 +1,10 @@
 
 import cmd
+import json
 
-import rengu.config
 from rengu.cmd import auto_help
-
 from rengu.config import DB
 
-import json
 
 class RenguFindCmd(cmd.Cmd):
 
@@ -28,7 +26,6 @@ class RenguFindCmd(cmd.Cmd):
         except SyntaxError as e:
             print(e)
 
-
     @auto_help
     def do_source(self, args):
         from rengu.source import Source
@@ -49,4 +46,3 @@ class RenguFindCmd(cmd.Cmd):
 
         except SyntaxError as e:
             print(e)
-

@@ -1,4 +1,6 @@
+
 from __future__ import absolute_import, unicode_literals
+
 from .celery import app
 
 
@@ -15,4 +17,3 @@ def mul(x, y):
 @app.task
 def xsum(numbers):
     return sum(numbers)
-

@@ -1,15 +1,13 @@
 
 import cmd
 
-import rengu.verse
-from rengu.tools import YamlDumper, walk_search
-
 
 def auto_help(func):
     def _help(self):
         print(func.func_doc)
     setattr(cmd.Cmd, 'help_' + func.__name__[3:], _help)
     return func
+
 
 class RenguCmd(cmd.Cmd, object):
     intro = 'Rengu tool'

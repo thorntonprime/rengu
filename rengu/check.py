@@ -141,6 +141,7 @@ def check_similar_title(uid, title):
             if sim > .99:
                 print(uid, "TITLE_SIMILAR", sim, other_uid)
 
+
 def check_verse(verse):
     uid = str(UUID(verse.pk))
 
@@ -157,7 +158,6 @@ def check_verse(verse):
             check_format(uid, "TITLE", title)
             check_spelling(uid, "TITLE", title)
             # check_similar_title(uid, title)
-
 
     # Skip body checks for now
     return
@@ -181,4 +181,3 @@ def check_verses():
     for verse in backend.filter(Verse, {}):
         check_verse(verse)
         sys.stdout.flush()
-

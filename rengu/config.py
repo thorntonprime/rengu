@@ -17,4 +17,3 @@ DB = FileBackend("./db")
 #from blitzdb import MongoBackend
 #mongo_client = MongoClient('prajna')
 #DB = MongoBackend(mongo_client.rengu)
-

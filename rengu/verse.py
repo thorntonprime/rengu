@@ -1,15 +1,14 @@
 # -*- coding: utf-8 -*-
 
-
 import re
 from pathlib import Path
 
+from blitzdb import Document
 
 from textblob import TextBlob
 
 import yaml
 
-from blitzdb import Document, FileBackend
 
 class Verse(Document):
 
@@ -21,7 +20,7 @@ class Verse(Document):
         from os.path import basename
 
         rin = open(fn, 'r')
-    
+
         rdoc = {
             'pk': basename(fn)
         }
@@ -90,7 +89,6 @@ class Verse(Document):
                 if re.match("^ +", p):
                     lines = [re.sub("\n", " ", x).rstrip()
                              for x in re.split("\n(?=\s+)", p.rstrip())]
-                    # rdoc["Lines"].append( [ {"Format" : "verse"}, ] +  lines  )
                     rdoc["Lines"].append(lines)
 
                 else:
@@ -112,6 +110,7 @@ class Verse(Document):
             rdoc["By"] = rdoc["By"][1:]
 
         return Verse(rdoc)
+
 
 ############
 
