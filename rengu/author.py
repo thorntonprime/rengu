@@ -1,12 +1,10 @@
 # -*- coding: utf-8 -*-
 
 from blitzdb import Document
+from rengu.config import DB
 
 
 class Author(Document):
-
-    class Meta(Document.Meta):
-        collection = 'authors'
 
     def to_yaml(self):
         import yaml
@@ -20,6 +18,26 @@ class Author(Document):
         import json
         return json.dumps(dict(self), sort_keys=True, indent=2)
 
+
+    @staticmethod
+    def get(pk):
+        return DB.get(Author, {"pk": pk})
+
+    @staticmethod
+    def search(query):
+        return DB.filter(Author, eval(query))
+
+    @staticmethod
+    def find(query, field="Name"):
+
+        for a in DB.filter(Author, { field: query } ):
+            yield a
+
+        if field == "Name":
+            for a in DB.filter(Author, { "AlternateNames": query } ):
+                yield a
+
+
     @staticmethod
     def read_yaml_file(fn):
         import yaml
@@ -31,3 +49,14 @@ class Author(Document):
                     data['pk'] = basename(fn)
 
                 yield Author(data)
+
+
+    # Class internal data and methods ###############################
+    class Meta(Document.Meta):
+        primary_key = 'pk'
+        collection = 'authors'
+
+from pymongo import ASCENDING
+DB.create_index(Author, 'Name', fields={"Name": ASCENDING}, unique=True, ephemeral=False )
+DB.create_index(Author, 'AlternateNames', fields={"AlternateNames": ASCENDING}, unique=True, ephemeral=False )
+

@@ -1,18 +1,15 @@
 # -*- coding: utf-8 -*-
 
 import re
-from pathlib import Path
+
+from rengu.config import DB
 
 from blitzdb import Document
-
 
 from textblob import TextBlob
 
 
 class Verse(Document):
-
-    class Meta(Document.Meta):
-        collection = 'verses'
 
     def to_yaml(self):
         import yaml
@@ -33,6 +30,21 @@ class Verse(Document):
     def to_json(self):
         import json
         return json.dumps(dict(self), sort_keys=True, indent=2)
+
+
+    @staticmethod
+    def get(pk):
+        return DB.get(Verse, {"pk": pk})
+
+    @staticmethod
+    def search(query):
+        return DB.filter(Verse, eval(query))
+
+    @staticmethod
+    def find(query, field="Title"):
+
+        for a in DB.filter(Verse, { field: query } ):
+            yield a
 
     @staticmethod
     def read_yaml_file(fn):
@@ -130,3 +142,17 @@ class Verse(Document):
             rdoc["By"] = rdoc["By"][1:]
 
         return Verse(rdoc)
+
+
+    class Meta(Document.Meta):
+        primary_key = 'pk'
+        collection = 'verses'
+
+
+# Create indexes
+
+from pymongo import ASCENDING
+DB.create_index(Verse, 'Title', fields={"Title": ASCENDING}, unique=False, ephemeral=False )
+DB.create_index(Verse, 'Tags', fields={"Tags": ASCENDING}, unique=False, ephemeral=False )
+
+

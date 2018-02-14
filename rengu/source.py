@@ -1,12 +1,11 @@
 # -*- coding: utf-8 -*-
 
 from blitzdb import Document
+from rengu.config import DB
+
 
 
 class Source(Document):
-
-    class Meta(Document.Meta):
-        collection = 'sources'
 
     def to_yaml(self):
         import yaml
@@ -21,6 +20,25 @@ class Source(Document):
 
         return json.dumps(dict(self), sort_keys=True, indent=2)
 
+
+    @staticmethod
+    def get(pk):
+        return DB.get(Source, {"pk": pk})
+
+    @staticmethod
+    def search(query):
+        return DB.filter(Source, eval(query))
+ 
+    @staticmethod
+    def find(query, field="Title"):
+
+        for a in DB.filter(Source, { field: query } ):
+            yield a
+
+        if field == "Title":
+            for a in DB.filter(Source, { "AlternateTitles": query } ):
+                yield a
+
     @staticmethod
     def read_yaml_file(fn):
         import yaml
@@ -32,3 +50,12 @@ class Source(Document):
                     data['pk'] = basename(fn)
 
                 yield Source(data)
+
+    class Meta(Document.Meta):
+        primary_key = 'pk'
+        collection = 'sources'
+
+
+from pymongo import ASCENDING
+DB.create_index(Source, 'Title', fields={"Title": ASCENDING}, unique=False, ephemeral=False )
+

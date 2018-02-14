@@ -4,9 +4,9 @@ import cmd
 from rengu.cmd import auto_help
 
 
-class RenguSearchCmd(cmd.Cmd):
+class RenguFindCmd(cmd.Cmd):
 
-    prompt = "search >"
+    prompt = "find >"
 
     @auto_help
     def do_quit(self, args):
@@ -19,7 +19,7 @@ class RenguSearchCmd(cmd.Cmd):
         from rengu.verse import Verse
 
         try:
-            for v in Verse.search(args):
+            for v in Verse.find(args):
                 print(v.to_json())
         except SyntaxError as e:
             print(e)
@@ -29,7 +29,7 @@ class RenguSearchCmd(cmd.Cmd):
         from rengu.source import Source
 
         try:
-            for s in Source.search(args):
+            for s in Source.find(args):
                 print(s.to_json())
         except SyntaxError as e:
             print(e)
@@ -39,8 +39,9 @@ class RenguSearchCmd(cmd.Cmd):
         from rengu.author import Author
 
         try:
-            for a in Author.search(args):
+            for a in Author.find(args):
                 print(a.to_json())
 
         except SyntaxError as e:
             print(e)
+
