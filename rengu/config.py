@@ -18,5 +18,3 @@ DB = FileBackend("./db")
 #mongo_client = MongoClient('prajna')
 #DB = MongoBackend(mongo_client.rengu)
 
-
-

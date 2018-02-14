@@ -19,7 +19,15 @@ class RenguLoadCmd(cmd.Cmd):
 
     @auto_help
     def do_verse(self, args):
-        print("load verses")
+        from rengu.verse import Verse
+
+        for fn in args.split():
+            
+            v = Verse.read_yaml_file(fn)
+            print("Loaded verse", v['pk'])
+            v.save(DB)
+
+        DB.commit()
 
     @auto_help
     def do_source(self, args):
@@ -27,9 +35,9 @@ class RenguLoadCmd(cmd.Cmd):
 
         for fn in args.split():
             
-            for a in Source.read_yaml_file(fn):
-                print("Loaded", a['pk'])
-                a.save(DB)
+            for s in Source.read_yaml_file(fn):
+                print("Loaded source", s['pk'])
+                s.save(DB)
 
         DB.commit()
 
@@ -40,7 +48,7 @@ class RenguLoadCmd(cmd.Cmd):
         for fn in args.split():
             
             for a in Author.read_yaml_file(fn):
-                print("Loaded", a['pk'])
+                print("Loaded author", a['pk'])
                 a.save(DB)
 
         DB.commit()

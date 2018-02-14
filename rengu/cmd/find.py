@@ -20,14 +20,21 @@ class RenguFindCmd(cmd.Cmd):
 
     @auto_help
     def do_verse(self, args):
-        print("find verses")
+        from rengu.verse import Verse
+
+        try:
+            results = list( dict(x) for x in list(DB.filter(Verse, eval(args))) )
+            print(json.dumps(results, sort_keys=True, indent=2))
+        except SyntaxError as e:
+            print(e)
+
 
     @auto_help
     def do_source(self, args):
         from rengu.source import Source
 
         try:
-            results = [dict(x) for x in list(DB.filter(Source, eval(args)))]
+            results = list( dict(x) for x in list(DB.filter(Source, eval(args))) )
             print(json.dumps(results, sort_keys=True, indent=2))
         except SyntaxError as e:
             print(e)
@@ -37,8 +44,8 @@ class RenguFindCmd(cmd.Cmd):
         from rengu.author import Author
 
         try:
-            results = [dict(x) for x in list(DB.filter(Author, eval(args)))]
-            print(json.dumps(results, sort_keys=True, indent=2))
+            results = [dict(x) for x in list(DB.filter(Author, eval(args))) ]
+            print(json.dumps(results[:], sort_keys=True, indent=2))
         except SyntaxError as e:
             print(e)
 

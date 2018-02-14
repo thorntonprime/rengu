@@ -5,15 +5,7 @@ from uuid import UUID
 
 from blitzdb import Document, FileBackend
 
-from rengu.verse import load_yaml_file
-
-
-class Verse(Document):
-
-    class Meta(Document.Meta):
-        primary_key = 'pk'
-        collection = 'verses'
-
+from rengu.verse import load_yaml_file, Verse
 
 def load_all_yaml():
 
