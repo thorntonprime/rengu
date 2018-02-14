@@ -33,7 +33,7 @@ class Verse(Document):
 
 
     @staticmethod
-    def get(pk):
+    def fetch(pk):
         return DB.get(Verse, {"pk": pk})
 
     @staticmethod

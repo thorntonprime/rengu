@@ -19,14 +19,14 @@ class RenguDumpCmd(cmd.Cmd):
         from rengu.verse import Verse
 
         for pk in args.split():
-            print(Verse.get(pk).to_yaml())
+            print(Verse.fetch(pk).to_yaml())
 
     @auto_help
     def do_source(self, args):
         from rengu.source import Source
 
         for pk in args.split():
-            print(Source.get(pk).to_yaml())
+            print(Source.fetch(pk).to_yaml())
 
 
     @auto_help
@@ -34,5 +34,5 @@ class RenguDumpCmd(cmd.Cmd):
         from rengu.author import Author
 
         for pk in args.split():
-            print(Author.get(pk).to_yaml())
+            print(Author.fetch(pk).to_yaml())
 

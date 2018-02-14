@@ -22,7 +22,7 @@ class Source(Document):
 
 
     @staticmethod
-    def get(pk):
+    def fetch(pk):
         return DB.get(Source, {"pk": pk})
 
     @staticmethod

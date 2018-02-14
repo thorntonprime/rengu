@@ -20,7 +20,7 @@ class Author(Document):
 
 
     @staticmethod
-    def get(pk):
+    def fetch(pk):
         return DB.get(Author, {"pk": pk})
 
     @staticmethod
