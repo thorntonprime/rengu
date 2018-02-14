@@ -61,7 +61,7 @@ manhae() {
 
 longing() {
   grep -l 82a0aaf9-3f47-4e8c-9075-b14ae205f2a5 verses/* |
-    xargs bin/rengu json verse | jq -r '.pk + " " + (.Source.Locus.Page | tostring) + " " + (.Source.Locus.Loc | tostring) + " " + .Title + "/" + .By' | sort -k 2g
+    xargs bin/rengu json verse | jq -r '@text "\(.pk) \(.Source.Locus.Page)\t\(.Source.Locus.Loc)\t\(.Title) / \(.By)"' | sort -k 2g
 }
 
 tosw() {
@@ -73,7 +73,7 @@ tosw() {
 eckhart() {
   grep -l 1bcc9afb-a524-4e83-8eb6-1bdafee25e0f verses/* | \
     xargs bin/rengu json verse | \
-    jq -r '@text "\(.pk) \(.Source.Locus.Page) \(.Title)"' | sort -k2 -g 
+    jq -r '@text "\(.pk) \(.Source.Locus.Page)\t\(.Title)"' | sort -k2 -g 
 }
 
 FUNS=$( grep '[[:alnum:]]*()' $0 | sed -e 's@() {@@' | paste -sd '|' )
