@@ -1,9 +1,6 @@
 import cmd
 
 from rengu.cmd import auto_help
-from rengu.tools import YamlDumper
-
-import yaml
 
 
 class RenguYAMLCmd(cmd.Cmd):
@@ -21,59 +18,21 @@ class RenguYAMLCmd(cmd.Cmd):
         from rengu.verse import Verse
 
         for fn in args.split():
-            v = dict(Verse.read_yaml_file(fn))
-
-            body = v["Body"].replace(":", "：")
-            if body[0] == "'" or body[0] == '"' or body[0:3] == "...":
-                body = "\\" + body
-
-            del v["Body"]
-            del v["Lines"]
-
-            print("---")
-            print(
-                yaml.dump(
-                    v,
-                    Dumper=YamlDumper,
-                    default_flow_style=False,
-                    width=70,
-                    indent=2).strip())
-            print("---")
-            print(body)
+            print(Verse.read_yaml_file(fn).to_yaml())
 
     @auto_help
     def do_source(self, args):
         from rengu.source import Source
 
         for fn in args.split():
-            for d in Source.read_yaml_file(fn):
-                s = dict(d)
-
-                print("---")
-                print(
-                    yaml.dump(
-                        s,
-                        Dumper=YamlDumper,
-                        default_flow_style=False,
-                        width=70,
-                        indent=2).strip())
-        print("---")
+            for s in Source.read_yaml_file(fn):
+                print(s.to_yaml())
 
     @auto_help
     def do_author(self, args):
         from rengu.author import Author
 
         for fn in args.split():
-            for d in Author.read_yaml_file(fn):
-                a = dict(d)
+            for a in Author.read_yaml_file(fn):
+                print(a.to_yaml())
 
-                print("---")
-                print(
-                    yaml.dump(
-                        a,
-                        Dumper=YamlDumper,
-                        default_flow_style=False,
-                        width=70,
-                        indent=2).strip())
-
-        print("---")

@@ -1,5 +1,4 @@
 import cmd
-import json
 
 from rengu.cmd import auto_help
 
@@ -19,23 +18,20 @@ class RenguJSONCmd(cmd.Cmd):
         from rengu.verse import Verse
 
         for fn in args.split():
-            v = dict(Verse.read_yaml_file(fn))
-            print(json.dumps(v, sort_keys=True, indent=2))
+            print(Verse.read_yaml_file(fn).to_json())
 
     @auto_help
     def do_source(self, args):
         from rengu.source import Source
 
         for fn in args.split():
-            for d in Source.read_yaml_file(fn):
-                s = dict(d)
-                print(json.dumps(s, sort_keys=True, indent=2))
+            for s in Source.read_yaml_file(fn):
+                print(s.to_json())
 
     @auto_help
     def do_author(self, args):
         from rengu.author import Author
 
         for fn in args.split():
-            for d in Author.read_yaml_file(fn):
-                a = dict(d)
-                print(json.dumps(a, sort_keys=True, indent=2))
+            for a in Author.read_yaml_file(fn):
+                print(a.to_json())

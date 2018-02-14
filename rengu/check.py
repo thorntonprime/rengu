@@ -7,8 +7,8 @@ from uuid import UUID
 from blitzdb import FileBackend
 from blitzdb.document import DoesNotExist, MultipleDocumentsReturned
 
-from rengu.db.author import Author
-from rengu.db.verse import Verse
+from rengu.author import Author
+from rengu.verse import Verse
 from rengu.tools import check_roman, is_uuid
 
 import spacy

@@ -46,16 +46,16 @@ class RenguCmd(cmd.Cmd, object):
             return dump_cmd.cmdloop()
 
     @auto_help
-    def do_find(self, args):
-        '''find
-        Subcommands to find data
+    def do_search(self, args):
+        '''search
+        Subcommands to search data
         '''
-        from rengu.cmd.find import RenguFindCmd
-        find_cmd = RenguFindCmd()
+        from rengu.cmd.search import RenguSearchCmd
+        search_cmd = RenguSearchCmd()
         if len(args) > 1:
-            return find_cmd.onecmd(args)
+            return search_cmd.onecmd(args)
         else:
-            return find_cmd.cmdloop()
+            return search_cmd.cmdloop()
 
     @auto_help
     def do_json(self, args):

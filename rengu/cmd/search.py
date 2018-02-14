@@ -1,14 +1,13 @@
 
 import cmd
-import json
 
 from rengu.cmd import auto_help
 from rengu.config import DB
 
 
-class RenguFindCmd(cmd.Cmd):
+class RenguSearchCmd(cmd.Cmd):
 
-    prompt = "find >"
+    prompt = "search >"
 
     @auto_help
     def do_quit(self, args):
@@ -22,7 +21,7 @@ class RenguFindCmd(cmd.Cmd):
 
         try:
             for v in DB.filter(Verse, eval(args)):
-                print(json.dumps(dict(v), sort_keys=True, indent=2))
+                print(v.to_json())
         except SyntaxError as e:
             print(e)
 
@@ -32,7 +31,7 @@ class RenguFindCmd(cmd.Cmd):
 
         try:
             for s in DB.filter(Source, eval(args)):
-                print(json.dumps(dict(s), sort_keys=True, indent=2))
+                print(s.to_json())
         except SyntaxError as e:
             print(e)
 
@@ -42,7 +41,7 @@ class RenguFindCmd(cmd.Cmd):
 
         try:
             for a in DB.filter(Author, eval(args)):
-                print(json.dumps(dict(a), sort_keys=True, indent=2))
+                print(a.to_json())
 
         except SyntaxError as e:
             print(e)
