@@ -30,12 +30,18 @@ class Author(Document):
     @staticmethod
     def find(query, field="Name"):
 
+        found = set()
+
         for a in DB.filter(Author, { field: query } ):
-            yield a
+            if a.pk not in found:
+                found.add(a.pk)
+                yield a
 
         if field == "Name":
             for a in DB.filter(Author, { "AlternateNames": query } ):
-                yield a
+                if a.pk not in found:
+                    found.add(a.pk)
+                    yield a
 
 
     @staticmethod

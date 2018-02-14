@@ -32,12 +32,18 @@ class Source(Document):
     @staticmethod
     def find(query, field="Title"):
 
+        found = set()
+
         for a in DB.filter(Source, { field: query } ):
-            yield a
+            if not a.pk in found:
+                found.add(a.pk)
+                yield a
 
         if field == "Title":
             for a in DB.filter(Source, { "AlternateTitles": query } ):
-                yield a
+                if not a.pk in found:
+                    found.add(a.pk)
+                    yield a
 
     @staticmethod
     def read_yaml_file(fn):
