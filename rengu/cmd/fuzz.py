@@ -22,7 +22,8 @@ class RenguFuzzCmd(cmd.Cmd):
 
         try:
             matches = sorted(Author.fuzz(args), key=itemgetter('Match'))
-            print(json.dumps(matches, sort_keys=True, indent=2))
+            if len(matches) > 0:
+                print(json.dumps(matches, sort_keys=True, indent=2))
 
         except SyntaxError as e:
             print(e)

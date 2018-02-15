@@ -7,13 +7,9 @@ import uuid
 import yaml
 
 sys.path.append('')
-from rengu.tools import YamlDumper, walk_search
-from rengu.check import find_author
 
-from blitzdb import FileBackend
-from blitzdb.document import DoesNotExist
-
-from rengu.db.author import Author
+from rengu.author import Author
+from rengu.tools import YamlDumper
 
 def normalize(input_str):
     # Returns a NFKD normalized form of the input string
@@ -43,8 +39,6 @@ def wiki_page(name):
 
 if __name__ == '__main__':
 
-    backend = FileBackend("./db")
-
     for name in [x.strip() for x in sys.stdin.readlines()]:
         page = wiki_page(name)
 
@@ -52,8 +46,8 @@ if __name__ == '__main__':
         url = page.data.get("url", "")
         what = page.data.get("what", "NONE")
 
-        #wikibase = page.data.get("wikibase")
-        #pegeid= page.data.get("pageid")
+        wikibase = page.data.get("wikibase")
+        pageid = page.data.get("pageid")
 
         if type(what) is tuple:
             what = ','.join(what)
@@ -62,16 +56,16 @@ if __name__ == '__main__':
 
         if what == 'human':
 
-            exists = find_author(backend, name)
+            exists = list(Author.find(name))
             if exists:
-                print("Weird ... I already have" ,name, exists.Name)
+                print("Weird ... I already have" ,name)
                 continue
 
-            data = find_author(backend, label)
+            data = list(Author.find(label))
             if data:
-                data = dict(data)
+                data = dict(data[0])
 
-                uid = str(uuid.UUID(data['pk']))
+                uid = data['pk']
                 del data['pk']
 
                 if data.get('AlternateNames'):

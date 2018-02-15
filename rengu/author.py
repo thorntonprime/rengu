@@ -52,14 +52,14 @@ class Author(Document):
         for a in DB.filter(Author, {} ):
             f = fuzz.token_sort_ratio(query, a.get(field))
             if f > min:
-                results.append({ "Match": f, "Name": a.get('Name'), "pk": a.get("pk") })
+                results.append({ "Match": f, "Fuzz": query, "Name": a.get('Name'), "pk": a.get("pk") })
 
         if field == "Name":
             for a in DB.filter(Author, {} ):
                 for alt in a.get('AlternateNames', ()):
                     f = fuzz.token_sort_ratio(query, alt)
                     if f > min:
-                        results.append({ "Match": f, "Name": a.get('Name'), "AlternateName": alt, "pk": a.get("pk") })
+                        results.append({ "Match": f, "Fuzz": query, "Name": a.get('Name'), "AlternateName": alt, "pk": a.get("pk") })
 
         return list({v['pk']:v for v in results}.values())
 
