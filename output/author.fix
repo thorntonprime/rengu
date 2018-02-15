@@ -86,14 +86,6 @@
 ]
 [
   {
-    "Fuzz": "Jerome, Rothenberg",
-    "Match": 100,
-    "Name": "Jerome Rothenberg",
-    "pk": "cd98ba85-f996-4451-88f6-c5bf62ec3cdd"
-  }
-]
-[
-  {
     "Fuzz": "Joseph Hall",
     "Match": 82,
     "Name": "Joseph Albo",
@@ -201,29 +193,5 @@
     "Match": 83,
     "Name": "William James",
     "pk": "8d846d39-e195-4a7f-952c-7b30f31573fd"
-  }
-]
-[
-  {
-    "Fuzz": "WIllis Barnstone",
-    "Match": 100,
-    "Name": "Willis Barnstone",
-    "pk": "83cec703-bf0b-4a21-b4f8-e388e84882c4"
-  }
-]
-[
-  {
-    "AlternateName": "Yang Zi",
-    "Fuzz": "Zhuyang-Zi",
-    "Match": 82,
-    "Name": "Yang Zhu",
-    "pk": "6bf3a109-0b9e-4e0c-9d36-d4bd0c389938"
-  },
-  {
-    "AlternateName": "Zhuang-Zi",
-    "Fuzz": "Zhuyang-Zi",
-    "Match": 95,
-    "Name": "Zhuang Zhou",
-    "pk": "2fae5fa1-c815-4d2a-945b-f97c6f4822df"
   }
 ]

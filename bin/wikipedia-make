@@ -58,7 +58,7 @@ if __name__ == '__main__':
 
             exists = list(Author.find(name))
             if exists:
-                print("Weird ... I already have" ,name)
+                print("Weird ... I already have" ,name, label)
                 continue
 
             data = list(Author.find(label))
