@@ -151,8 +151,8 @@ class Verse(Document):
 
 # Create indexes
 
-from pymongo import ASCENDING
-DB.create_index(Verse, 'Title', fields={"Title": ASCENDING}, unique=False, ephemeral=False )
-DB.create_index(Verse, 'Tags', fields={"Tags": ASCENDING}, unique=False, ephemeral=False )
+from blitzdb.queryset import QuerySet
+DB.create_index(Verse, 'Title', fields={"Title": QuerySet.ASCENDING}, unique=False, ephemeral=False )
+DB.create_index(Verse, 'Tags', fields={"Tags": QuerySet.ASCENDING}, unique=False, ephemeral=False )
 
 

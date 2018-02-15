@@ -3,7 +3,9 @@ By: Rainer Maria Rilke
 Source:
   - Title: Book of Hours
     Page: 177
-    Translator: Anita Barrows & Joanna Macy
+    Translator:
+      - Anita Barrows
+      - Joanna Macy
     Publisher: Riverhead Books
     Copyright: 2005
     ISBN: 1594481563

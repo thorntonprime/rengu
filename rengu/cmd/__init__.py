@@ -48,7 +48,7 @@ class RenguCmd(cmd.Cmd, object):
     @auto_help
     def do_search(self, args):
         '''search
-        Subcommands to search data
+        Subcommands to search data using a search query
         '''
         from rengu.cmd.search import RenguSearchCmd
         search_cmd = RenguSearchCmd()
@@ -60,7 +60,7 @@ class RenguCmd(cmd.Cmd, object):
     @auto_help
     def do_find(self, args):
         '''find
-        Subcommands to find data
+        Subcommands to find data, matching the key field (e.g. name or title)
         '''
         from rengu.cmd.find import RenguFindCmd
         find_cmd = RenguFindCmd()
@@ -68,6 +68,18 @@ class RenguCmd(cmd.Cmd, object):
             return find_cmd.onecmd(args)
         else:
             return find_cmd.cmdloop()
+
+    @auto_help
+    def do_fuzz(self, args):
+        '''fuzz
+        Slower find using a fuzzy search against key field (e.g. name or title)
+        '''
+        from rengu.cmd.fuzz import RenguFuzzCmd
+        fuzz_cmd = RenguFuzzCmd()
+        if len(args) > 1:
+            return fuzz_cmd.onecmd(args)
+        else:
+            return fuzz_cmd.cmdloop()
 
     @auto_help
     def do_json(self, args):

@@ -5,7 +5,9 @@ Source:
     Book: 1
     Verse: 39
     Page: 99
-    Translator: Anita Barrows & Joanna Macy
+    Translator:
+      - Anita Barrows
+      - Joanna Macy
     Publisher: The Berkley Publishing Group
     Copyright: 2005
     ISBN: 1594481563

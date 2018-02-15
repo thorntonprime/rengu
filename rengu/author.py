@@ -43,6 +43,26 @@ class Author(Document):
                     found.add(a.pk)
                     yield a
 
+    @staticmethod
+    def fuzz(query, min=80, field="Name"):
+        from fuzzywuzzy import fuzz
+
+        results = []
+
+        for a in DB.filter(Author, {} ):
+            f = fuzz.token_sort_ratio(query, a.get(field))
+            if f > min:
+                results.append({ "Match": f, "Name": a.get('Name'), "pk": a.get("pk") })
+
+        if field == "Name":
+            for a in DB.filter(Author, {} ):
+                for alt in a.get('AlternateNames', ()):
+                    f = fuzz.token_sort_ratio(query, alt)
+                    if f > min:
+                        results.append({ "Match": f, "Name": a.get('Name'), "AlternateName": alt, "pk": a.get("pk") })
+
+        return list({v['pk']:v for v in results}.values())
+
 
     @staticmethod
     def read_yaml_file(fn):
@@ -62,7 +82,7 @@ class Author(Document):
         primary_key = 'pk'
         collection = 'authors'
 
-from pymongo import ASCENDING
-DB.create_index(Author, 'Name', fields={"Name": ASCENDING}, unique=True, ephemeral=False )
-DB.create_index(Author, 'AlternateNames', fields={"AlternateNames": ASCENDING}, unique=True, ephemeral=False )
+from blitzdb.queryset import QuerySet
+DB.create_index(Author, 'Name', fields={"Name": QuerySet.ASCENDING}, unique=True, ephemeral=False )
+DB.create_index(Author, 'AlternateNames', fields={"AlternateNames": QuerySet.ASCENDING}, unique=True, ephemeral=False )
 

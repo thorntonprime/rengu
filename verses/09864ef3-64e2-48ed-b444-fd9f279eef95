@@ -3,7 +3,10 @@ By: Joho
 Source:
   - Title: Zen Poems of China and Japan
     Page: 15
-    Translator: Lucien Stryk, Takashi Ikemoto, Taigan Takayama
+    Translator:
+      - Lucien Stryk
+      - Takashi Ikemoto
+      - Taigan Takayama
 Tags:
   - initiation
   - union

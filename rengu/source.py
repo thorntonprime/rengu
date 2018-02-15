@@ -61,7 +61,6 @@ class Source(Document):
         primary_key = 'pk'
         collection = 'sources'
 
-
-from pymongo import ASCENDING
-DB.create_index(Source, 'Title', fields={"Title": ASCENDING}, unique=False, ephemeral=False )
+from blitzdb.queryset import QuerySet
+DB.create_index(Source, 'Title', fields={"Title": QuerySet.ASCENDING}, unique=False, ephemeral=False )
 
