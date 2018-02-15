@@ -29,12 +29,13 @@ for f in sys.argv[1:]:
     x = fin.readline()
     while x:
 
-        if x.strip()[0] != '-' or x.strip() == "---":
+        split = x.split()
+        if x[0] != ' ' or len(split)< 2:
             fout.write(x)
             x = None
 
         else:
-            tag = x.split()[1]
+            tag = split[1]
 
             if tag in TreasuryTagMap:
                 fout.write("  - %s\n" % (TreasuryTagMap[tag]))
