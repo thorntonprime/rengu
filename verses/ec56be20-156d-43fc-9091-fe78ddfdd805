@@ -1,18 +1,18 @@
 ---
+Format: verse
 Source:
   ID: 20c3721c-2af4-449e-a9c0-9791ceb9b9ae
   Locus:
     Page: 26
   Source:
-    Title: Rig-Veda
     Book:
       - 10
       - Hymn:
           - 129
           - Verse: 1-2
+    Title: Rig-Veda
 Tags:
   - Creation=The Process of Manifestation
-Format: verse
 ---
 There was then neither being nor non-being. ...
 Without breath breathed by its own power That One.

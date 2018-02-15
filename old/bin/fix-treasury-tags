@@ -29,16 +29,15 @@ for f in sys.argv[1:]:
     x = fin.readline()
     while x:
 
-        split = x.split()
-        if x[0] != ' ' or len(split)< 2:
+        if x[0] != ' ':
             fout.write(x)
             x = None
 
         else:
-            tag = split[1]
+            tag = x.split()
 
-            if tag in TreasuryTagMap:
-                fout.write("  - %s\n" % (TreasuryTagMap[tag]))
+            if len(tag) > 1 and tag[1] in TreasuryTagMap:
+                fout.write("  - %s\n" % (TreasuryTagMap[tag[1]]))
             else:
                 fout.write(x)
     

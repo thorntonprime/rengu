@@ -21,9 +21,15 @@ class RenguLoadCmd(cmd.Cmd):
 
         for fn in args.split():
 
-            v = Verse.read_yaml_file(fn)
-            print(v['pk'])
-            v.save(DB)
+            try:
+                v = Verse.read_yaml_file(fn)
+                print(v['pk'])
+                v.save(DB)
+            except Exception as e:
+                import sys
+                sys.stderr.write("Error reading %s\n" % (fn))
+                sys.stderr.write("Error is %s\n" % (str(e)))
+                sys.exit(1)
 
         DB.commit()
 
@@ -32,10 +38,15 @@ class RenguLoadCmd(cmd.Cmd):
         from rengu.source import Source
 
         for fn in args.split():
-
-            for s in Source.read_yaml_file(fn):
-                print(s['pk'])
-                s.save(DB)
+            try:
+                for s in Source.read_yaml_file(fn):
+                    print(s['pk'])
+                    s.save(DB)
+            except Exception as e:
+                import sys
+                sys.stderr.write("Error reading %s\n" % (fn))
+                sys.stderr.write("Error is %s\n" % (str(e)))
+                sys.exit(1)
 
         DB.commit()
 
@@ -44,9 +55,14 @@ class RenguLoadCmd(cmd.Cmd):
         from rengu.author import Author
 
         for fn in args.split():
-
-            for a in Author.read_yaml_file(fn):
-                print(a['pk'])
-                a.save(DB)
+            try:
+                for a in Author.read_yaml_file(fn):
+                    print(a['pk'])
+                    a.save(DB)
+            except Exception as e:
+                import sys
+                sys.stderr.write("Error reading %s\n" % (fn))
+                sys.stderr.write("Error is %s\n" % (str(e)))
+                sys.exit(1)
 
         DB.commit()

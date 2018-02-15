@@ -1,4 +1,4 @@
-23	=Prelude=Creation
+23	(Prelude)=Creation
 26	Creation=The Process of Manifestation
 28	Creation=Inexhaustibility of the Creator
 31	Creation=Simultaneity of the Divine Act
@@ -8,8 +8,8 @@
 42	Creation=Man's Primordial Birthright
 47	Creation=Spiritual Paternity
 48	Creation=Self-Revelation
-52a	=Book One=Justice-Fear-Action
-52b	=Part I=Sacrifice-Death
+52a	(Book One)=Justice-Fear-Action
+52b	(Part I)=Sacrifice-Death
 53	Sacrifice-Death=Separation-Sin
 56	Sacrifice-Death=Separation-Sin=God Alone Is Good
 57	Sacrifice-Death=Separation-Sin=God's Mercy
@@ -70,7 +70,7 @@
 225	Sacrifice-Death=Death=Reabsorption of the Faculties
 226	Sacrifice-Death=Death=The Happy Death
 232	Sacrifice-Death=Death=Death Kills Death
-236	=Part II=Combat-Action
+236	(Part II)=Combat-Action
 237	Combat-Action=Judgement
 239	Combat-Action=Judgement=The Fear of God
 242	Combat-Action=Judgement=On Judging Others
@@ -135,8 +135,8 @@
 488	Combat-Action=Metanoia=The Inversion of Values
 493	Combat-Action=Metanoia=A Mutual Turning
 495	Combat-Action=Metanoia=No Repentance in God
-498a	=Book Two=Mercy-Love-Contemplation
-498b	=Part III=Life-Love
+498a	(Book Two)=Mercy-Love-Contemplation
+498b	(Part III)=Life-Love
 499	Life-Love=Faith
 501	Life-Love=Faith=Trust in God
 505	Life-Love=Faith=Belief in the Unseen
@@ -175,7 +175,7 @@
 636	Life-Love=Ecstasy=Mindlessness
 637	Life-Love=Ecstasy=Inebriation
 641	Life-Love=Ecstasy=Madness
-648	=Part IV=Beauty-Peace
+648	(Part IV)=Beauty-Peace
 649	Beauty-Peace=The Surface Of The Waters
 651	Beauty-Peace=The Surface Of The Waters=The Spirit Upon the Waters
 653	Beauty-Peace=The Surface Of The Waters=Dominating the Waters
@@ -193,8 +193,8 @@
 698	Beauty-Peace=Peace=The Ordering of Hearts
 700	Beauty-Peace=Peace=Serenity
 705	Beauty-Peace=Peace=Pax Profunda
-710a	=Book Three=Truth-Knowledge-Union
-710b	=Part V=Discernment-Truth
+710a	(Book Three)=Truth-Knowledge-Union
+710b	(Part V)=Discernment-Truth
 711	Discernment-Truth=Spiritual Drowning
 713	Discernment-Truth=Spiritual Drowning
 719	Discernment-Truth=The Void
@@ -223,7 +223,7 @@
 838	Discernment-Truth=The Eye Of Eternity-Supreme Center=The Eternal Now
 841	Discernment-Truth=The Eye Of Eternity-Supreme Center=Omniscience and Omnipresence
 847	Discernment-Truth=The Eye Of Eternity-Supreme Center=The Ultimate Felicity
-854	=Part VI=Union-Identity
+854	(Part VI)=Union-Identity
 855	Union-Identity=Realization And Identity
 859	Union-Identity=Realization And Identity=Know Thyself
 868	Union-Identity=Realization And Identity=The Spiritual Tincture
@@ -257,7 +257,7 @@
 987	Union-Identity=Mysterium Magnum=Silence
 994	Union-Identity=Mysterium Magnum=The Godhead
 998	Union-Identity=Mysterium Magnum=The Great Mystery
-1001	=Colophon=Invocation
+1001	(Colophon)=Invocation
 1003	Invocation=The Word that God Utters
 1007	Invocation=Fusion
 1009	Invocation=The Dispeller of Sin
