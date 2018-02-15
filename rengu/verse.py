@@ -141,6 +141,9 @@ class Verse(Document):
                 rdoc["By"], str) and rdoc["By"][0] == '\\':
             rdoc["By"] = rdoc["By"][1:]
 
+        if rdoc.get("Title") and rdoc["Title"][0] == '\\':
+            rdoc["Title"] = rdoc["Title"][1:]
+
         return Verse(rdoc)
 
 
