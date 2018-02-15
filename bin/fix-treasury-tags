@@ -1,0 +1,50 @@
+#!/usr/bin/python3
+
+import sys
+from os.path import basename
+
+TreasuryTagMap = {}
+for w in open('categories/treasury.txt', 'r').readlines():
+    k, t = w.strip().split('\t')
+    TreasuryTagMap[k] = t
+
+for f in sys.argv[1:]:
+
+    fin = open(f, 'r')
+    fout = open("tmp/" + basename(f), "w")
+
+    # skip non-tags
+    x = fin.readline()
+    while x:
+
+        # output new
+        fout.write(x)
+
+        if x.strip() == 'Tags:':
+            x = None
+        else:
+            x = fin.readline()
+
+    # Tags
+    x = fin.readline()
+    while x:
+
+        if x.strip()[0] != '-' or x.strip() == "---":
+            fout.write(x)
+            x = None
+
+        else:
+            tag = x.split()[1]
+
+            if tag in TreasuryTagMap:
+                fout.write("  - %s\n" % (TreasuryTagMap[tag]))
+            else:
+                fout.write(x)
+    
+            x = fin.readline()
+
+    # finish
+    for x in fin.readlines():
+        fout.write(x)
+        # output new
+
