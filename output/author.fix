@@ -68,15 +68,6 @@
 ]
 [
   {
-    "AlternateName": "Ibn Saad",
-    "Fuzz": "Ibn Saad",
-    "Match": 100,
-    "Name": "Muhammad ibn Sa'd ibn Mani' al-Baghdadi",
-    "pk": "2cf6c8db-fc78-4f13-9d89-4b13372533cd"
-  }
-]
-[
-  {
     "AlternateName": "Jean Paul Richter",
     "Fuzz": "Jean P. Richter",
     "Match": 90,
@@ -179,25 +170,5 @@
     "Match": 90,
     "Name": "William Jennings Bryan",
     "pk": "796d63b5-f79f-4eb2-bd93-0e95e6e636f4"
-  }
-]
-[
-  {
-    "Fuzz": "William Jay",
-    "Match": 82,
-    "Name": "William Law",
-    "pk": "d16578db-1632-42c6-817b-bc6767dcba43"
-  },
-  {
-    "Fuzz": "William Jay",
-    "Match": 83,
-    "Name": "William James",
-    "pk": "8d846d39-e195-4a7f-952c-7b30f31573fd"
-  },
-  {
-    "Fuzz": "William Jay",
-    "Match": 100,
-    "Name": "William Jay",
-    "pk": "47b049d0-3199-4722-b41e-b84213c467dd"
   }
 ]
