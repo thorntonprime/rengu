@@ -2,6 +2,6 @@
 AlternateNames:
   - King Hammurabi
 Name: Hammurabi
-URLs:
-  - https://en.wikipedia.org/wiki/Hammurabi
+Wikipedia:
+  URL: https://en.wikipedia.org/wiki/Hammurabi
 ---

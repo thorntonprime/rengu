@@ -2,6 +2,7 @@
 AlternateNames:
   - Margaret Cavendish
 Name: Margaret Cavendish, Duchess of Newcastle-upon-Tyne
-URLs:
-  - https://en.wikipedia.org/wiki/Margaret_Cavendish,_Duchess_of_Newcastle-upon-Tyne
+Wikipedia:
+  URL: "https://en.wikipedia.org/wiki/\
+    Margaret_Cavendish,_Duchess_of_Newcastle-upon-Tyne"
 ---

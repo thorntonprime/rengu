@@ -2,6 +2,6 @@
 AlternateNames:
   - Paul of Tarsus
 Name: Paul
-URLs:
-  - https://en.wikipedia.org/wiki/Paul_the_Apostle
+Wikipedia:
+  URL: https://en.wikipedia.org/wiki/Paul_the_Apostle
 ---

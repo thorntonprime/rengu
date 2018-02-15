@@ -4,6 +4,6 @@ AlternateNames:
   - Bonaventure
   - St Bonaventure
 Name: Bonaventure
-URLs:
-  - https://en.wikipedia.org/wiki/Bonaventure
+Wikipedia:
+  URL: https://en.wikipedia.org/wiki/Bonaventure
 ---

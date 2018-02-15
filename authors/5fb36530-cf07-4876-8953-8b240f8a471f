@@ -2,6 +2,6 @@
 AlternateNames:
   - George Byron
 Name: Lord Byron
-URLs:
-  - https://en.wikipedia.org/wiki/Lord_Byron
+Wikipedia:
+  URL: https://en.wikipedia.org/wiki/Lord_Byron
 ---

@@ -3,8 +3,8 @@ AlternateNames:
   - Sextus the Pythagorean
   - Quintus Sextius the Elder
 Name: Quintus Sextius
-URLs:
-  - https://en.wikipedia.org/wiki/Quintus_Sextius
+Wikipedia:
+  URL: https://en.wikipedia.org/wiki/Quintus_Sextius
 Works:
   - Sentences of Sextus
 ---

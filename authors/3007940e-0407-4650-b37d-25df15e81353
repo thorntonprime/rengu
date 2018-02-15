@@ -9,7 +9,6 @@ AlternateNames:
   - Theresa of Lisieux
   - Therese of Lisieux
   - "Th\xE9r\xE8se of Lisieux"
-URLs:
-  - https://en.wikipedia.org/wiki/Th%C3%A9r%C3%A8se_of_Lisieux
-  - "https://en.wikipedia.org/wiki/Th\xE9r\xE8se_of_Lisieux"
+Wikipedia:
+  URL: "https://en.wikipedia.org/wiki/Th\xE9r\xE8se_of_Lisieux"
 ---

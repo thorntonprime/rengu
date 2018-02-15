@@ -2,6 +2,6 @@
 AlternateNames:
   - St Francis of Assisi
 Name: Francis of Assisi
-URLs:
-  - https://en.wikipedia.org/wiki/Francis_of_Assisi
+Wikipedia:
+  URL: https://en.wikipedia.org/wiki/Francis_of_Assisi
 ---

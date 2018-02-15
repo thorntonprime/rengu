@@ -78,7 +78,11 @@ if __name__ == '__main__':
 
                 data = {
                     "Name" : label,
-                    "URLs" : [ url ]
+                    "Wikipedia" : {
+                        "URL": url,
+                        "PageID" : pageid,
+                        "Base" : wikibase
+                    }
                 }
 
                 if name != label:

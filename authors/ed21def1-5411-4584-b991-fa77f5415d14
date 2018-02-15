@@ -6,6 +6,6 @@ AlternateNames:
   - The Buddha
   - Buddha
 Name: Gautama Buddha
-URLs:
-  - https://en.wikipedia.org/wiki/Gautama_Buddha
+Wikipedia:
+  URL: https://en.wikipedia.org/wiki/Gautama_Buddha
 ---

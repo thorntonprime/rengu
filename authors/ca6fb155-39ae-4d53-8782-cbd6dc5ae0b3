@@ -3,6 +3,6 @@ AlternateNames:
   - Mohandas Gandhi
   - Gandhi
 Name: Mahatma Gandhi
-URLs:
-  - https://en.wikipedia.org/wiki/Mahatma_Gandhi
+Wikipedia:
+  URL: https://en.wikipedia.org/wiki/Mahatma_Gandhi
 ---

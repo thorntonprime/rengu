@@ -2,6 +2,6 @@
 AlternateNames:
   - Baron de Montesquieu
 Name: Montesquieu
-URLs:
-  - https://en.wikipedia.org/wiki/Montesquieu
+Wikipedia:
+  URL: https://en.wikipedia.org/wiki/Montesquieu
 ---
