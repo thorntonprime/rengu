@@ -13,3 +13,8 @@
   cut -c9- | \
   bin/rengu-check-author > output/author.check
 
+bin/rengu search verse '{}' | \
+  jq -r .pk | \
+  xargs bin/rengu-extract-source | \
+  sort | uniq -c | sort -g > output/titles.list
+
