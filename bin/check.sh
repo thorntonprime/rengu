@@ -9,6 +9,7 @@
     jq -r .pk | \
     xargs bin/rengu-extract-authors source
 ) | \
-  sort | uniq | \
+  sort | uniq -c | tee output/author.list | \
+  cut -c9- | \
   bin/rengu-check-author > output/author.check
 
