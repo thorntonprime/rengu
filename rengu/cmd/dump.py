@@ -28,11 +28,9 @@ class RenguDumpCmd(cmd.Cmd):
         for pk in args.split():
             print(Source.fetch(pk).to_yaml())
 
-
     @auto_help
     def do_author(self, args):
         from rengu.author import Author
 
         for pk in args.split():
             print(Author.fetch(pk).to_yaml())
-

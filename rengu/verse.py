@@ -31,7 +31,6 @@ class Verse(Document):
         import json
         return json.dumps(dict(self), sort_keys=True, indent=2)
 
-
     @staticmethod
     def fetch(pk):
         return DB.get(Verse, {"pk": pk})
@@ -43,7 +42,7 @@ class Verse(Document):
     @staticmethod
     def find(query, field="Title"):
 
-        for a in DB.filter(Verse, { field: query } ):
+        for a in DB.filter(Verse, {field: query}):
             yield a
 
     @staticmethod
@@ -146,7 +145,6 @@ class Verse(Document):
 
         return Verse(rdoc)
 
-
     class Meta(Document.Meta):
         primary_key = 'pk'
         collection = 'verses'
@@ -155,7 +153,7 @@ class Verse(Document):
 # Create indexes
 
 from blitzdb.queryset import QuerySet
-DB.create_index(Verse, 'Title', fields={"Title": QuerySet.ASCENDING}, unique=False, ephemeral=False )
-DB.create_index(Verse, 'Tags', fields={"Tags": QuerySet.ASCENDING}, unique=False, ephemeral=False )
-
-
+DB.create_index(Verse, 'Title', fields={
+                "Title": QuerySet.ASCENDING}, unique=False, ephemeral=False)
+DB.create_index(Verse, 'Tags', fields={
+                "Tags": QuerySet.ASCENDING}, unique=False, ephemeral=False)

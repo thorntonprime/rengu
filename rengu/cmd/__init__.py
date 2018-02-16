@@ -70,18 +70,6 @@ class RenguCmd(cmd.Cmd, object):
             return find_cmd.cmdloop()
 
     @auto_help
-    def do_fuzz(self, args):
-        '''fuzz
-        Slower find using a fuzzy search against key field (e.g. name or title)
-        '''
-        from rengu.cmd.fuzz import RenguFuzzCmd
-        fuzz_cmd = RenguFuzzCmd()
-        if len(args) > 1:
-            return fuzz_cmd.onecmd(args)
-        else:
-            return fuzz_cmd.cmdloop()
-
-    @auto_help
     def do_json(self, args):
         '''json
         Subcommands to json data

@@ -18,7 +18,6 @@ class Author(Document):
         import json
         return json.dumps(dict(self), sort_keys=True, indent=2)
 
-
     @staticmethod
     def fetch(pk):
         return DB.get(Author, {"pk": pk})
@@ -32,37 +31,16 @@ class Author(Document):
 
         found = set()
 
-        for a in DB.filter(Author, { field: query } ):
+        for a in DB.filter(Author, {field: query}):
             if a.pk not in found:
                 found.add(a.pk)
                 yield a
 
         if field == "Name":
-            for a in DB.filter(Author, { "AlternateNames": query } ):
+            for a in DB.filter(Author, {"AlternateNames": query}):
                 if a.pk not in found:
                     found.add(a.pk)
                     yield a
-
-    @staticmethod
-    def fuzz(query, min=80, field="Name"):
-        from fuzzywuzzy import fuzz
-
-        results = []
-
-        for a in DB.filter(Author, {} ):
-            f = fuzz.token_sort_ratio(query, a.get(field))
-            if f > min:
-                results.append({ "Match": f, "Fuzz": query, "Name": a.get('Name'), "pk": a.get("pk") })
-
-        if field == "Name":
-            for a in DB.filter(Author, {} ):
-                for alt in a.get('AlternateNames', ()):
-                    f = fuzz.token_sort_ratio(query, alt)
-                    if f > min:
-                        results.append({ "Match": f, "Fuzz": query, "Name": a.get('Name'), "AlternateName": alt, "pk": a.get("pk") })
-
-        return list({v['pk']:v for v in results}.values())
-
 
     @staticmethod
     def read_yaml_file(fn):
@@ -76,13 +54,13 @@ class Author(Document):
 
                 yield Author(data)
 
-
     # Class internal data and methods ###############################
     class Meta(Document.Meta):
         primary_key = 'pk'
         collection = 'authors'
 
 from blitzdb.queryset import QuerySet
-DB.create_index(Author, 'Name', fields={"Name": QuerySet.ASCENDING}, unique=True, ephemeral=False )
-DB.create_index(Author, 'AlternateNames', fields={"AlternateNames": QuerySet.ASCENDING}, unique=True, ephemeral=False )
-
+DB.create_index(Author, 'Name', fields={
+                "Name": QuerySet.ASCENDING}, unique=True, ephemeral=False)
+DB.create_index(Author, 'AlternateNames', fields={
+                "AlternateNames": QuerySet.ASCENDING}, unique=True, ephemeral=False)

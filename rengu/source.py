@@ -4,7 +4,6 @@ from blitzdb import Document
 from rengu.config import DB
 
 
-
 class Source(Document):
 
     def to_yaml(self):
@@ -20,7 +19,6 @@ class Source(Document):
 
         return json.dumps(dict(self), sort_keys=True, indent=2)
 
-
     @staticmethod
     def fetch(pk):
         return DB.get(Source, {"pk": pk})
@@ -28,19 +26,19 @@ class Source(Document):
     @staticmethod
     def search(query):
         return DB.filter(Source, eval(query))
- 
+
     @staticmethod
     def find(query, field="Title"):
 
         found = set()
 
-        for a in DB.filter(Source, { field: query } ):
+        for a in DB.filter(Source, {field: query}):
             if not a.pk in found:
                 found.add(a.pk)
                 yield a
 
         if field == "Title":
-            for a in DB.filter(Source, { "AlternateTitles": query } ):
+            for a in DB.filter(Source, {"AlternateTitles": query}):
                 if not a.pk in found:
                     found.add(a.pk)
                     yield a
@@ -62,5 +60,5 @@ class Source(Document):
         collection = 'sources'
 
 from blitzdb.queryset import QuerySet
-DB.create_index(Source, 'Title', fields={"Title": QuerySet.ASCENDING}, unique=False, ephemeral=False )
-
+DB.create_index(Source, 'Title', fields={
+                "Title": QuerySet.ASCENDING}, unique=False, ephemeral=False)

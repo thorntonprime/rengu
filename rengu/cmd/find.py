@@ -44,4 +44,3 @@ class RenguFindCmd(cmd.Cmd):
 
         except SyntaxError as e:
             print(e)
-

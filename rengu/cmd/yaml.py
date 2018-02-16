@@ -35,4 +35,3 @@ class RenguYAMLCmd(cmd.Cmd):
         for fn in args.split():
             for a in Author.read_yaml_file(fn):
                 print(a.to_yaml())
-
