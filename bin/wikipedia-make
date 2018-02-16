@@ -91,7 +91,12 @@ if __name__ == '__main__':
             # from pprint import pprint
             # pprint(data)
 
-            f = open('output/' + uid, 'w')
+            try:
+                os.mkdir("tmp/authors/")
+            except:
+                pass
+
+            f = open('tmp/authors/' + uid, 'w')
 
             f.write("---\n")
             f.write(
