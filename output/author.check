@@ -4,10 +4,12 @@
 2425aeda-f247-4e39-9af0-6b55a47f5e85 = 2425aeda-f247-4e39-9af0-6b55a47f5e85
 24286944-d73a-453f-b948-06fc1a7ef8cb = 24286944-d73a-453f-b948-06fc1a7ef8cb
 44cee291-aa4e-44d2-aaaf-e0b9db5221b2 = 44cee291-aa4e-44d2-aaaf-e0b9db5221b2
+453798e1-dc8a-4c2b-999a-0a54fc5376cb = 453798e1-dc8a-4c2b-999a-0a54fc5376cb
 4de44b73-d163-416c-9eed-b85ef8d42c70 = 4de44b73-d163-416c-9eed-b85ef8d42c70
 60af07b4-02b0-4784-89ba-048a2963574b = 60af07b4-02b0-4784-89ba-048a2963574b
 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd = 6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd
 745f6554-eb8e-4e42-b3ef-ce5b39b22ba6 = 745f6554-eb8e-4e42-b3ef-ce5b39b22ba6
+81f3c50e-55c9-45f5-9d72-213667935586 = 81f3c50e-55c9-45f5-9d72-213667935586
 86e414cb-5dfb-4e4c-87e3-cd6eb50cca19 = 86e414cb-5dfb-4e4c-87e3-cd6eb50cca19
 Abba Dorotheus ~ ed9b8a0e-0bfd-4c1c-97d7-a54c12ccf2c8 Dorotheus of Gaza
 Abbé Suger of Saint-Denis ~ d6362611-831c-416c-a3da-57394a57a7b5 Suger
@@ -83,7 +85,7 @@ Al-'Arabi al-Hasanî ad-Darqâwî ~ 63f9f348-24a3-4063-b4b3-a5ee6698ec69 Muhamma
 Albertano of Brescia ~ f7941cba-33e1-417b-b0e0-a34161f2cc95 Albertanus of Brescia
 Albert Camus ~ 5bfcf3b3-b606-428c-be98-ad9d70e2160d Albert Camus
 Albert Einstein ~ 5c5f9ad8-a1c7-445d-92d2-333c51a387d0 Albert Einstein
-Albert Rothenberg ! NO MATCH
+Albert Rothenberg ~ d51a844d-f29a-4b86-97c8-d6c1afe7a5d6 Albert Rothenberg
 Albert Schweitzer ~ f1978d6a-a662-45c8-9220-510d55c66a8d Albert Schweitzer
 Albertus Magnus ~ 80773996-4137-4bef-8060-0908cf93a5fa Albertus Magnus
 Alcuin ~ 0cbef195-6497-4ed5-9ccd-158fb143bddf Alcuin
@@ -231,7 +233,7 @@ Bâyazid al-Bistâmî ~ ef0ecb19-b725-4ed4-be4f-2f39807f9df3 Bayazid Bastami
 Bâyazîd al-Bistâmî ~ ef0ecb19-b725-4ed4-be4f-2f39807f9df3 Bayazid Bastami
 B. C. Forbes ~ 6edc074f-a6bb-475b-a720-1621bfb5cab0 Bertie Charles Forbes
 Becher ~ 22791895-6dca-4a43-838b-afbbb7358969 Johann Joachim Becher
-Beethoven ! NO MATCH
+Beethoven ~ eac21918-4319-4af9-9514-321f68f5fd65 Ludwig van Beethoven
 Beilby Porteous ! NO MATCH
 Belleh Shah ~ a7040d48-2535-412c-a71c-6573da64bb4e Bulleh Shah
 Benazir Bhutto ~ ca80b5e0-1f4b-460d-94fc-e2ab8674e26a Benazir Bhutto
@@ -255,6 +257,7 @@ Bhagavan Das ! NO MATCH
 Bhartrari ~ ad17d715-899d-4948-b6a3-67c69a1fdf47 Bhartṛhari
 Bhartrhari ~ ad17d715-899d-4948-b6a3-67c69a1fdf47 Bhartṛhari
 Bias of Priene ~ c0b7abff-6475-4047-85f5-f1f3322458d9 Bias of Priene
+Billy Corgan ! NO MATCH
 Billy Graham ~ 38b5b9af-43de-468e-bdbc-5158735d6a96 Billy Graham
 Binavâli ! NO MATCH
 Black Elk ~ 4b34d282-edab-44c4-a47f-eaafa316a4b5 Black Elk
@@ -269,6 +272,7 @@ Bolton Hall ! NO MATCH
 Bonnie Myotai Treace ~ d6c40933-00bc-40c3-bd74-ef631a81baab Bonnie Myotai Treace
 Booker T. Washington ~ 4a17cdab-6ab4-4425-884b-aebbb2ebc17f Booker T. Washington
 Brian Addiss ! NO MATCH
+Brian Aubert ! NO MATCH
 Brian Eno ~ 5ef1ce53-2f3a-4f8e-8f2d-9eba6e5e4064 Brian Eno
 Brian Swann ! NO MATCH
 Brother Lawrence ~ 5642e189-5477-4b22-a044-3fa4b21443d5 Brother Lawrence
@@ -283,6 +287,7 @@ Burton Watson ~ e94a636c-e53a-46be-bf41-f92283aa95b3 Burton Watson
 Bussy-Rabutin ~ 870e798e-99d0-496f-aa42-54cc3fdfe39c Roger de Rabutin, Comte de Bussy
 by David G. Lanoue ! NO MATCH
 c454ba57-29d5-4339-999b-7e0c327c88b6 = c454ba57-29d5-4339-999b-7e0c327c88b6
+c65141df-7e43-427d-8e22-fc59589837c6 = c65141df-7e43-427d-8e22-fc59589837c6
 C. A. Hall ! NO MATCH
 Calderón ~ 6e4c3705-610b-43fd-ba9f-b086eb017ed2 Pedro Calderón de la Barca
 Callistus ! NO MATCH
@@ -317,13 +322,13 @@ Charles Baudelaire ~ 1b6b1559-d1a3-4d35-8903-5d820f8bf51a Charles Baudelaire
 Charles Buxton ~ e1bff67c-def5-4fcb-962f-66b009a0e79d Charles Buxton
 Charles C. Colton ! NO MATCH
 Charles de Gaulle ~ 37dd1cff-6550-493c-8bf7-5f98c1168ce1 Charles de Gaulle
-Charles Dickens ! NO MATCH
+Charles Dickens ~ 63bd45f2-eb50-4103-8784-a83572a0cda6 Charles Dickens
 Charles F. Alsop ! NO MATCH
 Charles F. Kettering ~ cb9646ab-4302-480c-8814-0262dfc68af6 Charles F. Kettering
-Charles Frohman ! NO MATCH
+Charles Frohman ~ d01ec935-a853-4d14-bbf9-e1b145111d03 Charles Frohman
 Charles Haanel ~ 3dcf7542-9567-429d-8af1-34db0569184b Charles Francis Haanel
 Charles H. Spurgeon ~ 237fbff2-4d41-4c05-b58c-d0d6e3d44957 Charles Spurgeon
-Charles I of England ! NO MATCH
+Charles I of England ~ 333510a0-58e0-4da3-aff1-1420d326599e Charles I of England
 Charles Kahn ! NO MATCH
 Charles Kingsley ~ f2476e5b-c810-400a-bf0e-ee622db37919 Charles Kingsley
 Charles Lindbergh ~ f2133b41-e345-4772-8cba-52a8eb50b8f1 Charles Lindbergh
@@ -355,8 +360,10 @@ Chin Shengt'an ~ 5a4c18c4-b853-404e-939e-dfaf7155f7ad Jin Shengtan
 Chogyam Trungpa Rinpoche ~ 44cee291-aa4e-44d2-aaaf-e0b9db5221b2 Chögyam Trungpa
 Chögyam Trungpa Rinpoche ~ 44cee291-aa4e-44d2-aaaf-e0b9db5221b2 Chögyam Trungpa
 Chou Yung ~ 60866b71-d348-44cb-a3cf-63a10b1f5b55 Chou Yung
+Chris Squire ! NO MATCH
 Christian Bovee ~ a0d28c8c-8de5-44eb-b423-16c8ae4a218e Christian Nestell Bovee
 Christopher Columbus ~ f4f407fc-1d23-4911-a7a0-4e1dccfda280 Christopher Columbus
+Christopher Guanlao ! NO MATCH
 Chrysopeia of Cleopatra ~ 80c70cdc-470c-49f7-a754-3b1417720874 Cleopatra the Alchemist
 Chuang-tse ~ 2fae5fa1-c815-4d2a-945b-f97c6f4822df Zhuang Zhou
 Chuang Tse ~ 2fae5fa1-c815-4d2a-945b-f97c6f4822df Zhuang Zhou
@@ -369,7 +376,7 @@ Claire of Assisi ~ e12b4c8a-9e2f-4b6d-907b-c4ab2a293156 Clare of Assisi
 Clare Cavanagh ~ 4228251a-dd48-493a-aff8-2743a8446d9d Clare Cavanagh
 Clare of Assisi ~ e12b4c8a-9e2f-4b6d-907b-c4ab2a293156 Clare of Assisi
 Claude A. Helvetius ! NO MATCH
-Claude Helvetius ! NO MATCH
+Claude Helvetius ~ ee0744eb-a67c-4460-bda0-e13b4673633d Claude Adrien Helvétius
 Claudianus ! NO MATCH
 Clement of Alexandria ~ 5596ef16-247b-4735-85ce-eb7e3e1af8d7 Clement of Alexandria
 C. Northcote Parkinson ~ 4190dd1e-1d5e-4ef3-9901-7cc025e2fbb7 C. Northcote Parkinson
@@ -410,6 +417,7 @@ Daniel R. Messe ! NO MATCH
 Daniel von Czepko ~ 2bd730fe-b776-48ea-9e10-cfcf50ddefc6 Daniel Czepko von Reigersfeld
 Dante ~ ddcdb5eb-6c80-4fd1-91da-0ceb41d7e16d Dante Alighieri
 Dante Alighieri ~ ddcdb5eb-6c80-4fd1-91da-0ceb41d7e16d Dante Alighieri
+D'arcy Wretzky ! NO MATCH
 Darryl F. Zanuck ~ 5958091d-e1e2-48b7-8a07-92cfe2522f7d Darryl F. Zanuck
 Darwin Gross ~ 8910d132-098b-4ddd-9ade-0ab715b40924 Darwin Gross
 David Bowie ~ 78410882-38cd-4211-95f9-115989f5c038 David Bowie
@@ -443,7 +451,7 @@ Dinah M. Craik ! NO MATCH
 Dion Chrysostom ~ 8d75855f-566c-47bc-b08b-9cfbcf037940 Dio Chrysostom
 Dionysius ~ f6ddb84d-e89d-4452-8f8c-0a107e28a5db Dionysius the Areopagite
 Disraeli ~ bb68983a-a4c5-47c8-84e9-5f0f63c293ea Benjamin Disraeli
-Dodie Smith ! NO MATCH
+Dodie Smith ~ 1b5c1e0e-2f39-4838-a01b-ed4d6162fd3e Dodie Smith
 Dôgen ~ 4a1b243c-8564-4858-b813-6f2f683f39a2 Dōgen
 Dôken ! NO MATCH
 Donald Curtis ! NO MATCH
@@ -460,7 +468,7 @@ Dwight L. Moody ~ 1efded92-317f-41d3-b505-e4d54675d9ae Dwight Lyman Moody
 e8d8b048-5aec-4b2d-b229-62ee5114a33f = e8d8b048-5aec-4b2d-b229-62ee5114a33f
 E. B. Hall ! NO MATCH
 Eckhart ~ c6d47d7b-579d-4d33-834f-f5ee0ac54822 Meister Eckhart
-Eda LeShan ! NO MATCH
+Eda LeShan ~ 88f0c22f-b853-454e-b90a-7365093a1914 Eda LeShan
 Eddie Richenbacker ~ e1493445-ebf5-4361-8d53-5405d515cdb2 Eddie Rickenbacker
 Eddie Rickenbacker ~ e1493445-ebf5-4361-8d53-5405d515cdb2 Eddie Rickenbacker
 Eddie Vedder ~ cc633387-78e4-4548-9913-84e141a3c437 Eddie Vedder
@@ -477,7 +485,7 @@ Edward Bulwer-Lytton ~ 0c61beb6-707e-4633-a4f5-67f16678e711 Edward Bulwer-Lytton
 Edward Clarendon ! NO MATCH
 Edward Clarke ! NO MATCH
 Edward Conze ~ 697abdb9-82e0-45ae-b97b-07711cfef9d6 Edward Conze
-Edward de Bono ! NO MATCH
+Edward de Bono ~ a3e58ab4-1c61-4409-ba38-b1ba41f33444 Edward de Bono
 Edward Gibbon ~ bc4775d5-8846-45bf-b971-e81176d96b02 Edward Gibbon
 Edward Herbert ! NO MATCH
 Edward Payson ~ e923eaa0-7f57-4e26-9566-f7f739182e93 Edward Payson
@@ -516,7 +524,7 @@ Empedocles ~ 7eaf7bf1-03a8-492c-b289-23123e6178fb Empedocles
 Emperor Fushima ! NO MATCH
 Eobold Vogelius ! NO MATCH
 Epictetus ~ 126619ac-b665-4c37-af0e-619be6f006b7 Epictetus
-Epicurus ! NO MATCH
+Epicurus ~ f51babd3-f1ab-4189-86d0-2879b8e346f4 Epicurus
 Erasmus ~ 41c4bbac-5463-4fe4-9844-9a03caeef330 Erasmus
 E. R. Hughes ! NO MATCH
 Erica Jong ~ 148bfde2-e6df-4a70-a9cb-2f3b54e0f7ea Erica Jong
@@ -524,6 +532,7 @@ Eric Berne ~ 2b49dcfa-a12d-4937-ab7d-331aba7fcc65 Eric Berne
 Eric Butterworth ! NO MATCH
 Eric Fromm ~ 06b26225-6c10-481b-90df-f460d3b892f4 Eric Fromm
 Erich Fromm ~ c954ca43-6ebb-4e87-a029-3aba556013f9 Erich Fromm
+Eric Matthew Cannata ! NO MATCH
 Erik H. Erikson ~ b6e88dc0-dd95-43a8-a270-141b24d10c4b Erik Erikson
 Erik Plamstiema ! NO MATCH
 Ernest Becker ~ 975d2c6d-9ca2-47b6-ba85-8f12d8e9d906 Ernest Becker
@@ -569,6 +578,7 @@ Francis Xavier ~ 1fb8e222-840d-45a4-a18a-51767cd36460 Francis Xavier
 Francois Fenelon ~ d6eeb7da-e61b-403c-abce-ce898518115f François Fénelon
 Francois La Rochefoucauld ! NO MATCH
 François Louis de Blois ! NO MATCH
+Francois Paul Comtois ! NO MATCH
 Franklin P. Jones ! NO MATCH
 Frank L. Wright ~ 57e9afdd-c05d-4467-b53c-5f4175ad7afe Frank Lloyd Wright
 Frank M. Colby ! NO MATCH
@@ -603,6 +613,7 @@ Gardner Hunting ! NO MATCH
 Garrison Keillor ~ ed8d15f3-2d69-41dd-b25c-93fb893cbafa Garrison Keillor
 Gary Emery ! NO MATCH
 Gary L. Maurer ! NO MATCH
+Gary McDowell ! NO MATCH
 Gary Snyder ~ 9f19e085-9a37-4b46-9bd5-f28adf966ee8 Gary Snyder
 Gaston Bachelard ~ 6bb53f91-f793-406a-b6d2-d4ff1e78399e Gaston Bachelard
 Gaude A. Helvetius ! NO MATCH
@@ -657,7 +668,7 @@ Goffried Leibniz ! NO MATCH
 Gordon P. Miller ! NO MATCH
 Gotthold Ephraim Lessing ~ 260d2b8d-3cb0-42ce-be47-e8a0ce2fa7b6 Gotthold Ephraim Lessing
 Grace Hanson ! NO MATCH
-Graham Greene ! NO MATCH
+Graham Greene ~ f7b1119a-0ab3-4853-874a-6cf898f50ffc Graham Greene
 Great Kamo Priestess Senshi ! NO MATCH
 Gregory Vlastos ~ 106b7c3f-f4c1-4f78-8e18-59edf491f639 Gregory Vlastos
 Guenon ~ 90defc84-ca3a-4b6d-8aa6-427e7e6f0ee5 Guenon
@@ -675,7 +686,7 @@ Han Shan ~ ad2bbf8f-33db-45c1-8a07-038111dfe25d Hanshan
 Han-shan Te-ch'ing ~ d1b6e56c-3eba-4a50-a2cb-f2ae1bd31c73 Hanshan Deqing
 Han-shan Te-Ch'ing ~ d1b6e56c-3eba-4a50-a2cb-f2ae1bd31c73 Hanshan Deqing
 Hans-Ulrich Rieker ! NO MATCH
-Han Suyin ! NO MATCH
+Han Suyin ~ d995046f-26cb-4bda-8af2-54af67509940 Han Suyin
 Hari Das Baba ! NO MATCH
 Harold H. Bloomfield ~ c85a254f-60ff-497c-81b6-af31ecd5a5e9 Harold H. Bloomfield
 Harold Robbins ~ 0b22bd16-6537-438d-8ec0-79f39f3fe9ea Harold Robbins
@@ -691,7 +702,7 @@ Hasan al-Basri ~ 3ef113c5-1661-4532-ad9f-f8609d294bc9 Hasan of Basra
 Hazel B. Andre ! NO MATCH
 Hazrat Inayat Khan ~ d8eae47f-30a7-40d6-8f4b-38d132360546 Inayat Khan
 H. Bertram Lewis ! NO MATCH
-Heinrich Heine ! NO MATCH
+Heinrich Heine ~ 5e803780-f642-411a-ac79-51f9c7c4fa86 Heinrich Heine
 Heinrich Khunrath ~ b075f05a-1c74-4f59-9dde-d34a929ccd40 Heinrich Khunrath
 Helen Keller ~ 78267f86-34d6-4302-8c9d-2cde95198bea Helen Keller
 Helvetius ~ c5c5e5f8-2bde-44d4-9496-20d46766aa83 Helvidius Priscus
@@ -819,10 +830,11 @@ Jack Kornfield ~ 5480167d-273e-4b78-94fa-aa297ba01657 Jack Kornfield
 Jack Miner ~ ff4ad022-62f7-4e6a-9f32-950d7d87f2a8 Jack Miner
 Jack Penn ~ 3e813f1e-c799-40f4-9f95-3ab6dc82c687 Jack Penn
 Jacob Boehme ~ 9bfa285f-8cea-4127-b3ca-4d44bd51a2a2 Jakob Böhme
+Jacob John Tilley ! NO MATCH
 Jacob M. Braude ! NO MATCH
 Jacobus de Voragine ~ 4d328dba-ba91-42f6-be47-90c4fee98953 Jacobus de Voragine
 Jacopone da Todi ~ 60cf7234-37ca-4ed9-8da2-4f24998fb3eb Jacopone da Todi
-Jacopo Sannazaro ! NO MATCH
+Jacopo Sannazaro ~ 54231d48-fb56-49a8-9517-7ad78cd2801d Jacopo Sannazaro
 Jacques Bossuet ~ 229e9844-1f73-4bb7-9f45-bc37dbf64fd7 Jacques-Bénigne Bossuet
 Jacques Maritain ~ bd7f3623-f61b-4cc0-86ab-e1e77cbaf9b3 Jacques Maritain
 Jahângîr ~ 6dd7fc6d-f576-41b9-abad-243279d9c830 Jahangir
@@ -834,7 +846,7 @@ James Alexander ~ 546227e0-51f7-432a-ab87-612bb4018665 James Waddel Alexander
 James Allen ! NO MATCH
 James Baldwin ~ d070d1c9-fea4-4d9a-ad30-debc551324cd James Baldwin
 James B. Schafer ! NO MATCH
-James D. Burns ! NO MATCH
+James D. Burns ~ 62840cd6-d5ca-4fd1-8063-d69b84af1826 James D. Burns
 James Dobson ~ 74a611c0-638c-435e-8936-781bff3a5c3f James Dobson
 James E. Farmer ! NO MATCH
 James F. Clark ! NO MATCH
@@ -843,6 +855,7 @@ James G. Gilkey ! NO MATCH
 James Harvey ! NO MATCH
 James Howell ~ 89c54d24-fe54-4b1d-b712-a779e9b3101d James Howell
 James H. Sanford ! NO MATCH
+James Iha ! NO MATCH
 James Legge ~ 82eb5cac-293c-4d60-9203-971700a9a434 James Legge
 James M. Barrie ~ 6e01fa89-72f0-4544-84ae-70f659746efc J. M. Barrie
 James Russell Lowell ~ 4039f129-53a9-474f-b189-f9b254831649 James Russell Lowell
@@ -879,8 +892,9 @@ Jean P. Richter ~ 8bf88225-0263-4060-9a35-2e9d2c2db919 Jean-Paul Richter
 Jean P. Sartre ~ 8e3d0f60-7c10-4fb1-8d4a-3e2eb3d26d35 Jean-Paul Sartre
 Jean Rostand ~ 6ae1f880-7df8-4d85-9e7c-58c8d58e5dff Jean Rostand
 Jeffery L. Broughton ! NO MATCH
+Jeff Schroeder ! NO MATCH
 Jelaluddin Rumi ~ 0200c883-e38f-4554-92bc-2eba913426b7 Rumi
-Jeremy Collier ! NO MATCH
+Jeremy Collier ~ c4250da5-be84-4d92-bde9-032b611fd636 Jeremy Collier
 Jeremy Taylor ~ dc61a380-4612-4169-b4cc-7987037c42f2 Jeremy Taylor
 Jerome Rothenberg ~ cd98ba85-f996-4451-88f6-c5bf62ec3cdd Jerome Rothenberg
 Jerry Brown ~ 166d328c-b327-4dea-9107-753f01644b4c Jerry Brown
@@ -892,6 +906,7 @@ Jesus ~ 199b81b9-b363-4dd7-b262-4be2e71c89dd Jesus
 Jili ~ e516f932-cfdd-4dcf-9024-659cee569af0 Jili
 Jîli ~ e516f932-cfdd-4dcf-9024-659cee569af0 Jili
 Jîlî ~ e516f932-cfdd-4dcf-9024-659cee569af0 Jili
+Jimmy Chamberlin ! NO MATCH
 Jimyo ! NO MATCH
 J. Krishnamurti ~ 040ca95a-f581-4643-828b-918b863e31dc Jiddu Krishnamurti
 J. M. Jussawalla ! NO MATCH
@@ -900,6 +915,7 @@ Joan Baez ~ 75bb36c9-6eec-41f9-88ed-9d1e4cb46b57 Joan Baez
 Joanna Macy ~ ebc33f14-6d0e-461d-a00f-d43312643b2d Joanna Macy
 JoAnn Kelley Smith ! NO MATCH
 Joan Rivers ~ f2c0b851-984a-46bb-8595-da3468aff0de Joan Rivers
+Joe Lester ! NO MATCH
 Joel Goldsmith ~ 6cf6f4fa-1539-476a-8f96-79069a0e95b7 Joel Goldsmith
 Johannes Kelpius ~ 09ddda1f-34b8-467f-a0e4-7ea678f997b4 Johannes Kelpius
 Johannes Scoitus Erigena ~ bdc9113e-3ead-4069-9cd2-1770e70b78a3 Johannes Scotus Eriugena
@@ -924,7 +940,7 @@ John Cowper Powys ~ 1183fe60-1029-4f61-a22e-4040840f239e John Cowper Powys
 John Cremer ! NO MATCH
 John Daido Loori ~ 6cb04f4d-23cd-44d7-97eb-9e590d2c2581 John Daido Loori
 John Denham ! NO MATCH
-John Dewey ! NO MATCH
+John Dewey ~ 5302360b-6c24-43ed-b621-96f1522a7669 John Dewey
 John Donne ~ a1f72a57-e6d8-401d-9ffd-da88b99e4bc1 John Donne
 John D. Rockefeller ~ d18e278e-71c1-45a0-8222-e320f4fa3225 John D. Rockefeller
 John Dryden ~ e79ad275-e58e-4830-a213-35dfb3b99fb5 John Dryden
@@ -966,6 +982,7 @@ John Updike ~ cc3b1b8d-2c47-4ba9-bdd5-7e1c3c64c951 John Updike
 John Wareham ~ a9c8e505-5f21-4d71-8ebc-e8291d7aa89e Jack Wareham
 John Wooden ~ fbc4a801-52f2-4f26-84cd-d6cbe4932f18 John Wooden
 Joho ! NO MATCH
+Jon Anderson ! NO MATCH
 Jonathan Barnes ~ 05485290-80b5-488f-9094-ad2d1992d33b Jonathan Barnes
 Jonathan Montaldo ! NO MATCH
 Jonathan Swift ~ 989e893e-662e-4c2c-864b-71b11bc853bb Jonathan Swift
@@ -977,7 +994,7 @@ Jorge Manrique ~ d37e7b59-9077-45cc-97cf-4f153e9aba20 Jorge Manrique
 Joseph Addison ~ 2a9cd80e-8ee9-42f8-9c09-0b39a28ab558 Joseph Addison
 Joseph Albo ~ 5a6856a1-7078-499d-b852-01e299ca2b81 Joseph Albo
 Joseph Campbell ~ f0dcf4e8-09e6-48c2-b223-d310a7c2c8a7 Joseph Campbell
-Joseph Conrad ! NO MATCH
+Joseph Conrad ~ e469195e-c16e-4d4a-85e0-f8742488f460 Joseph Conrad
 Joseph Cook ~ 118ea070-b740-4a60-9d92-4e5547810795 Joseph Cook
 Joseph de Maistre ~ 678008b8-27be-4f27-b5d1-95a4f057b163 Joseph de Maistre
 Joseph Gikatila ! NO MATCH
@@ -1033,7 +1050,6 @@ Kobayashi Issa ~ 58b185a2-d031-4c58-9d81-ba16395995fa Kobayashi Issa
 Kôbô Daishi ~ b36b057c-b1ea-493f-8096-492f05f36192 Kūkai
 Ko Ch'ang-Kêng ! NO MATCH
 Ko Hung ~ 1a77dea4-9f5f-482c-af88-b193ee57b25e Ge Hong
-Koran ! NO MATCH
 Krishna ! NO MATCH
 Kung-sun Lung ~ 8b1830d7-dbd9-4479-9743-0a498674b6bf Gongsun Long
 Kung Tingan ! NO MATCH
@@ -1075,6 +1091,7 @@ Lillian Smith ! NO MATCH
 Lily Pincus ! NO MATCH
 Lin Yutang ~ 244c3735-fe79-4e40-bbfe-225bea513d67 Lin Yutang
 Li Po ~ 2425aeda-f247-4e39-9af0-6b55a47f5e85 Li Bai
+Liu An ~ ed7e7c95-ef8e-40b4-8345-570d8009ad6a Huainanzi
 Liz Smith ! NO MATCH
 Lombez ! NO MATCH
 Lorado Taft ~ 5cf74a61-9bc4-4229-8221-e8093e1266ad Lorado Taft
@@ -1086,7 +1103,7 @@ Lord Russell ! NO MATCH
 Louis Binstock ! NO MATCH
 Louis-Claude de Saint-Martin ~ 6fb88dd4-c561-4f05-a028-f02062a3afc9 Louis Claude de Saint-Martin
 Louise Doud ! NO MATCH
-Louis XIV ! NO MATCH
+Louis XIV ~ 8c775f45-47dd-4380-9003-62366dcf0b77 Louis XIV of France
 Lowell Fillmore ! NO MATCH
 Lowell R. Ditzen ! NO MATCH
 Lucan ~ 615242f4-f036-4763-8289-b7ba8190a1a5 Lucan
@@ -1097,14 +1114,14 @@ Lucy Comellssen ! NO MATCH
 Ludwig Wittgenstein ~ f7bca75b-cb98-48b7-8151-9a0b7552fb67 Ludwig Wittgenstein
 Luther Burbank ~ c7049293-c94d-47de-836c-550cddfa7f74 Luther Burbank
 Lu Yu ~ 9a09d09b-6af9-4ca0-b7df-2749a08922b9 Lu Yu
-Lydia Sigourney ! NO MATCH
+Lydia Sigourney ~ cce51db3-a6d1-4e29-bf0c-f9f14aacfd05 Lydia Sigourney
 Lyman Abbott ~ 2ac47312-7e49-48f8-9eef-b4236e7615f4 Lyman Abbott
 Lyman L. Bryson ! NO MATCH
 Mabel Collins ~ 8112ae23-1903-4fca-bac7-a8cca9c1b38e Mabel Collins
 Madame Blavatsky ~ cbadb081-ad9f-48f0-834d-4aac21354b87 Helena Blavatsky
 Madame Chiang Kai-shek ~ 9cfa7657-f56e-48a6-84a7-3ef7c753e989 Soong May-ling
 Madame de Stael ~ 48977c2d-458c-4dd1-a2a4-182d581e9355 Germaine de Staël
-Madame Sevigne ! NO MATCH
+Madame Sevigne ~ 874744c8-8404-43f0-bac2-39cf5ae38c77 Marie de Rabutin-Chantal, marquise de Sévigné
 Madan ! NO MATCH
 Madeleine de Scudery ~ 64b75b5b-f639-4a57-b198-0372ee653a9d Madeleine de Scudéry
 Maggid of Merzeritch ! NO MATCH
@@ -1127,7 +1144,7 @@ Margaret R. Stortz ! NO MATCH
 Margaret W. Hungerford ! NO MATCH
 Marguerite Porete ~ a66a3806-a458-432d-9345-78bb93f60ce1 Marguerite Porete
 Maria Popova ~ 09bbd42b-fe0a-474d-99f9-efbb353b86ca Maria Popova
-Maria Theresa ! NO MATCH
+Maria Theresa ~ 34051fa3-787e-4ef4-972d-899010dda7b1 Maria Theresa of Austria
 Marie-Louise von Franz ~ 84657f9a-bf67-45d7-8e0a-6105eb256674 Marie-Louise von Franz
 Marilyn Ferguson ~ 27c6d2e7-3cd0-42ff-8a8d-744a3082b03f Marilyn Ferguson
 Marion Woodman ~ e740e70c-60ef-4207-b596-c5fd0c38be1f Marion Woodman
@@ -1139,7 +1156,7 @@ Marpa ! NO MATCH
 Marquis De La Grange ! NO MATCH
 Marsha Sinetar ! NO MATCH
 Marsilio Ficino ~ ad64736a-755c-4d7b-bd9a-e3a2e329887e Marsilio Ficino
-Martin E. P. Seligman ! NO MATCH
+Martin E. P. Seligman ~ d845d4f2-dd28-4f6b-a5dc-c94b7e073f90 Martin Seligman
 Martin Gray ! NO MATCH
 Martin Grey ! NO MATCH
 Martin Heidegger ~ 377292c4-e63b-4b4f-a10c-472f92a02006 Martin Heidegger
@@ -1161,7 +1178,7 @@ Matthew Henry ~ fd4a84df-f034-4e4d-992d-b52d56b299fc Matthew Henry
 Matthieu Ricard ~ ad095005-59d0-43c7-8927-da265a0c6cb2 Matthieu Ricard
 Max Gralnick ! NO MATCH
 Maximus of Tyre ~ 54d693aa-4e11-4100-8410-4d8214ad9328 Maximus of Tyre
-Maxwell Maltz ! NO MATCH
+Maxwell Maltz ~ 4dbcbcab-033d-4552-a4e7-46b8c1c0f5ac Maxwell Maltz
 Maya Angelou ~ ca41d719-c91c-4d54-9ee3-7cb711ba12d6 Maya Angelou
 May Sarton ~ 0f348d00-7e1d-4ccc-88c8-771e07f885b4 May Sarton
 McDonald Clarke ~ a6568ba6-ceb0-46d1-bed9-cdb0d5f80a98 McDonald Clarke
@@ -1169,6 +1186,7 @@ Mechthild of Magdeburg ~ ae89735b-2e51-4bb1-b2a2-10b051cfb790 Mechthild of Magde
 Mechtild of Magdeburg ~ ae89735b-2e51-4bb1-b2a2-10b051cfb790 Mechthild of Magdeburg
 Megan Don ! NO MATCH
 Meister Eckhart ~ c6d47d7b-579d-4d33-834f-f5ee0ac54822 Meister Eckhart
+Melissa Auf der Maur ! NO MATCH
 Melissus ! NO MATCH
 Melvin McLeod ! NO MATCH
 Melvyn Kinder ! NO MATCH
@@ -1180,6 +1198,7 @@ Mendel of Kotzk ! NO MATCH
 Mevlana Jalaluddin Rumi ~ 0200c883-e38f-4554-92bc-2eba913426b7 Rumi
 Michael A. Sells ! NO MATCH
 Michael A. Sydner ! NO MATCH
+Michael Conroy ! NO MATCH
 Michael Eldridge ! NO MATCH
 Michael Landon ~ 41dc087f-61fe-47fa-b40c-e952cd522b8d Michael Landon
 Michael Maier ~ 666a5326-a44b-4737-87a3-7da7927a9585 Michael Maier
@@ -1190,6 +1209,7 @@ Michel Montaigne ~ 249751db-3226-4f2c-a527-d149e1274946 Michel de Montaigne
 Mignon McLaughlin ~ 25c9e008-89f2-4aa9-a0fe-d7e9aae9632a Mignon McLaughlin
 Miguel de Cervantes ~ f1147fbd-123c-4a88-a87d-06fd21e20739 Miguel de Cervantes
 Miguel de Yunamunojugo ! NO MATCH
+Mike Byrne ! NO MATCH
 Milarepa ~ cabc39a9-c15f-4712-b9b1-81ce13dc8cda Milarepa
 Ming Lum Paou Keen ! NO MATCH
 Minnie Fiske ~ bbb6e5bd-01c8-4770-b9c5-60d24dbec707 Minnie Maddern Fiske
@@ -1243,7 +1263,9 @@ Nicholas of Cusa ~ dd60f620-775a-450e-bae4-8c8f4ef98bfb Nicholas of Cusa
 Nicholas Valois ! NO MATCH
 Nick Drake ~ b70d1b3f-97cc-4f92-afb9-ca1d87b6ef12 Nick Drake
 Nick Herbert ~ fd132ea7-362d-45af-b26b-7a27b9b72e71 Nick Herbert
+Nicole Fiorentino ! NO MATCH
 Niffari ~ fa85d12a-166e-4cd7-be00-9f03389ca78e Niffari
+Nikki Monninger ! NO MATCH
 Nikolay Berdyayev ~ 10fe8923-f926-4147-a7d0-9e52ed914fee Nicolai Berdyaev
 Nikos Kazantzakis ~ f92dc1c2-4122-43dd-a39f-b10a4cf9708d Nikos Kazantzakis
 Nilakantha ! NO MATCH
@@ -1258,7 +1280,7 @@ Norman Macleod ! NO MATCH
 Norman Thornton ! NO MATCH
 Norman V. Peale ! NO MATCH
 Nuazi Misri ! NO MATCH
-O. Henry ! NO MATCH
+O. Henry ~ 82d05841-a2f0-47ad-bdde-a27445a10522 O. Henry
 Ohiyesa ~ 50f488e9-707b-45b9-a06e-c37eb0077148 Charles Eastman
 Oliver C. Wilson ! NO MATCH
 Oliver Lodge ~ 1dd21a1b-2c33-417e-bca8-2ea8c302deab Oliver Lodge
@@ -1280,7 +1302,7 @@ Otto von Bismarck ~ ce723e9e-eab3-426b-9fa1-57bc8d9f1699 Otto von Bismarck
 Ou-yang Hsiu ~ 16f04b89-821e-47f7-bbb3-af947dc65f68 Ouyang Xiu
 Ovaries C. Colton ! NO MATCH
 Ovid ~ 48bbde25-a816-4966-91c1-ebc4ad9613d3 Ovid
-Owen D. Young ! NO MATCH
+Owen D. Young ~ e0fd9993-d15a-4eaf-815f-7efb62854356 Owen Daniel Young
 Owen Felltham ~ dda4217b-2a7f-47a0-ba14-29682dc20627 Owen Feltham
 Pablo Casals ~ efb29028-8820-4f9f-bbec-eb449ea6b700 Pablo Casals
 Padma-Karpo ! NO MATCH
@@ -1289,7 +1311,7 @@ Padma-Sambhava ~ 41f3bb02-c1af-4552-9a53-696bfd18ecbe Padmasambhava
 Padma-Samhbava ~ 41f3bb02-c1af-4552-9a53-696bfd18ecbe Padmasambhava
 Padre Pio ~ cbe7499b-4c02-4fb0-99df-d863c2a41eb0 Padre pio
 Palladas ~ f8782975-5371-43cb-9407-ae77e1ff4044 Palladas
-Palladius ! NO MATCH
+Palladius ~ aebc300a-a939-4e7b-b32d-40d8bb8ad573 Palladius of Antioch
 Panchatantra ! NO MATCH
 P'ang Yun ~ d802016b-922d-4121-9df2-91caa629bb21 Layman Pang
 Pang Yun ~ d802016b-922d-4121-9df2-91caa629bb21 Layman Pang
@@ -1316,6 +1338,7 @@ Paul Twitched ! NO MATCH
 Paul Twitchell ~ 7810cb90-7988-4876-a8e1-739c9d1db3d1 Paul Twitchell
 Paul Valery ~ 42bc24ef-57de-4666-8b1a-b0a4209e14a7 Paul Valéry
 Paul Williams ! NO MATCH
+Payam Reza Doostzadeh ! NO MATCH
 Peace Pilgrim ~ e42f9114-7867-4022-be7f-1561b8d8a72a Peace Pilgrim
 Pearl Buck ~ ea1048e3-42bd-4c3a-833d-f1f63092b5f4 Pearl S. Buck
 Pearl Jam ! NO MATCH
@@ -1337,7 +1360,7 @@ Philip Doddridge ~ 19138683-8eef-46c9-8094-e0eb288cf51c Philip Doddridge
 Philip Henry ~ d5a423d3-9f02-4f1f-a2ba-8b52085b250f Philip Henry
 Philip Lee Ralph ! NO MATCH
 Philip Massinger ~ f3c82019-8e31-4537-bef2-b7cfea546fc6 Philip Massinger
-Philip Sidney ! NO MATCH
+Philip Sidney ~ f7d3fb1a-a21f-4146-b44b-0b9501c8a72d Philip Sidney
 Phillips Brooks ~ 8b5768e0-2644-4025-8d17-5c5204cdeb09 Phillips Brooks
 Philo ~ fb38eb6d-d81d-4490-b74b-2aa19f37d8d0 Philo
 Philolaus ~ 0cee8366-9502-4dd8-906a-1d8074735b71 Philolaus
@@ -1377,12 +1400,12 @@ Pythagoras ~ 2927680d-f3e6-4a4d-a4a7-c8e0f1d209bc Pythagoras
 Qiarles Lamb ! NO MATCH
 Queen Hatshepsut ~ df119d32-1978-40c9-bb8e-72f693470c19 Hatshepsut
 Quintilian ~ ff726d3e-97f3-444b-bcdd-d36950acfb37 Quintilian
-Rabbi Nachman ! NO MATCH
+Rabbi Nachman ~ 36dc232d-d7a4-4637-9545-ac4e111601b7 Nachman of Breslov
 Rabia ~ 6490a797-5bd8-4288-9d5c-043997012734 Rabia of Basra
 Râbi'a of Basra ~ 6490a797-5bd8-4288-9d5c-043997012734 Rabia of Basra
 Rabindranath Tagore ~ 4303fa16-4ff9-4236-938f-12ce437e48cc Rabindranath Tagore
 Rainer Maria Rilke ~ 4de44b73-d163-416c-9eed-b85ef8d42c70 Rainer Maria Rilke
-Rainer M. Rilke ! NO MATCH
+Rainer M. Rilke ~ 4de44b73-d163-416c-9eed-b85ef8d42c70 Rainer Maria Rilke
 Ralph Cudworth ~ cf8cc8ef-d68b-481a-b94f-1f52331faf6f Ralph Cudworth
 Ralph Waldo Emerson ~ b196d961-bb04-43c8-9462-a9acd76413fc Ralph Waldo Emerson
 Ralph W. Emerson ~ b196d961-bb04-43c8-9462-a9acd76413fc Ralph Waldo Emerson
@@ -1404,11 +1427,11 @@ R. C. McCarthy ! NO MATCH
 Red Pine ! NO MATCH
 Red Pine, Mike O'Connor ! NO MATCH
 Refik Algan ! NO MATCH
-Reginald Heber ! NO MATCH
+Reginald Heber ~ 68acda48-1043-45e5-8c23-290a5dd85437 Reginald Heber
 Reigen Eto ! NO MATCH
 Reinhold Niebuhr ~ a14ba331-a3d1-46a8-94ed-30abf68577da Reinhold Niebuhr
 Rekif Algan ! NO MATCH
-Rene Descartes ! NO MATCH
+Rene Descartes ~ 6c0e77ba-b3e1-4ec8-b291-f037a7714c1a René Descartes
 Reynold A. Nicholson ~ 75e2d2e4-6793-42d4-8ff6-28f71ed8b281 Reynold A. Nicholson
 R. G. H. Siu ~ 1aa04209-6053-4474-8382-a71ab4357b4d Ralph Siu
 Richard Beck ! NO MATCH
@@ -1424,6 +1447,7 @@ Richard the Englishman ! NO MATCH
 Richard Wilhelm ! NO MATCH
 Rikyû ~ 6a21fd85-2c7c-4dbd-aae1-a3f4e90fd866 Rikyū
 R. Kita and K. Nagaya ! NO MATCH
+Robbie Grey ! NO MATCH
 Robert Benson ! NO MATCH
 Robert Bly ~ f9a5ff80-f8f5-48d4-9494-a474ca113250 Robert Bly
 Robert Bolton ~ 022cb95d-c37c-46b6-b694-72b91a1b6585 Robert Bolton
@@ -1434,7 +1458,7 @@ Robert Creeley ~ 294f891d-3d26-4dd6-aff6-6a63acc48959 Robert Creeley
 Robert C. Solomon ~ 5747e7ce-6671-4add-8115-2329bcbeb7f1 Robert C. Solomon
 Robert C. Winthrop ~ 7d73fd65-4f6e-460a-a3f6-6c9b0296764c Robert Charles Winthrop
 Robert Eliot ! NO MATCH
-Robert F. Kennedy ! NO MATCH
+Robert F. Kennedy ~ 5f48b69b-b527-441b-aabb-ab653edecac4 Robert F. Kennedy
 Robert Fludd ~ 84ef2887-1897-4b69-bcf1-722e576014b8 Robert Fludd
 Robert Freeman ! NO MATCH
 Robert Fritz ~ 9aead8a8-3279-494e-a0a9-06005af65439 Robert Fritz
@@ -1444,7 +1468,7 @@ Robert Henri ~ 642072dc-133c-470b-afa5-3ec659b57198 Robert Henri
 Robert Herrick ~ 2a323e5c-b144-41fa-8744-59a1baccb44d Robert Herrick (poet)
 Robert Ingersoll ! NO MATCH
 Robert Leighton ! NO MATCH
-Robert L. Stevenson ! NO MATCH
+Robert L. Stevenson ~ 946b9a5a-e9a0-4984-87ce-8fe2926b64d4 Robert Louis Stevenson
 Robert Muller ~ a24485f9-3d9f-41d2-90dd-93df001f0e1b Robert Muller
 Robert Schaffer ~ 5c730505-a2c1-4058-a52a-3a04e7ac1763 Bob Schaffer
 Robert Schuller ~ c879e206-5b1b-4ebb-9da3-f5fe762b4892 Robert H. Schuller
@@ -1457,7 +1481,7 @@ Roger Bacon ~ 2813856b-8f02-4eab-8420-e22e5d7d914c Roger Bacon
 Roger Housden ! NO MATCH
 Roger L'Estrange ~ e1141db6-2494-47c8-88ba-7d321060deb1 Roger L'Estrange
 Roger Martin Du Gard ~ e627dbb5-06e5-4ccd-8925-27bcf14704e3 Roger Martin du Gard
-Rollo May ! NO MATCH
+Rollo May ~ 5c327f6f-d61d-45be-9963-84029016b72a Rollo May
 Romauld ! NO MATCH
 Ronald Beesley ! NO MATCH
 Ronald Blythe ~ 8596a9e3-4cf6-4aab-8241-a4e021a9f5cd Ronald Blythe
@@ -1465,6 +1489,7 @@ Ron Smothemion ! NO MATCH
 Ron Smothermon ! NO MATCH
 Rossiter Raymond ! NO MATCH
 Roswell Hitchcock ~ 18d9102a-4da4-46ad-9dfb-7183449e0143 Roswell Dwight Hitchcock
+Roy Martin ! NO MATCH
 R. S. Gwynn ~ ff92b5fb-0512-4f26-90c5-4194feee98da R. S. Gwynn
 R. S. Thomas ~ e0db8c88-fe6b-45be-840a-8592a4fbf309 R. S. Thomas
 R.S. Thomas ~ e0db8c88-fe6b-45be-840a-8592a4fbf309 R. S. Thomas
@@ -1490,6 +1515,7 @@ Sai Baba ~ bf314865-ec10-413c-b85d-c614bf4bcdb6 Sathya Sai Baba
 Saichi ~ 12b3ebc8-89c3-494e-ab69-b29a6252f513 Saichi Asahara
 Sallustius ~ 2877f5e5-dde4-4c79-b340-612bded0f9e8 Sallustius
 Samantabhadra Bodhisattva ! NO MATCH
+Sameer Gadhia ! NO MATCH
 Sam Hamill ~ e9534b8f-8536-4bd0-905b-2caa11a55fd2 Sam Hamill
 Sammy Solberg ! NO MATCH
 Samuel ben Kalonymus ! NO MATCH
@@ -1520,7 +1546,7 @@ Seng-ts'an ~ f27c6d9d-a492-4af8-a396-a747f4ce2386 Jianzhi Sengcan
 Seû-mà Tshyên ! NO MATCH
 Seung Sahn ~ c5c043f6-00b6-438e-9e33-2fda201d5546 Seungsahn
 Sextus the Pythagorean ~ 058f808e-2952-48f2-99a2-4292fef455f8 Quintus Sextius
-Sextus, the Pythagorean ! NO MATCH
+Sextus, the Pythagorean ~ 058f808e-2952-48f2-99a2-4292fef455f8 Quintus Sextius
 Shabistari ~ ee5025c8-7d53-40f1-b9ae-b6120360eb66 Shabestari
 Shabkar ~ 17abaf3b-2d24-4c90-ae2a-a11a88f39a9f Shabkar Tsokdruk Rangdrol
 Shakespeare ~ 7e82b848-8bcc-4dda-87bf-55ca7cf913fa William Shakespeare
@@ -1622,6 +1648,7 @@ Stephen H. Wolinsky ! NO MATCH
 Stephen Levine ! NO MATCH
 Stephen Mitchell ! NO MATCH
 Stephen R. Covey ~ fe8338f5-60b9-4925-9749-94508cbe8994 Stephen Covey
+Stephen Walker ! NO MATCH
 Steve Miller ! NO MATCH
 Steve Winwood ~ 1167be74-9f29-44ec-a326-da4c93706199 Steve Winwood
 Stewart Alsop ~ 77e9b80a-b44b-462a-9bf2-15e772f508bc Stewart Alsop
@@ -1654,7 +1681,7 @@ St Maximus the Confessor ~ 1be96ea5-1eef-4a66-a686-7e3ea26bfdce Maximus the Conf
 St Nilus ~ 5bd649fa-da9f-47f5-8fc9-e7309cb37e29 Nilus of Sora
 St Nilus Sorsky ~ 5bd649fa-da9f-47f5-8fc9-e7309cb37e29 Nilus of Sora
 Stobaeus ~ 666bdb6d-d99a-4ac3-9b28-43527da47b87 Stobaeus
-Stonewall Jackson ! NO MATCH
+Stonewall Jackson ~ 942cc15d-e365-4ed3-b323-7948e14e6cdd Stonewall Jackson
 St Peter Damian ~ f6eeac6f-d2b7-4611-9709-af7de5d9f03d Peter Damian
 St Remigius ~ 0ad1106f-7018-44b5-bc54-9d998e439b8a Saint Remigius
 St Simeon the New Theologian ~ a5467957-8c86-4973-88d4-2b033a86488d Symeon the New Theologian
@@ -1734,7 +1761,7 @@ Thomas Byrom ! NO MATCH
 Thomas Campion ~ ecf925a1-5179-4ee6-a7b0-794110316841 Thomas Campion
 Thomas Carlyle ~ ddea67cf-b1b0-41bf-a57e-56e98685e09d Thomas Carlyle
 Thomas Cleary ~ 813a8cf2-d676-4c44-92e0-e47a18352202 Thomas Cleary
-Thomas Edison ! NO MATCH
+Thomas Edison ~ e4a7ef62-108e-4a45-a7f2-233a2f6b6acf Thomas Alva Edison
 Thomas Fuller ~ 97167e3b-c0a4-46fb-a23d-c7e666ff445e Thomas Fuller
 Thomas Guthrie ~ 20ebdf84-b4d2-4573-b344-cc9a270fb1a1 Thomas Guthrie
 Thomas Haliburton ~ bcd120cb-44b9-448a-8093-61a7369490eb Thomas Chandler Haliburton
@@ -1761,7 +1788,7 @@ Thornton Prime ~ 8110774b-d43a-4469-9b01-b2fc2d791dbd Thornton Prime
 Thornton Wilder ~ 016d0545-8dd9-4d8f-b5e4-51d7f5f245bf Thornton Wilder
 Thupten Jinpa ~ 84b57a3b-6f33-41b8-ad05-c213f73cd6c0 Geshe Thupten Jinpa
 Thurman Fleet ! NO MATCH
-T. H. White ! NO MATCH
+T. H. White ~ afe889b5-1d24-4e73-a15a-97500d4a05f7 T. H. White
 Tierno Bokar ~ 64a63a5b-3b2a-44db-b2fc-625c599d07b4 Tierno Bokar
 Tilopa ~ d7a5cbac-7df7-4ef9-af44-484ff053e0e0 Tilopa
 Tirumûlar ~ dfe7d082-7a10-4d88-941b-677d7f2bbc04 Tirumular
@@ -1777,7 +1804,7 @@ Tulsî Dâs ~ 7dc787e1-d673-4369-b888-1359f2d1dcdd Tulsidas
 T'u Lung ~ c5c00a6f-17ce-430d-9ecc-754964b10a43 Tu Long
 Tung Chung-shu ~ f36f2d44-d41f-49aa-97d9-c1d0308c29d9 Dong Zhongshu
 U2 ~ 24286944-d73a-453f-b948-06fc1a7ef8cb U2
-Ursula K. LeGuin ! NO MATCH
+Ursula K. LeGuin ~ 931736ac-725c-4a27-a276-b18598b3b575 Ursula K. Le Guin
 Ursula K. Le Guin ~ 931736ac-725c-4a27-a276-b18598b3b575 Ursula K. Le Guin
 U. S. Anderson ! NO MATCH
 Uyesugi Kenshin ! NO MATCH
@@ -1785,7 +1812,7 @@ Vachaka Kovia ! NO MATCH
 Vayu-Purana ! NO MATCH
 Velemir Vladimirovich Khlebnikov ~ 0b2c6fd7-2b9c-476e-a0cd-822d009f5d3d Velimir Khlebnikov
 Vernon Howard ~ 7d85e2ff-c0f6-4ad4-a00a-cfc131cb60e3 Vernon Howard
-Vespasian ! NO MATCH
+Vespasian ~ 4448060f-f3d2-4d83-98f3-af35d83cce70 Vespasian
 Victor Franhl ! NO MATCH
 Victor Hugo ~ 3ed5785f-804f-4b0f-9e03-4deabf2fc450 Victor Hugo
 Vilayat I. Khan ! NO MATCH
@@ -1806,7 +1833,7 @@ Walter C. Alvarez ~ 0000558f-2c12-410f-89a0-bab92a4ac2fa Walter C. Alvarez
 Walter Hilton ~ 57c45b00-2aae-4e3e-9b5c-cc3684609dc2 Walter Hilton
 Walter Kauffman ! NO MATCH
 Walter Kaufmann ! NO MATCH
-Walter Russell ! NO MATCH
+Walter Russell ~ 3bf4784c-261f-47cd-9255-92a1cf500c93 Walter Russell
 Walter Scott ~ b51f2dbf-3bbe-496b-b9fb-b9d01045dab3 Walter Scott
 Walther von der Vogelweide ~ 68853701-f9e0-42fd-ab32-9b6f8abf86bc Walther von der Vogelweide
 Walt Whitman ~ f8ce9b5a-a9f1-476f-bb8f-fcdda72d643a Walt Whitman
@@ -1816,7 +1843,7 @@ Wang Wei ~ 59da5e77-bd91-41bf-9f3d-07a95517cb88 Wang Wei
 Wang Yang-ming ~ 721f00d1-acf1-495c-8b08-a9d5640e04a3 Wang Yangming
 Wang Yang Ming ~ 721f00d1-acf1-495c-8b08-a9d5640e04a3 Wang Yangming
 Warren Bennis ~ 90efab5d-5176-4fb0-8b20-eb2db607f9b0 Warren Bennis
-Washington Irving ! NO MATCH
+Washington Irving ~ aa0c7ccf-1226-46cd-9681-4ff5ff865d9e Washington Irving
 Wayne Dyer ~ 49c8e910-4c93-4393-8ddc-c6961a501c0f Wayne Dyer
 W. B. Yeats ~ 21fcf571-0389-4dcd-9670-91f27e2f5baa William Butler Yeats
 W.B. Yeats ~ 21fcf571-0389-4dcd-9670-91f27e2f5baa William Butler Yeats
@@ -1859,9 +1886,10 @@ William Osier ! NO MATCH
 William Penn ~ abdf3f88-b2fe-4d8d-afde-fd8c9be0d147 William Penn
 William Punshon ~ a4a982d7-c644-4cc5-b38d-88a341d674e9 William Morley Punshon
 William R. Miller ! NO MATCH
+William Scott Bruford ! NO MATCH
 William Shakespeare ~ 7e82b848-8bcc-4dda-87bf-55ca7cf913fa William Shakespeare
 William Stafford ~ e379d4ac-201e-46a4-bf9b-359fb3178205 William Stafford (poet)
-William Styron ! NO MATCH
+William Styron ~ 02b9b115-c0a8-428c-a1c3-90343d1b8772 William Styron
 William Temple ! NO MATCH
 William Winter ! NO MATCH
 William Wordsworth ~ c6e6795f-333c-486e-ab61-2f40c7cdd5a8 William Wordsworth
