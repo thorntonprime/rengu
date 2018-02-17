@@ -1,8 +1,8 @@
 ---
 AlternateNames:
   - "\u062D\u0627\u0641\u0638"
-  - "Khw\u0101ja Shams-ud-D\u012Bn Mu\u1E25ammad \u1E24\u0101fe\u1E93-e\
-    \ Sh\u012Br\u0101z\u012B"
+  - "Khw\u0101ja Shams-ud-D\u012Bn Mu\u1E25ammad \u1E24\u0101fe\u1E93\
+    -e Sh\u012Br\u0101z\u012B"
   - Hafiz
   - "\u1E24\u0101fe\u1E93"
   - "\u062E\u0648\u0627\u062C\u0647 \u0634\u0645\u0633\u200C\u200C\u0627\
@@ -17,5 +17,8 @@ Tradition:
   - Persian
   - Mystic Poetry
 Wikipedia:
+  Base: Q6240
+  PageID: 204260
   URL: https://en.wikipedia.org/wiki/Hafez
+  What: human
 ---

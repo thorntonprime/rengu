@@ -4,4 +4,9 @@ AlternateNames:
 Name: "B\xF6hme"
 URLs:
   - "https://en.wikipedia.org/wiki/B\xF6hme"
+Wikipedia:
+  Base: Q1019700
+  PageID: 2154571
+  URL: "https://en.wikipedia.org/wiki/B\xF6hme"
+  What: (disambiguation)
 ---

@@ -4,4 +4,9 @@ AlternateNames:
 Name: "Dag Hammarskj\xF6ld"
 URLs:
   - "https://en.wikipedia.org/wiki/Dag_Hammarskj\xF6ld"
+Wikipedia:
+  Base: Q1267
+  PageID: 236428
+  URL: "https://en.wikipedia.org/wiki/Dag_Hammarskj\xF6ld"
+  What: human
 ---

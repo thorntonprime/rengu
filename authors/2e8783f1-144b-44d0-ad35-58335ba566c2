@@ -6,4 +6,9 @@ AlternateNames:
 Name: "Juan Ram\xF3n Jim\xE9nez"
 URLs:
   - "https://en.wikipedia.org/wiki/Juan_Ram\xF3n_Jim\xE9nez"
+Wikipedia:
+  Base: Q131318
+  PageID: 324413
+  URL: "https://en.wikipedia.org/wiki/Juan_Ram\xF3n_Jim\xE9nez"
+  What: human
 ---

@@ -1,12 +1,9 @@
 ---
-Name: Søren Kierkegaard
 AlternateNames:
   - Soren Kierkegaard
-  - Søren Aabye Kierkegaard
+  - "S\xF8ren Aabye Kierkegaard"
   - Soren Aabye Kierkegaard
   - Kierkegaard
-Wikipedia:
-  URL: https://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard
 Life:
   Birth:
     Date: 5 May 1813
@@ -14,9 +11,15 @@ Life:
   Death:
     Date: 11 November 1855
     Location: Copenhagen, Denmark
+Name: "S\xF8ren Kierkegaard"
 Traditions:
   - Western
   - Christian existentialism
   - existentialism
   - Christian
+Wikipedia:
+  Base: Q6512
+  PageID: 27069
+  URL: "https://en.wikipedia.org/wiki/S\xF8ren_Kierkegaard"
+  What: human
 ---

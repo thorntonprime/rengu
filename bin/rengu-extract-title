@@ -6,25 +6,37 @@ sys.path.append('')
 
 from rengu.tools import walk_search
 
+def get_title(data):
+    for title in walk_search("Title", data):
+
+        if isinstance(title, str):
+            print(title)
+        elif isinstance(title, dict):
+            print(title.get("Title", "NO TITLE"))
+        else:
+            print("ERROR title is a ", type(title))
+            print(title)
+            sys.exit(1)
+        sys.stdout.flush()
+
+
 def verse_extract_source(vpk):
     from rengu.verse import Verse
 
     v = Verse.fetch(vpk)
 
-    for role in [ "Source" ]:
-        for a in walk_search(role, dict(v)):
+    if v.get("Source"):
+        top = v.get("Source")
 
-            if isinstance(a, str):
-                print(a)
-            elif isinstance(a, dict):
-                print(a.get("Title", "NO TITLE"))
-            else:
-                print("ERROR a is a ", type(a))
-                print(a)
-                sys.exit(1)
-            sys.stdout.flush()
-
-
+        if isinstance(top, dict):
+            get_title(dict(top))
+        elif isinstance(top, list):
+            for d in top:
+                get_title(dict(d))
+        else:
+            print("ERROR title is a ", type(top))
+            print(top)
+            sys.exit(1)
 
 if __name__ == '__main__':
 

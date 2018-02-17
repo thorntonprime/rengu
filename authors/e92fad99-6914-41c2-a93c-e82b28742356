@@ -1,13 +1,17 @@
 ---
-Name: Heraclitus
-Wikipedia:
-  URL: https://en.wikipedia.org/wiki/Heraclitus
 AlternateNames:
   - Heraclitus of Ephesus
-  - Ἡράκλειτος ὁ Ἐφέσιος
-  - Hērákleitos ho Ephésios
+  - "\u1F29\u03C1\u03AC\u03BA\u03BB\u03B5\u03B9\u03C4\u03BF\u03C2 \u1F41\
+    \ \u1F18\u03C6\u03AD\u03C3\u03B9\u03BF\u03C2"
+  - "H\u0113r\xE1kleitos ho Eph\xE9sios"
   - Heraclitus the Obscure
 Life:
   Birth: circa 535 BCE
   Death: circa 475 BCE
+Name: Heraclitus
+Wikipedia:
+  Base: Q41155
+  PageID: 13792
+  URL: https://en.wikipedia.org/wiki/Heraclitus
+  What: human
 ---

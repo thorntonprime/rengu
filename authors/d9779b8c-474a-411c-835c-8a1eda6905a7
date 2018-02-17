@@ -4,4 +4,9 @@ AlternateNames:
 Name: "Moses de Le\xF3n"
 URLs:
   - "https://en.wikipedia.org/wiki/Moses_de_Le\xF3n"
+Wikipedia:
+  Base: Q456758
+  PageID: 1289281
+  URL: "https://en.wikipedia.org/wiki/Moses_de_Le\xF3n"
+  What: human
 ---

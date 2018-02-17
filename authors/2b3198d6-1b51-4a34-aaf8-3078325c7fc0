@@ -4,4 +4,9 @@ AlternateNames:
 Name: "Antoine de Saint-Exup\xE9ry"
 URLs:
   - "https://en.wikipedia.org/wiki/Antoine_de_Saint-Exup\xE9ry"
+Wikipedia:
+  Base: Q2908
+  PageID: 63174
+  URL: "https://en.wikipedia.org/wiki/Antoine_de_Saint-Exup\xE9ry"
+  What: human
 ---

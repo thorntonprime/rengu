@@ -12,11 +12,70 @@ class Author(Document):
 
         return "---\n" + yaml.dump(dict(self),
                                    Dumper=YamlDumper, default_flow_style=False,
-                                   width=70, indent=2).strip() + "\n---"
+                                   width=65, indent=2).strip() + "\n---"
 
     def to_json(self):
         import json
         return json.dumps(dict(self), sort_keys=True, indent=2)
+
+    def refresh_wikipedia(self):
+        import wptools
+        import urllib.parse
+
+        page = None
+
+        if self.get("Wikipedia") and self.get("Wikipedia").get("Base"):
+            page = wptools.page(wikibase=self.get("Wikipedia").get("Base"),
+                                silent=True, skip=['imageinfo'])
+        elif self.get("Wikipedia") and self.get("Wikipedia").get("PageID"):
+            page = wptools.page(pageid=self.get("Wikipedia").get("PageID"),
+                                silent=True, skip=['imageinfo'])
+        else:
+            page = wptools.page(
+                self.get("Name"), silent=True, skip=['imageinfo'])
+
+        try:
+            page.get(timeout=5)
+
+        except LookupError:
+            print("%s ERROR - Wikipedia not found" % (self.pk))
+            return
+
+        except Exception as e:
+            print("%s ERROR -  Wikipedia error %s" % (self.pk, e))
+            return
+
+        if not 'label' in page.data:
+            print("%s ERROR - Wikipedia error no label" % (self.pk))
+            return
+
+        if page.data.get("what") != "human":
+            print("%s WARN - Wikipedia author not human" % (self.pk))
+
+        label = page.data.get("label")
+        url = page.data.get("url").replace(" ", "%20")
+        wikibase = page.data.get("wikibase")
+        pageid = page.data.get("pageid")
+        what = page.data.get("what")
+
+        if type(what) is tuple:
+            what = ','.join(what)
+        if what == 'Wikimedia disambiguation page':
+            what = "(disambiguation)"
+
+        if label != self.get("Name"):
+            self['AlternateNames'] = list(set(self.get("AlternateNames", [])))
+
+        self["Wikipedia"] = {
+            "URL": url,
+            "PageID": pageid,
+            "Base": wikibase,
+            "What": what
+        }
+
+        self.save(DB)
+        DB.commit()
+        print("%s OK" % (self.pk))
 
     @staticmethod
     def fetch(pk):

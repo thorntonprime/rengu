@@ -4,4 +4,9 @@ AlternateNames:
 Name: "Fran\xE7ois F\xE9nelon"
 URLs:
   - "https://en.wikipedia.org/wiki/Fran\xE7ois_F\xE9nelon"
+Wikipedia:
+  Base: Q310002
+  PageID: 178847
+  URL: "https://en.wikipedia.org/wiki/Fran\xE7ois_F\xE9nelon"
+  What: human
 ---

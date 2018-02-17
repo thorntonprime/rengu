@@ -4,4 +4,9 @@ AlternateNames:
 Name: "Niccol\xF2 Machiavelli"
 URLs:
   - "https://en.wikipedia.org/wiki/Niccol\xF2_Machiavelli"
+Wikipedia:
+  Base: Q1399
+  PageID: 21444
+  URL: "https://en.wikipedia.org/wiki/Niccol\xF2_Machiavelli"
+  What: human
 ---

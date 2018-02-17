@@ -1,10 +1,13 @@
 ---
-Name: Dalai Lama
 AlternateNames:
   - 14th Dalai Lama
   - Tenzin Gyatso
   - Jetsun Jamphel Ngawang Lobsang Yeshe Tenzin Gyatso
   - Lhamo Thondup
+Name: Dalai Lama
 Wikipedia:
-  URL: https://en.wikipedia.org/wiki/14th_Dalai_Lama
+  Base: Q37349
+  PageID: 8133
+  URL: https://en.wikipedia.org/wiki/Dalai_Lama
+  What: ecclesiastical title
 ---

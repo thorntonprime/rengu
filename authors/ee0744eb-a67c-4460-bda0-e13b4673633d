@@ -6,5 +6,6 @@ Name: "Claude Adrien Helv\xE9tius"
 Wikipedia:
   Base: Q190302
   PageID: 196196
-  URL: "https://en.wikipedia.org/wiki/Claude_Adrien_Helv\xE9tius"
+  URL: "https://en.wikipedia.org/wiki/Claude%20Adrien%20Helv\xE9tius"
+  What: human
 ---

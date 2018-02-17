@@ -4,4 +4,9 @@ AlternateNames:
 Name: "Andr\xE9 Maurois"
 URLs:
   - "https://en.wikipedia.org/wiki/Andr\xE9_Maurois"
+Wikipedia:
+  Base: Q224029
+  PageID: 1406209
+  URL: "https://en.wikipedia.org/wiki/Andr\xE9_Maurois"
+  What: human
 ---

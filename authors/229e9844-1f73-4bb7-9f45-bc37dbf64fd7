@@ -4,4 +4,9 @@ AlternateNames:
 Name: "Jacques-B\xE9nigne Bossuet"
 URLs:
   - "https://en.wikipedia.org/wiki/Jacques-B\xE9nigne_Bossuet"
+Wikipedia:
+  Base: Q294100
+  PageID: 63351
+  URL: "https://en.wikipedia.org/wiki/Jacques-B\xE9nigne_Bossuet"
+  What: human
 ---

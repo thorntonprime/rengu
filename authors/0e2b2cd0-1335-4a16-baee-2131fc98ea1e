@@ -3,5 +3,8 @@ AlternateNames:
   - Napoleon Bonaparte
 Name: Napoleon
 Wikipedia:
+  Base: Q517
+  PageID: 69880
   URL: https://en.wikipedia.org/wiki/Napoleon
+  What: human
 ---

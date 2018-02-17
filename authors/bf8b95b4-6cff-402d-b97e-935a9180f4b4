@@ -4,4 +4,9 @@ AlternateNames:
 Name: "Hugues Felicit\xE9 Robert de Lamennais"
 URLs:
   - "https://en.wikipedia.org/wiki/Hugues_Felicit\xE9_Robert_de_Lamennais"
+Wikipedia:
+  Base: Q334973
+  PageID: 212912
+  URL: "https://en.wikipedia.org/wiki/Hugues_Felicit\xE9_Robert_de_Lamennais"
+  What: human
 ---

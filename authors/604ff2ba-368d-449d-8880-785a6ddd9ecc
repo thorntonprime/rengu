@@ -1,9 +1,12 @@
 ---
-Name: Martin Luther King Jr.
 AlternateNames:
-  - Martin Luther King
   - Martin L King Jr
   - Martin L. King, Jr.
+  - Martin Luther King
+Name: Martin Luther King Jr.
 Wikipedia:
+  Base: Q8027
+  PageID: 20076
   URL: https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.
+  What: human
 ---

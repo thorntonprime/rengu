@@ -4,4 +4,9 @@ AlternateNames:
 Name: "Erwin Schr\xF6dinger"
 URLs:
   - "https://en.wikipedia.org/wiki/Erwin_Schr\xF6dinger"
+Wikipedia:
+  Base: Q9130
+  PageID: 9942
+  URL: "https://en.wikipedia.org/wiki/Erwin_Schr\xF6dinger"
+  What: human
 ---

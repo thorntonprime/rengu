@@ -1,9 +1,12 @@
 ---
-Name: Jesus
 AlternateNames:
-  - Jesus Christ
   - Christ
   - Jesus of Nazareth
+  - Jesus Christ
+Name: Jesus
 Wikipedia:
+  Base: Q302
+  PageID: 1095706
   URL: https://en.wikipedia.org/wiki/Jesus
+  What: deity
 ---

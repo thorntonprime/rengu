@@ -1,5 +1,5 @@
 ---
-Name: Smashing Pumpkins
+AlternateNames: []
 Description: Rock group
 Members:
   - Billy Corgan
@@ -10,4 +10,10 @@ Members:
   - Melissa Auf der Maur
   - Mike Byrne
   - Nicole Fiorentino
+Name: Smashing Pumpkins
+Wikipedia:
+  Base: Q184217
+  PageID: 31463
+  URL: https://en.wikipedia.org/wiki/The_Smashing_Pumpkins
+  What: rock band
 ---

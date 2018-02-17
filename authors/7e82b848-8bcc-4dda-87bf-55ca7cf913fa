@@ -3,5 +3,8 @@ AlternateNames:
   - Shakespeare
 Name: William Shakespeare
 Wikipedia:
+  Base: Q692
+  PageID: 32897
   URL: https://en.wikipedia.org/wiki/William_Shakespeare
+  What: human
 ---

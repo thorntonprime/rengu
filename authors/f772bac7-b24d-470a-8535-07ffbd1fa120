@@ -4,4 +4,9 @@ AlternateNames:
 Name: "Friedrich Fr\xF6bel"
 URLs:
   - "https://en.wikipedia.org/wiki/Friedrich_Fr\xF6bel"
+Wikipedia:
+  Base: Q76679
+  PageID: 728927
+  URL: "https://en.wikipedia.org/wiki/Friedrich_Fr\xF6bel"
+  What: human
 ---

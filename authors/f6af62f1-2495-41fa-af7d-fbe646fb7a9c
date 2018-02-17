@@ -4,4 +4,9 @@ AlternateNames:
 Name: "Ana\xEFs Nin"
 URLs:
   - "https://en.wikipedia.org/wiki/Ana\xEFs_Nin"
+Wikipedia:
+  Base: Q220018
+  PageID: 2919
+  URL: "https://en.wikipedia.org/wiki/Ana\xEFs_Nin"
+  What: human
 ---

@@ -4,4 +4,9 @@ AlternateNames:
 Name: "Paul Val\xE9ry"
 URLs:
   - "https://en.wikipedia.org/wiki/Paul_Val\xE9ry"
+Wikipedia:
+  Base: Q200639
+  PageID: 23519
+  URL: "https://en.wikipedia.org/wiki/Paul_Val\xE9ry"
+  What: human
 ---

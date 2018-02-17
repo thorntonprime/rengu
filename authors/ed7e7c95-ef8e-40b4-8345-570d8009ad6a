@@ -1,10 +1,15 @@
 ---
-Name: Huainanzi
-Description: Multiple authors who wrot ethe Huainanzi
 AlternateNames:
-  - Huai Nan Tzû
+  - "Huai Nan Tz\xFB"
   - Huai Nan Tzu
   - Liu An
+Description: Multiple authors who wrot ethe Huainanzi
 Members:
   - Liu An
+Name: Huainanzi
+Wikipedia:
+  Base: Q590337
+  PageID: 3634300
+  URL: https://en.wikipedia.org/wiki/Huainanzi
+  What: treatise
 ---

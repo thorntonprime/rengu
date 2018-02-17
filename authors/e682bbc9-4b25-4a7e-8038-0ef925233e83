@@ -1,11 +1,14 @@
 ---
-Name: Plato
-Wikipedia:
-  URL: https://en.wikipedia.org/wiki/Plato
 AlternateNames:
-  - Πλάτων
-  - Plátōn
+  - "\u03A0\u03BB\u03AC\u03C4\u03C9\u03BD"
+  - "Pl\xE1t\u014Dn"
 Life:
   Birth: circa 428-423 BCE
   Death: circa 348-347 BCE
+Name: Plato
+Wikipedia:
+  Base: Q859
+  PageID: 22954
+  URL: https://en.wikipedia.org/wiki/Plato
+  What: human
 ---

@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # Pre-Checks
-echo "Runing Pre-Checks"
+echo "Running Pre-Checks"
 yamllint -f parsable verses/* authors/* sources/* | tee output/yaml.check
 
 # Clear and Load Data
@@ -22,25 +22,33 @@ echo " ... authors extract"
   bin/rengu search source '{}' | \
     jq -r .pk | \
     xargs bin/rengu-extract-authors source
+
+  bin/rengu search author '{}' | \
+    jq -r .Members[]? 
 ) | \
-  sort | uniq -c | tee output/author.list | \
+  sort | uniq -c | tee output/authors.list | \
   cut -c9- | \
-  bin/rengu-check-author > output/author.check
+  bin/rengu-check-author > output/authors.check
 
 echo " ... titles extract"
 bin/rengu search verse '{}' | \
   jq -r .pk | \
-  xargs bin/rengu-extract-source | \
+  xargs bin/rengu-extract-title | \
   sort | uniq -c | sort -g > output/titles.list
 
 echo " ... fuzz authors"
-cat output/author.check | grep 'NO MATCH' | \
+cat output/authors.check | grep 'NO MATCH' | \
   cut -d'!' -f 1 | \
-  bin/rengu-fuzz-author > output/author.fuzz
+  bin/rengu-fuzz-author > output/authors.fuzz
 
+echo " ... fuzz titles"
+cat output/titles.list | \
+  bin/rengu-fuzz-title > output/titles.fuzz
+
+exit
 # Fix-Ups
 echo " ... wikilookup authors"
-cat output/author.check | grep 'NO MATCH' | \
-  cut -d'!' -f 1 | tr -d "'" | \
+cat output/authors.check | grep 'NO MATCH' | \
+  cut -d'!' -f 1 | \
   bin/wikipedia-make
 

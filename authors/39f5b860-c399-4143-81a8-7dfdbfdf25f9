@@ -4,4 +4,9 @@ AlternateNames:
 Name: "Andr\xE9 Breton"
 URLs:
   - "https://en.wikipedia.org/wiki/Andr\xE9_Breton"
+Wikipedia:
+  Base: Q161955
+  PageID: 55167
+  URL: "https://en.wikipedia.org/wiki/Andr\xE9_Breton"
+  What: human
 ---

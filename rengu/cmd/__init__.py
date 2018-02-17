@@ -70,6 +70,18 @@ class RenguCmd(cmd.Cmd, object):
             return find_cmd.cmdloop()
 
     @auto_help
+    def do_refresh(self, args):
+        '''refresh
+        Subcommands to refresh data from external sources
+        '''
+        from rengu.cmd.refresh import RenguRefreshCmd
+        refresh_cmd = RenguRefreshCmd()
+        if len(args) > 1:
+            return refresh_cmd.onecmd(args)
+        else:
+            return refresh_cmd.cmdloop()
+
+    @auto_help
     def do_json(self, args):
         '''json
         Subcommands to json data

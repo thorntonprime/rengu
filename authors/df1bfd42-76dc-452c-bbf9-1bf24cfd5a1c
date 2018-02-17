@@ -1,7 +1,10 @@
 ---
-Name: Leonardo da Vinci
 AlternateNames:
   - Leonardo Da Vinci
+Name: Leonardo da Vinci
 Wikipedia:
+  Base: Q762
+  PageID: 18079
   URL: https://en.wikipedia.org/wiki/Leonardo_da_Vinci
+  What: human
 ---

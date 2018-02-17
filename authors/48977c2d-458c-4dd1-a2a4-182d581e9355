@@ -4,4 +4,9 @@ AlternateNames:
 Name: "Germaine de Sta\xEBl"
 URLs:
   - "https://en.wikipedia.org/wiki/Germaine_de_Sta\xEBl"
+Wikipedia:
+  Base: Q123041
+  PageID: 210684
+  URL: "https://en.wikipedia.org/wiki/Germaine_de_Sta\xEBl"
+  What: human
 ---

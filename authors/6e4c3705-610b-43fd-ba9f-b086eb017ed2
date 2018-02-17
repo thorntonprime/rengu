@@ -1,9 +1,12 @@
 ---
-Name: Pedro Calderón de la Barca
 AlternateNames:
-  - Pedro Calderón de la Barca y Barreda González de Henao Ruiz de \
-    Blasco y Riaño
-  - Calderón
+  - "Calder\xF3n"
+  - "Pedro Calder\xF3n de la Barca y Barreda Gonz\xE1lez de Henao Ruiz\
+    \ de \\ Blasco y Ria\xF1o"
+Name: "Pedro Calder\xF3n de la Barca"
 Wikipedia:
-  URL: https://en.wikipedia.org/wiki/Pedro_Calder%C3%B3n_de_la_Barca
+  Base: Q170800
+  PageID: 217358
+  URL: "https://en.wikipedia.org/wiki/Pedro_Calder\xF3n_de_la_Barca"
+  What: human
 ---

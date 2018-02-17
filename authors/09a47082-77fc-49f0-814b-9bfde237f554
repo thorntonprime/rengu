@@ -4,4 +4,9 @@ AlternateNames:
 Name: "Charles P\xE9guy"
 URLs:
   - "https://en.wikipedia.org/wiki/Charles_P\xE9guy"
+Wikipedia:
+  Base: Q334965
+  PageID: 300029
+  URL: "https://en.wikipedia.org/wiki/Charles_P\xE9guy"
+  What: human
 ---

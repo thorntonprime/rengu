@@ -1,7 +1,11 @@
 ---
-Name: Seneca the Younger
 AlternateNames:
   - Seneca
-URLs:
-  -https://en.wikipedia.org/wiki/Seneca_the_Younger
+Name: Seneca the Younger
+URLs: -https://en.wikipedia.org/wiki/Seneca_the_Younger
+Wikipedia:
+  Base: Q2054
+  PageID: 75150
+  URL: https://en.wikipedia.org/wiki/Seneca_the_Younger
+  What: human
 ---

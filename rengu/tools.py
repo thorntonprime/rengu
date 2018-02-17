@@ -19,17 +19,14 @@ class YamlDumper(yaml.Dumper):
     def increase_indent(self, flow=False, indentless=False):
         return super(YamlDumper, self).increase_indent(flow, False)
 
-#
-# See also https://stackoverflow.com/questions/14962485/\
-#          finding-a-key-recursively-in-a-dictionary
-#
-
 
 def walk_search(match, d):
     '''walk_search( key to find, dictonary)
     recursively walk a dictonary to find a key
     and yield results
     '''
+    # See also https://stackoverflow.com/questions/14962485/\
+    #          finding-a-key-recursively-in-a-dictionary
 
     if not isinstance(d, dict):
         return
@@ -122,18 +119,23 @@ def is_uuid(test):
         return False
 
 
-def flat_out(data, prefix=""):
+def lookup_wikipedia(article):
+    import wptools
 
-    if isinstance(data, list):
-        for element in data:
-            flat_out(element, prefix=prefix)
-            print(prefix + " = " + element)
+    page = wptools.page(normalize(article), silent=True, skip=['imageinfo'])
+    try:
+        page.get(timeout=5)
+    except LookupError:
+        page.data = {'what': "_error lookup_"}
+        return page
+    except RecursionError:
+        page.data = {'what': "_error recusion_"}
+        return page
+    except:
+        page.data = {'what': "_error other_"}
+        return page
 
-    elif isinstance(data, dict):
-        for key in data:
-            print(prefix + "." + key + " = " + str(data[key]))
-            flat_out(data[key], prefix=prefix + "." + key)
+    if not 'label' in page.data:
+        page.data = {'label': "_error no label_"}
 
-    else:
-        print(prefix + " = " + data)
-        yield prefix + " = " + data
+    return page

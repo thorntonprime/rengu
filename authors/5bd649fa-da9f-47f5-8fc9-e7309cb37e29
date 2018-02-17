@@ -1,5 +1,4 @@
 ---
-Name: Nilus of Sora
 AlternateNames:
   - Nikolai Maikov
   - Nil Sorski
@@ -7,8 +6,13 @@ AlternateNames:
   - Nilus of Sora
   - St Nilus
   - St Nilus Sorsky
-  - Николай Майков
-  - Нил Сорский
+  - "\u041D\u0438\u043A\u043E\u043B\u0430\u0439 \u041C\u0430\u0439\u043A\
+    \u043E\u0432"
+  - "\u041D\u0438\u043B \u0421\u043E\u0440\u0441\u043A\u0438\u0439"
+Name: Nilus of Sora
 Wikipedia:
+  Base: Q982860
+  PageID: 2481826
   URL: https://en.wikipedia.org/wiki/Nilus_of_Sora
+  What: human
 ---

@@ -1,13 +1,17 @@
 ---
-Name: Leo Tolstoy
 AlternateNames:
   - Count Leo Nikolaevich Tolstoy
   - Leo Tolstory
   - Tolstoy
   - Tolstoi
   - Count Lev Nikolayevich Tolstoy
-  - Лев Никола́евич Толсто́й
-  - Lev Nikoláyevich Tolstóy
+  - "\u041B\u0435\u0432 \u041D\u0438\u043A\u043E\u043B\u0430\u0301\u0435\
+    \u0432\u0438\u0447 \u0422\u043E\u043B\u0441\u0442\u043E\u0301\u0439"
+  - "Lev Nikol\xE1yevich Tolst\xF3y"
+Name: Leo Tolstoy
 Wikipedia:
+  Base: Q7243
+  PageID: 18622119
   URL: https://en.wikipedia.org/wiki/Leo_Tolstoy
+  What: human
 ---

@@ -2,45 +2,26 @@
 
 import sys
 import unicodedata
-import wptools
 import uuid
 import yaml
 
 sys.path.append('')
 
 from rengu.author import Author
-from rengu.tools import YamlDumper
+from rengu.tools import YamlDumper, lookup_wikipedia
 
 def normalize(input_str):
     # Returns a NFKD normalized form of the input string
     nfkd_form = unicodedata.normalize('NFKD', input_str)
     return u"".join([c for c in nfkd_form if not unicodedata.combining(c)])
 
-
-def wiki_page(name):
-
-    page = wptools.page(normalize(name), silent=True, skip=['imageinfo'])
-    try:
-        page.get(timeout=5)
-    except LookupError:
-        page.data = {'what': "_error lookup_"}
-        return page
-    except RecursionError:
-        page.data = {'what': "_error recusion_"}
-        return page
-    except:
-        page.data = {'what': "_error other_"}
-        return page
-
-    if not 'label' in page.data:
-        page.data = {'label': "_error no label_"}
-
-    return page
-
 if __name__ == '__main__':
 
     for name in [x.strip() for x in sys.stdin.readlines()]:
-        page = wiki_page(name)
+        sys.stdout.write("     %-70s\r" % (name.strip()))
+        sys.stdout.flush()
+
+        page = lookup_wikipedia(name)
 
         label = page.data.get("label")
         url = page.data.get("url", "")
@@ -109,3 +90,4 @@ if __name__ == '__main__':
             f.write("\n---\n")
             f.close()
 
+    print()

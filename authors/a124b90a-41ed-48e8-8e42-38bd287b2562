@@ -7,4 +7,9 @@ AlternateNames:
 Name: "Teresa of \xC1vila"
 URLs:
   - "https://en.wikipedia.org/wiki/Teresa_of_\xC1vila"
+Wikipedia:
+  Base: Q174880
+  PageID: 43583
+  URL: "https://en.wikipedia.org/wiki/Teresa_of_\xC1vila"
+  What: human
 ---

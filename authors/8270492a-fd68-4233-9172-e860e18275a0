@@ -4,4 +4,9 @@ AlternateNames:
 Name: "Fritz K\xFCnkel"
 URLs:
   - "https://en.wikipedia.org/wiki/Fritz_K\xFCnkel"
+Wikipedia:
+  Base: Q78064
+  PageID: 5669126
+  URL: "https://en.wikipedia.org/wiki/Fritz_K\xFCnkel"
+  What: human
 ---

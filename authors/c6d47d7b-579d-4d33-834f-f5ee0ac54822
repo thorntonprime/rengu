@@ -1,12 +1,9 @@
 ---
-Name: Meister Eckhart
 AlternateNames:
   - Eckhart
   - Eckhart von Hochheim OP
   - Eckhart von Hochheim
   - Eckehart
-Wikipedia:
-  URL: https://en.wikipedia.org/wiki/Meister_Eckhart
 Life:
   Born:
     Date: circa 1260
@@ -14,9 +11,15 @@ Life:
   Died:
     Date: circa 1327-1328
   Location: Avignon
+Name: Meister Eckhart
 Tradition:
   - Christian
   - Catholic
   - Friends of God
   - German
+Wikipedia:
+  Base: Q76548
+  PageID: 20595185
+  URL: https://en.wikipedia.org/wiki/Meister_Eckhart
+  What: human
 ---
