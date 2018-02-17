@@ -55,7 +55,7 @@ class Author(Document):
             print("%s WARN - Wikipedia author not human" % (self.pk))
 
         label = page.data.get("label")
-        url = page.data.get("url").replace(" ", "%20")
+        url = page.data.get("url").replace(" ", "_")
         wikibase = page.data.get("wikibase")
         pageid = page.data.get("pageid")
         what = page.data.get("what")
