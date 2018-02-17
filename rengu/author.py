@@ -21,7 +21,7 @@ class Author(Document):
     def refresh_wikipedia(self):
         import wptools
         import urllib.parse
-
+        import warnings
         page = None
 
         if self.get("Wikipedia") and self.get("Wikipedia").get("Base"):
@@ -35,7 +35,9 @@ class Author(Document):
                 self.get("Name"), silent=True, skip=['imageinfo'])
 
         try:
-            page.get(timeout=5)
+            with warnings.catch_warnings():
+                warnings.simplefilter("ignore")
+                page.get(timeout=5)
 
         except LookupError:
             print("%s ERROR - Wikipedia not found" % (self.pk))
