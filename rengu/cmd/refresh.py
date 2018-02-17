@@ -51,3 +51,19 @@ class RenguRefreshWikipediaCmd(cmd.Cmd):
 
         except SyntaxError as e:
             print(e)
+
+    @auto_help
+    def do_source(self, args):
+        '''source
+        Refresh the Wikipedia data for the source record.
+        '''
+
+        from rengu.source import Source
+
+        try:
+            for pk in args.split():
+                a = Source.fetch(pk)
+                a.refresh_wikipedia()
+
+        except SyntaxError as e:
+            print(e)

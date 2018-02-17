@@ -1,12 +1,6 @@
 ---
-Title: New Jerusalem Bible
-Tradition:
-  - Christian
-  - Catholic
-Copyright: 1985
 Contains:
-  - Title: Old Testament
-    Contains:
+  - Contains:
       - Title: Genesis
       - Title: Exodus
       - Title: Leviticus
@@ -46,8 +40,8 @@ Contains:
       - Title: Haggai
       - Title: Zechariah
       - Title: Malachi
-  - Title: New Testament
-    Contains:
+    Title: Old Testament
+  - Contains:
       - Title: Matthew
       - Title: Mark
       - Title: Luke
@@ -75,4 +69,14 @@ Contains:
       - Title: 3 John
       - Title: Jude
       - Title: Revelation
+    Title: New Testament
+Title: New Jerusalem Bible
+Tradition:
+  - Christian
+  - Catholic
+Wikipedia:
+  Base: Q9261747
+  PageID: 840271
+  URL: https://en.wikipedia.org/wiki/New_Jerusalem_Bible
+  What: book
 ---

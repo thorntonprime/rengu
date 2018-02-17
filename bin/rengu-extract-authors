@@ -11,7 +11,7 @@ def verse_extract_authors(vpk):
 
     v = Verse.fetch(vpk)
 
-    for role in [ "By", "Author", "Translator", "Editor", "Illustrator" ]:
+    for role in [ "By", "Author", "Translator", "Editor", "Illustrator", "Contributor" ]:
         for a in walk_search(role, dict(v)):
             print(a)
             sys.stdout.flush()
@@ -22,7 +22,7 @@ def source_extract_authors(vpk):
 
     s = Source.fetch(vpk)
 
-    for role in [ "By", "Author", "Translator", "Editor", "Illustrator" ]:
+    for role in [ "By", "Author", "Translator", "Editor", "Illustrator", "Contributor" ]:
         for a in walk_search(role, dict(s)):
             print(a)
             sys.stdout.flush()

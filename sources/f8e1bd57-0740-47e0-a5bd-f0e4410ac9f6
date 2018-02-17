@@ -1,11 +1,6 @@
 ---
-Title: King James Bible
-Tradition:
-  - Christian
-  - Protestant
 Contains:
-  - Title: Old Testament
-    Contains:
+  - Contains:
       - Title: Genesis
       - Title: Exodus
       - Title: Leviticus
@@ -45,8 +40,8 @@ Contains:
       - Title: Haggai
       - Title: Zechariah
       - Title: Malachi
-  - Title: New Testament
-    Contains:
+    Title: Old Testament
+  - Contains:
       - Title: Matthew
       - Title: Mark
       - Title: Luke
@@ -74,4 +69,14 @@ Contains:
       - Title: III John
       - Title: Jude
       - Title: Revelation
+    Title: New Testament
+Title: King James Bible
+Tradition:
+  - Christian
+  - Protestant
+Wikipedia:
+  Base: Q623398
+  PageID: 16767
+  URL: https://en.wikipedia.org/wiki/King_James_Version
+  What: Bible translation
 ---

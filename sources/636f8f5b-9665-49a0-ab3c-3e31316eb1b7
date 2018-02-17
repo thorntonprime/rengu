@@ -1,16 +1,16 @@
 ---
 Title: The I Ching
+By: Richard Wilhelm
 AlternateTitles:
   - The Book of Changes
-ISBN:
-  - 069109750X
-  - 978-0844295909
-Publisher: Princeton University Press
-Copyright: 1950
-TranslationOf: ce3f70aa-4448-4cfd-a1b7-4a32eb5e8df
-By: Richard Wilhelm
+Publications:
+  - Copyright: 1950
+    ISBN:
+      - 069109750X
+      - 978-0844295909
+    Publisher: Princeton University Press
+  - URL: http://www2.unipr.it/~deyoung/I_Ching_Wilhelm_Translation.html
+  - URL: http://www.pantherwebworks.com/i_ching/
 Translator: Cary F. Baynes
-URL:
-  - http://www2.unipr.it/~deyoung/I_Ching_Wilhelm_Translation.html
-  - http://www.pantherwebworks.com/i_ching/
+TranslationOf: ce3f70aa-4448-4cfd-a1b7-4a32eb5e8df
 ---

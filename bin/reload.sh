@@ -41,14 +41,27 @@ cat output/authors.check | grep 'NO MATCH' | \
   cut -d'!' -f 1 | \
   bin/rengu-fuzz-author > output/authors.fuzz
 
+echo " ... check titles"
+cat output/titles.list | cut -c9- | \
+  bin/rengu-check-source  > output/titles.check
+
 echo " ... fuzz titles"
-cat output/titles.list | \
+cat output/titles.check | grep 'NO MATCH' | \
+  cut -d'!' -f 1 | \
   bin/rengu-fuzz-title > output/titles.fuzz
 
 exit
+############################ END
+
 # Fix-Ups
 echo " ... wikilookup authors"
 cat output/authors.check | grep 'NO MATCH' | \
   cut -d'!' -f 1 | \
-  bin/wikipedia-make
+  bin/wikipedia-make-author
+
+echo "... wikilookup titles"
+for S in $( bin/rengu search source '{}' | jq -r .pk ); do
+  bin/rengu refresh wikipedia source ${S}
+  bin/rengu dump source ${S} | grep -v '^pk:' > tmp/sources/${S}
+done
 

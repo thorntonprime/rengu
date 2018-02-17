@@ -1,18 +1,19 @@
 ---
 Title: The Man of Many Qualities
 Subtitle: A Legacy of the I Ching
-AlternatePublication:
-  - Title: The Portable Dragon
-    Subtitle: The Western Man's Guide to the I Ching
-    ISBN:
+AlternateTitles:
+  - The Portable Dragon
+  - The Western Man's Guide to the I Ching
+Publications:
+  - ISBN:
       - 0262690306
       - 978-0262690300
     Publisher: The MIT Press
     Copyright: 1971
-ISBN:
-  - 0262190478
-  - 978-0262190473
-Publisher: The MIT Press
-Copyright: 1968
+  - ISBN:
+      - 0262190478
+      - 978-0262190473
+    Publisher: The MIT Press
+    Copyright: 1968
 TranslationOf: ce3f70aa-4448-4cfd-a1b7-4a32eb5e8df0
 ---

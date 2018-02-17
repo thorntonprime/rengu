@@ -1,0 +1,44 @@
+#!/usr/bin/python3
+
+import sys
+
+sys.path.append('')
+
+from rengu.tools import walk_search, YamlDumper
+
+import uuid
+import yaml
+
+
+def verse_extract_source(vpk):
+    from rengu.verse import Verse
+
+    v = Verse.fetch(vpk)
+
+    for s in walk_search("Source", dict(v)):
+
+        pk = str(uuid.uuid4())
+
+        if not s.get('By') and v.get("By"):
+            s['By'] = v.get("By")
+
+        if s.get('Locus'):
+            del(d['Locus'])
+
+        with open("tmp/sources/" + pk, "w") as f:
+            f.write("---\n")
+            f.write(
+                yaml.dump(
+                    s,
+                    Dumper=YamlDumper,
+                    default_flow_style=False,
+                    width=70,
+                    indent=2).strip())
+            f.write("\n---\n")
+            f.close()
+
+
+if __name__ == '__main__':
+
+    for vpk in sys.argv[1:]:
+        verse_extract_source(vpk)
