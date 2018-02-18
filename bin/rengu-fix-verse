@@ -57,6 +57,7 @@ for pk in sys.argv[1:]:
 
                 else:
                     print("%s ! Multiple sources" % (pk))
+                    unfixable = True
 
         # Misplaced Page or chapter
         for k in [x for x in data.keys() ]:
@@ -79,10 +80,10 @@ for pk in sys.argv[1:]:
 
         # Misplaced title
         if "Book" in data.keys():
-            print("%s * Fixing misplaced key %s" % (pk, k))
+            print("%s * Fixing misplaced key Book" % (pk))
             data["Source"] = data.get("Source", {})
-            data["Source"].update( { "Title": data[k] } )
-            del data[k]
+            data["Source"].update( { "Title": data["Book"] } )
+            del data["Book"]
             fixed = True
 
         # Move Locus
