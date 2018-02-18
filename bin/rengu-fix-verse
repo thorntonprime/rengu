@@ -95,10 +95,15 @@ for pk in sys.argv[1:]:
             del data["Locus"]
             fixed = True
 
-        # Check References
+        # Check References and SeeALso
         if not isinstance(data.get("References", []), list):
             print("%s * Fixing reference to list" % (pk))
             data["References"] = [data.get("References")]
+            fixed = True
+
+        if not isinstance(data.get("SeeAlso", []), list):
+            print("%s * Fixing seealso to list" % (pk))
+            data["SeeAlso"] = [data.get("SeeAlso")]
             fixed = True
 
 
