@@ -1,19 +1,21 @@
 ---
 Source:
-  - Title: The Poetry of Zen
-    By:
-      Editor:
-        - Sam Hamill
-        - J. P. Seaton
-      Translator:
-        - Sam Hamill
-        - J. P. Seaton
-    Publisher: Shambhala Publications
-    Copyright: 02/13/2017
-    ISBN: 9781590304259
+  Title: The Poetry of Zen
+  Editor:
+    - Sam Hamill
+    - J. P. Seaton
+  Translator:
+    - Sam Hamill
+    - J. P. Seaton
+  Publisher: Shambhala Publications
+  Copyright: 02/13/2017
+  ISBN: 9781590304259
+  Locus:
     Page: 22
-  - Title: Tao Te Ching
-    Chapter: 2
+  Source:
+    Title: Tao Te Ching
+    Locus:
+      Chapter: 2
 By: Lao Tzu
 ---
 Beauty and ugliness have one origin.

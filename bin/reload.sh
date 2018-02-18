@@ -50,6 +50,10 @@ cat output/titles.exists | grep 'NO MATCH' | \
   cut -d'!' -f 1 | \
   bin/rengu-fuzz-title > output/titles.fuzz
 
+echo " ... fix sources"
+bin/rengu search verse '{}' | jq -r .pk | \
+  xargs bin/rengu-fix-verse > output/sources.fix
+
 exit
 ############################ END
 

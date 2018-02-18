@@ -1,13 +1,16 @@
 ---
 By: Jalal al-Din Rumi
 Source:
-  - Title: The Essential Rumi
+  Title: The Essential Rumi
+  Locus:
     Page: 278
-    Translator: Coleman Barks
-    Copyright: 1995
-    ISBN: 9780062509598
-  - Title: The Big Red Book
-    Page: 397
+  Translator: Coleman Barks
+  Copyright: 1995
+  ISBN: 9780062509598
+  Source:
+    Title: The Big Red Book
+    Locus:
+      Page: 397
     Translator: Coleman Barks
     ISBN: 987-0-06-190583-4
 Tags:
