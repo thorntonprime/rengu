@@ -1,10 +1,11 @@
 ---
-Source:
-  - Title: The Big Red Book
-    Translator: Coleman Barks
-    ISBN: 987-0-06-190583-4
-Page: 330
 By: Rumi
+Source:
+  ISBN: 987-0-06-190583-4
+  Locus:
+    Page: 330
+  Title: The Big Red Book
+  Translator: Coleman Barks
 Title: A Preposterous Guess
 ---
 Friend, you change what I lost

@@ -1,10 +1,11 @@
 ---
-Source:
-  - Title: The Big Red Book
-    Translator: Coleman Barks
-    ISBN: 987-0-06-190583-4
 By: Rumi
-Page: 315
+Source:
+  ISBN: 987-0-06-190583-4
+  Locus:
+    Page: 315
+  Title: The Big Red Book
+  Translator: Coleman Barks
 Title: Wilder than We Ever
 ---
 The one who pours is wilder than we ever become drinking,

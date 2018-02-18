@@ -1,10 +1,11 @@
 ---
-Source:
-  - Title: The Big Red Book
-    Translator: Coleman Barks
-    ISBN: 987-0-06-190583-4
 By: Rumi
-Page: 284
+Source:
+  ISBN: 987-0-06-190583-4
+  Locus:
+    Page: 284
+  Title: The Big Red Book
+  Translator: Coleman Barks
 Title: The Burning Ocean
 ---
 Where are those who died serving God

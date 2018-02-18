@@ -1,9 +1,10 @@
 ---
-Source:
-  - Title: Thirst
-    ISBN: 9780807068977
 By: Mary Oliver
-Page: 1
+Source:
+  ISBN: 9780807068977
+  Locus:
+    Page: 1
+  Title: Thirst
 Title: Messenger
 ---
 My work is loving the world.

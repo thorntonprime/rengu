@@ -1,10 +1,11 @@
 ---
-Source:
-  - Title: The Big Red Book
-    Translator: Coleman Barks
-    ISBN: 987-0-06-190583-4
 By: Rumi
-Page: 413
+Source:
+  ISBN: 987-0-06-190583-4
+  Locus:
+    Page: 413
+  Title: The Big Red Book
+  Translator: Coleman Barks
 ---
 When you are with everyone but me,
 you are with no one.

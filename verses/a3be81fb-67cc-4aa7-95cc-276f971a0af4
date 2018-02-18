@@ -1,10 +1,11 @@
 ---
-Source:
-  - Title: The Big Red Book
-    Translator: Coleman Barks
-    ISBN: 987-0-06-190583-4
-Page: 238
 By: Galway Kinnell
+Source:
+  ISBN: 987-0-06-190583-4
+  Locus:
+    Page: 238
+  Title: The Big Red Book
+  Translator: Coleman Barks
 Title: Prayer
 ---
 Whatever happens. Whatever

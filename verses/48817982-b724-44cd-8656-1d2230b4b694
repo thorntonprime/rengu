@@ -1,10 +1,11 @@
 ---
-Source:
-  - Title: The Big Red Book
-    Translator: Coleman Barks
-    ISBN: 987-0-06-190583-4
-Page: 400
 By: Rumi
+Source:
+  ISBN: 987-0-06-190583-4
+  Locus:
+    Page: 400
+  Title: The Big Red Book
+  Translator: Coleman Barks
 ---
 There is a path from me to you
 that I am constantly looking for,

@@ -1,10 +1,11 @@
 ---
-Source:
-  - Title: The Big Red Book
-    Translator: Coleman Barks
-    ISBN: 987-0-06-190583-4
-Page: 409
 By: Rumi
+Source:
+  ISBN: 987-0-06-190583-4
+  Locus:
+    Page: 409
+  Title: The Big Red Book
+  Translator: Coleman Barks
 ---
 As you start out on the way,
 the way appears.

@@ -1,10 +1,11 @@
 ---
-Source:
-  - Title: The Big Red Book
-    Translator: Coleman Barks
-    ISBN: 987-0-06-190583-4
 By: Rumi
-Page: 398
+Source:
+  ISBN: 987-0-06-190583-4
+  Locus:
+    Page: 398
+  Title: The Big Red Book
+  Translator: Coleman Barks
 ---
 Being is not what is seems,
 nor nonbeing.

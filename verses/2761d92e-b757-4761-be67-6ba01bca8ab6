@@ -1,17 +1,17 @@
 ---
 By: Rainer Maria Rilke
-Source:
-  - Title: The Book of Hours
-    Book: 1
-    Verse: 7
-    Page: 55
-    Translator:
-      - Anita Barrows
-      - Joanna Macy
-    Publisher: The Berkley Publishing Group
-    Copyright: 2005
-    ISBN: 1594481563
 Related: 78f86d30-ec5a-2012-1427-7f5e1bd16fa3
+Source:
+  Book: 1
+  Copyright: 2005
+  ISBN: 1594481563
+  Page: 55
+  Publisher: The Berkley Publishing Group
+  Title: The Book of Hours
+  Translator:
+    - Anita Barrows
+    - Joanna Macy
+  Verse: 7
 Tags:
   - initiation
   - ecstasy

@@ -1,9 +1,10 @@
 ---
 Source:
-  - Title: Book of Serenity
-    Translator: Thomas Cleary
-    ISBN: 0-940262-25-8
-Page: 313
+  ISBN: 0-940262-25-8
+  Locus:
+    Page: 313
+  Title: Book of Serenity
+  Translator: Thomas Cleary
 ---
 Without tracks,
 No news.

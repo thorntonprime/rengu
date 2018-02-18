@@ -1,8 +1,9 @@
 ---
 Source:
-  - Title: The Clouds Should Know Me by Now
-    ISBN: 978-0861711437
-Page: 27
+  ISBN: 978-0861711437
+  Locus:
+    Page: 27
+  Title: The Clouds Should Know Me by Now
 ---
 Deep and hidden, cicadas
 fill the dusk;

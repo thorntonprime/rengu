@@ -1,10 +1,11 @@
 ---
-Source:
-  - Title: The Big Red Book
-    Translator: Coleman Barks
-    ISBN: 987-0-06-190583-4
-Page: 395
 By: Rumi
+Source:
+  ISBN: 987-0-06-190583-4
+  Locus:
+    Page: 395
+  Title: The Big Red Book
+  Translator: Coleman Barks
 ---
 There is a channel between voice and presence,
 a way where information flows.

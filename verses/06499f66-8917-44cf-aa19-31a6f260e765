@@ -1,10 +1,11 @@
 ---
-Source:
-  - Title: Meister Eckhart
-    Publisher: HarperOne
-    ISBN: 978-0061300080
 By: Meister Eckhart
-Page: 7
+Source:
+  ISBN: 978-0061300080
+  Locus:
+    Page: 7
+  Publisher: HarperOne
+  Title: Meister Eckhart
 Title: What Makes Nature Good
 ---
 This is the basis on which human nature
