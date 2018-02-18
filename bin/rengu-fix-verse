@@ -5,7 +5,7 @@ import sys
 sys.path.append('')
 
 from rengu.verse import Verse
-from rengu.tools import walk_search, YamlDumper
+from rengu.tools import walk_search, YamlDumper, is_uuid
 
 import yaml
 
@@ -42,8 +42,8 @@ for pk in sys.argv[1:]:
     del data["pk"]
     del data["Lines"]
 
-    #try:
-    if True:
+    #if True:
+    try:
 
         # Check Sources
         if data.get("Source"):
@@ -101,14 +101,28 @@ for pk in sys.argv[1:]:
             data["References"] = [data.get("References")]
             fixed = True
 
+        for idx, val in enumerate(data.get("References", [])):
+            if isinstance(val, str):
+                print("%s * Reference shouldn't be a string" % (pk))
+
+                if (is_uuid(val)):
+                    print("%s * Reference to a bare UUID, fixing" % (pk))
+                    data["References"][idx] = { "ID" : val }
+                    fixed = True
+                else:
+                    print("%s ! Reference can't be fixed" % (pk))
+                    unfixable = True
+    
+        
+
         if not isinstance(data.get("SeeAlso", []), list):
             print("%s * Fixing seealso to list" % (pk))
             data["SeeAlso"] = [data.get("SeeAlso")]
             fixed = True
 
 
-    #except Exception as e:
-    if False:
+    #if False:
+    except Exception as e:
         unfixable = True
         print("%s ! UNHANDLED EXCEPTION %s" % (pk, e))
 
