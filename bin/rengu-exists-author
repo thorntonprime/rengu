@@ -5,7 +5,7 @@ import sys
 sys.path.append('')
 
 from rengu.tools import is_uuid
-from rengu.source import Source
+from rengu.author import Author
 
 from blitzdb.document import DoesNotExist
 
@@ -15,8 +15,8 @@ for n in sys.stdin.readlines():
 
     if is_uuid(n):
         try:
-            s = Source.fetch(n)
-            print(n, "=", s.get("pk"))
+            a = Author.fetch(n)
+            print(n, "=", a.get("pk"))
             sys.stdout.flush()
 
         except DoesNotExist:
@@ -26,8 +26,8 @@ for n in sys.stdin.readlines():
     else:
         count = 0
         try:
-            for s in Source.find(n):
-                print(n, "~", s.get("pk"), s.get("Title"))
+            for a in Author.find(n):
+                print(n, "~", a.get("pk"), a.get("Name"))
                 sys.stdout.flush()
                 count += 1
 
@@ -41,5 +41,3 @@ for n in sys.stdin.readlines():
         elif count > 1:
             print(n, "! MATCH COUNT", count, "> 1")
             sys.stdout.flush()
-
-

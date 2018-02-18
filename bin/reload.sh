@@ -28,7 +28,7 @@ echo " ... authors extract"
 ) | \
   sort | uniq -c | tee output/authors.list | \
   cut -c9- | \
-  bin/rengu-check-author > output/authors.check
+  bin/rengu-exists-author > output/authors.exists
 
 echo " ... titles extract"
 bin/rengu search verse '{}' | \
@@ -37,16 +37,16 @@ bin/rengu search verse '{}' | \
   sort | uniq -c | sort -g > output/titles.list
 
 echo " ... fuzz authors"
-cat output/authors.check | grep 'NO MATCH' | \
+cat output/authors.exists | grep 'NO MATCH' | \
   cut -d'!' -f 1 | \
   bin/rengu-fuzz-author > output/authors.fuzz
 
-echo " ... check titles"
+echo " ... exists titles"
 cat output/titles.list | cut -c9- | \
-  bin/rengu-check-source  > output/titles.check
+  bin/rengu-exists-source  > output/titles.exists
 
 echo " ... fuzz titles"
-cat output/titles.check | grep 'NO MATCH' | \
+cat output/titles.exists | grep 'NO MATCH' | \
   cut -d'!' -f 1 | \
   bin/rengu-fuzz-title > output/titles.fuzz
 
@@ -55,7 +55,7 @@ exit
 
 # Fix-Ups
 echo " ... wikilookup authors"
-cat output/authors.check | grep 'NO MATCH' | \
+cat output/authors.exists | grep 'NO MATCH' | \
   cut -d'!' -f 1 | \
   bin/wikipedia-make-author
 

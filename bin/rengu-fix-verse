@@ -1,0 +1,119 @@
+#!/usr/bin/python3
+
+import sys
+
+sys.path.append('')
+
+from rengu.verse import Verse
+from rengu.tools import walk_search, YamlDumper
+
+import yaml
+
+from blitzdb.document import DoesNotExist
+
+import os
+
+try:
+    os.mkdir("tmp/verses")
+except:
+    pass
+
+
+for pk in sys.argv[1:]:
+
+    fixed = False
+    unfixable = False
+
+    try:
+        v = Verse.fetch(pk)
+
+    except DoesNotExist:
+        print(pk, "! NOT FOUND")
+        sys.stdout.flush()
+        continue
+
+    try:
+
+        # Check Sources
+        if v.get("Source"):
+
+            source = v.get("Source")
+            if isinstance(source, list):
+
+                if len(source) == 1:
+                    print("%s * Fixing list to single source" % (pk))
+                    v["Source"] = v["Source"][0]
+                    fixed = True
+
+                else:
+                    print("%s ! Multiple sources" % (pk))
+
+        for k in v:
+
+            # Misplaced Page or chapter
+            if k in ["Page", "Chapter", "Hexagram", "Verse"]:
+                print("%s * Fixing misplaced key %s" % (pk, k))
+                v["Locus"] = v.get("Locus", {})
+                v["Locus"].update( { k: v[k] } )
+                del v[k]
+                fixed = True
+
+            # Misplaced source information
+            if k in ["URL", "Editor", "Translator", "ISBN", "Copyright", "Publisher" ]:
+                print("%s * Fixing misplaced key %s" % (pk, k))
+                v["Source"] = v.get("Source", {})
+                v["Source"].update( { k: v[k] } )
+                del v[k]
+                fixed = True
+
+            # Misplaced title
+            if k == "Book":
+                print("%s * Fixing misplaced key %s" % (pk, k))
+                v["Source"] = v.get("Source", {})
+                v["Source"].update( { "Title": v[k] } )
+                del v[k]
+                fixed = True
+
+        # Move Locus
+        if "Locus" in v:
+                print("%s * Fixing misplaced locus" % (pk))
+                v["Source"] = v.get("Source", {})
+                v["Source"]["Locus"] = v["Source"].get("Locus", {})
+                v["Source"]["Locus"].update( dict(v.get("Locus"] )
+                del v["Locus"]
+                fixed = True
+        
+
+    except Exception as e:
+        unfixable = True
+        print("%s ! UNHANDLED EXCEPTION %s" % (pk, e))
+
+
+    if unfixable:
+        print("%s ! UNFIXABLE ... skipping fix" % (pk))
+
+    elif fixed:
+        data = dict(v)
+
+        body = data["Body"].replace(":", "：")
+        if body[0] == "'" or body[0] == '"' or body[0:3] == "...":
+            body = "\\" + body
+
+        del data["Body"]
+        del data["pk"]
+        del data["Lines"]
+
+        with open("tmp/verses/" + pk, "w") as fout:
+            fout.write("---\n")
+            fout.write(yaml.dump(data, Dumper=YamlDumper,
+                                   default_flow_style=False, width=65, indent=2).strip())
+            fout.write("\n---\n")
+            fout.write(body)
+            fout.write("\n")
+            fout.close()
+
+        print("%s * Wrote update" % (pk))
+
+    # Finish
+    sys.stdout.flush()
+

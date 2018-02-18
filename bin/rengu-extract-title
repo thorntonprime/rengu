@@ -6,6 +6,7 @@ sys.path.append('')
 
 from rengu.tools import walk_search
 
+
 def get_title(data):
     for title in walk_search("Title", data):
 
@@ -42,4 +43,3 @@ if __name__ == '__main__':
 
     for vpk in sys.argv[1:]:
         verse_extract_source(vpk)
-	
