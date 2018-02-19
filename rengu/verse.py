@@ -17,7 +17,7 @@ class Verse(Document):
 
         v = dict(self)
         body = v["Body"].replace(":", "：")
-        if body[0] == "'" or body[0] == '"' or body[0:3] == "...":
+        if body[0] in [ " ", "'", '"', ".", "[" ]:
             body = "\\" + body
 
         del v["Body"]
@@ -90,7 +90,7 @@ class Verse(Document):
         if not ('Format' in rdoc) or (rdoc['Format'].lower() == 'prose'):
             for p in re.split("\n\n", doc):
 
-                    # Scrub extraneous newlines and spaces
+                # Scrub extraneous newlines and spaces
                 p = re.sub("(?<!\n)\n(?!\n)", " ", p)
                 p = re.sub(" +", " ", p)
 
