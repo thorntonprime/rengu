@@ -58,6 +58,12 @@ longing() {
     xargs bin/rengu json verse | jq -r '@text "\(.pk) \(.Source.Locus.Page)\t\(.Source.Locus.Loc)\t\(.Title) / \(.By)"' | sort -k 2g
 }
 
+giaw() {
+  grep -l 3173f7a-2fe5-4239-96a6-da623d8094b1 verses/* | \
+    xargs bin/rengu json verse | \
+    jq -r '@text "\(.pk) \(.Source.Locus.Page)\t\(.By)"' | sort -k 2g
+}
+
 tosw() {
   grep -l 57c5499b-c3b2-4b09-92a9-a6e977a32050 verses/* | \
     xargs bin/rengu json verse | \
