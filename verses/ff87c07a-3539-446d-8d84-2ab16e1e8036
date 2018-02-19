@@ -1,20 +1,17 @@
 ---
-Source:
-  ID: 503bbcad-73dd-49e6-96a0-bde44020aeb4
-  Title: The Man of Many Qualities
-  By: R. G. H. Siu
-  Source:
-    ID: ce3f70aa-4448-4cfd-a1b7-4a32eb5e8df0
-    Title: I Ching
-  Locus:
-    Page: 24
-    Hexagram: 3 - ䷂ - Chun
-    Line: 4
 By: Jean Galbert de Campistron
 Format: verse
+Source:
+  By: R. G. H. Siu
+  ID: 503bbcad-73dd-49e6-96a0-bde44020aeb4
+  Locus:
+    Hexagram: "3 - \u4DC2 - Chun"
+    Line: 4
+    Page: 24
+  Title: The Man of Many Qualities
 ---
 For more than twenty years, thou knowest well, sir,
-'Tis we two that have swayed the Emperor’s mind.
+'Tis we two that have swayed the Emperor's mind.
 Between us he divides his heart and power,
 And we dictate the orders that he gives.
 To rob thee of the station which thou holdest,
@@ -26,7 +23,7 @@ And since we needs must now speak honestly,
 It was with reason that, jealous of each other,
 Thou fearedest my power and that I feared thine, --
 For each of us, appraising well his rival
-Quaked lest the other should o’erthrow his fortunes,
+Quaked lest the other should o'erthrow his fortunes,
 Alike assured, fain to destroy each other,
 That one of us sufficed to rule the Empire.
 

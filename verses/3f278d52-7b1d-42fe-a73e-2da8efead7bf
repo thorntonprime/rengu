@@ -1,16 +1,13 @@
 ---
-Source:
-  ID: 503bbcad-73dd-49e6-96a0-bde44020aeb4
-  Title: The Man of Many Qualities
-  By: R. G. H. Siu
-  Source:
-    ID: ce3f70aa-4448-4cfd-a1b7-4a32eb5e8df0
-    Title: I Ching
-  Locus:
-    Page: 25
-    Hexagram: 3 - ䷂ - Chun
-    Line: 5
 By: Philip Massinger
+Source:
+  By: R. G. H. Siu
+  ID: 503bbcad-73dd-49e6-96a0-bde44020aeb4
+  Locus:
+    Hexagram: "3 - \u4DC2 - Chun"
+    Line: 5
+    Page: 25
+  Title: The Man of Many Qualities
 ---
 I have played the fool, the gross fool, to believe The bosom of a friend
 will hold a secret Mine own could not contain.

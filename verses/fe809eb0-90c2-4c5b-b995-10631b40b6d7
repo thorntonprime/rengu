@@ -1,16 +1,13 @@
 ---
-Source:
-  ID: 503bbcad-73dd-49e6-96a0-bde44020aeb4
-  Title: The Man of Many Qualities
-  By: R. G. H. Siu
-  Source:
-    ID: ce3f70aa-4448-4cfd-a1b7-4a32eb5e8df0
-    Title: I Ching
-  Locus:
-    Page: 18-19
-    Hexagram: 2 - ䷁ - K'un
-    Line: 2
 By: Henry Louis Mencken
+Source:
+  By: R. G. H. Siu
+  ID: 503bbcad-73dd-49e6-96a0-bde44020aeb4
+  Locus:
+    Hexagram: "2 - \u4DC1 - K'un"
+    Line: 2
+    Page: 18-19
+  Title: The Man of Many Qualities
 ---
 You asked me, in brief, what satisfaction I get out of life, and why I go
 on working. I go on working for the same reason that a hen goes on laying
@@ -20,7 +17,7 @@ of recuperation between bursts of activity, is painful and dangerous to the
 healthy organism -- in fact, it is almost impossible. Only the dying can be
 really idle.
 
-The precise form of an individual’s activity is determined, of course,
+The precise form of an individual's activity is determined, of course,
 by the equipment with which he came into the world. In other words, it is
 determined by this heredity. I do not lay eggs, as a hen does, because I was
 born without any equipment for it. For the same reason I do not get myself

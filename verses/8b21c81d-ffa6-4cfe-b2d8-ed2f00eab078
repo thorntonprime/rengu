@@ -1,17 +1,14 @@
 ---
-Source:
-  ID: 503bbcad-73dd-49e6-96a0-bde44020aeb4
-  Title: The Man of Many Qualities
-  By: R. G. H. Siu
-  Source:
-    ID: ce3f70aa-4448-4cfd-a1b7-4a32eb5e8df0
-    Title: I Ching
-  Locus:
-    Page: 18
-    Hexagram: 2 - ䷁ - K'un
-    Line: 2
 Description: Zen Poem
 Format: verse
+Source:
+  By: R. G. H. Siu
+  ID: 503bbcad-73dd-49e6-96a0-bde44020aeb4
+  Locus:
+    Hexagram: "2 - \u4DC1 - K'un"
+    Line: 2
+    Page: 18
+  Title: The Man of Many Qualities
 ---
 Sitting quietly, doing nothing,
 Spring comes and the grass grows by itself.

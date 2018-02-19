@@ -31,16 +31,10 @@ cloud() {
 
 iching-siu() {
 
-  (
-    grep -l 503bbcad-73dd-49e6-96a0-bde44020aeb4 verses/* | \
-      xargs bin/rengu json verse | \
-      jq -r '@text "\(.pk) \(.Hexagram)\t\(if .Locus.Line then .Locus.Line else .Locus.Description end)*"'
-
-    grep -l 503bbcad-73dd-49e6-96a0-bde44020aeb4 verses/* | \
-      xargs bin/rengu json verse | \
-      jq -r '@text "\(.pk) \(.Source.Locus.Hexagram)\t\(if .Source.Locus.Line then .Source.Locus.Line else .Source.Locus.Description end)"'
-
-  ) | grep -v null | sort -k2
+  grep -l 503bbcad-73dd-49e6-96a0-bde44020aeb4 verses/* | \
+    xargs bin/rengu json verse | \
+    jq -r '@text "\(.pk) \(.Source.Locus.Hexagram)\t\(if .Source.Locus.Line then .Source.Locus.Line else .Source.Locus.Description end) \(if .Title? then " " else "*" end)"' | \
+    grep -v null | sort -k2
 
 }
 

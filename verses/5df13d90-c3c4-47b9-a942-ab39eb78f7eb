@@ -1,16 +1,13 @@
 ---
-Source:
-  ID: 503bbcad-73dd-49e6-96a0-bde44020aeb4
-  Title: The Man of Many Qualities
-  By: R. G. H. Siu
-  Source:
-    ID: ce3f70aa-4448-4cfd-a1b7-4a32eb5e8df0
-    Title: I Ching
-  Locus:
-    Page: 27
-    Hexagram: 3 - ䷂ - Chun
-    Description: Judgement
 By: Paul Klee
+Source:
+  By: R. G. H. Siu
+  ID: 503bbcad-73dd-49e6-96a0-bde44020aeb4
+  Locus:
+    Description: Judgement
+    Hexagram: "3 - \u4DC2 - Chun"
+    Page: 27
+  Title: The Man of Many Qualities
 ---
 Nothing can be rushed. Things must grow, they must grow upward, and if the
 time should ever come for the great work -- then so much the better.

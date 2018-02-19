@@ -1,24 +1,21 @@
 ---
-Source:
-  ID: 503bbcad-73dd-49e6-96a0-bde44020aeb4
-  Title: The Man of Many Qualities
-  By: R. G. H. Siu
-  Source:
-    ID: ce3f70aa-4448-4cfd-a1b7-4a32eb5e8df0
-    Title: I Ching
-  Locus:
-    Page: 13
-    Hexagram: 1 - ䷀ - Ch'ien
-    Line: 4
 By: Velemir Vladimirovich Khlebnikov
 Format: verse
+Source:
+  By: R. G. H. Siu
+  ID: 503bbcad-73dd-49e6-96a0-bde44020aeb4
+  Locus:
+    Hexagram: "1 - \u4DC0 - Ch'ien"
+    Line: 4
+    Page: 13
+  Title: The Man of Many Qualities
 ---
 I find it more agreeable
 To contemplate the stars
 Than to sign a death warrant.
 I find itmore agreeable
 To listen to the flowers
-Whisper “It is he!”
+Whisper "It is he!"
 When I walk through the gardens
 Than to stroke the rifles
 That are to kill those who wish
