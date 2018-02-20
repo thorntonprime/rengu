@@ -9,10 +9,11 @@ AlternateNames:
     \u0644\u062F\u06CC\u0646 \u0645\u062D\u0645\u062F \u062D\u0627\u0641\
     \u0638 \u0634\u06CC\u0631\u0627\u0632\u06CC\u200E\u200E"
   - "H\xE2fiz"
-Born: 1325/1326 CE
-Died: 1389/1390 CE
+Life:
+  Born: 1325/1326 CE
+  Died: 1389/1390 CE
 Name: Hafez
-Tradition:
+Associations:
   - Islam
   - Persian
   - Mystic Poetry

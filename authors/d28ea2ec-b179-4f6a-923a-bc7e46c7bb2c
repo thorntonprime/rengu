@@ -5,10 +5,11 @@ AlternateNames:
   - "Ry\xF4kwan"
   - "Ry\u014Dkan"
   - Ryokan
-Born: 1758
-Died: 1831
+Life:
+  Born: 1758
+  Died: 1831
 Name: "Ry\u014Dkan"
-Tradition:
+Associations:
   - Japan
   - Soto
   - Buddhism

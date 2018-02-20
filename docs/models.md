@@ -1,193 +1,54 @@
-
+### Verse
+```
+By: str
+Commentary: 
+Description: str
+Format: str in ["prose", "verse", "mixed", "structured"]
+Glossary: {}
+Language: str
+References: [ {}, ]
+SeeAlso: []
+Source: {}
+Tags: [str]
+Title: str
+```
 
 ### People
-
 ```
 Name: str
 AlternateNames: [str,]
-URLs: [str, ]
-Influences: [str,]
 Description: str
-
-Birth
-Born
-Date
-Death
-Description
-Died
-Identity
-Life
-Location
-Organization
-People
-Place
-Tradition
-Traditions
-Works
-
+Associations: [str,]
+URLs: [str, ]
+Life: { Birth:, Death: }
+Wikipedia: {}
+WorldCat: {}
 ```
 
-### People (Group)
-
+### People(Groups)
 ```
 Name: str
-Members: [str,]
 AlternateNames: [str,]
-URLs: [str, ]
-Influences: [str,]
+Members: [ str, ]
 Description: str
+Associations: [str,]
+URLs: [str, ]
+Wikipedia: {}
+WorldCat: {}
 ```
 
 ### Source
-
-```
-ID:
-Title: str
-URLs: [str,]
-Description: str
-TranslationOf: str
-Author: str | [str,]
-Translator: str | [str,]
-Editor: str | [str,]
-Illustrator: str | [str,]
-Publisher: str | [str,]
-Source:
-
-
-AlsoAs
-AlternatePublication
-AlternateTitles
-ASIN
-Author
-By
-ContainedBy
-Contains
-Contributor
-Copyright
-Date
-DD
-Description
-Edition
-Editor
-Format
-Introduction
-ISBN
-LibraryOfCongress
-LOC
-Location
-Locus
-Preface
-Publisher
-Retrieved
-Subtitle
-Tags
-Title
-Tradition
-TranslationOf
-Translator
-URL
-Volume
-
-```
-
-
-### Verse
 ```
 Title:
-By:
-Source: {}
-
-1
-2
-Act
-Album
-Appendix
-Artist
-Body
-Book
-Born
-Bu
-Buy
-By
-Byt
-Chapter
-Chaptyer
-City
-Comment
-Commentary
-Copyright
-Daily
-Date
-Definition
-Description
-Desription
-Dewcription
-Died
-Director
-Editor
-Footnote
-Format
-Glossary
-Google
-Hexagram
-ID
-Illustrator
-Images
-Interviewee
-Introduction
-ISBN
-ISBN10
-ISBN13
-Issue
-Journal
-Keywords
-Koan
-Language
-Life
-Line
-Link
-Loc
-Location
-Locaton
-LOCN
-Locuis
-Locus
-Logion
-Meaning
-Note
-Notes
-Number
-Page
-Part
-Person
-Plate
-Publication
-Published
-Publisher
-Quoted
-Reference
-References
-Related
-Section
-SeeAlso
-Songwriters
-Source
-Stanza
-Subtitle
-Sutra
-Symbology
-Tages
-Tags
-Term
-Title
-TItle
-TranslatedFrom
-Translation
-Translator
+SubTitle:
+AlternateTitles:
+By|Contributor|Editor|Translator: str or [str,]
+Format:
+Publications:
+Tags:
+ContainedBy
+Contains
+TranslationOf
 URL
-Verse
-Volume
-Year
-
-
+Wikipedia
 ```

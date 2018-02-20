@@ -4,16 +4,17 @@ AlternateNames:
   - "Muj\u016B D\u014Dky\u014D"
   - "\u7121\u4F4F\u9053\u66C9"
   - "Ichien D\u014Dky\u014D"
-Born: 1-January-1227
-Died: 9-November-1312
+Life:
+  Born: 1-January-1227
+  Died: 9-November-1312
 Name: "Muj\u016B"
-Tradition:
+Associations:
   - Japan
   - Zen
   - Tendai
   - Pure Land
   - Hosso
-  - SHingon
+  - Shingon
   - Ritsu
 Wikipedia:
   Base: Q3062835
