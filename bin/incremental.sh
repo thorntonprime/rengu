@@ -10,16 +10,22 @@ yamllint -f parsable verses/* authors/* sources/* | tee output/yaml.check
 echo "Loading incremental"
 git status | grep 'verses/' | sed -e 's@ *verses/@@' | \
   tee output/verses.incr | \
-  xargs bin/rengu load verse verses/* >> output/verses.load
+  xargs -n1 -i bin/rengu load verse verses/{}
 
 git status | grep 'sources/' | sed -e 's@ *sources/@@' | \
   tee output/sources.incr | \
-  xargs bin/rengu load source sources/* >> output/sources.load
+  xargs -n1 -i bin/rengu load source sources/{}
 
 git status | grep 'authors/' | sed -e 's@ *authors/@@' | \
   tee output/sources.incr | \
-  xargs bin/rengu load author authors/* >> output/authors.load
+  xargs -n1 -i bin/rengu load author authors/{} 
 
+echo "Load Wikidata"
+cat output/authors.incr | \
+  xargs bin/rengu refresh wikipedia author 
+
+cat output/sources.incr | \
+  xargs bin/rengu refresh wikipedia source
 
 # Post-Checks
 echo "Running Post-checks"
@@ -68,11 +74,6 @@ exit
 ############################ END
 
 # Fix-Ups
-echo " ... wikilookup authors"
-cat output/authors.exists | grep 'NO MATCH' | \
-  cut -d'!' -f 1 | \
-  bin/wikipedia-make-author
-
 echo "... wikilookup titles"
 for S in $( bin/rengu search source '{}' | jq -r .pk ); do
   bin/rengu refresh wikipedia source ${S}
