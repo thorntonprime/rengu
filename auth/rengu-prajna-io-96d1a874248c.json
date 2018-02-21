@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "rengu-prajna-io",
+  "private_key_id": "96d1a874248cca62453b55c5236b0f0ebcf25c24",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCvfzqHpmr+vbq0\n+rBNjkmonhjUBgHzd/J7Q1JoMFkUOJYIgv/WuV8P0CyvzgESPvdKf9fm0YbwcrJE\nNLJEWqlODYIfnpkvj23rik0RpNVpK9kfPUMRiB3XMF7HSC/g5hdDJlZnrDjHETYg\npZEJ+3Fv4ANRNIR7KdLPs/3u17+bY0gSuaZDJDWhy+Pude8rU+JCvimNth/Rv5S7\nPzCdZHs77cDQZM15sV6lNpNg4M64Gof34MLX841WVCtKdC1XxT4FgNPqbsJA5aTb\n+HVlhE2iU8Icj6MY1TVTTdcMLVTK0489qR7h0EkKWUrEL1UtkNpT39hCDwBdoZ/d\nMQ8CETyFAgMBAAECggEAD7VJnd6tcQO2dICDy01TFn6gJkorXol78MCD3cOGFaNC\n+pwPHj8VXSr69Plxaxqrs8Vho81ZUKhTgHtfAXND+DKJVR8zAujJo+2LHGsulu1P\nz9YB7M3MLfisYxX5Ax5VMrN5xGnL4zWNLLrlEompC6R3Z4tV2FhUADdSIVC6W8QO\nyrUYH5N418hclnpCAaPG51kPhJsUsqqgr+aMZWBMc60U6zocr5Ycdi25Nv1aw2y6\nPSCrCDDUMbA6UZk/doB/d7ZFUZaig5/JULWEapzIET8D7g4X4d7cciMc18uai1Sd\nDvi9Vpwska9v1Bj+gd+Z2F8LvzgE6HZzvSJOb6PleQKBgQD22LCgEuzgCLflKcrr\nQXCk8G2J1S/sT9sAWhfbmw1X9N1d7jg2Imfy/OKWzg72zC+gp5A9LwCywEiK0bhd\nMUalZ38ldJhXKDmRUB16aWv44WAhEVbAdyA7B8OSckUa6HftAINsZRy+b6QyBSVV\nyAgepKY88EdWE33a6DNR1WeKqwKBgQC2ATge3C49GqPoeXsTdFPPeIvZ3Zfc2MS/\n6RYJg1BWVsuU4gq6tB7pa082aSk5YdvRf9gQqeoyMgBHoB31sVzoCQbJQyDdr+t9\nZgaSlst+H94xiYTpREg1sOT/yGjHVB+9qekFsiO8RjexVi07wiLi9n79w0HxURAf\nOa4+RJBVjwKBgH/lXf5ST/D0E3Pk54Jk8ZxEBj03/BCQf4P7KglamNtNv7R/TRif\nUwSPCkfgk9hDixnON+m7hL0Y630hlEiU02m36iTZ+GSQLuOfguZ94Lee7lOzzCME\nlep/51Dla/C5KgneDjoHWZFB/uz7xZBgh/R4krlYNV3f04GsdYqc63zpAoGAJTru\nnfFwS/ONH9rpwDsFgeUoxnI7xGNbK96kMWH5JxAuKNBsXXDG+fyHgZvVYPWRn7NF\nIXOAgrATupMYTc/wL07ZYoYmzPJVe5tJMOdDzRL7wqpc09Kx6rm6vk/ijxO4QnXl\nQtMD2FmMvuvf6N93f3Ho3EP600A/ygNkjzw7QiUCgYEAnqPBatvYz11OBrU0cEEm\nq1rwEVVe6pfuzDjR88SQzQMHCPv1pws/l5XK1r+xZ8GSn4We2MyyBY8djoxyxQdj\nCbhB5HpMRDK1o96n15x8YEVI8sCBEiDUvbp/Wr1Gf0VKFIi2k1/l4N79dr5rH5rg\n0iXHDILyU4R+ViHijMVpzys=\n-----END PRIVATE KEY-----\n",
+  "client_email": "rengu-000@rengu-prajna-io.iam.gserviceaccount.com",
+  "client_id": "102065799378245521239",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/rengu-000%40rengu-prajna-io.iam.gserviceaccount.com"
+}
