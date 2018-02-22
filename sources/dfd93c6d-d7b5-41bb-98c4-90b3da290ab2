@@ -1,4 +1,6 @@
 ---
+Associations:
+  - Judaism
 Contains:
   - AlternateTitles:
       - The Law
@@ -56,8 +58,6 @@ Contains:
       - Title: Chronicles
     Title: The Writings III
 Title: Tanakh
-Associations:
-  - Judaism
 Wikipedia:
   Base: Q83367
   PageID: 30344

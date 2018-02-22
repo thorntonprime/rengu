@@ -1,12 +1,12 @@
 ---
-Title: A Book of Psalms - Selected and Adapted from the Hebrew
-Translator: Stephen Mitchell
 Editor: Stephen Mitchell
-TranslationOf:
-  Title: Psalms
 Publications:
-  - Publisher: Harper Perennial
-    ISBN:
+  - ISBN:
       - 0060924705
       - 978-0060924706
+    Publisher: Harper Perennial
+Title: A Book of Psalms - Selected and Adapted from the Hebrew
+TranslationOf:
+  Title: Psalms
+Translator: Stephen Mitchell
 ---

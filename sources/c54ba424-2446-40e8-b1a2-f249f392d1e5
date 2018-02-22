@@ -1,4 +1,7 @@
 ---
+Associations:
+  - Christian
+  - Catholic
 Contains:
   - Contains:
       - Title: Genesis
@@ -71,9 +74,6 @@ Contains:
       - Title: Revelation
     Title: New Testament
 Title: New Jerusalem Bible
-Associations:
-  - Christian
-  - Catholic
 Wikipedia:
   Base: Q9261747
   PageID: 840271

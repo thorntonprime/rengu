@@ -1,4 +1,8 @@
 ---
+AlternateTitles: []
+Associations:
+  - Christian
+  - Protestant
 Contains:
   - Contains:
       - Title: Genesis
@@ -71,9 +75,6 @@ Contains:
       - Title: Revelation
     Title: New Testament
 Title: King James Bible
-Associations:
-  - Christian
-  - Protestant
 Wikipedia:
   Base: Q623398
   PageID: 16767
