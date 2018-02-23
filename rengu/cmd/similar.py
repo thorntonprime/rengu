@@ -17,9 +17,8 @@ class RenguSimilarCmd(cmd.Cmd):
     @auto_help
     def do_verse(self, args):
         '''verse pk1 pk2 pk3 pk4 ...
-        Will compute similarity of the body of the listed verses.
-        It will only match any pair once (each verse is only matched to those
-        that fall after it in the arguments).
+        Will compute similarity of the body of the listed verses. It compares the first
+        listed verse to all the others in the list.
         
         Output is:
             pk1 pk2 overall_similar max(line_sim) min(line_sim) mean(line_sim) median(line_sim) stdev(line_sim)
@@ -31,9 +30,12 @@ class RenguSimilarCmd(cmd.Cmd):
         nlp = spacy.load('en')
 
         verses = args.split()
-        for p, pka in enumerate(verses):
-            for pkb in verses[p+1:]:
+        pka = verses[0]
+        for pkb in verses[1:]:
+            try:
                 a = Verse.fetch(pka)
                 print(pka, pkb, ' '.join( '{0:.4f}'.format(x) for x in a.similar(pkb, nlp=nlp)) )
                 sys.stdout.flush()
+            except Exception as e:
+                print(pka, pkb, "ERROR", e)
 
