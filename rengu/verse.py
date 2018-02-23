@@ -14,6 +14,7 @@ class Verse(Document):
     def similar(self, other_pk, nlp=None):
         import spacy
         import itertools
+        from statistics import mean, median, stdev
 
         if nlp == None:
             nlp = spacy.load('en')
@@ -25,11 +26,15 @@ class Verse(Document):
 
         similar = self_doc.similarity(other_doc)
 
-        # line_similarity = []
-        # for self_line in list(itertools.chain(*self.get("Lines"))):
-        #    for other_line in list(itertools.chain(*other.get("Lines"))):
+        line_sim = []
+        for self_line in list(itertools.chain(*self.get("Lines"))):
+           for other_line in list(itertools.chain(*other.get("Lines"))):
+                self_line_doc = nlp(self_line)
+                other_line_doc = nlp(other_line)
+                similar = self_line_doc.similarity(other_line_doc)
+                line_sim.append(similar)
 
-        return similar
+        return similar, max(line_sim), min(line_sim), mean(line_sim), median(line_sim), stdev(line_sim)
 
     def to_yaml(self):
         import yaml
