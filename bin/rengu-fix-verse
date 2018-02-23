@@ -40,7 +40,9 @@ for pk in sys.argv[1:]:
 
     del data["Body"]
     del data["pk"]
-    del data["Lines"]
+
+    if data.get("Lines"):
+        del data["Lines"]
 
     #if True:
     try:

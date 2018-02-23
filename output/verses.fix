@@ -14,6 +14,9 @@
 102333e0-cf98-4df7-a8c2-d294461bd368 * Wrote update
 105ab67a-74d0-4e13-ad08-08cb2a45e65e * Fixing misplaced locus
 105ab67a-74d0-4e13-ad08-08cb2a45e65e * Wrote update
+1135ba27-5a52-4b67-89d4-a9d441f68d3e * Reference shouldn't be a string
+1135ba27-5a52-4b67-89d4-a9d441f68d3e * Reference to a bare UUID, fixing
+1135ba27-5a52-4b67-89d4-a9d441f68d3e * Wrote update
 15f0f936-4a4e-4469-9418-9e62c0e646df * Fixing misplaced locus
 15f0f936-4a4e-4469-9418-9e62c0e646df * Wrote update
 165df51b-963f-43c0-835e-7c5373b81c5b * Fixing misplaced locus
@@ -40,6 +43,9 @@
 37ae0c89-ad79-4832-bf11-09738a7f3ba4 * Wrote update
 3d107ca6-dcd9-45e8-b8df-e86af3687625 * Fixing misplaced locus
 3d107ca6-dcd9-45e8-b8df-e86af3687625 * Wrote update
+3ea9e5e5-016a-40af-9cf9-5510391227eb * Reference shouldn't be a string
+3ea9e5e5-016a-40af-9cf9-5510391227eb * Reference to a bare UUID, fixing
+3ea9e5e5-016a-40af-9cf9-5510391227eb * Wrote update
 3fefd643-955d-4578-85de-e6afd9a61d4d * Fixing misplaced locus
 3fefd643-955d-4578-85de-e6afd9a61d4d * Wrote update
 415a27f6-fa0a-42ca-96a6-f91c9485d487 * Fixing misplaced locus
