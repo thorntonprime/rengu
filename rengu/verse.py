@@ -2,9 +2,9 @@
 
 import re
 
-from rengu.config import DB
-
 from blitzdb import Document
+
+from rengu.config import DB
 
 from textblob import TextBlob
 
@@ -17,15 +17,15 @@ class Verse(Document):
 
         v = dict(self)
         body = v["Body"].replace(":", "：")
-        if body[0] in [ " ", "'", '"', ".", "[" ]:
+        if body[0] in [" ", "'", '"', ".", "["]:
             body = "\\" + body
 
         del v["Body"]
         del v["Lines"]
 
         return "---\n" + yaml.dump(v, Dumper=YamlDumper,
-                                   default_flow_style=False, width=65, indent=2).strip() + \
-            "\n---\n" + body
+                                   default_flow_style=False, width=65,
+                                   indent=2).strip() + "\n---\n" + body
 
     def to_json(self):
         import json
@@ -150,6 +150,7 @@ class Verse(Document):
         collection = 'verses'
 
 
+#####################################################################
 # Create indexes
 
 from blitzdb.queryset import QuerySet

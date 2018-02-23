@@ -25,6 +25,17 @@ class RenguRefreshCmd(cmd.Cmd):
         else:
             return wikipedia_cmd.cmdloop()
 
+    @auto_help
+    def do_worldcat(self, args):
+        '''worldcat
+        Subcommands to reffresh data from worldcat
+        '''
+        worldcat_cmd = RenguRefreshWorldcatCmd()
+        if len(args) > 1:
+            return worldcat_cmd.onecmd(args)
+        else:
+            return worldcat_cmd.cmdloop()
+
 
 class RenguRefreshWikipediaCmd(cmd.Cmd):
 
@@ -62,8 +73,35 @@ class RenguRefreshWikipediaCmd(cmd.Cmd):
 
         try:
             for pk in args.split():
-                a = Source.fetch(pk)
-                a.refresh_wikipedia()
+                s = Source.fetch(pk)
+                s.refresh_wikipedia()
+
+        except SyntaxError as e:
+            print(e)
+
+
+class RenguRefreshWorldcatCmd(cmd.Cmd):
+
+    prompt = "refresh wikipedia >"
+
+    @auto_help
+    def do_quit(self, args):
+        return True
+
+    do_EOF = do_quit
+
+    @auto_help
+    def do_source(self, args):
+        '''source
+        Refresh the Wikipedia data for the source record.
+        '''
+
+        from rengu.source import Source
+
+        try:
+            for pk in args.split():
+                s = Source.fetch(pk)
+                s.refresh_worldcat()
 
         except SyntaxError as e:
             print(e)

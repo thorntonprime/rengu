@@ -17,3 +17,8 @@ DB = FileBackend("./db")
 #from blitzdb import MongoBackend
 #mongo_client = MongoClient('prajna')
 #DB = MongoBackend(mongo_client.rengu)
+
+# Worldcat info
+worldcat_USERNAME = "theoszi"
+worldcat_PASSWORD = "Cheroke3@Inca"
+WORLDCAT_BASEURL = "https://www.worldcat.org"

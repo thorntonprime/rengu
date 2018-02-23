@@ -1,0 +1,11 @@
+#!/usr/bin/python3
+
+import sys
+
+sys.path.append('')
+import rengu.worldcat
+
+
+for isbn in sys.stdin.readlines():
+
+    rengu.worldcat.search_isbn(isbn)

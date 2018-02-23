@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 
 from blitzdb import Document
+
 from rengu.config import DB
 
 
@@ -21,7 +22,6 @@ class Source(Document):
 
     def refresh_wikipedia(self):
         import wptools
-        import urllib.parse
         import warnings
         page = None
 
@@ -48,11 +48,11 @@ class Source(Document):
             print("%s ERROR -  Wikipedia error %s" % (self.pk, e))
             return
 
-        if not 'label' in page.data:
+        if 'label' not in page.data:
             print("%s ERROR - Wikipedia error no label" % (self.pk))
             return
 
-        #if page.data.get("what") != "human":
+        # if page.data.get("what") != "human":
         #    print("%s WARN - Wikipedia author not human" % (self.pk))
 
         label = page.data.get("label")
@@ -67,7 +67,8 @@ class Source(Document):
             what = "(disambiguation)"
 
         if label != self.get("Title"):
-            self['AlternateTitles'] = list(set(self.get("AlternateTitles", [])))
+            self['AlternateTitles'] = list(
+                set(self.get("AlternateTitles", [])))
 
         self["Wikipedia"] = {
             "URL": url,
@@ -80,6 +81,14 @@ class Source(Document):
         DB.commit()
         print("%s OK" % (self.pk))
 
+    def refresh_worldcat(self):
+        from rengu.tools import walk_search
+        from rengu.worldcat import search_isbn
+
+        isbn = walk_search("ISBN", dict(self))
+        if isbn:
+            for i in isbn:
+                search_isbn(i)
 
     @staticmethod
     def fetch(pk):
@@ -95,13 +104,13 @@ class Source(Document):
         found = set()
 
         for a in DB.filter(Source, {field: query}):
-            if not a.pk in found:
+            if a.pk not in found:
                 found.add(a.pk)
                 yield a
 
         if field == "Title":
             for a in DB.filter(Source, {"AlternateTitles": query}):
-                if not a.pk in found:
+                if a.pk not in found:
                     found.add(a.pk)
                     yield a
 
@@ -121,6 +130,11 @@ class Source(Document):
         primary_key = 'pk'
         collection = 'sources'
 
+
+#####################################################################
+# create indexes
+
 from blitzdb.queryset import QuerySet
+
 DB.create_index(Source, 'Title', fields={
                 "Title": QuerySet.ASCENDING}, unique=False, ephemeral=False)

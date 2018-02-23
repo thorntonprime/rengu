@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 
 from blitzdb import Document
+
 from rengu.config import DB
 
 
@@ -20,7 +21,6 @@ class Author(Document):
 
     def refresh_wikipedia(self):
         import wptools
-        import urllib.parse
         import warnings
         page = None
 
@@ -47,7 +47,7 @@ class Author(Document):
             print("%s ERROR -  Wikipedia error %s" % (self.pk, e))
             return
 
-        if not 'label' in page.data:
+        if 'label' not in page.data:
             print("%s ERROR - Wikipedia error no label" % (self.pk))
             return
 
@@ -120,8 +120,13 @@ class Author(Document):
         primary_key = 'pk'
         collection = 'authors'
 
+
+#####################################################################
+# Create Indexes
 from blitzdb.queryset import QuerySet
+
 DB.create_index(Author, 'Name', fields={
                 "Name": QuerySet.ASCENDING}, unique=True, ephemeral=False)
 DB.create_index(Author, 'AlternateNames', fields={
-                "AlternateNames": QuerySet.ASCENDING}, unique=True, ephemeral=False)
+                "AlternateNames": QuerySet.ASCENDING},
+                unique=True, ephemeral=False)

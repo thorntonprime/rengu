@@ -135,7 +135,7 @@ def lookup_wikipedia(article):
         page.data = {'what': "_error other_"}
         return page
 
-    if not 'label' in page.data:
+    if 'label' not in page.data:
         page.data = {'label': "_error no label_"}
 
     return page
