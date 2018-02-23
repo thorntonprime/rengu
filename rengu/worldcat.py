@@ -17,6 +17,9 @@ response = worldcat.post(WORLDCAT_BASEURL + "/account/",
                                "password": worldcat_PASSWORD})
 
 
+def search_oclc(oclc):
+    return search_book(urllib.parse.quote("no:" + oclc))
+
 def search_title_author(title, author):
     return search_book(urllib.parse.quote("ti:" + title) + "+" + urllib.parse.quote("au:" + author))
 

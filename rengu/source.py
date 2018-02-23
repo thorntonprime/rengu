@@ -22,7 +22,9 @@ class Source(Document):
 
     def refresh_wikipedia(self):
         import wptools
-        import warnings
+        import sys
+        from io import StringIO
+
         page = None
 
         if self.get("Wikipedia") and self.get("Wikipedia").get("Base"):
@@ -33,24 +35,27 @@ class Source(Document):
                                 silent=True, skip=['imageinfo'])
         else:
             page = wptools.page(
-                self.get("Title"), silent=True, skip=['imageinfo'])
+                    self.get("Title"), silent=True, skip=['imageinfo'])
+
 
         try:
-            with warnings.catch_warnings():
-                warnings.simplefilter("ignore")
-                page.get(timeout=5)
+            old_stderr = sys.stderr
+            redirected_error = sys.stderr = StringIO()
+
+            page.get(timeout=5)
 
         except LookupError:
-            print("%s ERROR - Wikipedia not found" % (self.pk))
-            return
+            return False
 
         except Exception as e:
-            print("%s ERROR -  Wikipedia error %s" % (self.pk, e))
-            return
+            raise e
+
+        finally:
+            sys.stderr = old_stderr
+
 
         if 'label' not in page.data:
-            print("%s ERROR - Wikipedia error no label" % (self.pk))
-            return
+            raise Exception("Wikipedia page with no label")
 
         # if page.data.get("what") != "human":
         #    print("%s WARN - Wikipedia author not human" % (self.pk))
@@ -79,35 +84,46 @@ class Source(Document):
 
         self.save(DB)
         DB.commit()
-        print("%s OK" % (self.pk))
+
+        return True
 
     def refresh_worldcat(self):
         from rengu.tools import walk_search
-        from rengu.worldcat import search_isbn
+        from rengu.worldcat import search_isbn, search_title_author
+
+        if self.get("Media", "").lower() in [ "prime", "collection" ]:
+            raise Exception("incompatible media type")
 
         isbn = walk_search("ISBN", dict(self))
-
         if isbn:
             for i in isbn:
                 data = search_isbn(i)
                 if data:
 
-                    # Fix title
-                    if data["Title"] != self.get("Title"):
-                        self["AlternateTitles"] = self.get(
-                            "AlternateTitles", []).append(self.get("Title"))
-
                     self = Source({**self, **data})
-
-                    from pprint import pprint
-                    pprint(self)
 
                     self.save(DB)
                     DB.commit()
-                    print("%s OK" % (self.pk))
+
                     return True
 
-        print("%s FAIL" % (self.pk))
+        if self.get("Title") and self.get("By"):
+
+            title = self.get("Title")
+            author = self.get("By")
+            if isinstance(author, list):
+                author = author[0]
+
+            data = search_title_author(title, author)
+            if data:
+
+                self = Source({**self, **data})
+
+                self.save(DB)
+                DB.commit()
+
+                return True
+
         return False
 
     @staticmethod

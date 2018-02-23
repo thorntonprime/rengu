@@ -70,6 +70,18 @@ class RenguCmd(cmd.Cmd, object):
             return find_cmd.cmdloop()
 
     @auto_help
+    def do_similar(self, args):
+        '''similar
+        Subcommands to similar data from external sources
+        '''
+        from rengu.cmd.similar import RenguSimilarCmd
+        similar_cmd = RenguSimilarCmd()
+        if len(args) > 1:
+            return similar_cmd.onecmd(args)
+        else:
+            return similar_cmd.cmdloop()
+
+    @auto_help
     def do_refresh(self, args):
         '''refresh
         Subcommands to refresh data from external sources
@@ -105,13 +117,3 @@ class RenguCmd(cmd.Cmd, object):
         else:
             return yaml_cmd.cmdloop()
 
-    ###################
-
-    @auto_help
-    def do_check(self, line):
-        '''check
-        Check all the YAML files
-        '''
-
-        import rengu.check
-        rengu.check.check_verses()

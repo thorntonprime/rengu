@@ -55,13 +55,18 @@ class RenguRefreshWikipediaCmd(cmd.Cmd):
 
         from rengu.author import Author
 
-        try:
-            for pk in args.split():
+        for pk in args.split():
+            try:
                 a = Author.fetch(pk)
-                a.refresh_wikipedia()
+                ok = a.refresh_wikipedia()
 
-        except SyntaxError as e:
-            print(e)
+                if ok:
+                    print(pk, "OK")
+                else:
+                    print(pk, "NOT FOUND")
+
+            except Exception as e:
+                print(pk, "ERROR", e)
 
     @auto_help
     def do_source(self, args):
@@ -71,13 +76,18 @@ class RenguRefreshWikipediaCmd(cmd.Cmd):
 
         from rengu.source import Source
 
-        try:
-            for pk in args.split():
+        for pk in args.split():
+          try:
                 s = Source.fetch(pk)
-                s.refresh_wikipedia()
+                ok = s.refresh_wikipedia()
 
-        except SyntaxError as e:
-            print(e)
+                if ok:
+                    print(pk, "OK")
+                else:
+                    print(pk, "NOT FOUND")
+
+          except Exception as e:
+                print(pk, "ERROR", e)
 
 
 class RenguRefreshWorldcatCmd(cmd.Cmd):
@@ -98,10 +108,16 @@ class RenguRefreshWorldcatCmd(cmd.Cmd):
 
         from rengu.source import Source
 
-        try:
-            for pk in args.split():
+        for pk in args.split():
+            try:
                 s = Source.fetch(pk)
                 ok = s.refresh_worldcat()
 
-        except SyntaxError as e:
-            print(e)
+                if ok:
+                    print(pk, "OK")
+                else:
+                    print(pk, "NOT FOUND")
+
+            except Exception as e:
+                print(pk, "ERROR", e)
+

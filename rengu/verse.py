@@ -11,6 +11,26 @@ from textblob import TextBlob
 
 class Verse(Document):
 
+    def similar(self, other_pk, nlp=None):
+        import spacy
+        import itertools
+
+        if nlp == None:
+            nlp = spacy.load('en')
+
+        other = Verse.fetch(other_pk)
+
+        self_doc = nlp(self["Body"])
+        other_doc = nlp(other["Body"])
+
+        similar = self_doc.similarity(other_doc)
+
+        # line_similarity = []
+        # for self_line in list(itertools.chain(*self.get("Lines"))):
+        #    for other_line in list(itertools.chain(*other.get("Lines"))):
+
+        return similar
+
     def to_yaml(self):
         import yaml
         from rengu.tools import YamlDumper

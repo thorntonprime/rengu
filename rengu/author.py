@@ -21,7 +21,9 @@ class Author(Document):
 
     def refresh_wikipedia(self):
         import wptools
-        import warnings
+        import sys
+        from io import StringIO
+
         page = None
 
         if self.get("Wikipedia") and self.get("Wikipedia").get("Base"):
@@ -35,24 +37,26 @@ class Author(Document):
                 self.get("Name"), silent=True, skip=['imageinfo'])
 
         try:
-            with warnings.catch_warnings():
-                warnings.simplefilter("ignore")
-                page.get(timeout=5)
+            old_stderr = sys.stderr
+            redirected_error = sys.stderr = StringIO()
+
+            page.get(timeout=5)
 
         except LookupError:
-            print("%s ERROR - Wikipedia not found" % (self.pk))
-            return
+            return False
 
         except Exception as e:
-            print("%s ERROR -  Wikipedia error %s" % (self.pk, e))
-            return
+            raise e
+
+        finally:
+            sys.stderr = old_stderr
+
 
         if 'label' not in page.data:
-            print("%s ERROR - Wikipedia error no label" % (self.pk))
-            return
+            raise Exception("Wikipedia page with no label")
 
-        if page.data.get("what") != "human":
-            print("%s WARN - Wikipedia author not human" % (self.pk))
+        # if page.data.get("what") != "human":
+        #    print("%s WARN - Wikipedia author not human" % (self.pk))
 
         label = page.data.get("label")
         url = page.data.get("url").replace(" ", "_")
@@ -77,7 +81,8 @@ class Author(Document):
 
         self.save(DB)
         DB.commit()
-        print("%s OK" % (self.pk))
+
+        return True
 
     @staticmethod
     def fetch(pk):
