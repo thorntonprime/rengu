@@ -24,7 +24,7 @@ class Verse(Document):
         del v["Lines"]
 
         return "---\n" + yaml.dump(v, Dumper=YamlDumper,
-                                   default_flow_style=False, width=65,
+                                   default_flow_style=False, width=70, allow_unicode=True,
                                    indent=2).strip() + "\n---\n" + body
 
     def to_json(self):

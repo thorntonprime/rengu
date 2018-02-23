@@ -5,7 +5,21 @@ import sys
 sys.path.append('')
 import rengu.worldcat
 
+import yaml
+from rengu.tools import YamlDumper
+
 
 for isbn in sys.stdin.readlines():
 
-    rengu.worldcat.search_isbn(isbn)
+    source = rengu.worldcat.search_isbn(isbn)
+
+    if source:
+        title = source["Title"].strip().lower().replace(" ", "-")
+
+        fout = open("tmp/sources/" + title, "w")
+
+        fout.write(yaml.dump(dict(source),
+                             Dumper=YamlDumper, default_flow_style=False,
+                             width=70, indent=2,
+                             explicit_start=True, explicit_end=True, allow_unicode=True, ))
+        fout.close()

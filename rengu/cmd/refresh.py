@@ -82,7 +82,7 @@ class RenguRefreshWikipediaCmd(cmd.Cmd):
 
 class RenguRefreshWorldcatCmd(cmd.Cmd):
 
-    prompt = "refresh wikipedia >"
+    prompt = "refresh worldcat >"
 
     @auto_help
     def do_quit(self, args):
@@ -93,7 +93,7 @@ class RenguRefreshWorldcatCmd(cmd.Cmd):
     @auto_help
     def do_source(self, args):
         '''source
-        Refresh the Wikipedia data for the source record.
+        Refresh the W data for the source record.
         '''
 
         from rengu.source import Source
@@ -101,7 +101,7 @@ class RenguRefreshWorldcatCmd(cmd.Cmd):
         try:
             for pk in args.split():
                 s = Source.fetch(pk)
-                s.refresh_worldcat()
+                ok = s.refresh_worldcat()
 
         except SyntaxError as e:
             print(e)

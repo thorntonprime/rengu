@@ -12,7 +12,7 @@ class Source(Document):
         from rengu.tools import YamlDumper
 
         return "---\n" + yaml.dump(dict(self),
-                                   Dumper=YamlDumper, default_flow_style=False,
+                                   Dumper=YamlDumper, default_flow_style=False, allow_unicode=True,
                                    width=70, indent=2).strip() + "\n---"
 
     def to_json(self):
@@ -86,9 +86,29 @@ class Source(Document):
         from rengu.worldcat import search_isbn
 
         isbn = walk_search("ISBN", dict(self))
+
         if isbn:
             for i in isbn:
-                search_isbn(i)
+                data = search_isbn(i)
+                if data:
+
+                    # Fix title
+                    if data["Title"] != self.get("Title"):
+                        self["AlternateTitles"] = self.get(
+                            "AlternateTitles", []).append(self.get("Title"))
+
+                    self = Source({**self, **data})
+
+                    from pprint import pprint
+                    pprint(self)
+
+                    self.save(DB)
+                    DB.commit()
+                    print("%s OK" % (self.pk))
+                    return True
+
+        print("%s FAIL" % (self.pk))
+        return False
 
     @staticmethod
     def fetch(pk):

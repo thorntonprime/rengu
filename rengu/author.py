@@ -12,8 +12,8 @@ class Author(Document):
         from rengu.tools import YamlDumper
 
         return "---\n" + yaml.dump(dict(self),
-                                   Dumper=YamlDumper, default_flow_style=False,
-                                   width=65, indent=2).strip() + "\n---"
+                                   Dumper=YamlDumper, default_flow_style=False, allow_unicode=True,
+                                   width=70, indent=2).strip() + "\n---"
 
     def to_json(self):
         import json

@@ -10,6 +10,7 @@ sys.path.append('')
 from rengu.author import Author
 from rengu.tools import YamlDumper, lookup_wikipedia
 
+
 def normalize(input_str):
     # Returns a NFKD normalized form of the input string
     nfkd_form = unicodedata.normalize('NFKD', input_str)
@@ -39,7 +40,7 @@ if __name__ == '__main__':
 
             exists = list(Author.find(name))
             if exists:
-                print("Weird ... I already have" ,name, "=", label)
+                print("Weird ... I already have", name, "=", label)
                 continue
 
             data = list(Author.find(label))
@@ -52,22 +53,22 @@ if __name__ == '__main__':
                 if data.get('AlternateNames'):
                     data['AlternateNames'].append(name)
                 else:
-                    data['AlternateNames'] = [ name ]
+                    data['AlternateNames'] = [name]
 
             else:
                 uid = str(uuid.uuid4())
 
                 data = {
-                    "Name" : label,
-                    "Wikipedia" : {
+                    "Name": label,
+                    "Wikipedia": {
                         "URL": url,
-                        "PageID" : pageid,
-                        "Base" : wikibase
+                        "PageID": pageid,
+                        "Base": wikibase
                     }
                 }
 
                 if name != label:
-                    data['AlternateNames'] = [ name ]
+                    data['AlternateNames'] = [name]
 
             # from pprint import pprint
             # pprint(data)
@@ -84,7 +85,7 @@ if __name__ == '__main__':
                 yaml.dump(
                     data,
                     Dumper=YamlDumper,
-                    default_flow_style=False,
+                    default_flow_style=False, allow_unicode=True,
                     width=70,
                     indent=2).strip())
             f.write("\n---\n")

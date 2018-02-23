@@ -6,6 +6,7 @@ import urllib.parse
 from bs4 import BeautifulSoup
 
 from rengu.config import WORLDCAT_BASEURL, worldcat_PASSWORD, worldcat_USERNAME
+from rengu.tools import is_isbn
 
 import requests
 
@@ -16,8 +17,12 @@ response = worldcat.post(WORLDCAT_BASEURL + "/account/",
                                "password": worldcat_PASSWORD})
 
 
+def search_title_author(title, author):
+    return search_book(urllib.parse.quote("ti:" + title))
+
+
 def search_title(title):
-    return search_book(urllib.parse.quote("t:" + title))
+    return search_book(urllib.parse.quote("ti:" + title))
 
 
 def search_isbn(isbn):
@@ -36,39 +41,48 @@ def search_book(query):
 
         url = WORLDCAT_BASEURL + books[0].a['href']
 
+        data = {}
+
         response = worldcat.get(url)
         soup = BeautifulSoup(response.text, 'html.parser')
-        title = soup.find('h1', class_='title')
-        author = soup.find('td', {"id": 'bib-author-cell'})
+
+        title_soup = soup.find('h1', class_='title')
         publisher = soup.find('td', {"id": 'bib-publisher-cell'})
 
-        print(url)
-        print(string.capwords(title.text))
+        titles = [t.strip() for t in title_soup.text.split(':')]
 
-        if author:
-            print(author.text)
-        else:
-            print("NO AUTHOR")
+        data['Title'] = string.capwords(titles[0]).strip()
 
-        if publisher:
-            print(publisher.text)
+        if len(titles) > 1:
+            data["Subtitle"] = string.capwords(titles[1]).strip()
+
+        if len(titles) > 2:
+            data["AlternateTitles"] = [
+                string.capwords(t).strip() for t in titles[2:]]
 
         authors = soup.find('tr', {"id": "details-allauthors"})
         if authors:
+            data["By"] = []
             for a in authors.find_all('a'):
-                print(a.text)
+                data["By"].append(a.text.strip())
 
         isbn = soup.find('tr', {"id": "details-standardno"})
-        if isbn:
-            print(isbn.td.text)
+        if isbn and isbn.text:
+            data["Publications"] = [{"ISBN": isbn.text.split()[1:]}]
+
+        if publisher:
+            if data.get("Publications"):
+                data["Publications"][0][
+                    "Publisher"] = publisher.text.replace(':', ';')
+            else:
+                data["Publications"] = [
+                    {"Publisher": publisher.text.replace(':', ';')}]
 
         oclc = soup.find('tr', {"id": "details-oclcno"})
         if oclc:
-            print(oclc.td.text)
+            data["Worldcat"] = {"OCLC": oclc.td.text}
 
-        print()
+        return data
 
     else:
-        print("Not found")
-
-    print()
+        return None

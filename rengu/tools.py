@@ -119,6 +119,13 @@ def is_uuid(test):
         return False
 
 
+def is_isbn(test):
+    if re.match("[-0-9]+X?", test):
+        return True
+    else:
+        return False
+
+
 def lookup_wikipedia(article):
     import wptools
 
