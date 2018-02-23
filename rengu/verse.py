@@ -34,7 +34,17 @@ class Verse(Document):
                 similar = self_line_doc.similarity(other_line_doc)
                 line_sim.append(similar)
 
-        return similar, max(line_sim), min(line_sim), mean(line_sim), median(line_sim), stdev(line_sim)
+        line_len = len(line_sim)
+        line_max = max(line_sim)
+        line_min = min(line_sim)
+        line_mean = mean(line_sim)
+        line_median = median(line_sim)
+        if line_len > 2:
+            line_stdev = stdev(line_sim)
+        else:
+            line_stdev = 0.0
+
+        return similar, line_len, line_max, line_min, line_mean, line_median, line_stdev
 
     def to_yaml(self):
         import yaml
