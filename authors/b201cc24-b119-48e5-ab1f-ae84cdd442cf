@@ -1,22 +1,25 @@
 ---
 AlternateNames:
-  - "\uB9CC\uD574"
-  - "\uD55C\uC6A9\uC6B4"
+  - 만해
+  - 한용운
   - Bongwan
-  - "Ch\u014Fngok"
+  - Chŏngok
   - Han Yongun
   - Han Yong-un
   - Han Yu-cheon
-  - "Han Yuch'\u014Fn"
+  - Han Yuch'ŏn
   - Jeongok
   - Manhae
   - Pongwan
-  - "\u534D\u6D77"
-  - "\u5949\u73A9"
-  - "\u842C\u6D77"
-  - "\u8C9E\u7389"
-  - "\u97D3\u88D5\u5929"
-  - "\u97D3\u9F8D\u96F2"
+  - 卍海
+  - 奉玩
+  - 萬海
+  - 貞玉
+  - 韓裕天
+  - 韓龍雲
+Associations:
+  - Buddhist
+  - Korean
 Life:
   Birth:
     Date: July 12, 1879
@@ -24,9 +27,6 @@ Life:
   Death:
     Date: May 9, 1944
 Name: Han Yong-un
-Associations:
-  - Buddhist
-  - Korean
 Wikipedia:
   Base: Q487161
   PageID: 1830835

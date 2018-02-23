@@ -1,13 +1,9 @@
 ---
 AlternateNames:
   - Muju
-  - "Muj\u016B D\u014Dky\u014D"
-  - "\u7121\u4F4F\u9053\u66C9"
-  - "Ichien D\u014Dky\u014D"
-Life:
-  Born: 1-January-1227
-  Died: 9-November-1312
-Name: "Muj\u016B"
+  - Mujū Dōkyō
+  - 無住道曉
+  - Ichien Dōkyō
 Associations:
   - Japan
   - Zen
@@ -16,9 +12,13 @@ Associations:
   - Hosso
   - Shingon
   - Ritsu
+Life:
+  Born: 1-January-1227
+  Died: 9-November-1312
+Name: Mujū
 Wikipedia:
   Base: Q3062835
   PageID: 21203602
-  URL: "https://en.wikipedia.org/wiki/Muj\u016B"
+  URL: https://en.wikipedia.org/wiki/Mujū
   What: human
 ---

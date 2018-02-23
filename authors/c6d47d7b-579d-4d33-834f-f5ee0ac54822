@@ -4,6 +4,11 @@ AlternateNames:
   - Eckhart von Hochheim OP
   - Eckhart von Hochheim
   - Eckehart
+Associations:
+  - Christian
+  - Catholic
+  - Friends of God
+  - German
 Life:
   Born:
     Date: circa 1260
@@ -12,11 +17,6 @@ Life:
     Date: circa 1327-1328
   Location: Avignon
 Name: Meister Eckhart
-Associations:
-  - Christian
-  - Catholic
-  - Friends of God
-  - German
 Wikipedia:
   Base: Q76548
   PageID: 20595185

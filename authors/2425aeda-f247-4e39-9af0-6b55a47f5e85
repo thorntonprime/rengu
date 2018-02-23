@@ -2,7 +2,10 @@
 AlternateNames:
   - Li Bo
   - Li Po
-  - "\u674E\u767D"
+  - 李白
+Associations:
+  - Chinese
+  - Taoism
 Life:
   Born:
     Date: 701 CE
@@ -11,9 +14,6 @@ Life:
     Date: 762 CE
     Location: Dangtu, China
 Name: Li Bai
-Associations:
-  - Chinese
-  - Taoism
 Wikipedia:
   Base: Q7071
   PageID: 18024

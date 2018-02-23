@@ -2,12 +2,12 @@
 AlternateNames:
   - Honore de Balzac
   - Honors de Balzac
-Name: "Honor\xE9 de Balzac"
+Name: Honoré de Balzac
 URLs:
-  - "https://en.wikipedia.org/wiki/Honor\xE9_de_Balzac"
+  - https://en.wikipedia.org/wiki/Honoré_de_Balzac
 Wikipedia:
   Base: Q9711
   PageID: 42368
-  URL: "https://en.wikipedia.org/wiki/Honor\xE9_de_Balzac"
+  URL: https://en.wikipedia.org/wiki/Honoré_de_Balzac
   What: human
 ---

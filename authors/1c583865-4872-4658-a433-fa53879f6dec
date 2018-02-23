@@ -1,12 +1,13 @@
 ---
-Name: White Eagle
 AlternateNames:
   - The White Eagle Lodge
 Members:
   - Grace Cooke
   - Ivan Cooke
+Name: White Eagle
 Wikipedia:
-  URL: https://en.wikipedia.org/wiki/The_White_Eagle_Lodge
-  PageID: 9195515
   Base: Q7774487
+  PageID: 9195515
+  URL: https://en.wikipedia.org/wiki/The_White_Eagle_Lodge
+  What: null
 ---

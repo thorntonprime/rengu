@@ -1,6 +1,6 @@
 ---
 AlternateNames:
-  - "\u8001\u5B50"
+  - 老子
   - Lao-Tzu
   - Lao Tzu
   - Laotse
@@ -8,23 +8,23 @@ AlternateNames:
   - Lao-tze
   - Lao-tzu
   - Lao Zi
-  - "L\u01CEoz\u01D0"
-  - "\u592A\u4E0A\u8001\u541B"
-  - "T\xE0ish\xE0ng L\u01CEoj\u016Bn"
+  - Lǎozǐ
+  - 太上老君
+  - Tàishàng Lǎojūn
   - Li Er
-  - "\u674E\u8033"
-  - "L\u01D0 \u011Ar"
+  - 李耳
+  - Lǐ Ěr
   - Boyang
-  - "\u4F2F\u967D"
-  - "\u4F2F\u9633"
-  - "B\xF3y\xE1ng"
+  - 伯陽
+  - 伯阳
+  - Bóyáng
   - Li Dan
-  - "\u674E\u8043"
-  - "L\u01D0 D\u0101n"
-Name: Laozi
+  - 李聃
+  - Lǐ Dān
 Associations:
   - Taoism
   - Chinese
+Name: Laozi
 Wikipedia:
   Base: Q9333
   PageID: 65119
