@@ -14,7 +14,7 @@ for isbn in sys.stdin.readlines():
     source = rengu.worldcat.search_isbn(isbn)
 
     if source:
-        title = source["Title"].strip().lower().replace(" ", "-")
+        title = source["Title"].strip().lower().replace("'","").replace(",","").replace(" ", "-")
 
         fout = open("tmp/sources/" + title, "w")
 

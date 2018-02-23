@@ -18,7 +18,7 @@ response = worldcat.post(WORLDCAT_BASEURL + "/account/",
 
 
 def search_title_author(title, author):
-    return search_book(urllib.parse.quote("ti:" + title))
+    return search_book(urllib.parse.quote("ti:" + title) + "+" + urllib.parse.quote("au:" + author))
 
 
 def search_title(title):
