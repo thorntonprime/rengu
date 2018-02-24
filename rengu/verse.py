@@ -11,6 +11,21 @@ from textblob import TextBlob
 
 class Verse(Document):
 
+    def similar_lines(self, other, nlp=None):
+        import spacy
+        import itertools
+        from statistics import mean, median, stdev
+
+        if nlp == None:
+            nlp = spacy.load('en')
+
+        for self_line in list(itertools.chain(*self.get("Lines", []))):
+           for other_line in list(itertools.chain(*other.get("Lines", []))):
+                self_line_doc = nlp(self_line)
+                other_line_doc = nlp(other_line)
+                similar = self_line_doc.similarity(other_line_doc)
+                yield similar, self_line, other_line
+
     def similar(self, other_pk, nlp=None):
         import spacy
         import itertools

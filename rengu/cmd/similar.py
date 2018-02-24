@@ -2,6 +2,8 @@
 import cmd
 
 from rengu.cmd import auto_help
+import spacy
+import sys
 
 
 class RenguSimilarCmd(cmd.Cmd):
@@ -21,11 +23,9 @@ class RenguSimilarCmd(cmd.Cmd):
         listed verse to all the others in the list.
         
         Output is:
-            pk1 pk2 overall_similar max(line_sim) min(line_sim) mean(line_sim) median(line_sim) stdev(line_sim)
+            pk1 pk2 overall_similar count(lines) max(line_sim) min(line_sim) mean(line_sim) median(line_sim) stdev(line_sim)
         '''
         from rengu.verse import Verse
-        import spacy
-        import sys
 
         nlp = spacy.load('en')
 
@@ -39,4 +39,27 @@ class RenguSimilarCmd(cmd.Cmd):
                 sys.stdout.flush()
             except Exception as e:
                 print(pka, pkb, "ERROR", e)
+
+    def do_lines(self, args):
+        '''verse pk1 pk2
+        Will compute similarity of the lines of tweo verses
+        Output is:
+            pk1 pk2 similarity line1 line2
+        '''
+        from rengu.verse import Verse
+
+        try:
+            pka, pkb = args.split()
+        except ValueError:
+            print("ERROR wrong number of verses to compare")
+            return False
+
+        nlp = spacy.load('en')
+
+        a = Verse.fetch(pka)
+        b = Verse.fetch(pkb)
+
+        for s in a.similar_lines(b):
+            print(s)
+
 
