@@ -27,8 +27,8 @@ class Verse(Document):
         similar = self_doc.similarity(other_doc)
 
         line_sim = []
-        for self_line in list(itertools.chain(*self.get("Lines"))):
-           for other_line in list(itertools.chain(*other.get("Lines"))):
+        for self_line in list(itertools.chain(*self.get("Lines", []))):
+           for other_line in list(itertools.chain(*other.get("Lines", []))):
                 self_line_doc = nlp(self_line)
                 other_line_doc = nlp(other_line)
                 similar = self_line_doc.similarity(other_line_doc)
@@ -56,7 +56,8 @@ class Verse(Document):
             body = "\\" + body
 
         del v["Body"]
-        del v["Lines"]
+        if v.get("Lines"):
+            del v["Lines"]
 
         return "---\n" + yaml.dump(v, Dumper=YamlDumper,
                                    default_flow_style=False, width=70, allow_unicode=True,
