@@ -35,7 +35,7 @@ class RenguSimilarCmd(cmd.Cmd):
             try:
                 a = Verse.fetch(pka)
                 print(pka, pkb,
-                      "{0:.4f} {1: 6g} {2:.4f} {3:.4f} {4:.4f} {5:.4f} {6:.4f}".format(*a.similar(pkb, nlp=nlp)))
+                      "{0:.4f} {1: 6g} {2:.6f} {3:.4f} {4:.4f} {5:.4f} {6:.4f}".format(*a.similar(pkb, nlp=nlp)))
                 sys.stdout.flush()
             except Exception as e:
                 print(pka, pkb, "ERROR", e)
