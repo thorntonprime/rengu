@@ -35,14 +35,22 @@ class Verse(Document):
                 line_sim.append(similar)
 
         line_len = len(line_sim)
-        line_max = max(line_sim)
-        line_min = min(line_sim)
-        line_mean = mean(line_sim)
-        line_median = median(line_sim)
+
+        if line_len > 0:
+            line_max = max(line_sim)
+            line_min = min(line_sim)
+            line_mean = mean(line_sim)
+            line_median = median(line_sim)
+        else:
+            line_max = 0
+            line_min = 0
+            line_mean = 0
+            line_median = 0
+
         if line_len > 2:
             line_stdev = stdev(line_sim)
         else:
-            line_stdev = 0.0
+            line_stdev = 0
 
         return similar, line_len, line_max, line_min, line_mean, line_median, line_stdev
 
