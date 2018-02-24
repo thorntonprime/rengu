@@ -116,4 +116,3 @@ class RenguCmd(cmd.Cmd, object):
             return yaml_cmd.onecmd(args)
         else:
             return yaml_cmd.cmdloop()
-

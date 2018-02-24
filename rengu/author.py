@@ -51,7 +51,6 @@ class Author(Document):
         finally:
             sys.stderr = old_stderr
 
-
         if 'label' not in page.data:
             raise Exception("Wikipedia page with no label")
 

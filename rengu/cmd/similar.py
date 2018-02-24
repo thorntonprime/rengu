@@ -21,7 +21,7 @@ class RenguSimilarCmd(cmd.Cmd):
         '''verse pk1 pk2 pk3 pk4 ...
         Will compute similarity of the body of the listed verses. It compares the first
         listed verse to all the others in the list.
-        
+
         Output is:
             pk1 pk2 overall_similar count(lines) max(line_sim) min(line_sim) mean(line_sim) median(line_sim) stdev(line_sim)
         '''
@@ -34,8 +34,8 @@ class RenguSimilarCmd(cmd.Cmd):
         for pkb in verses[1:]:
             try:
                 a = Verse.fetch(pka)
-                print( pka, pkb, 
-                   "{0:.4f} {1: 6g} {2:.4f} {3:.4f} {4:.4f} {5:.4f} {6:.4f}".format( *a.similar(pkb, nlp=nlp))  )
+                print(pka, pkb,
+                      "{0:.4f} {1: 6g} {2:.4f} {3:.4f} {4:.4f} {5:.4f} {6:.4f}".format(*a.similar(pkb, nlp=nlp)))
                 sys.stdout.flush()
             except Exception as e:
                 print(pka, pkb, "ERROR", e)
@@ -59,7 +59,7 @@ class RenguSimilarCmd(cmd.Cmd):
         a = Verse.fetch(pka)
         b = Verse.fetch(pkb)
 
-        for s in a.similar_lines(b):
-            print(s)
-
-
+        for sim, linea, lineb in a.similar_lines(b):
+            print("{0:.6f} {1} {2}".format(sim, pka, pkb))
+            print("        {0:.8} {1:60} ".format(pka, linea))
+            print("        {0:.8} {1:60} ".format(pkb, lineb))

@@ -35,8 +35,7 @@ class Source(Document):
                                 silent=True, skip=['imageinfo'])
         else:
             page = wptools.page(
-                    self.get("Title"), silent=True, skip=['imageinfo'])
-
+                self.get("Title"), silent=True, skip=['imageinfo'])
 
         try:
             old_stderr = sys.stderr
@@ -52,7 +51,6 @@ class Source(Document):
 
         finally:
             sys.stderr = old_stderr
-
 
         if 'label' not in page.data:
             raise Exception("Wikipedia page with no label")
@@ -91,7 +89,7 @@ class Source(Document):
         from rengu.tools import walk_search
         from rengu.worldcat import search_isbn, search_title_author
 
-        if self.get("Media", "").lower() in [ "prime", "collection" ]:
+        if self.get("Media", "").lower() in ["prime", "collection"]:
             raise Exception("incompatible media type")
 
         isbn = walk_search("ISBN", dict(self))

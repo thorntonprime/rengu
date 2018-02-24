@@ -20,9 +20,15 @@ class Verse(Document):
             nlp = spacy.load('en')
 
         for self_line in list(itertools.chain(*self.get("Lines", []))):
-           for other_line in list(itertools.chain(*other.get("Lines", []))):
-                self_line_doc = nlp(self_line)
+            self_line_doc = nlp(self_line)
+            if len(self_line_doc) < 2:
+                continue
+
+            for other_line in list(itertools.chain(*other.get("Lines", []))):
                 other_line_doc = nlp(other_line)
+                if len(other_line_doc) < 2:
+                    continue
+
                 similar = self_line_doc.similarity(other_line_doc)
                 yield similar, self_line, other_line
 
@@ -41,13 +47,7 @@ class Verse(Document):
 
         similar = self_doc.similarity(other_doc)
 
-        line_sim = []
-        for self_line in list(itertools.chain(*self.get("Lines", []))):
-           for other_line in list(itertools.chain(*other.get("Lines", []))):
-                self_line_doc = nlp(self_line)
-                other_line_doc = nlp(other_line)
-                similar = self_line_doc.similarity(other_line_doc)
-                line_sim.append(similar)
+        line_sim = [x[0] for x in self.similar_lines(other, nlp)]
 
         line_len = len(line_sim)
 

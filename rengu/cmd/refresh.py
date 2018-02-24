@@ -77,7 +77,7 @@ class RenguRefreshWikipediaCmd(cmd.Cmd):
         from rengu.source import Source
 
         for pk in args.split():
-          try:
+            try:
                 s = Source.fetch(pk)
                 ok = s.refresh_wikipedia()
 
@@ -86,7 +86,7 @@ class RenguRefreshWikipediaCmd(cmd.Cmd):
                 else:
                     print(pk, "NOT FOUND")
 
-          except Exception as e:
+            except Exception as e:
                 print(pk, "ERROR", e)
 
 
@@ -120,4 +120,3 @@ class RenguRefreshWorldcatCmd(cmd.Cmd):
 
             except Exception as e:
                 print(pk, "ERROR", e)
-
