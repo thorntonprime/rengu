@@ -47,7 +47,7 @@ class Verse(Document):
             line_mean = 0
             line_median = 0
 
-        if line_len > 2:
+        if line_len > 1:
             line_stdev = stdev(line_sim)
         else:
             line_stdev = 0
