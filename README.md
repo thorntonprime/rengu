@@ -10,6 +10,7 @@
 * [Holy Books](https://www.holybooks.com/)
 
 ## Other Sources
+* [Rerebess Asia Online - Tao](https://terebess.hu/english/tao/_index.html)
 * [Wikiquote](https://en.wikiquote.org/)
 * [Christian Classics Ethereal Library](http://www.ccel.org/)
 * [Poetry Chaikhana](http://www.poetry-chaikhana.com/index.html)
@@ -17,6 +18,10 @@
 * [Divine Comedy](https://en.wikisource.org/wiki/The_Divine_Comedy)
 * [LDYSinger](http://www.ldysinger.com/@texts/00a_start.htm)
 * [Gnosis Library](http://gnosis.org/search_form.html)
+
+## Single Author Sources
+* [Aurobindo](https://www.aurobindo.ru/index_e.htm)
+
 
 ## Finished Sources
 * [Treasury](https://rengu.yoyoweb.com/books/Non-Fiction/Perry%20-%20The%20Spiritual%20Ascent.pdf)

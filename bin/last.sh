@@ -76,6 +76,12 @@ eckhart() {
     jq -r '@text "\(.pk) \(.Source.Locus.Page)\t\(.Title)"' | sort -k2 -g 
 }
 
+tao-leguin() {
+  grep -l 665172f7-331a-4fbf-a2e7-b0282cfe7f3b verses/* | \
+    xargs bin/rengu json verse | \
+    jq -r '@text "\(.pk) \(.Source.Locus.Chapter)\t\(.Title)"' | sort -k2 -g 
+}
+
 FUNS=$( grep '[[:alnum:]]*()' $0 | sed -e 's@() {@@' | paste -sd '|' )
 
 do_help() {

@@ -1,0 +1,57 @@
+#!/bin/env python3
+
+import re
+import textwrap
+
+TEMPLATE="""---
+Source:
+  ID: 414627d3-8c02-41a1-b9bb-22fbce2429b9
+  Translator: D. C. Lau
+  Source:
+    ID: 5d78c3fc-1996-417a-8e37-5c08f7411da2
+  Locus:
+    Chapter: {0}
+By: Lao Tzu
+Format: verse
+---
+{1}
+"""
+
+fin = open("input/tao-lau.txt", "r")
+
+chapter = 0
+body = ""
+
+
+def write_body(chapter, body):
+
+    fout = open("tmp/verses/" + str(chapter), "w")
+    fout.write(TEMPLATE.format( chapter, body.strip()))
+    fout.close()
+
+for l in fin.readlines():
+    x = l.strip()
+
+    is_chapter = re.match("^(\d+)$", x)
+
+    if is_chapter and body:
+        write_body(chapter, body)
+        chapter = is_chapter.group(1)
+        body = ""
+    
+    if is_chapter and not body:
+        chapter = is_chapter.group(1)
+        
+    else:
+        fixed_body = ""
+        words = x.split()
+        if len(words) > 0 and re.match("^[A-Z][A-Z]+", x):
+            words[0] = words[0].capitalize()
+            fixed_body = ' '.join(words)
+        else:
+            fixed_body = x.strip()
+
+        fixed_body = fixed_body.replace(":", "：")
+        body += textwrap.fill(fixed_body, 75, subsequent_indent=' ') + "\n"
+
+write_body(chapter, body)
