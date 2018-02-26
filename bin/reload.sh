@@ -30,6 +30,14 @@ echo " ... authors extract"
   cut -c9- | \
   bin/rengu-exists-author > output/authors.exists
 
+
+echo " ... author reference count"
+( grep 'NO MATCH' output/authors.exists | \
+  cut -d '!' -f 1 | \
+  while read A ; do C=$( grep -l "$A" verses/* | wc -l); \
+  printf "$C\t $A\n"; read A; done | \
+  sort -g ) > output/authors.count
+
 echo " ... titles extract"
 bin/rengu search verse '{}' | \
   jq -r .pk | \
