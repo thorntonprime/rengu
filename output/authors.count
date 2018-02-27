@@ -1,20 +1,28 @@
 0	 Abu 'l-Fadl Hasan of Sarakhs
 0	 Abu 'l-Hasan al-Khurqânî
+0	 Anthony Phillips
 0	 Cary F. Baynes
 0	 Christopher Guanlao
 0	 David I. Rome
+0	 Francois Paul Comtois
 0	 Ivan Granger
 0	 Joe Lester
+0	 John Silver
 0	 Jon M. Sweeny
+0	 Kay Wong
+0	 Ko Ch'ang-Kêng
+0	 Mark S. Burrows
+0	 Mick Barnard
 0	 Mike Byrne
-0	 Nikki Monninger
-0	 Randy Hoyt
-0	 Richard Wilhelm
+0	 Mike Rutherford
+0	 Payam Reza Doostzadeh
+0	 Richard Beck
+0	 Robbie Grey
 0	 Roy Martin
-0	 Sri Ramanuja
+0	 Sameer Gadhia
+0	 Sherab Chödzin Kohn
 0	 Stephen Walker
-0	 Têng Ch'un
-0	 William Scott Bruford
+0	 Tony Banks
 1	 Abba Evagrins
 1	 Abbot Lee Lisan
 1	 'Abd al-'Azîz b. Sulaymân
@@ -39,10 +47,11 @@
 1	 AnnamalaiSwami
 1	 Annamalia Swami
 1	 Ann Liza Bray
-1	 Aphra Behir
-1	 Ariwara Nahihira
-1	 Artemus Calloway
-1	 Arunagirinatha
+1	 Anzan Hoshin
+1	 Archibald A. Hodge
+1	 Arnauld Michel D'Abbadie
+1	 Arthur Ford
+1	 Arthur S. Roche
 1	 Augusto Roa Bastas
 1	 A. V. Deshmane
 1	 Aziz Nasifi
@@ -62,11 +71,13 @@
 1	 Caroline Schroeder
 1	 Catharine M. Sedgwick
 1	 Celio Calgagnini
-1	 Charles Johnson
-1	 Charles Knight
-1	 Charles S. Pearce
-1	 Ch'i-Chi
-1	 Chih Kung
+1	 Charles Churchill
+1	 Charles F. Alsop
+1	 Charles Machay
+1	 Charlotte Elliot
+1	 Chester Charles
+1	 Chih-k'ai
+1	 Ch'ing-yüan
 1	 CHVRCHES
 1	 Claudianus
 1	 Comtesse de Gasparin
@@ -103,10 +114,12 @@
 1	 Fojian
 1	 Francis G. Wickes
 1	 Francois D. Pressense
-1	 Frank Richelieu
-1	 Frederick Saunders
-1	 Fritz Peris
-1	 Gaude Bristol
+1	 Frank M. Colby
+1	 Frederick Langbridge
+1	 Fr. Gregory Boyle
+1	 Gardner Hunting
+1	 Gary L. Maurer
+1	 Geneen Roth
 1	 George Anderson
 1	 George Boa rdma n
 1	 George Higgins
@@ -121,7 +134,7 @@
 1	 Hans Dench
 1	 Harold Marshall
 1	 Hazel B. Andre
-1	 Henry D. Lloyd
+1	 Henry C. Bonnerman
 1	 Henry Link
 1	 Henry S. Haskins
 1	 Henry S. Holland
@@ -163,9 +176,8 @@
 1	 John Heider
 1	 John James
 1	 John Lust
-1	 John Neal
-1	 John O. Hobbs
-1	 John Robinson
+1	 John Milhoum
+1	 John Norris
 1	 John Todd
 1	 Jonathan Montaldo
 1	 Joseph Collins
@@ -173,11 +185,11 @@
 1	 Joseph M. Wade
 1	 Judith Knowlton
 1	 Judy Tatelbaum
-1	 Juppensha Ikku
-1	 Karen Homey
-1	 Karl von Knebel
-1	 Kikusha-No
-1	 K. Nagaya
+1	 Junius
+1	 Karen K. Clark
+1	 Karl Sperber
+1	 Kieran Kavanaugh
+1	 Kitab-Rahi
 1	 Kung Tingan
 1	 Kwang Tze
 1	 Leivis W. Dilyn
@@ -193,94 +205,97 @@
 1	 Madam Deluzy
 1	 Madan
 1	 Malcolm J. MacLeod
-1	 Margaret Thatcher
-1	 Marguerite De la Sabiere
-1	 Marsha Sinetar
-1	 Martin Gray
-1	 Mary W. Montagu
-1	 Mason Horton
-1	 Maturin Ballou
-1	 Melissus
-1	 Mendele M. Seforim
-1	 Michael Eldridge
-1	 Michael Robert Johnson
-1	 Ming Lum Paou Keen
-1	 Muhammad al-Harrâq
-1	 Muhammad b. Khafff
-1	 Muhammad ibnu l'Munawwar
-1	 Muriel James
-1	 Nancy Moser
-1	 Naong Hyegeun
-1	 Nicephorus the Solitary
-1	 Norma Hawkins
-1	 Norman MacEwan
-1	 Norman Thornton
-1	 Nuazi Misri
-1	 Omaraam M. Aivanhov
-1	 Otilio Rodriguez
-1	 Pascal Fauliot
-1	 Patricia Sun
-1	 Pauline Matarasso
-1	 Paul Roud
-1	 Pearl Jam
+1	 Marcia Macintosh
+1	 Margaret R. Stortz
+1	 Margaret W. Hungerford
+1	 Marquis De La Grange
+1	 Martha Courto
+1	 Mary Wortly Montagu
+1	 Matheno
+1	 Max Gralnick
+1	 Megan Don
+1	 Melvin McLeod
+1	 Menabadus
+1	 Mendel of Kotzk
+1	 Michael A. Sydner
+1	 Michael Grosso
+1	 Mohsan Fânî
+1	 Mr. Mister
+1	 Muhammad b. al-Fadl
+1	 Muhammad ibnu 'l-Munawwar
+1	 Muni Swamy
+1	 Nancy D. Potts
+1	 Nancy Owen Barton
+1	 Nicholas Valois
+1	 Nilakantha
+1	 Norman Hirsh
+1	 Norman Macleod
+1	 Oliver C. Wilson
+1	 Orison S. Mar den
+1	 Ot Lat Nom
+1	 Panchatantra
+1	 Paul Lorenz
+1	 Paul Toumier
+1	 Pema Khandro Rinpoche
 1	 Peter Martyr
 1	 Pharoah Ptahhotep
-1	 Philip Chesterton
-1	 Philip Lee Ralph
-1	 Pickthall
-1	 Pietro Metastais
-1	 Playful-calf
-1	 Ralph Blum
-1	 Raymond C. Barker
+1	 Philip J. Bailey
+1	 Philotheus of Sinai
+1	 Piet Hein
+1	 Platonicus
+1	 Qiarles Lamb
+1	 Râmâmâtya
+1	 Raphael Elijah
+1	 Ray Palmer
 1	 R. C. McCarthy
-1	 Refik Algan
-1	 Rekif Algan
-1	 Richard Beer-Hoffmann
-1	 R. Kita
-1	 Roberta Jean Bryant
-1	 Robert Cecil
-1	 Robert Eliot
-1	 Robert S. MacArthur
-1	 Robert Veninga
-1	 Robin Worthington
+1	 Reigen Eto
+1	 Richard Evans
+1	 R. J. Heathom
+1	 Robert Freeman
+1	 Robert Leighton
 1	 Romauld
 1	 Ron Smothemion
 1	 Roshi P. Kayleau
 1	 Ruth Sonam
 1	 Ryllis G. Lynip
-1	 Sally Kempton
-1	 Samantabhadra Bodhisattva
-1	 Samuel Butler
-1	 Sankhya-yoga
-1	 Sara J. Hale
-1	 Seû-mà Tshyên
-1	 Sheikh 'Abd-el-Hadi ben Ridouane
-1	 Sheldon Shepard
-1	 Shi-ping-wen
-1	 Shirley H. Jeffrey
-1	 Shree Purohit Swami
-1	 Shuson Kato
-1	 Sidney Smith
-1	 Solomon Trismosin
-1	 So Toba
-1	 Stanley Lindquest
-1	 Stewert C. Easton
-1	 Stuart Fenegan
-1	 Sue A. Ebaugh
-1	 Sue Wahlroos
-1	 Susan Partnow
-1	 Swatmaram Swami
-1	 Takashi Ikemoto
-1	 The Abbâ of Ilîû
-1	 The Blessed Virgin at Fatima
-1	 The Marquis de Luchet
-1	 Theodore McCombs
-1	 The Ortha Nan Gaidheal
-1	 Thomas Bacon
+1	 Safûri
+1	 Sally Kiester
+1	 Samuel ben Kalonymus
+1	 Sanaya Roman
+1	 Sarmad
+1	 Shaqiq of Balkh
+1	 Sheikh Abûlfaiz Faiyazi
+1	 Shih King
+1	 Shirai-Sôin
+1	 Shirley Morgan
+1	 Shushiki
+1	 Sidney Harris
+1	 Simon Eleazar
+1	 Sonya Friedman
+1	 Sozan Genkyo
+1	 Stanislas Bouttlers
+1	 St Elias Ekdikos
+1	 Steve Miller
+1	 St. Maximus
+1	 Styx
+1	 Sue Sikhing
+1	 Sumiko Kudo
+1	 Susan Marcotte
+1	 Susan Smith Jones
+1	 Taigan Takayama
+1	 Teresa Neumann
+1	 The Beastie Boys
+1	 The Duke of Brunswick
+1	 Theo Bovet
+1	 Theodore Munger
+1	 Thomas Adams
+1	 Thomas Burbridge
 1	 Thomas Horder
 1	 Thomas Malloy
 1	 Thomas M. MacDonald
 1	 Thomas Wildcat Alford
+1	 Tripitaka Master Hsuan Tsang
+1	 Tso Ssu
 1	 Vinobe Bhave
 1	 Walter A. Keers
 1	 Walter S. Landor
@@ -288,85 +303,66 @@
 1	 W. G. Jordan
 1	 Wilferd A. Peterson
 1	 William Cavanaugh
-1	 William G. Simms
-1	 William Hutton
-1	 Will Munson
-1	 Yamei
-1	 Zimon
+1	 William Hunter
+1	 William Matthews
+1	 William Temple
+1	 W. J. Slim
+1	 Yves M. Congar
 2	 Alexander Punshon
 2	 Al-Sarrâj
 2	 Amitendranath Tagore
-2	 Anthony Shaftesbury
-2	 Arthur Gordon
 2	 Chang Wai Ming
-2	 Charles E. Jones
 2	 Coates and Ishizuka
 2	 Conjure One
 2	 Dai-o Kokushi
 2	 David Grayson
 2	 Elizabeth Breuilly
 2	 Eric Butterworth
-2	 François Louis de Blois
-2	 Franklin P. Jones
-2	 Gary Emery
 2	 George Ripley
 2	 Hans-Ulrick Rieker
+2	 Henry Drummond
 2	 Hillel
 2	 Ida S. Taylor
 2	 Iris Belhayes
 2	 Jack Addington
 2	 John Gray
+2	 John Powell
 2	 J.P. Seaton
-2	 Karlfried G. Durckheim
-2	 Kenshin
 2	 K. V. Rangaswami Aiyangar
 2	 Lahshmana
 2	 Lavender Diamond
 2	 Lord Russell
-2	 Margaret Paul
-2	 Marpa
-2	 Michael A. Sells
-2	 Morienus
-2	 Paul Williams
-2	 Richard Nickson
-2	 Sammy Solberg
+2	 Paul E. Wood
+2	 Philip Chesterfield
+2	 Richard Cecil
+2	 Richard the Englishman
+2	 Robert Smith
+2	 Robert W. Buckingham
+2	 Saradamma
 2	 Stephen Levine
-2	 Sunyata
 2	 Thurman Fleet
-2	 Tôyo Tenshitsu
-2	 Tsesze
 2	 Vachaka Kovia
 3	 Alfred A. Montapert
 3	 Amar Jyoti
 3	 Anna Emilia Laitinen
-3	 Cheryl Canfield
 3	 Ishizuka
 3	 Israel Baal Shem
 3	 Jean P. Camus
 3	 Lucy Comellssen
-3	 Melvyn Kinder
-3	 Padma-Karpo
-3	 Porphyry
+3	 Martin Grey
+3	 Narayana
+3	 Pliny
+3	 Robert Collier
+3	 Tenchin Reb Anderson
+4	 Charles Kahn
 4	 Christina Grof
 4	 Gerald Jampolsky
 4	 Harry E. Fosdick
-4	 Henry F. Amiel
 4	 'Irâqî
 4	 John Sparrow
-4	 Richard E. Burton
-4	 Shibli
+4	 Kabir Helminski
 5	 Jean J. Rousseau
-5	 Maximus
-5	 Robert Ingersoll
+5	 Norman V. Peale
 6	 Lakshmana
-6	 Saadi
-7	 Henri F. Amiel
-7	 Julian P. Johnson
-7	 Manu
-7	 U. S. Anderson
-11	 Charles C. Colton
-18	 Genesis
-26	 Thomas Byrom
-39	 Krishna
-82	 Peter A. Merel
-82	 Stephen Addiss
+6	 Robert Benson
+8	 Patricia Donegan
