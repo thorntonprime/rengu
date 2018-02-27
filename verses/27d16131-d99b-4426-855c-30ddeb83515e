@@ -5,9 +5,13 @@ Source:
     Page: 293
   Source:
     Title: Hônen the Buddhist Saint
-    Description: Historucal Introduction
-    Page: 49
-By: Coates and Ishizuka
+    Subtitle: Historical Introduction
+    Locus:
+      Page: 49
+By:
+  - Shunjo
+  - Harper Havelock Coates
+  - Ryugaku Ishizuka
 Tags:
   - Combat-Action=Orthodoxy-Ritual-Method=The Spiritual Master
 ---
