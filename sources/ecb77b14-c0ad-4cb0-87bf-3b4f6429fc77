@@ -1,15 +1,21 @@
 ---
-Title: Tao Teh Ching
+AlternateTitles: []
 By: Lao Tzu
-Translator: John C. H. Wu
-TranslationOf: 5d78c3fc-1996-417a-8e37-5c08f7411da2
 Publications:
   - Copyright: 1961
-  - Publisher: Shambhala
-    Copyright: 1990
+  - Copyright: 1990
+    Dewey: 299'.51482-dc20
     ISBN:
       - 978-0-87773-542-7
       - 0-87773-542-5
     LibraryOfCongress: BL1900.LZ6E5 1990b
-    Dewey: 299'.51482-dc20
+    Publisher: Shambhala
+Title: Tao Teh Ching
+TranslationOf: 5d78c3fc-1996-417a-8e37-5c08f7411da2
+Translator: John C. H. Wu
+Wikipedia:
+  Base: Q134425
+  PageID: 8574
+  URL: https://en.wikipedia.org/wiki/Tao_Te_Ching
+  What: literary work
 ---

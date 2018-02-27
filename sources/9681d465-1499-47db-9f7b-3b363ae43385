@@ -1,4 +1,9 @@
 ---
 Title: Wikipedia
 URL: http://www.wikipedia.org
+Wikipedia:
+  Base: Q52
+  PageID: 5043734
+  URL: https://en.wikipedia.org/wiki/Wikipedia
+  What: MediaWiki website
 ---
