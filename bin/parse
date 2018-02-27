@@ -4,20 +4,18 @@ import re
 import textwrap
 
 TEMPLATE="""---
+By: Han Shan
 Source:
-  ID: 414627d3-8c02-41a1-b9bb-22fbce2429b9
-  Translator: D. C. Lau
-  Source:
-    ID: 5d78c3fc-1996-417a-8e37-5c08f7411da2
+  URL: "http://www.eyeofchan.org/special-features/han-shan/\\
+    560-hanshanmaxims.html"
   Locus:
-    Chapter: {0}
-By: Lao Tzu
-Format: verse
+    Date: 19 June 2009
+    Section: {0}
 ---
 {1}
 """
 
-fin = open("input/tao-lau.txt", "r")
+fin = open("tmp/han-shan.txt", "r")
 
 chapter = 0
 body = ""
@@ -32,7 +30,7 @@ def write_body(chapter, body):
 for l in fin.readlines():
     x = l.strip()
 
-    is_chapter = re.match("^(\d+)$", x)
+    is_chapter = re.match("^(\d+)\.$", x)
 
     if is_chapter and body:
         write_body(chapter, body)
@@ -52,6 +50,7 @@ for l in fin.readlines():
             fixed_body = x.strip()
 
         fixed_body = fixed_body.replace(":", "：")
-        body += textwrap.fill(fixed_body, 75, subsequent_indent=' ') + "\n"
+        #body += textwrap.fill(fixed_body, 75, subsequent_indent=' ') + "\n"
+        body += textwrap.fill(fixed_body, 75) + "\n"
 
 write_body(chapter, body)
