@@ -36,7 +36,7 @@ echo " ... author reference count"
   cut -d '!' -f 1 | \
   while read A ; do C=$( grep -l "$A" verses/* | wc -l); \
   printf "$C\t $A\n"; read A; done | \
-  sort -g ) > output/authors.count
+  sort -k1 -g -k2 ) > output/authors.count
 
 echo " ... titles extract"
 bin/rengu search verse '{}' | \
