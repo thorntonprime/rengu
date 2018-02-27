@@ -7,7 +7,7 @@ hafiz() {
 
 rumi() {
   grep -l 0a254615-569b-4fb3-96ef-69bd8a224d0d verses/* |
-    xargs bin/rengu json verse | jq -r .Source.Locus.Daily | sort -k 1M -k 2g | tail -8 | head -1
+    xargs bin/rengu json verse | jq -r '@text "\(.pk)\t \(.Source.Locus.Daily)"' | sort -k 2M -k3g
 }
 
 rilke() {
