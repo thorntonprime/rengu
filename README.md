@@ -18,6 +18,7 @@
 * [Divine Comedy](https://en.wikisource.org/wiki/The_Divine_Comedy)
 * [LDYSinger](http://www.ldysinger.com/@texts/00a_start.htm)
 * [Gnosis Library](http://gnosis.org/search_form.html)
+* [Buddhist Information](http://www.buddhistinformation.com/)
 
 ## Single Author Sources
 * [Aurobindo](https://www.aurobindo.ru/index_e.htm)
