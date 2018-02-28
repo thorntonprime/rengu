@@ -1,0 +1,69 @@
+#!/usr/bin/python3
+
+import sys
+import unicodedata
+import uuid
+import yaml
+
+sys.path.append('')
+
+from rengu.tools import YamlDumper, lookup_wikipedia
+
+
+
+fin = open("tmp/bible.txt", "r")
+
+for book in fin.readlines():
+
+  titles = [ t.strip() for t in book.split("|") ]
+  alt_titles = list(set(titles[:]))
+
+  page = lookup_wikipedia(titles[0])
+  what = page.data.get("what", "NONE")
+
+  label = page.data.get("label")
+  url = page.data.get("url", "")
+  what = page.data.get("what", "NONE")
+
+  wikibase = page.data.get("wikibase")
+  pageid = page.data.get("pageid")
+
+  data = {
+    "Title" : label,
+    "AlternateTitles" : alt_titles,
+    "Wikipedia": {
+          "URL": url,
+          "PageID": pageid,
+          "Base": wikibase,
+          "What": what
+          }
+  }
+
+
+  uid = str(uuid.uuid4())
+
+  f = open('tmp/sources/' + uid, 'w')
+
+  f.write("---\n")
+  f.write(
+      yaml.dump(
+          data,
+          Dumper=YamlDumper,
+          default_flow_style=False, allow_unicode=True,
+          width=70,
+          indent=2).strip())
+  f.write("\n---\n")
+  f.close()
+  f = open('tmp/sources/' + uid, 'w')
+
+  f.write("---\n")
+  f.write(
+      yaml.dump(
+          data,
+          Dumper=YamlDumper,
+          default_flow_style=False, allow_unicode=True,
+          width=70,
+          indent=2).strip())
+  f.write("\n---\n")
+  f.close()
+  
