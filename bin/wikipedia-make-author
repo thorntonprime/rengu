@@ -20,6 +20,7 @@ if __name__ == '__main__':
 
     for name in [x.strip() for x in sys.stdin.readlines()]:
         sys.stdout.write("     %-70s\r" % (name.strip()))
+        #sys.stdout.write("     %s\n" % (name.strip()))
         sys.stdout.flush()
 
         page = lookup_wikipedia(name)
