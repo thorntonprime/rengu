@@ -4,19 +4,21 @@ import re
 import textwrap
 
 TEMPLATE="""---
-By: Lao Tzu
+By: Rumi
 Source:
-  URL: "https://web.archive.org/web/20140511202128/\\
-    http://my.pclink.com:80/~allchin/tao/contents.htm"
+  URL: http://www.khamush.com/divani_shams.htm
   Locus:
-    Date: 20 August 2017
-    Chapter: {0}
-  Copyright: 2002
-  Translator: Douglas Allchin
+    Date: 28 February 2018
+  Source:
+    Translator: R. A. Nicholson
+    Title: Selected Powms from the Divani Shamsi Tabriz
+    Copyright: 1898
+    Source:
+      Title: Divani Shamsi Tabriz
+      Chapter: {0}
 ---
 {1}
 """
-
 
 
 def write_body(chapter, body):
@@ -26,30 +28,24 @@ def write_body(chapter, body):
     fout.close()
 
 
-chapter = 0
+fin = open("tmp/shamsi-tabriz.tzt", "r")
+body = None
+chapter = None
 
-for chapter in range(1, 82):
-  
-  fin = open("tmp/tao-%02g.txt" % (chapter), "r")
-  body = None
-
-  for l in fin.readlines():
+for l in fin.readlines():
       x = str(l).strip()
 
-      start = re.match("__", x) 
-      end = re.match("© Douglas Allchin 2002",x)
+      start = re.match("^[IVXCLM]+$", x) 
 
       if start:
-        print("START")
+        if chapter and body:
+          write_body(chapter, body)
+        chapter = start.group(0)
+        print(chapter)
         body = " "
         continue
 
-      if end:
-        print("END")
-        break
- 
       if body != None:
-          print(x)
           fixed_body = ""
           words = x.split()
           if len(words) > 0 and re.match("^[A-Z][A-Z]+", x):
@@ -61,5 +57,4 @@ for chapter in range(1, 82):
           fixed_body = fixed_body.replace(":", "：")
           body += textwrap.fill(fixed_body, 75, subsequent_indent=' ') + "\n"
   
-  write_body(chapter, body)
-
+write_body(chapter, body)

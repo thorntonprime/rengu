@@ -32,7 +32,7 @@ Abraham Hasdai ! NO MATCH
 Abraham H. Maslow ~ 30c4c539-ef62-41b7-a812-2669f28c304b Abraham Maslow
 Abraham I. Kook ! NO MATCH
 Abraham J. Heschel ~ 443b5ba6-9bd6-4f9d-8cdc-868e1eeb5e6a Abraham Joshua Heschel
-Abraham Joshua Herschel ! NO MATCH
+Abraham Joshua Herschel ~ 443b5ba6-9bd6-4f9d-8cdc-868e1eeb5e6a Abraham Joshua Heschel
 Abraham Lambspring ~ 873591f9-9384-40cc-992b-00c80fa43d2d Abraham Lambspring
 Abraham Lincoln ~ ad39ec5b-d54b-495f-959b-815cb5fd838a Abraham Lincoln
 Abraham Maslow ~ 30c4c539-ef62-41b7-a812-2669f28c304b Abraham Maslow
@@ -274,7 +274,7 @@ Baltasar G. Morales ! NO MATCH
 Baltasar Gracian ~ c00d5d73-668d-4f7c-896e-06fdad515ac4 Baltasar Gracián
 Baltazar Gracian ~ c00d5d73-668d-4f7c-896e-06fdad515ac4 Baltasar Gracián
 Barbara G. Harrison ~ d56ad0e7-2313-4887-958a-2a4b1cb673c1 Barbara Grizzuti Harrison
-Barbara Harris ! NO MATCH
+Barbara Harris ~ 85ba19ec-9da2-47c4-bece-a83610ba416c Barbara Harris
 Baron de Montesquieu ~ 4a8da432-c245-478f-9722-bb49f2790315 Montesquieu
 Baruch Spinoza ~ 133bbc0a-dd8e-4d71-93f6-a5c8df8c5f98 Baruch Spinoza
 Baruch Togarmi ! NO MATCH
@@ -577,7 +577,7 @@ Dorothy Law Nolte ! NO MATCH
 Dorthea Brande ! NO MATCH
 Dorthy Walters ! NO MATCH
 Doug Larson ~ 9c73dd71-2ada-4751-8f4f-ea4e436be4e5 Doug Larson
-Douglas Allchin ! NO MATCH
+Douglas Allchin ~ 3571695b-e6ef-4075-9e5a-6b5b28f0e0da Douglas Allchin
 Douglas Lurton ! NO MATCH
 Douglas MacArthur ~ 65a0d66c-b417-4d83-8ad8-778b78a74a73 Douglas MacArthur
 Douglas V. Steere ~ 5f45a626-cc5d-4ffd-808f-c16e231d0c49 Douglas V. Steere
@@ -697,7 +697,6 @@ Evarts Loomis ~ 502b2b6a-3b5d-41ea-9ad1-171d25480c34 Evarts G. Loomis
 Evelyn Underhill ~ 8a481997-412d-4ba3-9f39-f5918056de0d Evelyn Underhill
 Everett Martin ! NO MATCH
 E. W. Howe ~ 80a90d26-898d-4b24-bcea-9b638c7ca0de E. W. Howe
-Ezra ! NO MATCH
 Ezra ben Solomon ! NO MATCH
 fa85d12a-166e-4cd7-be00-9f03389ca78e = fa85d12a-166e-4cd7-be00-9f03389ca78e
 Fa-chao ! NO MATCH
@@ -965,7 +964,6 @@ Hesychios ~ 93edc5b4-d5b2-4ff4-bc0e-3f1f6faa31d1 Hesychius
 Heywood Brown ! NO MATCH
 H. Frederick Vogt ! NO MATCH
 Hillel ! NO MATCH
-Hitopadesa ! NO MATCH
 H. L. Mencken ~ bf8f50c6-f18d-4ee1-a190-9d74c2679102 H. L. Mencken
 Hodding Carter ~ 93068c0f-7cfb-4b40-a63a-f7b7e24e984a Hodding Carter
 Hogan Bays ! NO MATCH
@@ -1139,14 +1137,14 @@ Jean Cocteau ~ e7798d2b-c5f1-4f19-9047-c83b683c627a Jean Cocteau
 Jean Galbert de Campistron ~ de4e69c9-c876-4698-a3c9-d5697463d424 Jean Galbert de Campistron
 Jean Giraudoux ~ aaa4d827-a22e-4b61-8a4e-990236a2b975 Jean Giraudoux
 Jean Joubert ~ ed14a756-4272-49af-8b39-237d6b1e2bc8 Jean Joubert
-Jean J. Rousseau ! NO MATCH
+Jean J. Rousseau ~ b228ee6e-f7d9-406f-8bf0-2c59ba97c72a Jean-Jacques Rousseau
 Jean La Bruyere ! NO MATCH
 Jean La Fontaine ~ 083c2440-4acb-4dd6-9601-ee68c9f97c93 J. S. La Fontaine
 Jean Mouroux ! NO MATCH
 Jeanne Detourbey ! NO MATCH
 Jean Paul Richter ~ 8bf88225-0263-4060-9a35-2e9d2c2db919 Jean-Paul Richter
 Jean-Paul Sartre ~ 8e3d0f60-7c10-4fb1-8d4a-3e2eb3d26d35 Jean-Paul Sartre
-Jean P. Camus ! NO MATCH
+Jean P. Camus ~ 37fce9a0-0bd0-4129-a2cf-f3626a4fcd52 Jean-Pierre Camus
 Jean Pierre de Caussade ~ c13a00ea-e464-46ab-be9d-e75fbdae595b Jean Pierre de Caussade
 Jean P. Richter ~ 8bf88225-0263-4060-9a35-2e9d2c2db919 Jean-Paul Richter
 Jean P. Sartre ~ 8e3d0f60-7c10-4fb1-8d4a-3e2eb3d26d35 Jean-Paul Sartre
@@ -1851,6 +1849,7 @@ Randall Jarrell ~ 3f69d597-5c1a-4af4-95bc-7f7f99365cab Randall Jarrell
 Randolph S. Bourne ~ 1165259b-6979-4143-8661-95789ffe4397 Randolph Bourne
 Randolph S. Foster ~ 2faba935-2a5f-4fe5-a48d-f46fd2e17b3d Randolph Sinks Foster
 Randy Hoyt ! NO MATCH
+R. A. Nicholson ~ 75e2d2e4-6793-42d4-8ff6-28f71ed8b281 Reynold A. Nicholson
 Ranier Maria Rilke ~ 4de44b73-d163-416c-9eed-b85ef8d42c70 Rainer Maria Rilke
 Ranjit Hoskote ~ aba4b14b-fc0b-46d7-9b91-5caf0f0b8804 Ranjit Hoskote
 Raphael Elijah ! NO MATCH
@@ -2263,7 +2262,7 @@ Thomas A. Edison ~ e4a7ef62-108e-4a45-a7f2-233a2f6b6acf Thomas Alva Edison
 Thomas a Kempis ~ 58618d80-c1f3-4f84-ba40-2436003f7799 Thomas à Kempis
 Thomas A'Kempis ~ 58618d80-c1f3-4f84-ba40-2436003f7799 Thomas à Kempis
 Thomas Aquinas ~ bfdfe789-a2a3-48a9-86ed-eaca4d318ec0 Thomas Aquinas
-Thomas Bacon ! NO MATCH
+Thomas Bacon ~ 5178f9d1-78db-4188-ada8-34b4bb2c93be Thomas Bacon
 Thomas B. Aldrich ~ 2d930804-0f8b-41ba-a357-eb7f41f94800 Thomas Bailey Aldrich
 Thomas B. Macaulay ~ bc2c8034-bd30-4bf1-9e54-1bd4b39d085c Thomas Babington Macaulay, 1st Baron Macaulay
 Thomas Brown ~ dd05d684-d487-4c58-b016-8deb83ce2bf9 Thomas Brown
@@ -2313,7 +2312,7 @@ T. H. White ~ afe889b5-1d24-4e73-a15a-97500d4a05f7 T. H. White
 Tierno Bokar ~ 64a63a5b-3b2a-44db-b2fc-625c599d07b4 Tierno Bokar
 Tilopa ~ d7a5cbac-7df7-4ef9-af44-484ff053e0e0 Tilopa
 Tirumûlar ~ dfe7d082-7a10-4d88-941b-677d7f2bbc04 Tirumular
-T.M. Robinson ! NO MATCH
+T.M. Robinson ~ c480e6c4-2279-4041-bb14-36166ca8b669 Thomas Robinson
 Tony Banks ! NO MATCH
 Tony Richardson ~ 87495aba-ef48-41ea-bcfe-24e6078a5112 Tony Richardson
 Tôyo Tenshitsu ! NO MATCH
