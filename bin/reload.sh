@@ -53,6 +53,13 @@ echo " ... exists titles"
 cat output/titles.list | cut -c9- | \
   bin/rengu-exists-source  > output/titles.exists
 
+echo " ... title reference count"
+( grep 'NO MATCH' output/titles.exists | \
+  cut -d '!' -f 1 | \
+  while read A ; do C=$( grep -l "$A" verses/* | wc -l); \
+  printf "$C\t $A\n"; read A; done | \
+  sort -k1 -g -k2 ) > output/titles.count
+
 echo " ... fuzz titles"
 cat output/titles.exists | grep 'NO MATCH' | \
   cut -d'!' -f 1 | \
