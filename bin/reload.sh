@@ -56,7 +56,7 @@ cat output/titles.list | cut -c9- | \
 echo " ... title reference count"
 ( grep 'NO MATCH' output/titles.exists | \
   cut -d '!' -f 1 | \
-  while read A ; do C=$( grep -l "$A" verses/* | wc -l); \
+  while read A ; do C=$( grep -l "Title: ${A}$" verses/* | wc -l); \
   printf "$C\t $A\n"; read A; done | \
   sort -k1 -g -k2 ) > output/titles.count
 
