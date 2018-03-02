@@ -2,6 +2,7 @@
 
 cat | \
   sed -e 's/[——-]$/_/g' | \
+  sed -e '1h;2,$H;$!d;g' -e 's/\n\n/\n¶\n/g' | \
   tr '\n' ' ' | \
   sed -e 's/  */ /g' | \
   sed -e 's/  *\. *\. *\. */ ... /g' | \
@@ -13,7 +14,9 @@ cat | \
   sed -e 's/  *o  *f  */ of /g' | \
   sed -e 's/:/：/g' | \
   sed -e 's/[——-]/-/g' | \
-  sed -s 's@\_ *@@' | \
+  sed -s 's@\_ *@@g' | \
   sed -e 's/ *$//g' | \
   sed -e 's/  */ /g' | \
-  fmt -w 78
+  sed -e 's/¶/\n\n/g' | \
+  fmt -w 78 | \
+  sed -e 's/^ //g'
