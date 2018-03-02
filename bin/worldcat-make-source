@@ -6,15 +6,29 @@ sys.path.append('')
 import rengu.worldcat
 
 import yaml
-from rengu.tools import YamlDumper
+from rengu.tools import YamlDumper,is_isbn
 
 
-for isbn in sys.stdin.readlines():
+for arg in sys.stdin.readlines():
 
-    source = rengu.worldcat.search_isbn(isbn)
+    source = None
+
+    if is_isbn(arg):
+      source = rengu.worldcat.search_isbn(isbn)
+
+    else:
+
+      if "/" in arg:
+        title, author = [ x.strip() for x in arg.split("/", 2) ]
+        source = rengu.worldcat.search_title_author(title, author)
+
+    if not source:
+        source = rengu.worldcat.search_title(arg.strip())
 
     if source:
+
         title = source["Title"].strip().lower().replace("'","").replace(",","").replace(" ", "-")
+        print("FOUND\t", arg.strip(), "=", title )
 
         fout = open("tmp/sources/" + title, "w")
 
@@ -23,4 +37,7 @@ for isbn in sys.stdin.readlines():
                              width=70, indent=2,
                              explicit_start=True, explicit_end=True, allow_unicode=True, ))
         fout.close()
+
+    else:
+        print("NOT FOUND\t", arg.strip())
 
