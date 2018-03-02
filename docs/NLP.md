@@ -18,4 +18,8 @@
 
 ## Classifiers and Modelers
 * [gensim](https://radimrehurek.com/gensim/index.html)
+* [empath](https://github.com/Ejhfast/empath-client)
+
+## FOrmat-Specific Parsers
+* [dateutil](https://dateutil.readthedocs.io/en/stable/index.html#)
 
