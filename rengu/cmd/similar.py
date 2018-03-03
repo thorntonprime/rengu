@@ -60,6 +60,7 @@ class RenguSimilarCmd(cmd.Cmd):
         b = Verse.fetch(pkb)
 
         for sim, linea, lineb in a.similar_lines(b):
-            print("{0:.8f} {1:.8} {2: 3g} {3: 3g} {4:.70}".format(sim, pka, linea[0]+1, linea[1]+1, linea[2]))
-            print("{0:.8f} {1:.8} {2: 3g} {3: 3g} {4:.70}".format(sim, pkb, lineb[0]+1, lineb[1]+1, lineb[2]))
-
+            print("{0:.8f} {1:.8} {2: 3g} {3: 3g} {4:.70}".format(
+                sim, pka, linea[0] + 1, linea[1] + 1, linea[2]))
+            print("{0:.8f} {1:.8} {2: 3g} {3: 3g} {4:.70}".format(
+                sim, pkb, lineb[0] + 1, lineb[1] + 1, lineb[2]))

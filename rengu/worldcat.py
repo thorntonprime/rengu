@@ -22,8 +22,9 @@ def search_oclc(oclc):
 
 
 def search_title_author(title, author):
-    return search_book(urllib.parse.quote("ti:" + title) + \
-           "+" + urllib.parse.quote("au:" + author))
+    return search_book(urllib.parse.quote("ti:" + title) +
+                       "+" + urllib.parse.quote("au:" + author))
+
 
 def search_title(title):
     return search_book(urllib.parse.quote("ti:" + title))

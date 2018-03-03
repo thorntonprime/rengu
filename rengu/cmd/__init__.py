@@ -116,3 +116,15 @@ class RenguCmd(cmd.Cmd, object):
             return yaml_cmd.onecmd(args)
         else:
             return yaml_cmd.cmdloop()
+
+    @auto_help
+    def do_classify(self, args):
+        '''classify
+        Subcommands to classify data
+        '''
+        from rengu.cmd.classify import RenguClassifyCmd
+        classify_cmd = RenguClassifyCmd()
+        if len(args) > 1:
+            return classify_cmd.onecmd(args)
+        else:
+            return classify_cmd.cmdloop()

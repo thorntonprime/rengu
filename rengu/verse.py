@@ -36,7 +36,6 @@ class Verse(Document):
                         similar = self_line_doc.similarity(other_line_doc)
                         yield similar, (self_blockno, self_lineno, self_line), (other_blockno, other_lineno, other_line)
 
-
     def similar(self, other_pk, nlp=None):
         import spacy
         import itertools
