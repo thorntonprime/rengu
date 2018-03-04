@@ -17,7 +17,7 @@ class Verse(Document):
         from statistics import mean, median, stdev
 
         if nlp == None:
-            nlp = spacy.load('en')
+            nlp = spacy.load('en_core_web_md')
 
         for self_blockno, self_block in enumerate(self.get("Lines", [])):
             for self_lineno, self_line in enumerate(self_block):
@@ -42,7 +42,7 @@ class Verse(Document):
         from statistics import mean, median, stdev
 
         if nlp == None:
-            nlp = spacy.load('en')
+            nlp = spacy.load('en_core_web_md')
 
         other = Verse.fetch(other_pk)
 
