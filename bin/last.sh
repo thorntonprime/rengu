@@ -10,6 +10,11 @@ rumi() {
     xargs bin/rengu json verse | jq -r '@text "\(.pk)\t \(.Source.Locus.Daily)"' | sort -k 2M -k3g
 }
 
+gandhi() {
+  grep -l fecb2e42-2ce9-437f-ba19-23e49fc5e90c verses/* |
+    xargs bin/rengu json verse | jq -r '@text "\(.pk)\t \(.Source.Locus.Daily)"' | sort -k 2M -k3g
+}
+
 rilke() {
   grep -l 631057a1-0221-4885-ba61-78b661b62b70 verses/* |
     xargs bin/rengu json verse | jq -r .Source.Locus.Daily | sort -k 1M -k 2g | tail -4 | head -1
