@@ -27,7 +27,7 @@ class RenguSimilarCmd(cmd.Cmd):
         '''
         from rengu.verse import Verse
 
-        nlp = spacy.load('en')
+        nlp = spacy.load('en_core_web_md')
 
         verses = args.split()
         pka = verses[0]
