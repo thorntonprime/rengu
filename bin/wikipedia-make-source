@@ -25,6 +25,11 @@ if __name__ == '__main__':
         page = lookup_wikipedia(title)
 
         label = page.data.get("label")
+
+        if not label:
+            print("\n%s not found" % (title))
+            continue
+
         url = page.data.get("url", "")
         what = page.data.get("what", "NONE")
 
