@@ -69,6 +69,21 @@ echo " ... fix verses"
 bin/rengu search verse '{}' | jq -r .pk | \
   xargs bin/rengu-fix-verse > output/verses.fix
 
+echo " ... tag check authors"
+cat authors/* | \
+  grep '^ *[[:alnum:]]*:' | cut -d: -f1 | awk '{ print $1 }' | sort | uniq | \
+  > output/authors.tags
+
+echo " ... tag check sources"
+cat sources/* | \
+  grep '^ *[[:alnum:]]*:' | cut -d: -f1 | awk '{ print $1 }' | sort | uniq | \
+  > output/sources.tags
+
+echo " ... tag check verses"
+cat verses/* | \
+  grep '^ *[[:alnum:]]*:' | cut -d: -f1 | awk '{ print $1 }' | sort | uniq | \
+  > output/verses.tags
+
 exit
 ############################ END
 
