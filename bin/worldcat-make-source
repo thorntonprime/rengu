@@ -14,7 +14,7 @@ for arg in sys.stdin.readlines():
     source = None
 
     if is_isbn(arg):
-      source = rengu.worldcat.search_isbn(isbn)
+      source = rengu.worldcat.search_isbn(arg)
 
     else:
 
