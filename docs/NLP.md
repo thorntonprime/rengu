@@ -20,6 +20,15 @@
 * [gensim](https://radimrehurek.com/gensim/index.html)
 * [empath](https://github.com/Ejhfast/empath-client)
 
-## FOrmat-Specific Parsers
+## Format-Specific Parsers
 * [dateutil](https://dateutil.readthedocs.io/en/stable/index.html#)
 
+## Other Stuff
+* [markovify](https://github.com/jsvine/markovify)
+* [sentance gradients](https://www.robinsloan.com/voyages-in-sentence-space/)
+
+## Custom Content Retrieval and Parsing
+* [twitter_scraper](https://github.com/kennethreitz/twitter-scraper)
+
+## Process Scheduling and Queues
+* [ray](http://ray.readthedocs.io/en/latest/index.html)

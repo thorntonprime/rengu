@@ -70,16 +70,17 @@ class RenguCmd(cmd.Cmd, object):
             return find_cmd.cmdloop()
 
     @auto_help
-    def do_similar(self, args):
-        '''similar
-        Subcommands to similar data from external sources
+    def do_corpus(self, args):
+        '''corpus
+        Subcommands to manage corpus from Rengu verse data
         '''
-        from rengu.cmd.similar import RenguSimilarCmd
-        similar_cmd = RenguSimilarCmd()
+        from rengu.cmd.corpus import RenguCorpusCmd
+        corpus_cmd = RenguCorpusCmd()
         if len(args) > 1:
-            return similar_cmd.onecmd(args)
+            return corpus_cmd.onecmd(args)
         else:
-            return similar_cmd.cmdloop()
+            return corpus_cmd.cmdloop()
+
 
     @auto_help
     def do_refresh(self, args):
@@ -92,6 +93,18 @@ class RenguCmd(cmd.Cmd, object):
             return refresh_cmd.onecmd(args)
         else:
             return refresh_cmd.cmdloop()
+
+    @auto_help
+    def do_similar(self, args):
+        '''similar
+        Subcommands to similar data from external sources
+        '''
+        from rengu.cmd.similar import RenguSimilarCmd
+        similar_cmd = RenguSimilarCmd()
+        if len(args) > 1:
+            return similar_cmd.onecmd(args)
+        else:
+            return similar_cmd.cmdloop()
 
     @auto_help
     def do_json(self, args):
