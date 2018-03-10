@@ -4,10 +4,11 @@ Source:
   Locus:
     Page: 629-630
   Source:
-    - Title: Chândogya Upanishad
-      Locus: V viii 1,2
-    - Title: Brihad Âranyaka Upanishad
-      Locus: VI ii 13
+    Title: Chândogya Upanishad
+    Locus: V viii 1,2
+SeeAlso:
+  - Title: Brihad Âranyaka Upanishad
+    Locus: VI ii 13
 Tags:
   - Life-Love=Love=Via Amoris
   - Creation=Spiritual Paternity

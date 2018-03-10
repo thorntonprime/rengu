@@ -4,12 +4,13 @@ Source:
   Locus:
     Page: 833
   Source:
-    - Title: Katha Upanishad
-      Locus: v 15
-    - Title: Mundaka Upanishad
-      Locus: II ii 10
-    - Title: Svetâsvatara Upanishad
-      Locus: VI 14
+    Title: Katha Upanishad
+    Locus: v 15
+SeeAlso:
+  - Title: Mundaka Upanishad
+    Locus: II ii 10
+  - Title: Svetâsvatara Upanishad
+    Locus: VI 14
 Tags:
   - Discernment-Truth=The Eye Of Eternity-Supreme Center=The Celestial City
 Format: verse

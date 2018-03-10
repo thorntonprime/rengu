@@ -4,10 +4,11 @@ Source:
   Locus:
     Page: 845
   Source:
-    - Title: Oxyrhynchus Papyri
-    - Locus:
-        Logion: 77
-      Title: The Gospel according to Thomas
+    Locus:
+      Logion: 77
+    Title: The Gospel according to Thomas
+References:
+  - Title: Oxyrhynchus Papyri
 Tags:
   - Discernment-Truth=The Eye Of Eternity-Supreme Center=Omniscience
     and Omnipresence

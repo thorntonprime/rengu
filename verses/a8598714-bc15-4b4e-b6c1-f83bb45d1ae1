@@ -4,10 +4,11 @@ Source:
   Locus:
     Page: 670
   Source:
-    - Title: Exodus
-      Locus: XXV 40
-    - Title: Hebrews
-      Locus: VIII 5
+    Title: Hebrews
+    Locus: VIII 5
+References:
+  - Title: Exodus
+    Locus: XXV 40
 Tags:
   - Beauty-Peace=Beauty=The Doctrine of the Archetypes
   - Beauty-Peace=Beauty=The Uncreate Source of Beauty

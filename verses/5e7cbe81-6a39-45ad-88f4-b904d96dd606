@@ -4,10 +4,11 @@ Source:
   Locus:
     Page: 244
   Source:
-    - Title: Romans
-      Locus: XII 20
-    - Title: Proverbs
-      Locus: XXV 21-22
+    Title: Romans
+    Locus: XII 20
+References:
+  - Title: Proverbs
+    Locus: XXV 21-22
 Tags:
   - Combat-Action=Judgement=On Judging Others
 ---

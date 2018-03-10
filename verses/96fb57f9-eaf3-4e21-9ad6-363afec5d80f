@@ -6,9 +6,10 @@ Source:
   Source:
     - Title: Sangitâ Makarandâ
       Locus: I 4-6
-    - Title: Nârandâ Purânâ
-    - Title: Shivâ tattvâ Ratnâkarà
-      Locus: 6, 7, 12
+References:
+  - Title: Nârandâ Purânâ
+  - Title: Shivâ tattvâ Ratnâkarà
+    Locus: 6, 7, 12
 Tags:
   - Beauty-Peace=Beauty=Music
   - Invocation=The Word that God Utters
