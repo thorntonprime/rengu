@@ -4,11 +4,11 @@ import sys
 
 sys.path.append('')
 
-from rengu.tools import walk_search
+from rengu.tools import walk
 
 
 def get_title(data):
-    for title in walk_search("Title", data):
+    for title in walk("Title", data):
 
         if isinstance(title, str):
             print(title)

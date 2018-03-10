@@ -4,7 +4,7 @@ import sys
 
 sys.path.append('')
 
-from rengu.tools import walk_search, YamlDumper
+from rengu.tools import walk, YamlDumper
 
 import uuid
 import yaml
@@ -15,7 +15,7 @@ def verse_extract_source(vpk):
 
     v = Verse.fetch(vpk)
 
-    for s in walk_search("Source", dict(v)):
+    for s in walk("Source", dict(v)):
 
         pk = str(uuid.uuid4())
 

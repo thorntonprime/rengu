@@ -86,13 +86,13 @@ class Source(Document):
         return True
 
     def refresh_worldcat(self):
-        from rengu.tools import walk_search
+        from rengu.tools import walk
         from rengu.worldcat import search_isbn, search_title_author
 
         if self.get("Media", "").lower() in ["prime", "collection"]:
             raise Exception("incompatible media type")
 
-        isbn = walk_search("ISBN", dict(self))
+        isbn = walk("ISBN", dict(self))
         if isbn:
             for i in isbn:
                 data = search_isbn(i)
@@ -134,19 +134,37 @@ class Source(Document):
 
     @staticmethod
     def find(query, field="Title"):
+        from rengu.tools import is_uuid
 
         found = set()
 
-        for a in DB.filter(Source, {field: query}):
-            if a.pk not in found:
-                found.add(a.pk)
-                yield a
+        if is_uuid(query):
+            s = Source.fetch(query)
+            yield s
+            return
+
+        if '/' in str(query):
+            title, author = [ x.strip() for x in query.split('/', 2) ]
+            for s in DB.filter(Source, {"Title" : title, "By" : author}):
+                if s.pk not in found:
+                    found.add(s.pk)
+                    yield s
+
+            for s in DB.filter(Source, {"AlternateTitles" : title, "By" : author}):
+                if s.pk not in found:
+                    found.add(s.pk)
+                    yield s
+
+        for s in DB.filter(Source, {field: query}):
+            if s.pk not in found:
+                found.add(s.pk)
+                yield s
 
         if field == "Title":
-            for a in DB.filter(Source, {"AlternateTitles": query}):
-                if a.pk not in found:
-                    found.add(a.pk)
-                    yield a
+            for s in DB.filter(Source, {"AlternateTitles": query}):
+                if s.pk not in found:
+                    found.add(s.pk)
+                    yield s
 
     @staticmethod
     def read_yaml_file(fn):

@@ -34,6 +34,20 @@ class RenguCmd(cmd.Cmd, object):
             return load_cmd.cmdloop()
 
     @auto_help
+    def do_extract(self, args):
+        '''extract
+        Subcommands to extract associated info.
+        It recursively will extract information on authors or sources from
+        verses.
+        '''
+        from rengu.cmd.extract import RenguExtractCmd
+        extract_cmd = RenguExtractCmd()
+        if len(args) > 1:
+            return extract_cmd.onecmd(args)
+        else:
+            return extract_cmd.cmdloop()
+
+    @auto_help
     def do_dump(self, args):
         '''dump
         Subcommands to import data from yaml files

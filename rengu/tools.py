@@ -20,8 +20,8 @@ class YamlDumper(yaml.Dumper):
         return super(YamlDumper, self).increase_indent(flow, False)
 
 
-def walk_search(match, d):
-    '''walk_search( key to find, dictonary)
+def x_walk(match, d):
+    '''walk( key to find, dictonary)
     recursively walk a dictonary to find a key
     and yield results
     '''
@@ -43,13 +43,32 @@ def walk_search(match, d):
                     yield x
 
         elif isinstance(d[k], dict):
-            for x in walk_search(match, d[k]):
+            for x in walk(match, d[k]):
                 yield x
 
         elif isinstance(d[k], list):
             for x in (x for x in d[k] if isinstance(x, dict)):
-                for y in walk_search(match, x):
+                for y in walk(match, x):
                     yield y
+
+def walk(key, d):
+    '''walk( key to find, dictonary)
+    recursively walk a dictonary to find a key
+    and yield results
+    '''
+
+    if isinstance(d, dict):
+        if key in d:
+            yield d[key]
+
+        for k in d:
+            for i in  walk(key, d[k]):
+                yield i
+
+    if isinstance(d, list):
+        for i in d:
+            for j in walk(key, i):
+                yield j
 
 
 def strip_accents(s):
@@ -110,6 +129,9 @@ def flatten(items):
 
 
 def is_uuid(test):
+    if not isinstance(test, str):
+        return False
+
     if re.match("[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}",
                 test):
         return True

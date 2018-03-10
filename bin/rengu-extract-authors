@@ -4,7 +4,7 @@ import sys
 
 sys.path.append('')
 
-from rengu.tools import walk_search
+from rengu.tools import walk
 
 
 def verse_extract_authors(vpk):
@@ -13,7 +13,7 @@ def verse_extract_authors(vpk):
     v = Verse.fetch(vpk)
 
     for role in ["By", "Author", "Translator", "Editor", "Illustrator", "Contributor"]:
-        for a in walk_search(role, dict(v)):
+        for a in walk(role, dict(v)):
             print(a)
             sys.stdout.flush()
 
@@ -24,7 +24,7 @@ def source_extract_authors(vpk):
     s = Source.fetch(vpk)
 
     for role in ["By", "Author", "Translator", "Editor", "Illustrator", "Contributor"]:
-        for a in walk_search(role, dict(s)):
+        for a in walk(role, dict(s)):
             print(a)
             sys.stdout.flush()
 

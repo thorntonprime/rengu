@@ -5,7 +5,7 @@ import sys
 sys.path.append('')
 
 from rengu.verse import Verse
-from rengu.tools import walk_search, YamlDumper, is_uuid
+from rengu.tools import walk, YamlDumper, is_uuid
 
 import yaml
 

@@ -31,12 +31,19 @@ echo " ... authors extract"
   bin/rengu-exists-author > output/authors.exists
 
 
-echo " ... author reference count"
-( grep 'NO MATCH' output/authors.exists | \
-  cut -d '!' -f 1 | \
-  while read A ; do C=$( grep -l "$A" verses/* | wc -l); \
-  printf "$C\t $A\n"; read A; done | \
-  sort -k1 -g -k2 ) > output/authors.count
+echo " ... verse author extract"
+bin/rengu search verse '{}' | \
+  jq -r .pk | \
+  xargs bin/rengu extract author > output/verse-author.extract
+
+echo " ... missing authors counts"
+grep "NOT_FOUND" output/verse-author.extract | \
+  cut -c88- | sort | uniq -c | sort -g > output/missing-authors.count
+
+echo " ... verse source extract"
+bin/rengu search verse '{}' |  \
+  jq -r .pk | \
+  xargs bin/rengu extract source > output/verse-sources.extract
 
 echo " ... titles extract"
 bin/rengu search verse '{}' | \

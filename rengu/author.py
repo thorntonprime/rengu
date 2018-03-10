@@ -93,8 +93,15 @@ class Author(Document):
 
     @staticmethod
     def find(query, field="Name"):
+        from rengu.tools import is_uuid
 
         found = set()
+
+        if is_uuid(query):
+            a = Author.fetch(query)
+            if a and a.pk not in found:
+                found.add(a.pk)
+                yield a
 
         for a in DB.filter(Author, {field: query}):
             if a.pk not in found:

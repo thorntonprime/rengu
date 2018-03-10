@@ -31,7 +31,7 @@ for n in sys.stdin.readlines():
                 sys.stdout.flush()
                 count += 1
 
-        except:
+        except Exception as e:
             print(n, "! ERROR", e)
             sys.exit()
 

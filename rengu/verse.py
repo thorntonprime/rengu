@@ -73,6 +73,108 @@ class Verse(Document):
 
         return similar, line_len, line_max, line_min, line_mean, line_median, line_stdev
 
+    def extract_authors(self):
+        from rengu.tools import is_uuid, walk
+        from rengu.author import Author
+
+        found = set()
+
+        for role in ["By", "Translator", "Editor", "Illustrator", "Contributor"]:
+            for a in walk(role, dict(self)):
+
+                not_in_db = True
+
+                if isinstance(a, list):
+                    for i in a:
+                        for auth in Author.find(i):
+                            not_in_db = False
+                            if auth.pk not in found:
+                                found.add(auth.pk)
+                                yield role, auth
+
+                else:
+                   for auth in Author.find(a):
+                       not_in_db = False
+                       if auth.pk not in found:
+                           found.add(auth.pk)
+                           yield role, auth
+
+                if not_in_db:
+                    yield role, dict({ 'Name': a, 'pk' : 'NOT_FOUND' })
+
+    def extract_sources(self):
+        from blitzdb.document import DoesNotExist
+        from rengu.tools import is_uuid, walk
+        from rengu.source import Source
+
+        verse_author = self.get("By")
+        found = set()
+
+        for s in walk("Source", dict(self)):
+
+            not_in_db = True
+
+            if isinstance(s, str):
+                for s1 in Source.find(s):  
+                    if s1.pk not in found:
+                        not_in_db = False
+                        found.add(s1.pk)
+                        yield s1
+
+                if not_in_db:    
+                    yield dict({ 'pk': 'NOT_FOUND', 'Title': s, 'By': "NONE" })
+
+            elif isinstance(s, list):
+                    yield dict({ 'pk': 'NOT_FOUND', 'Title': "SOURCE IS A LIST", 'By': 'ERROR' })
+
+            elif isinstance(s, dict):
+
+                source_pk = s.get("ID")
+                if is_uuid(source_pk):
+                    try:
+                        s1 = Source.fetch(source_pk)
+                    except DoesNotExist:
+                        yield dict({ 'pk': 'NOT_FOUND', 'Title': "ERROR NOT FOUND IN DB", 'By': source_pk })
+                        return
+                    if s1.pk not in found:
+                        not_in_db = False
+                        found.add(s1.pk)
+                        yield s1
+
+                title = s.get("Title")
+                by = s.get("By")
+                if isinstance(by, list):
+                    by = by[0]
+
+                if title and by:
+                    for s1 in Source.find("{}/{}".format(s.get("Title", None), s.get("By", None))):  
+                        if s1.pk not in found:
+                            not_in_db = False
+                            found.add(s1.pk)
+                            yield s1
+
+                if title and verse_author:
+                    for s1 in Source.find("{}/{}".format(s.get("Title", None), verse_author)):  
+                        if s1.pk not in found:
+                            not_in_db = False
+                            found.add(s1.pk)
+                            yield s1
+
+                if title:
+                    for s1 in Source.find(s.get("Title", None)):  
+                        if s1.pk not in found:
+                            not_in_db = False
+                            found.add(s1.pk)
+                            yield s1
+
+                if not_in_db:    
+                    title = title or None
+                    by = by or verse_author or None
+                    yield dict({ 'pk': 'NOT_FOUND', 'Title': title, 'By': by })
+
+            else:
+                    yield dict({ 'pk': 'NOT_FOUND', 'Title': "TYPE ERROR", "By" : str(type(s)) })
+
     def to_yaml(self):
         import yaml
         from rengu.tools import YamlDumper
