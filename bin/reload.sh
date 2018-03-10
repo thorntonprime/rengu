@@ -52,8 +52,8 @@ bin/rengu search verse '{}' | \
   sort | uniq -c | sort -g > output/titles.list
 
 echo " ... fuzz authors"
-cat output/authors.exists | grep 'NO MATCH' | \
-  cut -d'!' -f 1 | \
+cat output/missing-authors.count | \
+  cut -c9- | \
   bin/rengu-fuzz-author > output/authors.fuzz
 
 echo " ... exists titles"
