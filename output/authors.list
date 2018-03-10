@@ -171,7 +171,7 @@
       1 Amora Levi
       1 Amos B. Alcott
       1 Amos J. Traver
-      1 Amy Loomis
+      1 ['Amy Loomis', 'Evarts Loomis']
       1 Anais Nin
       1 Anana
       1 Anandamayi Ma
@@ -187,7 +187,8 @@
       2 Andre Maurois
       2 Andrew Carnegie
       1 Andrew Colliver
-      3 Andrew Harvey
+      1 Andrew Harvey
+      2 ['Andrew Harvey', 'Eryk Hanut']
       2 Andrew Jackson
       4 Andrew Matthews
       1 Andrew Mercer
@@ -195,7 +196,8 @@
       1 Andy Zubko
      76 Angelus Silesius
       1 A. Nicolas
-     19 Anita Barrows
+      1 Anita Barrows
+     18 ['Anita Barrows', 'Joanna Macy']
       2 Anna Brown Lindsay
       3 Anna Emilia Laitinen
      10 Annamalai Swami
@@ -227,7 +229,6 @@
       1 Antonio Carlos Jobim
       3 Antonio Machado
       1 Antonio Porchia
-      1 Anzan Hoshin
       1 Aphra Behir
       8 Apollonius of Tyana
       6 Apuleius
@@ -278,7 +279,7 @@
       1 Augustin Chaboseau
      17 Augustine
       1 Augusto Roa Bastas
-      2 Augustus Hare
+      1 ['Augustus Hare', 'Julius Hare']
       1 August von Schlegel
       1 Aurobindo Ghose
       1 Ausonius
@@ -335,6 +336,7 @@
      11 Benjamin Whichcote
       1 Ben Johnson
       2 Ben Zoma
+      1 Beop Song
       7 Bernadette Roberts
       1 Bernard Baruch
       1 Bernard de Chartres
@@ -374,8 +376,6 @@
       1 Brahmananda
       1 Brian Addiss
       1 Brian Aubert
-      1 Brian Eno
-      1 Brian Swann
       1 Brilliana Harley
       1 Brooke Knapp
       6 Brother Lawrence
@@ -392,14 +392,13 @@
       1 Burt Struthers
       1 Bussy-Rabutin
       1 by David G. Lanoue
-      1 c454ba57-29d5-4339-999b-7e0c327c88b6
+      1 ['c454ba57-29d5-4339-999b-7e0c327c88b6', 'Daniel R. Messe', 'Gary L. Maurer']
       1 c65141df-7e43-427d-8e22-fc59589837c6
       1 C. A. Hall
       2 C. Alan Anderson
       3 Calderón
-      1 Callistus
+      1 ['Callistus', 'Ignatius Xanthopoulos']
       1 Calvin Coolidge
-      1 Camille Helminski
       1 Cardinal Tisserant
      13 Carl Jung
       1 Carl Micholson
@@ -437,7 +436,6 @@
       1 Chang Ch'ao
       1 Chang Heng
      23 Chang Po-tuan
-      2 Chang Wai Ming
       3 Chang Yen-yuan
       1 Chang Yen-yüan
       1 Channing Pollak
@@ -488,7 +486,7 @@
       1 Charlotte P. Gilman
       1 Chauncey M. Depew
       1 Ch'en Chiju
-      1 Cheng-chueh
+      1 ['Cheng-chueh', 'Hung-chih']
       1 Ch'ên Tzû-ang
       5 Cheryl Canfield
       1 Chester A. Pennington
@@ -504,7 +502,7 @@
       3 Chi K'ang
       3 Ching Hao
       1 Ch'ing-yüan
-      1 Chin Lee
+      1 ['Chin Lee', 'Kay Wong']
       3 Chin Shengt'an
       1 Chogyam Trungpa
       1 Chögyam Trungpa
@@ -515,7 +513,6 @@
       1 Chris Squire
       1 Chris Stewart
       7 Christian Bovee
-      4 Christina Grof
       1 Christopher Columbus
       1 Christopher Crunch
       1 Christopher Guanlao
@@ -525,7 +522,7 @@
       1 C. H. Teear
       1 Chuang-tse
      10 Chuang Tse
-      3 Chuang Tzu
+      4 Chuang Tzu
       1 Chuang-Tzu
       1 Chu Hui Weng
       1 Chungliang Al Huang
@@ -546,7 +543,7 @@
       1 Cleveland Amory
       1 Clyde M. Narrimore
       1 C. Northcote Parkinson
-     90 Coleman Barks
+     89 Coleman Barks
       1 Colin Oliver
       2 Colin Wilson
       1 Comenius
@@ -573,7 +570,8 @@
       1 Cyril Connolly
       1 Cyrus A. Bartol
       2 Cyrus the Great
-      4 d28ea2ec-b179-4f6a-923a-bc7e46c7bb2c
+      3 d28ea2ec-b179-4f6a-923a-bc7e46c7bb2c
+      1 ['d28ea2ec-b179-4f6a-923a-bc7e46c7bb2c', 'Pascal Fauliot', 'Takuan Soho']
      96 da184f92-f119-42ee-8e45-06ab31cd9624
       1 Dadu Dayal
       1 Dafydd ap Gwilym
@@ -587,9 +585,8 @@
       1 Dame Catherine Gascoigne
       1 Dame Gertrude More
       1 Daniel Brinkley
-      1 Daniel James Ladinsky
-     13 Daniel Ladinsky
-      1 Daniel R. Messe
+     12 Daniel Ladinsky
+      1 ['Daniel Ladinsky', 'Nancy Owen Barton']
       1 Daniel von Czepko
       2 Daniel Webster
       1 Daniel Wilson
@@ -603,8 +600,9 @@
       1 David Abrahamsen
       1 David Alroy
       1 David Augsberger
-      2 David Bohm
-      1 David Bowie
+      1 David Bohm
+      1 ['David Bohm', 'Mark Edwards']
+      1 ['David Bowie', 'Brian Eno']
       1 David D. Bums
       2 David Grayson
       1 David Hawkins
@@ -619,11 +617,12 @@
       1 David Meltzer
       7 David Seabury
       1 David S. Jordan
-      6 David Steindl-Rast
+      3 David Steindl-Rast
       1 David Storey
       1 David Thomas
       1 David Viscott
-     82 D. C. Lau
+      1 ['D. C. Lau']
+     81 D. C. Lau
       1 D. C. Peattie
       1 Dean Acheson
       1 Dean H. Hancock
@@ -676,7 +675,7 @@
       1 Dr. Trumbull
       1 D. T. Suzuki
       1 Duane Elgin
-      1 Duncan Jones
+      1 ['Duncan Jones', 'Stuart Fenegan', 'Michael Robert Johnson']
       3 Dwight L. Moody
       2 e8d8b048-5aec-4b2d-b229-62ee5114a33f
       2 e92fad99-6914-41c2-a93c-e82b28742356
@@ -701,6 +700,7 @@
       1 Edmund A. Brasset
       9 Edmund Burke
       1 Edmund Spencer
+      1 Edward A. Burger
       1 Edward A Snow
      13 Edward Bulwer-Lytton
       1 Edward Clarendon
@@ -719,7 +719,7 @@
       1 Edwin Bulwer-Lytton
       1 Edwin C. Bliss
       6 Edwin H. Chapin
-      1 Edwin Kiester
+      1 ['Edwin Kiester', 'Sally Kiester']
       2 Edwin Markham
       1 Edwin P. Whipple
       1 Edwin W. Teale
@@ -740,7 +740,6 @@
       5 Elisabeth Kubler-Ross
       2 Elizabeth B. Browning
       1 Elizabeth Bisland
-      2 Elizabeth Breuilly
       1 Elizabeth C. Dunn
       1 Elizabeth Gawain
       1 Elizabeth Gray Vining
@@ -754,7 +753,7 @@
       2 E. M. Forster
       1 Emil Brunner
       1 Emil Ebers
-      8 Emily Dickinson
+      9 Emily Dickinson
       1 Emma Goldman
       4 Emmanuel
       1 Emmeline Pethich-Lawrence
@@ -788,7 +787,6 @@
       1 Errol Strider
       1 Erskine Mason
       1 Erwin Schrodinger
-      2 Eryk Hanut
       4 E. Stanley Jones
       1 Eugen Herrigel
       1 Eugenio Montale
@@ -796,8 +794,6 @@
       1 Eusebius Hieronymus
       1 Evagrius
       1 Eva-Lisa Manner
-      1 Evarts Loomis
-      1 Eve Corbin
       1 Evelyn Underhill
       1 Everett Martin
       1 E. W. Howe
@@ -824,7 +820,7 @@
       2 Florence Scovel Shinn
       1 Florence S. Shinn
       1 Florinda Donner
-      1 Floyd Corbin
+      1 ['Floyd Corbin', 'Eve Corbin']
       1 Fojian
      14 Francis Bacon
       2 Francis Beaumont
@@ -878,7 +874,8 @@
       2 Friedrich von Schiller
      11 Friedrich W. Nietzsche
       2 Frithjof Schuon
-      4 Fritjof Capra
+      1 Fritjof Capra
+      2 ['Fritjof Capra', 'David Steindl-Rast']
       2 Fritz Kunkel
       1 Fritz Peris
       1 Froebel
@@ -900,7 +897,6 @@
       2 Gardner Hunting
       1 Garrison Keillor
       3 Gary Emery
-      1 Gary L. Maurer
       1 Gary McDowell
       1 Gary Player
       3 Gary Snyder
@@ -926,7 +922,7 @@
       5 George Fox
       3 George Harrison
       4 George Herbert
-      1 George Herzog
+      1 ['George Herzog', 'Brian Swann']
       3 George H. Hepworth
       1 George Higgins
       1 George H. Lewes
@@ -994,8 +990,8 @@
       1 Hadewijch
       2 Hadewijch of Antwerp
       1 Hafiz
-      1 Ḥāfiẓ
       4 Hâfiz
+      1 ['Ḥāfiẓ', 'Daniel James Ladinsky']
      27 Hakuin
       2 Hakuin Ekaku
       2 Hallaj
@@ -1004,6 +1000,7 @@
       1 Hannah W. Smith
       1 Hans Dench
     211 Han Shan
+      1 ['Han Shan', 'Shih Te', 'Wang Fan-chih']
       9 Han-shan Te-ch'ing
       1 Han-shan Te-Ch'ing
       5 Hans Kung
@@ -1021,7 +1018,7 @@
       1 Harold Robbins
       1 Harold Sherman
       1 Harold S. Hubert
-      3 Harper Havelock Coates
+      2 ['Harper Havelock Coates', 'Ryugaku Ishizuka']
       1 Harper Lee
       1 Harriet Beecher Stowe
       1 Harry A. Overstreet
@@ -1120,7 +1117,7 @@
       1 Honen
      50 Hônen
       1 Honey J. Rubin
-      1 Hongzhi
+      2 Hongzhi
       3 Honore de Balzac
       1 Honors de Balzac
      10 Horace
@@ -1158,7 +1155,6 @@
       1 Hui Tsung
      31 Hujwiri
       2 Hujwîrî
-      1 Hung-chih
       3 Hung Chih
       1 Hung Chou
       1 H. W. Arnold
@@ -1182,7 +1178,6 @@
       4 Ida S. Taylor
       1 Idries Shah
       1 Ignatius Loyola
-      1 Ignatius Xanthopoulos
       2 Ikkyu
       1 Ilahi Nama
       3 Immanuel Kant
@@ -1217,12 +1212,11 @@
       3 Izaak Walton
       1 Izawa-Nagahide
       3 Jack Addington
-     10 Jack Kornfield
+      9 Jack Kornfield
       1 Jack Lemmon
       1 Jack Miner
       1 Jack Penn
       1 Jack Sanford
-      1 Jacob Boehme
       1 Jacob John Tilley
       1 Jacob Katz
       1 Jacob M. Braude
@@ -1239,7 +1233,7 @@
       2 Jalal al-din Rumi
       1 Jalal al Din Rumi
      11 Jalal al-Din Rumi
-      1 Jalāl al-Dīn Rūmī, Maulana
+      1 ['Jalāl al-Dīn Rūmī, Maulana', 'Coleman Barks']
       1 James A. Froude
       1 James A. Garfield
       1 James Alexander
@@ -1296,11 +1290,11 @@
       1 Janis Joplin
       1 Jan Struther
       1 Jan van Ruysbroeck
-      1 Jas Elsner
+      1 ['Jas Elsner', 'Thupten Jinpa']
       1 J. A. Spencer
      10 Jawaharlal Nehru
       1 Jayata
-      3 Jay Ramsay
+      1 Jay Ramsay
       1 J. Beaumont
       1 J. B. Priestley
       2 J. Bruce Long
@@ -1360,7 +1354,7 @@
       1 Jnaneshwar Maharaj
       1 Jo Aim Kelley Smith
       1 Joan Baez
-     19 Joanna Macy
+      1 Joanna Macy
       1 Joanna Russ
       1 JoAnn Kelley Smith
       1 Joan Rivers
@@ -1404,7 +1398,8 @@
       1 John Cowper Powys
       1 John Cremer
       1 John C. Salak
-     14 John Daido Loori
+     13 John Daido Loori
+      1 ['John Daido Loori', 'Stephen Addiss']
       2 John Denham
       4 John Dewey
       4 John Donne
@@ -1422,7 +1417,7 @@
       1 John H. Jowett
       7 John H. Newman
       1 John H. Randall
-      1 John James
+      1 ['John James', 'Muriel James']
       1 John J. Ingalls
       1 John J. Owen
       2 John Keats
@@ -1483,8 +1478,8 @@
       3 Jonathan Montaldo
       7 Jonathan Swift
       4 Jonathon Montaldo
-      1 Jon M. Sweeny
-      2 Jordan Paul
+      1 ['Jon M. Sweeny', 'Mark S. Burrows']
+      2 ['Jordan Paul', 'Margaret Paul']
       1 Jorge Luis Borges
       1 Jorge Manrique
       1 Jose Ortega y Gasset
@@ -1497,7 +1492,7 @@
       2 Joseph de Maistre
       1 Joseph Desmahis
       1 Joseph Gikatila
-      1 Joseph Goldstein
+      1 ['Joseph Goldstein', 'Jack Kornfield']
       2 Joseph Hall
       1 Josephine Lowman
       1 Joseph Jefferson
@@ -1514,8 +1509,7 @@
       1 Josiah Holland
       1 Josiah Warren
       4 Joyce Brothers
-      7 J. P. Seaton
-      2 J.P. Seaton
+      4 J. P. Seaton
       1 J. T. Work
       1 Juan Ramon Jimenez
       1 Juan R. Jimenez
@@ -1529,6 +1523,7 @@
       4 Judy Tatelbaum
       1 Jules Henri Poincare
       2 Jules Renard
+      1 Julia Hirsch
       1 Julia Mosileton
      21 Julian of Norwich
      11 Julian P. Johnson
@@ -1537,7 +1532,7 @@
       1 Julie de Lespinasse
       2 Julius Caesar
       1 Julius Charles Hale
-      2 Julius Hare
+      1 ['Julius Hare', 'Augustus Hare']
      11 Junayd
       1 Junius
       1 Juppensha Ikku
@@ -1545,12 +1540,16 @@
       2 Juvenal
       1 J. Walter Sylvester
      13 Kabir
-      5 Kabir Helminski
+      2 Kabir Helminski
+      1 ['Kabir Helminski', 'Camille Helminski']
+      1 ['Kabir Helminski', 'Refik Algan']
+      1 ['Kabir Helminski', 'Rekif Algan']
       4 Kahlil Gibran
       1 Kaivalya Navanitam
       2 Kakuban
       1 Kalidasa
       1 Kamo no Chomei
+      3 Kare Coombs
       1 Karen Homey
       1 Karen K. Clark
       3 Karl Barth
@@ -1566,7 +1565,6 @@
       1 Katherine Zell
       2 Kathleen Raine
       1 Kay Lyons
-      1 Kay Wong
       2 Kazuaki Tanahashi
       1 Keizan Jokin
       3 Ken Keyes, Jr.
@@ -1575,13 +1573,12 @@
       1 Ken Olson
       1 Kenshin
       1 Kent Nerburn
-      1 Kieran Kavanaugh
+      1 ['Kieran Kavanaugh', 'Otilio Rodriguez']
       1 Kikusha-No
       1 Kim Hubbard
       1 King Hammurabi
       1 Kirsopp Lake
       1 Kitab-Rahi
-      1 K. Nagaya
       1 Knut Hamsun
       1 Kobayashi Issa
       3 Kôbô Daishi
@@ -1682,7 +1679,7 @@
       1 L. Ron Hubbard
       2 Lucan
       6 Luc de Clapiers Vauvenargues
-      1 Lucien Stryk
+      1 ['Lucien Stryk', 'Takashi Ikemoto', 'Taigan Takayama']
       1 Lucinda Vardey
       2 Lucretius
       4 Lucy Comellssen
@@ -1731,7 +1728,6 @@
       1 Margaret Cavendish
       1 Margaret Lee Runbeck
       1 Margaret Mead
-      2 Margaret Paul
       1 Margaret R. Stortz
       3 Margaret Stortz
       1 Margaret Thatcher
@@ -1755,9 +1751,7 @@
       1 Marion Hilliard
       7 Marion Woodman
       1 Marjorie Bowen
-      1 Mark Edwards
       1 Mark Jarman
-      1 Mark S. Burrows
       1 Mark Strand
       5 Mark Twain
       2 Marpa
@@ -1770,6 +1764,7 @@
       1 Martha Washington
       1 Martial
       6 Martin Buber
+      1 ['Martin Buber', 'Walter Kaufmann (introduction)']
       1 Martin E. P. Seligman
       2 Martin Gray
       4 Martin Grey
@@ -1780,7 +1775,7 @@
       7 Martin Luther
       1 Martin Luther King, Jr.
       1 Martin Neimoller
-      2 Martin Palmer
+      2 ['Martin Palmer', 'Elizabeth Breuilly', 'Chang Wai Ming', 'Jay Ramsay']
       3 Marvin Minsky
       4 Mary Baker Eddy
       1 Mary Bond
@@ -1800,10 +1795,8 @@
       2 Matthew Henry
       7 Matthieu Ricard
       1 Maturin Ballou
-      1 Maurice Browne
       1 Maurice Chevalier
       2 Maurice Maeterlinck
-      1 Maurie D. Pressman
       1 Max Gralnick
       2 Maximus
       1 Maximus of Tyre
@@ -1820,7 +1813,7 @@
       1 Megan Don
       1 MeherBaba
       3 Meher Baba
-    240 Meister Eckhart
+    239 Meister Eckhart
       1 Melissa Auf der Maur
       1 Melissus
       1 Melvin McLeod
@@ -1833,7 +1826,7 @@
       1 Mendel of Kotzk
       1 Meredith Young-Sowers
       1 Metrodorus
-      1 Mevlana Jalaluddin Rumi
+      2 Mevlana Jalaluddin Rumi
       2 Michael A. Sells
       1 Michael A. Sydner
       1 Michael Conroy
@@ -1843,7 +1836,6 @@
      11 Michael Maier
       1 Michael Murphy
       1 Michael O’Neal
-      1 Michael Robert Johnson
      37 Michael Sendivogius
       1 Michael Stark
       1 Michelangelo
@@ -1854,7 +1846,6 @@
       6 Miguel de Cervantes
       1 Miguel de Yunamunojugo
       1 Mike Byrne
-      5 Mike O'Connor
       1 Mike Rutherford
       1 Mikhail A. Bakunin
       1 Milan Kundera
@@ -1897,7 +1888,6 @@
       3 Muktananda
       1 Mumon
       2 Muni Swamy
-      1 Muriel James
       1 Muriel Spark
       1 Muruganar
       1 Murunganar
@@ -1911,7 +1901,6 @@
       1 Nancy Byrd Turner
       1 Nancy D. Potts
       1 Nancy Moser
-      1 Nancy Owen Barton
       1 Naomi Shihab Nye
       1 Naong Hyegeun
      10 Napoleon Bonaparte
@@ -1979,7 +1968,8 @@
      13 Omar Khayyâm
       3 Omraam M. Aivanhov
       2 Oprah Winfrey
-      8 Origen
+      7 Origen
+      1 ['Origen', 'St Bonaventura']
       3 Orison S. Marden
       1 Orison S. Mar den
       5 Ormond McGill
@@ -1988,7 +1978,6 @@
       5 Oscar Wilde
       2 Osho
       1 Oswald Croll
-      1 Otilio Rodriguez
       1 Ot Lat Nom
       1 Otto von Bismarck
       1 Ou-yang Hsiu
@@ -2015,14 +2004,14 @@
       4 Parmenides
       1 Pascal Fauliot
       5 Patanjali
-      9 Patricia Donegan
-      1 Patricia Joudry
+      7 Patricia Donegan
+      2 ['Patricia Donegan', 'Yoshie Ishibashi']
+      1 ['Patricia Joudry', 'Maurie D. Pressman']
       1 Patricia Sun
      18 Paul Brunton
       1 Paul Eldridge
       1 Paul E. Sherer
       2 Paul E. Wood
-      1 Paul Hansen
       1 Paul Hewitt
       1 Pauline Matarasso
       1 Paul Klee
@@ -2129,10 +2118,11 @@
       1 Rabbi Nachman
       2 Rabia
       5 Râbi'a of Basra
-     79 Rabindranath Tagore
+      1 ['Rabindranath Tagore']
+     78 Rabindranath Tagore
       1 Rabindrinath Tagore
       1 Rachel N. Remen
-    388 Rainer Maria Rilke
+    389 Rainer Maria Rilke
       2 Rainer M. Rilke
       1 Ralph Blum
       5 Ralph Cudworth
@@ -2164,12 +2154,13 @@
       1 Ray Wilson
       1 R. C. McCarthy
       1 R. D. Laing
-     57 Red Pine
-      1 Refik Algan
+     52 Red Pine
+      4 ['Red Pine', "Mike O'Connor"]
+      1 ['Red Pine', "Mike O'Connor", 'Paul Hansen']
       2 Reginald Heber
       1 Reigen Eto
+      1 ['Reikichi Kita', 'Kiichi Nagaya']
       2 Reinhold Niebuhr
-      1 Rekif Algan
       3 Rene Descartes
       1 Reynold Alleyne Nicholson
       1 Reynold A. Nicholson
@@ -2185,7 +2176,7 @@
       4 Richard E. Burton
       1 Richard Evans
       1 Richard Hooker
-      1 Richard J Hooper
+      1 ['Richard J Hooper']
       2 Richard M. Nixon
       1 Richard Needham
       2 Richard Nickson
@@ -2198,7 +2189,7 @@
       1 Richard Wilhelm
       1 Rikyû
       1 R. J. Heathom
-      1 R. Kita
+      1 ['R. Kita', 'K. Nagaya']
       1 R  K Prabhu
       1 Robbie Grey
       1 Roberta Jean Bryant
@@ -2236,7 +2227,7 @@
       1 Robert J. Turnbull
       1 Robert Leighton
      12 Robert L. Stevenson
-      1 Robert Malise Bowyer Nichols
+      1 ['Robert Malise Bowyer Nichols', 'Maurice Browne']
       1 Robert Moore
       3 Robert Mueller
       8 Robert Muller
@@ -2294,10 +2285,9 @@
       1 R. W. Wilde
       2 Ryllis G. Lynip
       1 Ryokan
-      1 Ryōkan
+      2 Ryōkan
       3 Ryôkwan
       1 Ryônin
-      3 Ryugaku Ishizuka
       4 Saadi
       1 Sachal Sarmast
       1 Safûri
@@ -2308,11 +2298,12 @@
       1 Saint Augustine
       1 Sallustius
       1 Sally Kempton
-      1 Sally Kiester
       1 Samantabhadra Bodhisattva
       1 Sameer Gadhia
       1 Sam Goldwyn
-      7 Sam Hamill
+      3 Sam Hamill
+      2 ['Sam Hamill', 'J. P. Seaton']
+      2 ['Sam Hamill', 'J.P. Seaton']
       2 Sammy Solberg
       1 Samuel ben Kalonymus
       2 Samuel Butler
@@ -2333,7 +2324,7 @@
       3 Santi-deva
       9 Sánti-deva
      19 Sânti-deva
-      2 Sappho
+      3 Sappho
       1 Sarada Devi
       2 Saradamma
      20 Saraha
@@ -2383,7 +2374,7 @@
       1 Shih-shu
       2 Shih-Shu
      11 Shih-te
-     21 Shih Te
+     20 Shih Te
       2 Shinran
       1 Shi-ping-wen
       1 Shirai-Sôin
@@ -2392,8 +2383,8 @@
       1 Shirley H. Jeffrey
       2 Shirley MacLaine
       1 Shirley Morgan
-      1 Shree Purohit Swami
-      1 Shunjo
+      1 ['Shree Purohit Swami', 'W.B. Yeats']
+      1 ['Shunjo', 'Harper Havelock Coates', 'Ryugaku Ishizuka']
       2 Shunryu Suzuki
       1 Shushiki
       1 Shuson Kato
@@ -2449,29 +2440,29 @@
       3 St. Ambrose
       1 Stanislas Bouttlers
       1 Stanislaus I
-      4 Stanislav Grof
+      4 ['Stanislav Grof', 'Christina Grof']
       1 Stanley Keleman
       1 Stanley Lindquest
-     82 Stanley Lombardo
       1 St Anselm
       1 St. Antony the Great
-      3 St Athanasius
+      2 St Athanasius
       1 St. Athanasius
-    107 St Augustine
+      1 ['St Athanasius', 'St Augustine', 'St Cyril of Alexandria', 'Meister Eckhart', 'Jacob Boehme']
+    106 St Augustine
       2 St Basil
      11 St Bernard
       4 St. Bernard
       3 St Bernardine of Siena
-      6 St Bonaventura
+      5 St Bonaventura
       1 St Bonaventure
       1 St. Cadoc
      15 St Catherine of Siena
       1 St Cyprian
-      1 St Cyril of Alexandria
       1 St. Dionysius
       1 St Elias Ekdikos
       1 Stephanos of Alexandria
-     84 Stephen Addiss
+      1 Stephen Addiss
+     82 ['Stephen Addiss', 'Stanley Lombardo']
       3 Stephen H. Wolinsky
       1 Stephen Leacock
       3 Stephen Levine
@@ -2524,7 +2515,6 @@
       5 St Teresa of Lisieux
       1 St. Thomas
      24 St Thomas Aquinas
-      1 Stuart Fenegan
       1 Stuart Wilde
       2 St Vincent de Paul
       1 Styx
@@ -2559,16 +2549,13 @@
       3 Tacitus
       2 Tagami Kikusha-ni
       2 Tagore
-      1 Taigan Takayama
       1 Taigen Daniel Leighton
-      3 Taigen Dan Leighton
+      5 Taigen Dan Leighton
       1 Taisen Deshimaru
       1 Tai-Shang
       1 T'ai Shang Kan Ying P'ien
-      1 Takashi Ikemoto
       1 Takeda Shingen
       4 Takuan
-      1 Takuan Soho
       1 Taliesin
       2 Tao-chi
       2 T'ao Ch'ien
@@ -2606,7 +2593,7 @@
       2 Theresa of Lisieux
       1 Therese of Lisieux
       5 The Russian Pilgrim
-      7 Thich Nhat Hanh
+      8 Thich Nhat Hanh
       2 Thomas Adams
       2 Thomas A. Edison
      11 Thomas a Kempis
@@ -2641,8 +2628,10 @@
       4 Thomas Jefferson
       1 Thomas Malloy
       3 Thomas Mann
-      4 Thomas Matus
-     24 Thomas Merton
+      2 ['Thomas Matus']
+      1 Thomas Matus
+      1 ['Thomas Matus', 'Fritjof Capra', 'David Steindl-Rast']
+     25 Thomas Merton
       1 Thomas M. MacDonald
       1 Thomas Moore
       2 Thomas More
@@ -2663,7 +2652,6 @@
       1 Thomas Wilson
       1 Thornton Prime
       1 Thornton Wilder
-      1 Thupten Jinpa
       2 Thurman Fleet
       1 T. H. White
       1 Tierno Bokar
@@ -2673,6 +2661,7 @@
       1 Tony Banks
       1 Tony Richardson
       2 Tôyo Tenshitsu
+      1 {'Translator': 'Pickthall'}
       1 Tripitaka Master Hsuan Tsang
      13 Tryon Edwards
       3 T. S. Eliot
@@ -2687,7 +2676,8 @@
       1 Turiyananda
      12 U2
       2 Ursula K. LeGuin
-     83 Ursula K. Le Guin
+     82 Ursula K. Le Guin
+      1 ['Ursula K. Le Guin', 'J. P. Seaton']
       7 U. S. Anderson
       1 Uyesugi Kenshin
       2 Vachaka Kovia
@@ -2735,7 +2725,7 @@
       1 Walther von der Vogelweide
      10 Walt Whitman
       2 Wang Ch'ung
-     28 Wang Fan-chih
+     27 Wang Fan-chih
       1 Wang Wei
       1 Wang Yangming
       1 Wang Yang-ming
@@ -2745,7 +2735,6 @@
       1 Watchman Nee
       9 Wayne Dyer
       1 W. B. Yeats
-      1 W.B. Yeats
       1 W. C. Alvarez
       1 W. C. Magee
       1 W. D. Hoard
@@ -2858,7 +2847,7 @@
       2 Xenophon
       1 Yahyâ b. Mu'àdh al-Râzi
       1 Yamei
-      1 Yasuda Joshu
+      1 ['Yasuda Joshu', 'Anzan Hoshin']
       1 Yasunari Kawabata
       1 Yehuda Amichai
       1 Yekiwo
@@ -2869,11 +2858,10 @@
       3 Yoka Daishi
       2 Yosa Buson
       1 Yoshida Kenko
-      2 Yoshie Ishibashi
       1 Young the Giant
       1 Yuan Mei
       1 Yukteswar
-      2 Yunus Emre
+      3 Yunus Emre
       1 Yves M. Congar
       1 Za Paltrül Rinpoche
       1 Zendo
