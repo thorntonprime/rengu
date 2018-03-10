@@ -82,25 +82,29 @@ class Verse(Document):
         for role in ["By", "Translator", "Editor", "Illustrator", "Contributor"]:
             for a in walk(role, dict(self)):
 
-                not_in_db = True
-
                 if isinstance(a, list):
                     for i in a:
+                        not_in_db = True
                         for auth in Author.find(i):
                             not_in_db = False
                             if auth.pk not in found:
                                 found.add(auth.pk)
                                 yield role, auth
 
-                else:
-                   for auth in Author.find(a):
-                       not_in_db = False
-                       if auth.pk not in found:
-                           found.add(auth.pk)
-                           yield role, auth
+                        if not_in_db:
+                            yield role, dict({'Name': i, 'pk': 'NOT_FOUND'})
 
-                if not_in_db:
-                    yield role, dict({ 'Name': a, 'pk' : 'NOT_FOUND' })
+                else:
+                    not_in_db = True
+
+                    for auth in Author.find(a):
+                        not_in_db = False
+                        if auth.pk not in found:
+                            found.add(auth.pk)
+                            yield role, auth
+
+                    if not_in_db:
+                        yield role, dict({'Name': a, 'pk': 'NOT_FOUND'})
 
     def extract_sources(self):
         from blitzdb.document import DoesNotExist
@@ -115,17 +119,17 @@ class Verse(Document):
             not_in_db = True
 
             if isinstance(s, str):
-                for s1 in Source.find(s):  
+                for s1 in Source.find(s):
                     if s1.pk not in found:
                         not_in_db = False
                         found.add(s1.pk)
                         yield s1
 
-                if not_in_db:    
-                    yield dict({ 'pk': 'NOT_FOUND', 'Title': s, 'By': "NONE" })
+                if not_in_db:
+                    yield dict({'pk': 'NOT_FOUND', 'Title': s, 'By': "NONE"})
 
             elif isinstance(s, list):
-                    yield dict({ 'pk': 'NOT_FOUND', 'Title': "SOURCE IS A LIST", 'By': 'ERROR' })
+                yield dict({'pk': 'NOT_FOUND', 'Title': "SOURCE IS A LIST", 'By': 'ERROR'})
 
             elif isinstance(s, dict):
 
@@ -134,7 +138,7 @@ class Verse(Document):
                     try:
                         s1 = Source.fetch(source_pk)
                     except DoesNotExist:
-                        yield dict({ 'pk': 'NOT_FOUND', 'Title': "ERROR NOT FOUND IN DB", 'By': source_pk })
+                        yield dict({'pk': 'NOT_FOUND', 'Title': "ERROR NOT FOUND IN DB", 'By': source_pk})
                         return
                     if s1.pk not in found:
                         not_in_db = False
@@ -147,33 +151,33 @@ class Verse(Document):
                     by = by[0]
 
                 if title and by:
-                    for s1 in Source.find("{}/{}".format(s.get("Title", None), s.get("By", None))):  
+                    for s1 in Source.find("{}/{}".format(s.get("Title", None), s.get("By", None))):
                         if s1.pk not in found:
                             not_in_db = False
                             found.add(s1.pk)
                             yield s1
 
                 if title and verse_author:
-                    for s1 in Source.find("{}/{}".format(s.get("Title", None), verse_author)):  
+                    for s1 in Source.find("{}/{}".format(s.get("Title", None), verse_author)):
                         if s1.pk not in found:
                             not_in_db = False
                             found.add(s1.pk)
                             yield s1
 
                 if title:
-                    for s1 in Source.find(s.get("Title", None)):  
+                    for s1 in Source.find(s.get("Title", None)):
                         if s1.pk not in found:
                             not_in_db = False
                             found.add(s1.pk)
                             yield s1
 
-                if not_in_db:    
+                if not_in_db:
                     title = title or None
                     by = by or verse_author or None
-                    yield dict({ 'pk': 'NOT_FOUND', 'Title': title, 'By': by })
+                    yield dict({'pk': 'NOT_FOUND', 'Title': title, 'By': by})
 
             else:
-                    yield dict({ 'pk': 'NOT_FOUND', 'Title': "TYPE ERROR", "By" : str(type(s)) })
+                yield dict({'pk': 'NOT_FOUND', 'Title': "TYPE ERROR", "By": str(type(s))})
 
     def to_yaml(self):
         import yaml

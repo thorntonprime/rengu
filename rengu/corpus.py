@@ -25,4 +25,3 @@ class RenguCorpus(object):
                 for line in block:
                     print (dictionary.doc2bow(line.lower().split()))
                     yield dictionary.doc2bow(line.lower().split())
-

@@ -51,6 +51,7 @@ def x_walk(match, d):
                 for y in walk(match, x):
                     yield y
 
+
 def walk(key, d):
     '''walk( key to find, dictonary)
     recursively walk a dictonary to find a key
@@ -62,7 +63,7 @@ def walk(key, d):
             yield d[key]
 
         for k in d:
-            for i in  walk(key, d[k]):
+            for i in walk(key, d[k]):
                 yield i
 
     if isinstance(d, list):

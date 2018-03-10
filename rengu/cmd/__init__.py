@@ -95,7 +95,6 @@ class RenguCmd(cmd.Cmd, object):
         else:
             return corpus_cmd.cmdloop()
 
-
     @auto_help
     def do_refresh(self, args):
         '''refresh

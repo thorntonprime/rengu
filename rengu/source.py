@@ -144,13 +144,13 @@ class Source(Document):
             return
 
         if '/' in str(query):
-            title, author = [ x.strip() for x in query.split('/', 2) ]
-            for s in DB.filter(Source, {"Title" : title, "By" : author}):
+            title, author = [x.strip() for x in query.split('/', 2)]
+            for s in DB.filter(Source, {"Title": title, "By": author}):
                 if s.pk not in found:
                     found.add(s.pk)
                     yield s
 
-            for s in DB.filter(Source, {"AlternateTitles" : title, "By" : author}):
+            for s in DB.filter(Source, {"AlternateTitles": title, "By": author}):
                 if s.pk not in found:
                     found.add(s.pk)
                     yield s

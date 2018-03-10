@@ -7,6 +7,7 @@ from rengu.cmd import auto_help
 from rengu.corpus import RenguCorpus
 from gensim import corpora
 
+
 class RenguCorpusCmd(cmd.Cmd):
 
     prompt = "corpus >"
@@ -35,7 +36,6 @@ class RenguCorpusCmd(cmd.Cmd):
 
         corpus = RenguCorpus(args[1:])
 
-
         corpora.MmCorpus.serialize("corpus/" + corpus_name, corpus)
         m = corpora.MmCorpus("corpus/" + corpus_name)
         print(corpus_name, "saved", list(m.dfs))
@@ -47,4 +47,3 @@ class RenguCorpusCmd(cmd.Cmd):
         '''
 
         print("prepare")
-        
