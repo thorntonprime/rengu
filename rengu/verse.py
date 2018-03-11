@@ -74,37 +74,22 @@ class Verse(Document):
         return similar, line_len, line_max, line_min, line_mean, line_median, line_stdev
 
     def extract_authors(self):
-        from rengu.tools import is_uuid, walk
+        from rengu.tools import is_uuid, walk, flatten
         from rengu.author import Author
 
         found = set()
 
         for role in ["By", "Translator", "Editor", "Illustrator", "Contributor"]:
-            for a in walk(role, dict(self)):
+             for a in flatten(walk(role, dict(self))):
+                 not_in_db = True
+                 for auth in Author.find(a):
+                   not_in_db = False
+                   if auth.pk not in found:
+                       found.add(auth.pk)
+                       yield role, auth
 
-                if isinstance(a, list):
-                    for i in a:
-                        not_in_db = True
-                        for auth in Author.find(i):
-                            not_in_db = False
-                            if auth.pk not in found:
-                                found.add(auth.pk)
-                                yield role, auth
-
-                        if not_in_db:
-                            yield role, dict({'Name': i, 'pk': 'NOT_FOUND'})
-
-                else:
-                    not_in_db = True
-
-                    for auth in Author.find(a):
-                        not_in_db = False
-                        if auth.pk not in found:
-                            found.add(auth.pk)
-                            yield role, auth
-
-                    if not_in_db:
-                        yield role, dict({'Name': a, 'pk': 'NOT_FOUND'})
+                 if not_in_db:
+                   yield role, dict({'Name': a, 'pk': 'NOT_FOUND'})
 
     def extract_sources(self):
         from blitzdb.document import DoesNotExist
