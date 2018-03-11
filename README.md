@@ -1,5 +1,7 @@
 
 ## Processing Sources
+* [Year with Merton](https://rengu.yoyoweb.com/books/rengu-in-process/)
+* [Treasury of Spiritual Wisdom](https://prajna.io/57/57c5499b-c3b2-4b09-92a9-a6e977a32050/#page=250)
 * [Daily Scans](https://drive.google.com/drive/folders/0B89-2Njmo7xgbGgzZnZWMFMtVW8) - [I Ching](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching)
 * [Books in Process](https://prajna.yoyoweb.com/books/rengu-in-process/)
 
