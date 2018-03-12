@@ -16,6 +16,17 @@ class RenguExtractCmd(cmd.Cmd):
     do_EOF = do_quit
 
     @auto_help
+    def do_words(self, args):
+        '''words
+        Extract all words infromation from the Verse uids.
+        '''
+
+        for verse_pk in args.split():
+            v = Verse.fetch(verse_pk)
+            for w in v.extract_words():
+                print("{0} {1}".format(verse_pk, w.lower()))
+
+    @auto_help
     def do_author(self, args):
         '''author
         Extract all author infromation from the Verse uids.

@@ -82,7 +82,7 @@ bin/rengu search verse '{}' | jq -r .pk | \
   sort | uniq -c | sort -g > maps/words.count
 
 cut -c9- maps/words.count | bin/spellcheck | \
-  grep False | cut -c7- > check/words.misspell
+  grep False | cut -c7- | sort | uniq > check/words.misspell
 
 echo " ... fix verses"
 bin/rengu search verse '{}' | jq -r .pk | \

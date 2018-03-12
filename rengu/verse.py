@@ -73,6 +73,13 @@ class Verse(Document):
 
         return similar, line_len, line_max, line_min, line_mean, line_median, line_stdev
 
+    def extract_words(self):
+        blob = TextBlob(self.get("Body"))
+
+        for w in blob.words:
+            yield w
+ 
+
     def extract_authors(self):
         from rengu.tools import is_uuid, walk, flatten
         from rengu.author import Author
