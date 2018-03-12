@@ -89,7 +89,7 @@ class Verse(Document):
                        yield role, auth
 
                  if not_in_db:
-                   yield role, dict({'Name': a, 'pk': 'NOT_FOUND'})
+                   yield role, dict({'Name': a, 'pk': 'NO_MATCH'})
 
     def extract_sources(self):
         from blitzdb.document import DoesNotExist
@@ -111,10 +111,10 @@ class Verse(Document):
                         yield s1
 
                 if not_in_db:
-                    yield dict({'pk': 'NOT_FOUND', 'Title': s, 'By': "NONE"})
+                    yield dict({'pk': 'NO_MATCH', 'Title': s, 'By': "NONE"})
 
             elif isinstance(s, list):
-                yield dict({'pk': 'NOT_FOUND', 'Title': "SOURCE IS A LIST", 'By': 'ERROR'})
+                yield dict({'pk': 'NO_MATCH', 'Title': "SOURCE IS A LIST", 'By': 'ERROR'})
 
             elif isinstance(s, dict):
 
@@ -123,7 +123,7 @@ class Verse(Document):
                     try:
                         s1 = Source.fetch(source_pk)
                     except DoesNotExist:
-                        yield dict({'pk': 'NOT_FOUND', 'Title': "ERROR NOT FOUND IN DB", 'By': source_pk})
+                        yield dict({'pk': 'NO_MATCH', 'Title': "ERROR NOT FOUND IN DB", 'By': source_pk})
                         return
                     if s1.pk not in found:
                         not_in_db = False
@@ -159,10 +159,10 @@ class Verse(Document):
                 if not_in_db:
                     title = title or None
                     by = by or verse_author or None
-                    yield dict({'pk': 'NOT_FOUND', 'Title': title, 'By': by})
+                    yield dict({'pk': 'NO_MATCH', 'Title': title, 'By': by})
 
             else:
-                yield dict({'pk': 'NOT_FOUND', 'Title': "TYPE ERROR", "By": str(type(s))})
+                yield dict({'pk': 'NO_MATCH', 'Title': "TYPE ERROR", "By": str(type(s))})
 
     def to_yaml(self):
         import yaml
