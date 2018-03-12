@@ -1,9 +1,12 @@
 0	 Brahma-Sûtra
 0	 Christolero's Epigrams
 0	 ERROR title is a  <class 'list'>
+0	 In a 12th-Century Iranian Poem, a Vision of Solidarity We Need Today
 0	 NO TITLE
-0	 ['Saddharma-pundarika', 'Kwannon Sutra']
-0	 The Masnavi I Ma’Naui
+0	 ['Rerum Novarum', 'The Sun of Justice']
+0	 Satasâhasrikâ prajnâramitâ
+0	 Technicians of the Sacred - A Range of Poetries from Africa, America, Asia & Oceania
+0	 The Rasâ'il of the Ikhwânu 'l-Safâ
 1	 Abhinaya Darpana
 1	 Aenid
 1	 Alcibiades
@@ -13,13 +16,13 @@
 1	 Apocalyse of Thomas
 1	 Artha-sâstra
 1	 Asvaghosa Sutra
-1	 Autobiography of a Yogi
-1	 Back in the High Life
+1	 At the Edge of the Body
 1	 Brahma-Gâla Sutta
 1	 BuddhaSutra.com
 1	 Canticle of Canticles
 1	 Chakkavatti Sihandada Suttuntu
 1	 Cherub
+1	 Conjectures of a Guilty Bystander
 1	 Cratylus
 1	 Cruden's Concordence
 1	 Der Ackermon aus Bohmen
@@ -31,22 +34,19 @@
 1	 Fa Kiu P'i Yu King
 1	 Fragments
 1	 Fukanzazengi
-1	 Gospel of Philip
-1	 Guhyasamâjatantra
-1	 Hermenia of Athos
-1	 Houses of the Holy
-1	 Hymn to Apollo
-1	 Hymn to the Mother of the Gods
-1	 II Enoch
-1	 Incredible Good Fortune - New Poems
-1	 In My Own Way
+1	 Golf in the Kingdom
+1	 Gospel of Phillip
+1	 Herm Mus
+1	 How Altruism Is Cultivated In Zen.
+1	 Hymn to the Moon
+1	 Ingwa Sûtra
 1	 I Praise My Destroyer
 1	 Jaiminîya Upanisad Brâhmana
 1	 Jetsiin-Kahbum, or Life of Milarepa
-1	 Journey of the Mind to God
-1	 Kaishitaki Upanishad
-1	 Khaggavisâna Sutta
-1	 Lalita Vistara
+1	 Journal of George Fox
+1	 Julius Ceasar
+1	 Kama-Sutra
+1	 Kundalini - The Evolutionary Energy in Man
 1	 Letter to Anton Kippenberg
 1	 Letter to Clara Westoff Rilke
 1	 Letter to Countess Marie von Thurn und Taxis-Hohenlohe
@@ -65,32 +65,42 @@
 1	 On Zion
 1	 Over the Bridge
 1	 Papyrus of Paqrer
-1	 Philokalia
-1	 Râmôpanisad
-1	 Ratnagotravibhâga
-1	 Religions, Values and Peak-Experience
-1	 Rosarium Philosophorum
-1	 Samurai Wisdom Stories
-1	 Sapta-satikâ-prajnâ-pâramitâ Sûtra
-1	 Sefer Yetsirah
-1	 Selected Poems
-1	 Sentiers de Gnose
-1	 Some Aspects of the Hindu View of Life according to Dharmasàstra
-1	 Sukhâvatîvyûha Sûtra
-1	 Sukranîtisâra
-1	 Tale of the Loathly Lady
-1	 Tea for the Tillerman
-1	 Testament of St Joseph
+1	 Payasi Suttana
+1	 Physics
+1	 Plans
+1	 Poems from Korea
+1	 Rasaratnasamuccaya
+1	 Reason for Hope
+1	 Ryôgon Sûtra
+1	 Samaveda Mantra Brahmana
+1	 Sangitâ Makarandâ
+1	 Seeking the Heart of Wisdom
+1	 Seigwanji
+1	 Selections from the Poems of Charlotte Elliott
+1	 Shâktânandalarangini
+1	 Sig. Re
+1	 Sixth Duino Elegy
+1	 Songs of Experience
+1	 Stories of Happy People
+1	 Sukranitisâra
+1	 Taittiriya Samhitâ
+1	 Tales of the Mystic East
+1	 The Acts of John
+1	 The Archetypes and the Collective Unconscious
 1	 The Book of Songs
 1	 The Cloud of Unknowing and The Book of Privy Counsel
 1	 The Complete Poems of Sappho
 1	 The Early Masters
 1	 The Freemasons - an Hudibrastic Poem
-1	 The Great Divorce
-1	 The Great Spring - Writing, Zen, and this Zigzag Life
-1	 The Hoka Priests
-1	 The Mirror of Perfection
-1	 The Pocket Emily Dickinson
+1	 The Great Code
+1	 The Harper of Chao
+1	 The Kabir Book
+1	 The Martyrdom of St Peter
+1	 The Miracle of Mindfulness
+1	 The Mishnah
+1	 The Only True Way
+1	 The Pocket Thich Nhat Hanh
+1	 The Secret Papers in the Jade Box of Ch'ing-hua
 1	 The Sign of Jonas
 1	 The Sutra of Hui-Neng
 1	 The Temptest
@@ -98,8 +108,8 @@
 1	 The Testament of Judah
 1	 The Unheard Cry for Meaning
 1	 The Way of the Bodhisattva
-1	 The World As I See It
-1	 Third Duino Elegy
+1	 The Wizard of Oz
+1	 The Zendavesta, Ormazd Yast
 1	 THje Seven Storey Mountain
 1	 Time
 1	 Twin Souls
@@ -114,91 +124,88 @@
 1	 Yoga Pradipa
 2	 Antony and Cleopatra
 2	 Approaches to God
-2	 As You Like It
+2	 Atharva-Veda
 2	 A Tract of Great Price
-2	 Being Peace
+2	 Avatamsaka Sutra
+2	 Blood Memory
+2	 Changing Consciousness
 2	 Collected French Poems
 2	 Eigth Duino Elegy
 2	 Five Leaves Left
 2	 Garuda Purana
-2	 Henry IV Part I
-2	 Hônen the Buddhist Saint
+2	 I and Thou
+2	 I Heard God Laughing
 2	 Kwannon Sutra
-2	 Mahâbhârata
+2	 Le Morte d'Arthur
+2	 Letter to a Friend
+2	 Mârkandeya Purâna
 2	 Midrash Tanhama
-2	 Midsummer-Night's Dream
+2	 Milindapañha
+2	 Moments of Rising Mist
 2	 New Seeds of Contemplation
 2	 Oceania
 2	 Perspectives Spirituelles
-2	 Pink Moon
-2	 Play of Consciousness
-2	 Satyagraha in South Africa
 2	 Seventh Duino Elegy
-2	 Shiva Samhitâ
-2	 Sir Gawayne and the Grene Knight
 2	 Sonnet
-2	 Staves - A Book of Songs
 2	 Taittirîya Samhitâ
-2	 Theaetetus
 2	 The Divine Milieu
 2	 The Enlightened Heart
-2	 The Marriage of Heaven and Hell
-2	 The Notebooks of Malte Laurids Brigge
-2	 The Pregnant Virgin
+2	 The Great Learning
 2	 Trisastisalâkâpurusacarita
 2	 Understanding Islam
 2	 We're All Doing Time
 2	 Yoga Darshana
 3	 A Course In Miracles
+3	 Anguttara-nikâya
+3	 Apology
+3	 Belonging to the Universe
 3	 Collected Poems
 3	 Devikalottara-Jnanachara-Vichara-Patalam
-3	 God Makes the Rivers Flow
 3	 Gorgias
+3	 Guide to the Bodhisattva's Way of Life
+3	 Henry IV Part II
+3	 Hevajratantra
 3	 Itivuttaka
-3	 Mirabai - Ecstatic Poems
 3	 On God
 3	 Pañcavimsa Brâhmana
 3	 Prajnaparamita
-3	 Richard II
 3	 Surangama Sutra
-3	 Suttanipâta
+3	 The Bodhidharma Anthology
+3	 The Joshua Tree
 3	 The Phoenix and the Turtle
 3	 The Story of My Experiments with Truth
 3	 The Travels of Fa-hsien
 4	 Acts of Thomas
-4	 Anaximander and the Origins of Greek Cosmology
-4	 Book of Serenity
-4	 Catch Bull at Four
 4	 Chinese Text Project
 4	 Digha-Nikâya
+4	 Fourth Duino Elegy
 4	 Kaushitaki Upanishad
 4	 Kulârnava Tantra
 4	 Letter to Marianne von Goldschmidt-Rothschild
-4	 Majjhima-nikâya
 4	 Malleus Maleficarum
+4	 Prasna Upanishad
 4	 Richard III
-4	 Satapatha-Brâhmana
 4	 Subhâshita Ratna Nidhi
-4	 Tejo-bindu Upanishad
+4	 Symposium
 4	 The All-Wise Doorkeeper
-4	 The Purity of Desire
+4	 The Seat of the Soul
 4	 The Soul is Here for Its Own Joy
-4	 The Wise Heart
-4	 The Wonders of the Holy Name
-5	 Cymbeline
-5	 Technicians of the Sacred
+4	 Thirst
+5	 Acts of John
+5	 Ninth Duino Elegy
+5	 Quaker Spirituality
 5	 The Heart of God
-5	 The Heart Sutra
-5	 The Tibetan Book of the Dead
-6	 King Lear
-6	 Love Poems of God
-6	 Prajnâ-Pâramitâ
-6	 Speeches and Writings of Mahatma Gandhi
-6	 The Poetry of Enlightenment
-6	 The Spiritual Crisis of Man
-7	 Haiku Mind
-7	 No Man Is an Island
-7	 Rainbows Appear
-7	 Unseen Warfare
-8	 The Aquarian Gospel
-8	 Yesod Hayirah
+5	 The Poetry of Zen
+6	 Book of Enoch
+6	 Letter to Witold Hulewicz
+6	 Macbeth
+6	 Mahabharata
+6	 Second Duino Elegy
+7	 First Duino Elegy
+7	 Red Bird
+7	 Sometimes
+7	 The Book of Alze
+8	 The Tempest
+8	 Timaeus
+8	 Vishnu Purâna
+9	 The Unforgettable Fire

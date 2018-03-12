@@ -2,14 +2,14 @@
 
 # Pre-Checks
 echo "Running Pre-Checks"
-yamllint -f parsable verses/* authors/* sources/* | tee output/yaml.check
+yamllint -f parsable verses/* authors/* sources/* | tee check/yaml.check
 
 # Clear and Load Data
 echo "Clearing and loading data"
 rm -rf db
-bin/rengu load verse verses/* > output/verses.load
-bin/rengu load source sources/* > output/sources.load
-bin/rengu load author authors/* > output/authors.load
+bin/rengu load verse verses/* > check/verses.load
+bin/rengu load source sources/* > check/sources.load
+bin/rengu load author authors/* > check/authors.load
 
 # Post-Checks
 echo "Running Post-checks"
@@ -26,78 +26,77 @@ echo " ... authors extract"
   bin/rengu search author '{}' | \
     jq -r .Members[]? 
 ) | \
-  sort | uniq -c | tee output/authors.list | \
+  sort | uniq -c | tee check/authors.list | \
   cut -c9- | \
-  bin/rengu-exists-author > output/authors.exists
+  bin/rengu-exists-author > check/authors.exists
 
 
 echo " ... verse author extract"
 bin/rengu search verse '{}' | \
   jq -r .pk | \
-  xargs bin/rengu extract author > output/verse-author.extract
+  xargs bin/rengu extract author > check/verse-author.extract
 
 echo " ... missing authors counts"
-grep "NOT_FOUND" output/verse-author.extract | \
-  cut -c88- | sort | uniq -c | sort -g > output/missing-authors.count
+grep "NOT_FOUND" check/verse-author.extract | \
+  cut -c88- | sort | uniq -c | sort -g > check/missing-authors.count
 
 echo " ... verse source extract"
 bin/rengu search verse '{}' |  \
   jq -r .pk | \
-  xargs bin/rengu extract source > output/verse-sources.extract
+  xargs bin/rengu extract source > check/verse-sources.extract
 
 echo " ... titles extract"
 bin/rengu search verse '{}' | \
   jq -r .pk | \
   xargs bin/rengu-extract-title | \
-  sort | uniq -c | sort -g > output/titles.list
+  sort | uniq -c | sort -g > check/titles.list
 
 echo " ... fuzz authors"
-cat output/missing-authors.count | \
+cat check/missing-authors.count | \
   cut -c9- | \
-  bin/rengu-fuzz-author > output/authors.fuzz
+  bin/rengu-fuzz-author > check/authors.fuzz
 
 echo " ... exists titles"
-cat output/titles.list | cut -c9- | \
-  bin/rengu-exists-source  > output/titles.exists
+cat check/titles.list | cut -c9- | \
+  bin/rengu-exists-source  > check/titles.exists
 
 echo " ... title reference count"
-( grep 'NO MATCH' output/titles.exists | \
+( grep 'NO MATCH' check/titles.exists | \
   cut -d '!' -f 1 | \
   while read A ; do C=$( grep -l "Title: ${A}$" verses/* | wc -l); \
   printf "$C\t $A\n"; read A; done | \
-  sort -k1 -g -k2 ) > output/titles.count
+  sort -k1 -g -k2 ) > check/titles.count
 
 echo " ... fuzz titles"
-cat output/titles.exists | grep 'NO MATCH' | \
+cat check/titles.exists | grep 'NO MATCH' | \
   cut -d'!' -f 1 | \
-  bin/rengu-fuzz-title > output/titles.fuzz
+  bin/rengu-fuzz-title > check/titles.fuzz
 
 echo " ... fix verses"
 bin/rengu search verse '{}' | jq -r .pk | \
-  xargs bin/rengu-fix-verse > output/verses.fix
+  xargs bin/rengu-fix-verse > check/verses.fix
 
 echo " ... tag check authors"
 cat authors/* | \
   grep '^ *[[:alnum:]]*:' | cut -d: -f1 | awk '{ print $1 }' | sort | uniq \
-  > output/authors.tags
+  > check/authors.tags
 
 echo " ... tag check sources"
 cat sources/* | \
   grep '^ *[[:alnum:]]*:' | cut -d: -f1 | awk '{ print $1 }' | sort | uniq \
-  > output/sources.tags
+  > check/sources.tags
 
 echo " ... tag check verses"
 cat verses/* | \
   grep '^ *[[:alnum:]]*:' | cut -d: -f1 | awk '{ print $1 }' | sort | uniq \
-  > output/verses.tags
+  > check/verses.tags
 
 exit
 ############################ END
 
 # Fix-Ups
 echo " ... wikilookup authors"
-cat output/authors.exists | grep 'NO MATCH' | \
-  cut -d'!' -f 1 | \
+cat check/missing-authors.count | cut -c9- | \
   bin/wikipedia-make-author
 
 echo "... wikilookup titles"

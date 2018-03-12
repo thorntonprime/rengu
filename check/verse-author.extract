@@ -11,8 +11,10 @@
 00350e3e-a7e8-465c-bb3b-8cd392de1f6b By           0b463df7-fcbe-47ad-9f7b-e01d1b402807 Sydney Smith
 0038da70-cf30-4ea5-8a62-6f98b9077fa6 By           NOT_FOUND                            Thomas Adams
 00450bdb-e7a6-432d-ab7f-2fb8f7be0005 By           64204a11-7af5-4d6e-be69-a74853509a55 Henry David Thoreau
+00495be7-4abe-4c36-923f-f1ce92ec7f97 By           ed635a86-9496-4d63-affa-14310c6a99b2 George B. Shaw
 00502536-c321-468f-85f1-39ff92f755eb By           ad2bbf8f-33db-45c1-8a07-038111dfe25d Hanshan
 005b3c02-9d3e-4048-b6c5-0b7d2c3c133b By           e17996ac-637b-4eeb-9782-e12ace7062f7 Isaac ben Samuel of Acre
+005bca5d-a8ff-4554-bc66-489ad9025fae By           b73a12e8-d617-464f-959e-2b47f9720c14 Fred Van Amburgh
 005dd760-3f79-4f86-a745-1eebc2623bff By           ef0ecb19-b725-4ed4-be4f-2f39807f9df3 Bayazid Bastami
 005f867c-bfbf-4e88-b25e-61a3fc3ffa3f By           NOT_FOUND                            Iso-no-Kami-no Yakatsugu
 006f042c-74a3-4160-b307-8b86eadb5784 By           093da0e2-ffa1-4058-9767-a51185823df6 Peter Sterry
@@ -97,6 +99,7 @@
 01c1b2e5-e1b6-443a-96f8-40a9aaf05b79 By           975fe9de-b52c-4b48-9379-5ff0c304b14a Laozi
 01c1b2e5-e1b6-443a-96f8-40a9aaf05b79 Translator   b56381e5-4328-45e3-b40b-561f0acd5043 Peter Merel
 01c626d3-0d94-4e32-a41e-64daadff47ea By           NOT_FOUND                            Ken Olson
+01cd6bfe-0f5f-41df-83ac-a409c18c4e4c By           be7dbaaa-5ad0-45a7-a93a-77ecd392d0f7 T. S. Eliot
 01ce02f7-0c3c-4eb0-8900-84e522fdc51f By           7660dee5-98f7-4b07-bd33-0d1a681aba7b Swami Ramdas
 01ce9b1d-9259-4f2b-9e73-403e24ca937d By           975fe9de-b52c-4b48-9379-5ff0c304b14a Laozi
 01ce9b1d-9259-4f2b-9e73-403e24ca937d Translator   3571695b-e6ef-4075-9e5a-6b5b28f0e0da Douglas Allchin
@@ -107,6 +110,7 @@
 01dba5b3-caea-401f-99cc-af6d627ccd2e By           231e51ed-9690-46ea-8258-c5595e60b7b4 Huangbo Xiyun
 01dcf96c-d70e-4656-a414-47ff75496207 By           b728a46b-cd00-4fff-a76d-cb96cefb7e27 Calvin Coolidge
 01ddb723-a9c2-4d5e-b6ca-ad6b41cc9e79 By           c4df86cd-74fd-404e-a096-6efb1f51b3b1 Paracelsus
+01e4723c-bc4c-4766-b5a7-76f4f6840980 By           3629b22a-c84b-4f1e-9518-1380fb0a00fe Sai Baba of Shirdi
 01e4b6a8-d89e-438e-83f5-6df6260bc27d By           5de25b06-fccd-4627-8499-90d1c83c4172 Hermes Trismegistus
 01e53d07-99fd-4c6c-863c-d37113652572 By           4303fa16-4ff9-4236-938f-12ce437e48cc Rabindranath Tagore
 01e65cd4-8b1d-4d49-abb7-41e94d55484a By           093da0e2-ffa1-4058-9767-a51185823df6 Peter Sterry
@@ -322,6 +326,7 @@
 05d274be-5ff4-4f3e-ac80-dde8ff523919 By           b075f05a-1c74-4f59-9dde-d34a929ccd40 Heinrich Khunrath
 05d7fd5b-6ef5-4e39-a0d3-3a836c33d08e By           8d7c47fc-59a7-4760-b71d-9461195a3950 Adi Shankara
 05e4deac-e1c4-4b4b-815d-46397e9613c2 By           3ade600d-9e69-4006-96dd-a89e778f01fe Johannes Tauler
+05e6294e-ae14-442d-8250-b3636a0925f4 By           NOT_FOUND                            Zona Gray
 05e9add2-3ca3-4cb9-b6a8-e16bac01e88f By           0200c883-e38f-4554-92bc-2eba913426b7 Rumi
 05ef1ce6-4e64-40f1-bcbd-dbab212d13e9 By           NOT_FOUND                            Errol Strider
 05f30b5c-c05c-4bad-ae33-be2a4cff4daf By           b3d82c03-1559-440c-9c72-59ded7bf3ee9 Morris West
@@ -445,6 +450,7 @@
 080ed93b-1429-4468-a8ac-02d78e39cc55 By           c6d47d7b-579d-4d33-834f-f5ee0ac54822 Meister Eckhart
 0812a7ce-d6e1-4709-80d9-6ef700c79603 By           4303fa16-4ff9-4236-938f-12ce437e48cc Rabindranath Tagore
 08159978-d6ef-4e7c-a575-2eb85b0fa3e5 By           7b08c015-329f-4a2c-beca-c592d79ef923 Harper Lee
+08227be9-f9cf-4a3c-ac7b-cd4256a65adf By           fa8eddd8-7191-48dc-8ee7-4bae90e09358 Francis Quarles
 082f44ca-a21a-4602-b573-e95d187257a7 By           e79ad275-e58e-4830-a213-35dfb3b99fb5 John Dryden
 08313bad-0229-4442-945f-f59781fa81f9 By           5de25b06-fccd-4627-8499-90d1c83c4172 Hermes Trismegistus
 083690e6-cb3b-4d4f-be7b-41b1173f8b05 By           2205fc70-5c6c-4a48-a38e-18df031de03e G. K. Chesterton
@@ -515,6 +521,7 @@
 095b0085-7a2a-44df-afca-84d809abbd0f By           aa6e380c-e78d-4fd5-94b3-14a3ac85d85f Charles Sumner
 09707f13-646b-4962-8f7f-e9a02ef773a7 By           30fec1f0-78aa-4f80-a6cf-53b7f014f98c Henry More
 09732389-7fa8-4c50-bc29-047f9ec9c8f7 By           3361ef57-842c-46ac-a599-42d4d7be9989 Ralph Waldo Trine
+0975868b-f286-4f63-a599-85d10f41c85c By           b8c921bb-7d9a-419f-8357-cd7d0f201ebe Edmund Burke
 097ec34e-9359-4636-9693-378544cf669b By           ddcdb5eb-6c80-4fd1-91da-0ceb41d7e16d Dante Alighieri
 098264b4-0767-4034-bca9-84975eff9893 By           NOT_FOUND                            Chagdud Tulku
 09828d3e-e212-412b-823c-d949b03d6b38 By           5306ff78-7334-4837-8245-e5bac2873c46 Sivananda Saraswati
@@ -593,10 +600,12 @@
 0ab7e6f5-d7d1-4002-b9a0-ed47907c3e05 By           1eda9bda-c5ac-4677-900b-59b926fe804a Martha Washington
 0abe82b6-10f2-479d-9243-4ad9fba96429 By           051a5711-f312-43d9-90aa-fb2cbb52bed3 Annamalai Swami
 0abf383e-80e6-40d2-a179-3a1334bf6649 By           333510a0-58e0-4da3-aff1-1420d326599e Charles I of England
+0ac416fd-2ef1-40b4-a5bc-de9c3d296404 By           5887863b-bb07-4084-a7fd-703ea62bd65e Catherine of Siena
 0ac64b79-48ea-48bc-bee5-384c8538ba4a By           06b6a8cf-588a-4fb3-8f06-5346efc5f2f6 Omar Khayyám
 0ac767d1-cb27-4fe6-8f96-734c43c2a530 By           8d7c47fc-59a7-4760-b71d-9461195a3950 Adi Shankara
 0ac87cf7-793e-4208-bb65-94aae68e8393 By           975fe9de-b52c-4b48-9379-5ff0c304b14a Laozi
 0ac87cf7-793e-4208-bb65-94aae68e8393 Translator   82eb5cac-293c-4d60-9203-971700a9a434 James Legge
+0acafa91-0a36-4d5f-b72e-1cfe38880bee By           d28749d8-6e9c-4c6a-ae94-68e30dda367b Charles Caleb Colton
 0ace93df-fa37-4093-a794-fd93484e71d1 By           5306ff78-7334-4837-8245-e5bac2873c46 Sivananda Saraswati
 0acee7bd-9f37-493a-a750-2cb11cf14d39 By           5306ff78-7334-4837-8245-e5bac2873c46 Sivananda Saraswati
 0ad01ce2-6459-41be-8d8b-1a42f0d5c4b7 By           5de25b06-fccd-4627-8499-90d1c83c4172 Hermes Trismegistus
@@ -854,6 +863,7 @@
 0f9989a3-fba9-44a8-a496-db32278e3a35 By           9b89576b-4dfa-4c27-ba1b-1b0459eb489d Friedrich Nietzsche
 0f9b0c0d-cec9-49ae-a575-c4ab34b02f03 By           874744c8-8404-43f0-bac2-39cf5ae38c77 Marie de Rabutin-Chantal, marquise de Sévigné
 0f9d2fa1-6096-448d-9f7a-ce517c46d8a6 By           0ef2a405-4255-4fa7-8bbb-a02a07a2c0aa Zhang Boduan
+0fabb5cc-dc4a-42a7-88b8-ee3d875acade By           06c29c09-b82f-4ba3-be5e-6cc4cafb6437 Bhagavan Das
 0facfc7b-7c86-4677-9dd0-56d751ecf951 By           3b9a9355-beee-462d-aa2f-a0294b7424c6 Angelus Silesius
 0fb2243b-487e-4a2a-a75c-02f072621672 By           ed635a86-9496-4d63-affa-14310c6a99b2 George B. Shaw
 0fb3b5dd-ce88-49ec-9312-ddf5bfbdc7c0 By           eceb45a9-b6f2-439f-b1e2-d30fa2c652fc John Milton
@@ -881,6 +891,7 @@
 10012cb0-e3b5-472f-af3c-d82c617d08a1 By           0200c883-e38f-4554-92bc-2eba913426b7 Rumi
 10012cb0-e3b5-472f-af3c-d82c617d08a1 Translator   0187e8ed-da74-485e-9564-00b73cc54cc9 Coleman Barks
 1005758c-68e1-4deb-b162-970bcab4761c By           b845d4a8-fc91-43ba-b4bc-1f596c14c49d Bernard Le Bovier de Fontenelle
+100753c8-e793-4b4f-9bd6-3f2fe77c8b55 By           14b3a8c4-6c61-4c39-9f58-6b6bd55a47d0 Fulton J. Sheen
 10122f57-f2cc-4dd8-8bd0-dc271942d7e6 By           d6ff83e2-27e5-49eb-9d21-85d98cd19dc2 Consolata Betrone
 102242e1-d719-4639-86ad-bb4342e8270d By           ead68d4b-12a1-4c82-bbb3-53dec0758b8b Lie Yukou
 102333e0-cf98-4df7-a8c2-d294461bd368 By           975fe9de-b52c-4b48-9379-5ff0c304b14a Laozi
@@ -1005,6 +1016,7 @@
 1219efa9-1592-4da1-8663-eb9cc941ba7a By           c4db2196-3455-4874-bc6d-ec3456989371 Richard of Saint Victor
 121aa8f7-493d-462e-96ca-2a2bf4f98525 By           3346cf12-25c1-40f9-b658-9d667a1d0f47 Ahmad al-Alawi
 121f9325-076b-4589-88a9-608923a681ad By           d9893a18-e1d0-4577-bc54-470241a75f41 Muhammad
+12282b41-c681-4d47-8515-8596e58894b0 By           e07b9466-930b-49fe-a185-876648824dee John Webster
 122eed47-394d-4f8e-a8d0-765e67254643 By           8d846d39-e195-4a7f-952c-7b30f31573fd William James
 123bf019-5b44-45a6-a78e-f7d70bebcb8b By           5102f164-4a17-41ff-9451-bec0a92f5b16 Eliphas Levi
 123c4d06-6378-4b1e-b9ce-495ce2b2ad69 By           d37fd0ba-1d43-4273-b091-4738c3d332f9 Samuel Smiles
@@ -1132,6 +1144,7 @@
 13fee6b7-4e31-44ec-b40c-bd16fac5634c By           c6d47d7b-579d-4d33-834f-f5ee0ac54822 Meister Eckhart
 14025f2e-e324-4fdc-ab25-06f4e6cbcdd7 By           5a6856a1-7078-499d-b852-01e299ca2b81 Joseph Albo
 140842d0-b108-4c3b-987d-d483c4c0fb65 By           ddae4034-c667-4bdd-8598-58b7c43b3e21 Ramakrishna
+1409fa78-273e-4e89-8892-48f23801693b By           23c6c350-fb62-43c9-a01b-4542d523d992 Anonymous
 140e573e-b8b8-4111-92f1-f37924997e30 By           d5651b36-eb26-42d2-b0c9-b6d292826b7c Swami Vivekananda
 1410e78c-9183-4e1d-900b-ea15e4f434a8 By           126619ac-b665-4c37-af0e-619be6f006b7 Epictetus
 1416d1ab-74d9-4a61-b320-f67b84b85ecd By           NOT_FOUND                            James Ross
@@ -1192,6 +1205,7 @@
 15356cb3-0bd3-4a81-991f-2e69e9944976 By           ca6fb155-39ae-4d53-8782-cbd6dc5ae0b3 Mahatma Gandhi
 153e9433-8aa1-476a-9662-79d3a5179549 By           ddae4034-c667-4bdd-8598-58b7c43b3e21 Ramakrishna
 153f48ae-7cde-4f64-b1b5-64cb8d6f64a0 By           9a5ad640-124d-45cb-a491-2b7d9fb16a73 Eric Hoffer
+154076f9-5c16-4e4a-b554-c587dc1c7b6d By           f27194c4-4bcf-4c30-8ff6-9e260f662b48 Augustine of Hippo
 154735c0-cb02-4ce2-b7f5-141ecc93c256 By           6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd Hafez
 1547a2de-02cc-419f-b4c4-4d8ae2f38a42 By           7e82b848-8bcc-4dda-87bf-55ca7cf913fa William Shakespeare
 1553b35d-0681-47a7-8af9-2ce26a52a53b By           d7605f9d-f550-413c-b1e4-1eecbf4beac0 Dampa Sangye
@@ -1271,6 +1285,7 @@
 16dcd697-cb51-48c6-966a-159b30eb7b9f Translator   NOT_FOUND                            Sammy Solberg
 16e7529b-1057-439c-ae00-69dc584f8fa3 By           0200c883-e38f-4554-92bc-2eba913426b7 Rumi
 16f98527-ca93-4771-8f06-2cdfa637a6f3 By           0200c883-e38f-4554-92bc-2eba913426b7 Rumi
+1707cdad-6bcc-41b4-b1b0-2b0a1aa7a930 By           f27194c4-4bcf-4c30-8ff6-9e260f662b48 Augustine of Hippo
 17083cf1-cf85-49b5-bb81-051d8effa70b By           4de44b73-d163-416c-9eed-b85ef8d42c70 Rainer Maria Rilke
 17085dfd-0ef4-4f86-ab5d-c9479fbb4100 By           7e82b848-8bcc-4dda-87bf-55ca7cf913fa William Shakespeare
 1708c299-7cfd-48ab-9496-83ead934c71f By           c6d47d7b-579d-4d33-834f-f5ee0ac54822 Meister Eckhart
@@ -1339,7 +1354,7 @@
 1870de56-d5b2-4a25-88d9-013ae868e79a By           107f5acb-b547-4d88-830a-34b1279a31c9 Böhme
 187d773a-05b5-4c41-a3b5-c4c08ce72197 By           0200c883-e38f-4554-92bc-2eba913426b7 Rumi
 187d773a-05b5-4c41-a3b5-c4c08ce72197 Translator   0187e8ed-da74-485e-9564-00b73cc54cc9 Coleman Barks
-18858a6a-d557-4311-95ff-e053f0c0dee6 By           NOT_FOUND                            Hillel
+18858a6a-d557-4311-95ff-e053f0c0dee6 By           d3e4ba14-2c98-4d9a-b75e-4bc77356b2e8 Hillel the Elder
 188abe9d-2d75-426b-b5c5-89a1eb28f2cc By           3ade600d-9e69-4006-96dd-a89e778f01fe Johannes Tauler
 188d3b1d-fbb8-46cc-a3de-880fff5288a6 By           8d846d39-e195-4a7f-952c-7b30f31573fd William James
 18903653-ac73-4281-8778-e902acb65483 By           6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd Hafez
@@ -1435,10 +1450,12 @@
 1a27e48e-206f-4ccc-a486-d66ee6868e2d By           ad2bbf8f-33db-45c1-8a07-038111dfe25d Hanshan
 1a2ae9b1-e22c-408e-9fd4-aff36309b19c By           3a244d94-13dc-465f-b742-91e777839825 Su Shi
 1a32e907-e62e-4fbb-924e-2c09870e4398 By           5a695bc8-c00b-4975-afba-09e7016fbe94 Hōnen
+1a33844c-60d5-4ba0-a1b1-8227ca731157 By           7660dee5-98f7-4b07-bd33-0d1a681aba7b Swami Ramdas
 1a33dd7a-fd36-4a22-8dee-613fc5b36eb7 By           e3f99cef-9391-44ac-b27e-2f0d9b102edf Baird T. Spalding
 1a373393-0ef1-4d57-a0fa-b113e0bef31a By           f7d3fb1a-a21f-4146-b44b-0b9501c8a72d Philip Sidney
 1a3d051c-1670-4feb-ad57-b222f65f1818 By           2d930804-0f8b-41ba-a357-eb7f41f94800 Thomas Bailey Aldrich
 1a3f0698-7b3f-4d7e-b585-69e16c35a7ac By           5642e189-5477-4b22-a044-3fa4b21443d5 Brother Lawrence
+1a3f1fbe-6de0-415e-b4f6-ab12900aaf6b By           453fe64b-a904-40f6-b3df-98b7535d87cc Margery Wilson
 1a456d94-2847-4404-9590-bda05e5c8906 By           fa62999d-a4c7-4bf8-af5d-5eec26d6e233 Rudyard Kipling
 1a494502-67c8-4181-869e-e9ab7b3a04b0 By           975fe9de-b52c-4b48-9379-5ff0c304b14a Laozi
 1a494502-67c8-4181-869e-e9ab7b3a04b0 Translator   3571695b-e6ef-4075-9e5a-6b5b28f0e0da Douglas Allchin
@@ -1590,6 +1607,7 @@
 1cdee725-9164-4406-91fb-029d2c7f6c2a By           c15b5d37-298e-4103-896c-bbbc2da781e9 Ira Eisenstein
 1ce151a8-75e1-4e2f-88f9-8a5e57a4dbef By           ddea67cf-b1b0-41bf-a57e-56e98685e09d Thomas Carlyle
 1ce166fd-3e0b-4e43-8c80-16c060de73c3 By           63499482-b830-4f4b-8242-d62b872c322a Nisargadatta Maharaj
+1ce1cde7-4cc0-47f6-92f5-39bef0fe24e4 By           4e2a161f-2b74-4021-b31a-faf7bd206971 John Vianney
 1ce4f844-7555-46fd-b125-06bd38fa815d By           7e82b848-8bcc-4dda-87bf-55ca7cf913fa William Shakespeare
 1ce8d47d-3e16-4096-81e7-87aed47ff176 By           ed7e7c95-ef8e-40b4-8345-570d8009ad6a Huainanzi
 1cf32604-e7ba-4932-84f6-16a540b02ec3 By           c954ca43-6ebb-4e87-a029-3aba556013f9 Erich Fromm
@@ -1620,6 +1638,7 @@
 1d5f1b74-6067-4523-a2c3-80c9a9cf70ef By           ce43c8ad-32f4-4caa-9ddf-4ab39cf8554d Patanjali
 1d6172da-14c7-4c4a-aefb-c2c39d6c1c0d By           961257c8-0251-42ab-b3f4-8ec26a6e201e Edwin Hubbell Chapin
 1d6d86bb-855d-4dd7-b94f-5b4c5696e802 By           b99e9c4f-31c2-4726-b33e-00e1b3746786 Gerald May
+1d7004b2-dfbb-44a8-842a-db304c7db4a5 By           NOT_FOUND                            Edgar W. Howe
 1d76e381-2977-4ed5-a1e1-4cc497146166 By           4de44b73-d163-416c-9eed-b85ef8d42c70 Rainer Maria Rilke
 1d8d7c24-48b5-451b-9362-940418bdb4df By           6c0e77ba-b3e1-4ec8-b291-f037a7714c1a René Descartes
 1d98a761-8261-4286-8af0-b0be45089636 By           7eaf7bf1-03a8-492c-b289-23123e6178fb Empedocles
@@ -1631,6 +1650,7 @@
 1db85d49-4716-469f-911e-b1340baf1723 By           dc61a380-4612-4169-b4cc-7987037c42f2 Jeremy Taylor
 1dc0fa03-688f-41d2-83bb-63a1b4670ac2 By           23c6c350-fb62-43c9-a01b-4542d523d992 Anonymous
 1dc35fb0-10e9-4514-9d84-9280100ab648 By           d9893a18-e1d0-4577-bc54-470241a75f41 Muhammad
+1dcbc180-adaf-4013-ae03-beb4ca5f474e By           4b1b3ab5-972b-4b53-aa10-a7f4f89f8a61 Johann Kaspar Lavater
 1dcd75de-9143-4924-b64f-a85871dae343 By           2e49301b-75eb-41a0-9dcd-66bfd40e6fca Elinor MacDonald
 1dd36620-920d-4796-910f-45bcda5a4305 By           b79a1f45-8bf0-4be0-b54b-25cffa263845 Bernadette Roberts
 1dd39219-d5dd-4911-ba82-916d615f3e4c By           NOT_FOUND                            Johann Lobstein
@@ -1777,6 +1797,7 @@
 2049b9d5-045b-4877-8bab-f9c8ff0eeb8b By           85d61518-7aba-41e5-9a3e-08adf2cd3755 Benjamin Whichcote
 205c07dd-b7e2-4a88-8a93-711868a1a4f3 By           aac46923-7f8d-44ca-b2a5-596299f4a21a Hakuin Ekaku
 20643edc-62a9-42cd-aaae-acd342bdbb31 By           e92fad99-6914-41c2-a93c-e82b28742356 Heraclitus
+2065ac83-be45-4aa6-b1a8-e01dad3b385a By           0ffa996c-f585-4985-b3cf-efc74e00437a George Gurdjieff
 2066e7ba-1815-4ee9-9d79-f32fdf1fbdaa By           578a634c-4a5c-4958-8356-57610515f3f3 Charles Stansfeld Jones
 206c409f-2eff-4da6-8d85-b3ecfdacab27 By           6cf6f4fa-1539-476a-8f96-79069a0e95b7 Joel Goldsmith
 2072a6fa-ee4b-4d15-b3d2-0a8d1edd9607 By           ad2bbf8f-33db-45c1-8a07-038111dfe25d Hanshan
@@ -1819,6 +1840,7 @@
 21266317-643c-46f8-a0c2-d02c89a9d917 By           b0af6833-f01f-45dd-8997-d0d0ce971b52 Henri-Frédéric Amiel
 212b66c6-2f4f-4f15-9676-e9af71a6af56 By           6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd Hafez
 2133cf8b-a8e6-4886-a7fc-275c11762f45 By           20af6999-f10f-4bbe-a9e9-cbcf60ab0a7b W. H. Auden
+2135579a-da83-41e8-a2d1-b3678a3dbcae By           fca26fe7-d9fd-4e62-998b-2d610b1386d3 Allan Kardec
 21368acc-96ae-4b69-a883-a4755438f695 By           b0af6833-f01f-45dd-8997-d0d0ce971b52 Henri-Frédéric Amiel
 213f3c0f-6e02-4501-97e3-8b36d53b2edd By           0200c883-e38f-4554-92bc-2eba913426b7 Rumi
 213f3c0f-6e02-4501-97e3-8b36d53b2edd Translator   0187e8ed-da74-485e-9564-00b73cc54cc9 Coleman Barks
@@ -1919,6 +1941,7 @@
 2340f6b3-1890-452e-b85d-ded3b91c9234 By           e682bbc9-4b25-4a7e-8038-0ef925233e83 Plato
 23411b0c-62e5-4419-9311-70a264d3ffe7 By           5e298201-5932-4881-a716-510fbc1b4a73 Plotinus
 234b1409-eaea-4fff-b7ac-d77bf8ea1496 By           c532daf5-9d91-4f34-8354-2755855de852 Thomas Vaughan
+234c0329-3042-4a5c-b8d5-71c1dac5092f By           bdb082ea-5f45-4bc8-b85c-e516e9a8ae07 Frank Moore Colby
 234c04a6-0fd9-4c69-8fc5-c30a3fe19841 By           c6d47d7b-579d-4d33-834f-f5ee0ac54822 Meister Eckhart
 2353e02b-113d-42a0-b66e-1910b37f96d6 By           2ce75aaf-0ea9-4336-b8b6-00de251c3600 Anatole France
 235f4056-8b6d-49b1-b3a4-554fe839be72 By           eaa1c488-9b8a-4656-893e-0737a688bf76 Ramana Maharshi
@@ -2002,6 +2025,7 @@
 24d0fa75-c415-457f-bee1-c7fe42efb175 By           NOT_FOUND                            Mohsan Fânî
 24e833c2-e5f0-45ce-8fc6-659d8f391f04 By           3699b73f-101f-4459-998d-31553f06e3ed Anagarika Govinda
 24edfaf6-a454-488a-b039-e234f352825d By           e682bbc9-4b25-4a7e-8038-0ef925233e83 Plato
+24f42016-f70c-4984-a438-b67836a66934 By           NOT_FOUND                            Aubrey P. Andelin
 24f858ff-5500-4f1a-b6bd-f3aef90146fb By           975fe9de-b52c-4b48-9379-5ff0c304b14a Laozi
 24f858ff-5500-4f1a-b6bd-f3aef90146fb Translator   a5b401b1-b8de-43f8-bdb3-11a263a4bdbb D. C. Lau
 250a0a70-fa13-4186-b2e2-9a866cbc350c By           4de44b73-d163-416c-9eed-b85ef8d42c70 Rainer Maria Rilke
@@ -2064,6 +2088,7 @@
 2618467d-cf84-4e6a-b5a0-af5901cd29af By           cc2c151f-618b-4dcb-ae7a-0cc564ac0ffe Florence Scovel Shinn
 26215844-3836-44b0-9335-9f9f4855b60a By           d6ff83e2-27e5-49eb-9d21-85d98cd19dc2 Consolata Betrone
 2622a677-54af-4ffc-bb6f-86eb51a541a8 By           51fba784-7905-4fd1-ae0b-878bbce65d12 Shenhui
+262897b7-b959-436d-84cc-c7e7d7170397 By           NOT_FOUND                            Mary W. Montagu
 262f44db-482b-4646-b405-85edd9bfcf02 By           NOT_FOUND                            Henry Drummond
 2632d75b-da1d-4e2a-acdf-45308fef1721 By           ae89735b-2e51-4bb1-b2a2-10b051cfb790 Mechthild of Magdeburg
 26354cfa-1c60-4801-8551-9a895b4a3ddd By           61fdd320-0c18-4ca2-a033-8f2e24144ef8 Nityananda
@@ -2111,6 +2136,7 @@
 26e0cea4-d61c-461a-b5e2-169495b245a5 By           fb38eb6d-d81d-4490-b74b-2aa19f37d8d0 Philo
 26e1f3dd-e884-4672-9d61-4a916f8297fa By           03530a9d-a33d-421d-9ad0-0ad1dc1ef375 Ali
 26e721c4-2491-4de7-ad2e-909a265c8fad By           NOT_FOUND                            Deepa Kodikal
+26ebabfa-f938-4cec-8357-bfe47eae737f By           19b3e184-3740-41c8-8e27-4a9a1a911cae Khwaja Abdullah Ansari
 26f0b746-739c-4ba0-8fe4-e578a8d7a015 By           c779f71f-0593-4ea5-9086-6f31396ab9ba Dhul-Nun al-Misri
 26f22f71-95f7-477a-8916-d02cd456ce24 By           eaa1c488-9b8a-4656-893e-0737a688bf76 Ramana Maharshi
 26f84d85-295a-4d1a-99a8-b6b7f0da3eb3 By           d6ff83e2-27e5-49eb-9d21-85d98cd19dc2 Consolata Betrone
@@ -2119,6 +2145,7 @@
 2703bf1e-7a69-4fa5-a293-ade077d7e4be By           b268f69a-0028-48fb-bde5-18a89b827660 John Buchan, 1st Baron Tweedsmuir
 270d4636-2cc9-48ab-8ba1-442646dd29e5 By           e6fbd1e4-dc41-4785-8fa9-ae0d887ef293 Jami
 270d6dd8-35a7-4ba4-9773-afca37a2e111 By           8d7c47fc-59a7-4760-b71d-9461195a3950 Adi Shankara
+2716fe62-2680-4f0a-8e7b-7cad8242ba66 By           e35167a7-7069-4f40-9499-cc03ff26b876 Oscar Wilde
 271a4793-4aaa-4fd1-a836-334445eb4a5a By           24781e79-b3f9-4db6-acff-41c0a2a3f669 Richard Rolle
 272c4cf2-2b40-4339-95b6-bb8741e350e0 By           5306ff78-7334-4837-8245-e5bac2873c46 Sivananda Saraswati
 272e7f0c-9294-4d1a-b316-8b0478c959c2 By           89d34ac4-adad-440d-8068-3f5993172d4d Kyongho
@@ -2163,6 +2190,7 @@
 27993042-e8b5-4741-b6d6-baf578a74b30 Translator   745f6554-eb8e-4e42-b3ef-ce5b39b22ba6 Daniel Ladinsky
 279ce97b-7f90-401e-ac47-8c7e8d867540 By           6c8156a8-953d-4ec1-bb4f-b99fa9d4be1f Ali Hujwiri
 27a95ed0-0bf1-461f-b89e-4647614745dc By           1019b43d-1e9c-4d50-9463-75e255c75302 Saraha
+27a9aa61-197d-4747-aa1e-ec9f96641bf8 By           6cb04f4d-23cd-44d7-97eb-9e590d2c2581 John Daido Loori
 27aa398d-0246-4b5a-9624-9c65e8b2fb94 By           4de44b73-d163-416c-9eed-b85ef8d42c70 Rainer Maria Rilke
 27b4a317-4df9-46c0-933e-9f29ffe75eab By           23c6c350-fb62-43c9-a01b-4542d523d992 Anonymous
 27c022d6-3fd4-4d1c-8fba-d01909edc601 By           67854161-6edd-4064-9086-55b9a47ae1df Dalai Lama
@@ -2222,6 +2250,7 @@
 28b57d93-6b8c-4fdb-adb7-84de7b055a1d By           NOT_FOUND                            Abraham I. Kook
 28b6491e-2e83-4538-b302-38de3ac25390 By           NOT_FOUND                            Daniel Brinkley
 28ba67e6-ba94-4023-b26d-fef6c7a19be3 By           NOT_FOUND                            Corinne U. Wells
+28bb5e19-29ce-483c-a250-be2bf1550f85 By           f1b82d75-f2d3-4530-af0c-8f48339521e8 John Newton
 28bed2aa-b627-4d4f-9ed4-ae03ee1c68b1 By           816e4468-6d00-4e4c-9f60-52fc8405287c Oliver Wendell Holmes
 28c41e03-0b00-470b-a4b4-002d692fc310 By           NOT_FOUND                            J. Walter Sylvester
 28c674d3-ce97-41fa-a129-2eb14a1e5996 By           96a29acb-4463-459b-97dc-499e17e7c8d7 Francis of Assisi
@@ -2269,6 +2298,8 @@
 29ab9f46-fedd-4dc3-9a2a-111292d9a098 By           4de44b73-d163-416c-9eed-b85ef8d42c70 Rainer Maria Rilke
 29b1ae50-926e-4de0-8df6-5e8d95e2f702 By           ad2bbf8f-33db-45c1-8a07-038111dfe25d Hanshan
 29b3056e-f573-48ca-aaa7-b65e80a66077 By           e351b3c9-cbf7-4784-88ed-3f973bc6fb91 Henry Suso
+29b3e8b6-ce56-4430-85fd-193c41598d66 By           33aacb86-a4bc-45f3-a5c5-dd0af4d34c9b William Saroyan
+29b3e8b6-ce56-4430-85fd-193c41598d66 By           1aa04209-6053-4474-8382-a71ab4357b4d Ralph Siu
 29b4eeaa-3262-4809-a826-3c1479be806b By           57c45b00-2aae-4e3e-9b5c-cc3684609dc2 Walter Hilton
 29b575fe-5104-46f5-8578-41466119fd5a By           4af6389e-af2e-4749-8ad3-6c07c4f629ad Jawaharlal Nehru
 29b615c5-38c5-41b0-b2c8-06af9c72c7de By           126619ac-b665-4c37-af0e-619be6f006b7 Epictetus
@@ -2285,6 +2316,7 @@
 29f94b34-e63c-465c-b932-14ab55f6c6ea By           d39e1f23-5bad-42ae-b3eb-0399ea9661d2 Denis Waitley
 29fa9648-9ed3-45e6-89a0-6906d8deb532 By           5054bbcf-a2ed-4cc1-8fc0-a3c7823d4b72 Marcus Eremita
 29fdea3f-b784-45dc-ad18-f3730d71b4c2 By           c6d47d7b-579d-4d33-834f-f5ee0ac54822 Meister Eckhart
+29feff4e-05e0-476c-95a0-7ae7a98cee28 By           58618d80-c1f3-4f84-ba40-2436003f7799 Thomas à Kempis
 2a0790f5-d395-4300-8828-b43fbb60c9dc By           99f2fe73-595c-41fd-a66e-9cea03e218c3 DeWitt Wallace
 2a093494-fc90-4dbb-bef1-cbcaa5a1666a By           2e5ff118-d147-49b1-9d1b-60039e4aa7c9 Voltaire
 2a0cf2fa-7c70-458f-a362-5b7818b68598 By           975fe9de-b52c-4b48-9379-5ff0c304b14a Laozi
@@ -2309,6 +2341,7 @@
 2a85d970-766e-42fc-a6d7-072456699e44 By           d65686e5-ca69-4fa4-9408-b8a998534557 Leo Buscaglia
 2a87735c-b665-4dbe-8aad-87927c015766 By           ad2bbf8f-33db-45c1-8a07-038111dfe25d Hanshan
 2a8cd710-550a-4f6d-a8c4-c8ab5e9cb7d3 By           8226bfac-6dd6-42a5-9e75-e1d127da5f8c Robert Green Ingersoll
+2a94b190-24b9-4bc7-a4f1-3170e2f40806 By           NOT_FOUND                            Edmond Bordeaux
 2a95caad-bb00-4f7d-993c-2e8c7d0f86b3 By           2da9110e-eeef-44ef-add8-97d708a580a5 John Smith (Platonist)
 2a9cd8e9-c58a-4113-b081-792aa0c8dddf By           84cc98f2-f598-487f-8bda-1d8538b27df5 Wang Fanzhi
 2a9d7ea3-a720-4555-afca-36c7f1ace833 By           7fedc30a-7943-4d02-b5ba-7fbed7693a67 Pius XII
@@ -2398,12 +2431,14 @@
 2bda1b13-c0c8-41e5-b62f-da14615d4c09 By           5de25b06-fccd-4627-8499-90d1c83c4172 Hermes Trismegistus
 2be04de8-db83-454d-8e9e-c56fd1ba32cf Translator   e94a636c-e53a-46be-bf41-f92283aa95b3 Burton Watson
 2be5139e-3341-4580-9642-d2921aa78817 By           85d61518-7aba-41e5-9a3e-08adf2cd3755 Benjamin Whichcote
+2be52d05-572a-402e-80a4-9555faa3921f By           NOT_FOUND                            Bayazid Al-bistami
 2bf03d2a-e4c0-4e71-baa4-3eb8f93e0fcd By           c6d47d7b-579d-4d33-834f-f5ee0ac54822 Meister Eckhart
 2c007bb0-b905-4ee4-8efa-41b72ce45cb7 By           d93a5733-12f0-4d56-804a-346d8cd37ad5 Elbert Green Hubbard
 2c0177d4-51f5-4753-a691-04a643509220 By           f27194c4-4bcf-4c30-8ff6-9e260f662b48 Augustine of Hippo
 2c0a9186-9242-4b54-a9e4-6c5ed4a82eec By           3ade600d-9e69-4006-96dd-a89e778f01fe Johannes Tauler
 2c14efe6-8cbf-4052-89c9-74d65789ffab By           97793e91-1fe6-4096-b6a9-6fdcf080c656 Henry Ward Beecher
 2c1dff35-7657-4b3e-ba11-044cc95d34da By           3ade600d-9e69-4006-96dd-a89e778f01fe Johannes Tauler
+2c204e47-e3ca-4047-9d0d-da9667c0a5a1 By           NOT_FOUND                            Cecil
 2c269311-1c61-4eb9-aa67-05bc721efffe By           975fe9de-b52c-4b48-9379-5ff0c304b14a Laozi
 2c269311-1c61-4eb9-aa67-05bc721efffe Translator   a5b401b1-b8de-43f8-bdb3-11a263a4bdbb D. C. Lau
 2c283336-c44e-4760-a977-27f64395b5f3 By           961257c8-0251-42ab-b3f4-8ec26a6e201e Edwin Hubbell Chapin
@@ -2456,6 +2491,7 @@
 2cd32cde-bf75-44cf-8081-be15114b37af Translator   53d81bb7-0257-4a70-a4ca-f4358c7d672b Stanley Lombardo
 2cd382af-c3a5-4ee3-92a2-678498142755 By           ddae4034-c667-4bdd-8598-58b7c43b3e21 Ramakrishna
 2cd57603-58d2-4d50-83df-ce0b626802db By           180f5375-bc57-4c52-a41d-235e5c743d17 Shide
+2cde907c-b911-441c-93ec-651afc9de996 By           d6c6f0ca-e88c-4d70-a3db-b040a3407842 J. D. Salinger
 2ce73099-e153-4c2d-92ad-a7d18c5a125a By           c4db2196-3455-4874-bc6d-ec3456989371 Richard of Saint Victor
 2cf1747c-a0ac-4085-baec-0466d1c5c0f1 By           NOT_FOUND                            Hori Kintayu
 2cf8ad14-df7b-49b7-9c77-c461d83f87a6 By           fa85d12a-166e-4cd7-be00-9f03389ca78e Niffari
@@ -2483,6 +2519,7 @@
 2d54ce64-3add-44ce-9c60-f8ae3c6000a9 By           7660dee5-98f7-4b07-bd33-0d1a681aba7b Swami Ramdas
 2d5a6dd9-bf0a-471d-8891-3e8f6d3d641d By           b7688e73-ea33-4711-900e-4d5900558386 James Allen
 2d5eb362-b21e-4956-bcff-cd193952245b By           c6d47d7b-579d-4d33-834f-f5ee0ac54822 Meister Eckhart
+2d603501-2a2b-478b-ad6e-711bd941cf90 By           NOT_FOUND                            H. F. Kletzing
 2d6db2b7-81c1-4042-badb-b9e57fe6f3dd By           e92fad99-6914-41c2-a93c-e82b28742356 Heraclitus
 2d747d99-1c79-4c5e-82e5-bd9e4ae1c49e By           7660dee5-98f7-4b07-bd33-0d1a681aba7b Swami Ramdas
 2d84ee44-0815-4954-87ab-97688a39789d By           a6ea3cf7-fbf6-4160-98cc-0827a6ea9769 John Welwood
@@ -2512,12 +2549,13 @@
 2de64a72-cfe9-4ac9-8f8b-9d41af3b56ef By           b74cdb91-6ff8-4f7a-8f07-7aa1490c9565 Sendivogius
 2dec72df-cc2c-4ab7-b3a6-0132270dc02e By           NOT_FOUND                            Lowell R. Ditzen
 2df31cf7-b813-4663-8c82-ba3ded3e4934 By           eaa1c488-9b8a-4656-893e-0737a688bf76 Ramana Maharshi
+2df4c1e3-7fab-4a43-a6b2-d138c55d6d88 By           a9b17b0f-552e-492e-b71a-e2b073f4341a Swami Paramananda
 2dfcd666-65cc-4763-b857-5469748cb7d0 By           NOT_FOUND                            Deiderius Erasmus
 2dfcd666-65cc-4763-b857-5469748cb7d0 By           1aa04209-6053-4474-8382-a71ab4357b4d Ralph Siu
 2dfdc538-2f22-40e1-8c96-423cd025c218 By           4de44b73-d163-416c-9eed-b85ef8d42c70 Rainer Maria Rilke
 2e0ea8fc-42a5-4bfe-ad18-205c4ae543ea By           0200c883-e38f-4554-92bc-2eba913426b7 Rumi
 2e1bb787-70f7-4faf-9ba5-a66504b9673c By           e0414f0f-31cd-40b3-91f0-e2e0d5ba3a02 Iamblichus
-2e1e6bf5-4c75-4ac0-988a-8d7c0d4a9236 By           NOT_FOUND                            Hillel
+2e1e6bf5-4c75-4ac0-988a-8d7c0d4a9236 By           d3e4ba14-2c98-4d9a-b75e-4bc77356b2e8 Hillel the Elder
 2e24a93d-4a5a-48af-9d3a-c53cb48f728f By           016d0545-8dd9-4d8f-b5e4-51d7f5f245bf Thornton Wilder
 2e2a09fe-e7ee-40ac-96a5-16c8cbc5b579 By           22fcce4e-14ab-4aca-8b85-76040b60a193 Seneca the Younger
 2e2b637b-6435-498d-b819-79f0a0a3bbf4 By           e19bb797-f075-478b-8a1e-bd13b0d4fdf6 Hans Küng
@@ -2567,6 +2605,7 @@
 2ee23cf8-351c-4ccd-b51d-53ae212beea3 By           4de44b73-d163-416c-9eed-b85ef8d42c70 Rainer Maria Rilke
 2ee3ca59-baad-46dd-8f84-c3b6b5a2ba62 By           f1978d6a-a662-45c8-9220-510d55c66a8d Albert Schweitzer
 2ee5f8a4-dba3-48ff-9e03-5a3ac6f82232 By           c6d47d7b-579d-4d33-834f-f5ee0ac54822 Meister Eckhart
+2ef02ab8-6361-4a9a-b601-1e9191ce96a0 By           23c6c350-fb62-43c9-a01b-4542d523d992 Anonymous
 2ef298e7-2e16-4db2-8c30-497074c9f1da By           4064e660-c7ff-401b-af7a-a91fc3acea94 Hippocrates
 2ef5f3e5-1e67-4593-85d0-dec68df1b3cf By           eaa1c488-9b8a-4656-893e-0737a688bf76 Ramana Maharshi
 2ef8da92-38c6-4f58-bf68-347895418c54 By           eaa1c488-9b8a-4656-893e-0737a688bf76 Ramana Maharshi
@@ -2783,6 +2822,7 @@
 3307fbef-95c4-4a3f-b8f2-b64c84304261 By           6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd Hafez
 330b415a-9ed8-4f77-a33b-771684e1c0b6 By           5e856ada-7315-4e7e-a076-f87e2071a831 Napoleon Hill
 330cd4b5-4a9b-4b80-ae5b-d050a439d5da By           c6d47d7b-579d-4d33-834f-f5ee0ac54822 Meister Eckhart
+330ec09d-e7e0-452e-ae29-fcf6ebea2113 By           c4049c7f-3760-4f17-8af8-802151533b4d John Chrysostom
 33110a81-334b-469d-a721-894c1971c4e0 By           975fe9de-b52c-4b48-9379-5ff0c304b14a Laozi
 33110a81-334b-469d-a721-894c1971c4e0 Translator   82eb5cac-293c-4d60-9203-971700a9a434 James Legge
 33178314-129b-46e0-a133-a55260eb5d58 By           bf314865-ec10-413c-b85d-c614bf4bcdb6 Sathya Sai Baba
@@ -2807,12 +2847,14 @@
 3371761f-c661-4976-9395-3277e0a04f42 By           4de44b73-d163-416c-9eed-b85ef8d42c70 Rainer Maria Rilke
 3373aa6d-9fd8-4375-ad1d-b1eb010aa15c By           6cb04f4d-23cd-44d7-97eb-9e590d2c2581 John Daido Loori
 337bbacc-ca4d-491d-bccf-6a03ee507702 By           4303fa16-4ff9-4236-938f-12ce437e48cc Rabindranath Tagore
+337e568b-ebe9-48b6-a762-dc031e9e88c0 By           41c4bbac-5463-4fe4-9844-9a03caeef330 Erasmus
 3380008a-4d81-448b-9d97-e7fd80aaf69d By           NOT_FOUND                            Susan Partnow
 33828148-042c-4db7-8f0f-8889ba551007 By           4de44b73-d163-416c-9eed-b85ef8d42c70 Rainer Maria Rilke
 338e4a3c-b67e-4271-85a3-592adabe2133 By           d9893a18-e1d0-4577-bc54-470241a75f41 Muhammad
 33a83561-643d-4f81-a77a-b4347fd9b786 By           dd60f620-775a-450e-bae4-8c8f4ef98bfb Nicholas of Cusa
 33ab9ca4-a064-45df-a928-d53bc71f7ea3 By           1f1597f7-bd6b-4140-81ec-fbce686250fd Mary Oliver
 33b83b42-d8bb-4eeb-a6b2-f4619eeb5191 By           c9cd3225-c110-4d30-8f66-7dac17c74532 Mother Teresa
+33b96f9f-beab-45e8-8ef5-a8ef6f05235c By           NOT_FOUND                            Louis Finklestein
 33b9c6f7-a0cf-490b-8f58-31b0c315374e By           5306ff78-7334-4837-8245-e5bac2873c46 Sivananda Saraswati
 33baf9fa-be94-4830-8f5c-b758d57508fb By           e406de87-2a98-4447-adff-1af82d65af2a Mason Cooley
 33bb08fa-3253-47ec-9a47-bd1c48b6e3ff By           c6d47d7b-579d-4d33-834f-f5ee0ac54822 Meister Eckhart
@@ -2986,6 +3028,7 @@
 36adbc40-fd7e-40a9-aa3b-a439c0ac44a5 By           3e42a080-e2c0-4cfe-8f90-98eef5fe51bc John-Roger Hinkins
 36adde90-d379-4948-8860-a3823a24839c By           c6d47d7b-579d-4d33-834f-f5ee0ac54822 Meister Eckhart
 36b28b78-36fb-47fb-aed8-4c7168f662aa By           64204a11-7af5-4d6e-be69-a74853509a55 Henry David Thoreau
+36b3387d-fe44-4217-8cd0-736513f8990b By           66ff0d88-c5df-460f-9093-3966e302d8d4 Robert Collier
 36b4e64a-8325-43b6-bdfb-7cd3d69e1210 By           4307ec46-6d79-4cef-82ff-32a09fce5df9 Paul
 36b78aaf-b5bb-4e10-a215-62d4ef887786 By           8226bfac-6dd6-42a5-9e75-e1d127da5f8c Robert Green Ingersoll
 36bcb759-433a-4ac7-8a04-88bbff9c57f5 By           b0af6833-f01f-45dd-8997-d0d0ce971b52 Henri-Frédéric Amiel
@@ -3143,6 +3186,7 @@
 39428c7c-f846-45a2-961d-ea149732bacb By           da184f92-f119-42ee-8e45-06ab31cd9624 Thomas Merton
 39431128-5db3-4958-a8e2-666c8e390f20 By           bc2c8034-bd30-4bf1-9e54-1bd4b39d085c Thomas Babington Macaulay, 1st Baron Macaulay
 3948d6c6-f0a2-4eac-b6ce-dc928f22b3b4 By           5630bdeb-c67d-43ea-8091-7cbf456cbd68 Samuel Taylor Coleridge
+394f82d9-389e-4be3-be6e-5f32a4c7e1c7 By           d16578db-1632-42c6-817b-bc6767dcba43 William Law
 3950f6e6-c614-4452-a135-1f833ce88d04 By           5bd649fa-da9f-47f5-8fc9-e7309cb37e29 Nilus of Sora
 395ba4b1-145e-4172-9893-f32a137e106e By           62a809ad-fe76-4404-9663-53e49430b708 Basil Valentine
 396013fd-e5d5-41be-8af1-57c63a4f91ea By           126619ac-b665-4c37-af0e-619be6f006b7 Epictetus
@@ -3158,6 +3202,7 @@
 398a6336-2b34-49fb-a74e-a8c180867e29 Translator   53d81bb7-0257-4a70-a4ca-f4358c7d672b Stanley Lombardo
 398daf77-102c-4abe-b762-519df2987296 By           5306ff78-7334-4837-8245-e5bac2873c46 Sivananda Saraswati
 3990bab3-6067-4c4a-87b8-c2e0bb022931 By           61b2a7a1-89ff-4bdb-b03f-73a917ba36ae Richard Nixon
+39992fdd-0412-40fa-9759-12a5f38824ad By           05a52b93-d98b-4136-acf9-b55d67ae5642 Charles Cooley
 399da719-7a0c-40e2-8173-8cc8538e8600 By           6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd Hafez
 399e5b50-2852-49ca-9072-d57e9a544bf7 By           fb38eb6d-d81d-4490-b74b-2aa19f37d8d0 Philo
 39a397ba-99ee-406a-a19b-f3224a516499 By           6cb04f4d-23cd-44d7-97eb-9e590d2c2581 John Daido Loori
@@ -3235,6 +3280,7 @@
 3ac1d9bb-998a-4ccc-9d76-fcbff7d9d21c Translator   53d81bb7-0257-4a70-a4ca-f4358c7d672b Stanley Lombardo
 3ac33ba0-033c-4825-ba3f-b21df86aa221 By           6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd Hafez
 3ac4da9d-6679-45f4-88eb-63c3ee54f206 By           2bb2228a-2c94-4bc8-a777-2dd1cc6b65c9 Paramahansa Yogananda
+3ac65d27-4914-4d0f-bcb6-22dbd00cc44a By           009f3bf2-bc51-45c2-a2c2-963bcf3083a3 Saint Bernard
 3acd689d-a4af-4df9-820f-21fd6110806f By           b201cc24-b119-48e5-ab1f-ae84cdd442cf Han Yong-un
 3ad1d94b-ce52-49aa-9174-ed98d032d7a8 By           03530a9d-a33d-421d-9ad0-0ad1dc1ef375 Ali
 3ad2f348-fcb0-492c-a172-1236d803bb96 By           c6d47d7b-579d-4d33-834f-f5ee0ac54822 Meister Eckhart
@@ -3412,6 +3458,7 @@
 3e10424c-d719-4aee-b87f-8258a823b25c By           2a94e7f8-5b6c-424a-bcdc-53f29766b1a6 Thomas Jefferson
 3e104a87-5d04-4b2c-85e8-74f62943ca4a By           d16578db-1632-42c6-817b-bc6767dcba43 William Law
 3e114a16-9382-4a9f-b193-b4b0b190c091 By           f92dc1c2-4122-43dd-a39f-b10a4cf9708d Nikos Kazantzakis
+3e18d4ff-abef-418f-aaea-e897b07918c3 By           c9fbdc15-96d6-49d3-ba7d-1a497d2c39ef William Bernard Ullathorne
 3e1ce058-2b93-4281-a3d0-993314ad2f1c By           50de43d6-4c98-4c3f-af7d-d0c0155560b7 William George Jordan
 3e1f0854-76d2-482a-8518-aeea5bb821cd By           a3d7c651-d3d0-445e-9ad8-a56c794cec73 Ibn Arabi
 3e2bf943-9934-4fa9-b37b-24f6484e1aff By           fea118b4-12a0-4740-bfdf-768102ae1ee6 Innocent VIII
@@ -3505,6 +3552,7 @@
 3fb99ddf-d328-4029-a10a-62f9d93d967b By           234d44a1-903e-4a86-afa3-d9722e0ef6fb Francis de Sales
 3fca74fa-46ce-4913-bebb-e117f564f1ff By           1bc79e08-2a99-4457-8e1d-5ca193592765 John Macmurray
 3fca8be6-0426-4bd1-b5b3-e2b52939e2e1 By           8d7c47fc-59a7-4760-b71d-9461195a3950 Adi Shankara
+3fccb266-beef-4b97-9e1d-0f90dac1e2aa By           23c6c350-fb62-43c9-a01b-4542d523d992 Anonymous
 3fccbf5a-165f-4935-a54f-195655d4daad By           6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd Hafez
 3fd93aa1-39ce-49af-a905-0cf8062f6f57 By           NOT_FOUND                            Gary Emery
 3fdbc0cf-0fe8-44b7-b2e1-a67c8fc68a8b By           ead68d4b-12a1-4c82-bbb3-53dec0758b8b Lie Yukou
@@ -3514,6 +3562,7 @@
 3fefd643-955d-4578-85de-e6afd9a61d4d By           975fe9de-b52c-4b48-9379-5ff0c304b14a Laozi
 3fefd643-955d-4578-85de-e6afd9a61d4d Translator   80e2aa74-b000-4e31-8aa3-381e2571da56 John C. H. Wu
 3ff12fcd-c990-42b6-972c-3ddeb5673c11 By           fa85d12a-166e-4cd7-be00-9f03389ca78e Niffari
+3ff227d8-cd98-44b4-8975-359c88e82172 By           cabc39a9-c15f-4712-b9b1-81ce13dc8cda Milarepa
 3ffd55f7-1a84-4da9-95e3-5855864bbd8c By           0200c883-e38f-4554-92bc-2eba913426b7 Rumi
 400f7a07-b7b0-48f2-8b1f-067e583f91cb By           0200c883-e38f-4554-92bc-2eba913426b7 Rumi
 4012cd5e-b424-4afa-857b-6003d7582ade By           e46ff819-6648-47e0-8ead-ff8ef476ebb2 Benjamin Franklin
@@ -3622,6 +3671,7 @@
 41c554e0-09e8-4859-bd7c-d2d160df6966 By           6dd7fc6d-f576-41b9-abad-243279d9c830 Jahangir
 41c882e6-2eb9-48c8-a996-3ef48e196f25 By           b74cdb91-6ff8-4f7a-8f07-7aa1490c9565 Sendivogius
 41c927f0-71c5-4bc0-9dff-e39eff81c4c8 By           NOT_FOUND                            C. Jeff Miller
+41c9c9c3-993c-47cf-b1fd-cae08d6dbc49 By           ddae4034-c667-4bdd-8598-58b7c43b3e21 Ramakrishna
 41d0845e-99d6-49fa-80c2-018d069b1150 By           b7688e73-ea33-4711-900e-4d5900558386 James Allen
 41e17c65-b3ee-4bf9-917b-0cd560f1d276 By           82effc99-cd07-4dfa-8eb8-834d74147b70 Constantin Brâncuși
 41e2b4fe-3caa-4741-8c1e-4d49139bc5e6 By           e0db8c88-fe6b-45be-840a-8592a4fbf309 R. S. Thomas
@@ -3697,6 +3747,7 @@
 431a4d7d-21af-4756-a48f-cffe724d61de By           51a45898-5d0e-401d-a21f-48c4c8f3c6da Francis Bacon
 431d9305-a529-41c8-a493-fdbae19bd46f By           cb8c274b-ca6d-4a39-97ed-b6c9481e07c6 Frithjof Schuon
 432208d3-7d07-4f54-be7e-3ee037ae16da By           0200c883-e38f-4554-92bc-2eba913426b7 Rumi
+4326ceeb-bcf3-4876-bfb4-1726a8524b93 By           23c6c350-fb62-43c9-a01b-4542d523d992 Anonymous
 4327269f-18cc-4233-abcc-e676e3feb1ed By           1fd573f3-9e56-4686-8da9-622845581094 Mary Baker Eddy
 433460ff-4626-422a-a0e7-043235694843 By           975fe9de-b52c-4b48-9379-5ff0c304b14a Laozi
 433460ff-4626-422a-a0e7-043235694843 Translator   82eb5cac-293c-4d60-9203-971700a9a434 James Legge
@@ -3916,6 +3967,7 @@
 46ce07f4-8cfe-4b70-8043-2ce492fcb630 By           7660dee5-98f7-4b07-bd33-0d1a681aba7b Swami Ramdas
 46ce3beb-8310-4eec-a734-b0e39f0e2900 By           NOT_FOUND                            Alphidius
 46d5d279-56e3-4eb3-a859-a8700f65a35f By           4de44b73-d163-416c-9eed-b85ef8d42c70 Rainer Maria Rilke
+46dc7b97-875a-456a-9718-d9d6007ee400 By           752a28a6-af86-4015-a305-45320eb7758f Elias Canetti
 46e19ca0-99a6-4dfc-a7e4-9041d5f3d8a6 By           0c3918b6-1a08-4b2d-9e93-6d55c40c032f Samuel Johnson
 46e7c3a2-76e1-42da-ba92-23fa448d4fce By           009f3bf2-bc51-45c2-a2c2-963bcf3083a3 Saint Bernard
 46ea12ae-2887-4f29-affe-cc9ccbb79ce4 By           c954ca43-6ebb-4e87-a029-3aba556013f9 Erich Fromm
@@ -4099,6 +4151,7 @@
 4a0b4ebc-5f89-4aab-8cc5-aebacc66e7c1 By           7660dee5-98f7-4b07-bd33-0d1a681aba7b Swami Ramdas
 4a10c56c-8624-4e2f-8d52-5670dee6ac70 By           11fffbca-3b36-40f2-87b2-a29ef2f507ee Thomas Norton
 4a176157-515b-4a80-816a-266a541e3745 By           7137ab14-3deb-458d-9779-9dd194edcdc1 O. Carl Simonton
+4a1a02ed-cec0-4ef7-b80a-77e80d259f2f By           180019d9-652d-45dd-a598-de86fe1f1f8e David Liederman
 4a2dd98d-68ca-44cd-8550-65c632c5d0ff By           3b9a9355-beee-462d-aa2f-a0294b7424c6 Angelus Silesius
 4a3aa8f6-6086-499c-af07-2525eea47106 By           0200c883-e38f-4554-92bc-2eba913426b7 Rumi
 4a3aa8f6-6086-499c-af07-2525eea47106 Translator   75e2d2e4-6793-42d4-8ff6-28f71ed8b281 Reynold A. Nicholson
@@ -4194,6 +4247,7 @@
 4c2f9784-be87-4061-9c2a-39556a388609 Translator   745f6554-eb8e-4e42-b3ef-ce5b39b22ba6 Daniel Ladinsky
 4c3036d1-ba53-419b-aa1f-72af47de19c8 By           5407cd9f-2390-4950-8cff-af25f3210ea0 George Eliot
 4c383ba0-b85d-4e17-a075-02a39d7cc578 By           d9893a18-e1d0-4577-bc54-470241a75f41 Muhammad
+4c3bd54c-1ec1-4398-8af6-35f01bb2d530 By           ed635a86-9496-4d63-affa-14310c6a99b2 George B. Shaw
 4c45c109-3454-4f03-9993-9df595f3a8a6 By           0200c883-e38f-4554-92bc-2eba913426b7 Rumi
 4c47265d-6fd3-4d7b-8a96-a18101f87bf9 By           6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd Hafez
 4c490711-447d-4f70-b2d6-115e3f486180 By           0a6e5d4c-5a86-4baa-8821-73d4bd96ffa2 Woodrow Wilson
@@ -4208,6 +4262,7 @@
 4c6e3d19-e12b-4568-a867-2fec81137a2d By           0200c883-e38f-4554-92bc-2eba913426b7 Rumi
 4c6e3d19-e12b-4568-a867-2fec81137a2d Translator   0187e8ed-da74-485e-9564-00b73cc54cc9 Coleman Barks
 4c7080f3-63b8-4be2-89ac-7cbe11ef5ef9 By           2da9110e-eeef-44ef-add8-97d708a580a5 John Smith (Platonist)
+4c756a5d-2909-4eb8-9d6f-a09ce1a68c48 By           7e82b848-8bcc-4dda-87bf-55ca7cf913fa William Shakespeare
 4c7d7278-ef62-4b67-af0a-014a96baffa3 By           5c5f9ad8-a1c7-445d-92d2-333c51a387d0 Albert Einstein
 4c7ea844-4c53-429d-a465-0accb32f9b13 By           2f377271-cded-4a76-a342-b9b7a89e9573 Orville Dewey
 4c835033-a0ae-4311-9579-5892dbe28c0d By           d9893a18-e1d0-4577-bc54-470241a75f41 Muhammad
@@ -4235,6 +4290,7 @@
 4cc5842c-b697-4241-95c0-d29ff12874ce By           0200c883-e38f-4554-92bc-2eba913426b7 Rumi
 4ccce692-84b1-4134-8305-b39ee9542764 By           62d22bc8-0bbe-4498-a0f8-afdaa5d32389 Gampopa
 4ccdd45c-3be1-47d5-b2e8-d1c4ef0701ca By           NOT_FOUND                            Sue A. Ebaugh
+4cce5809-7946-4f44-9674-f1083baf4920 By           1c6b6800-9662-4a5f-ba95-042337810973 Yogaswami
 4cd62083-3df7-4826-8171-9740cb4d0fa6 By           4de44b73-d163-416c-9eed-b85ef8d42c70 Rainer Maria Rilke
 4cdc96e1-4fc0-47af-b479-779741987b80 By           0200c883-e38f-4554-92bc-2eba913426b7 Rumi
 4cdc96e1-4fc0-47af-b479-779741987b80 Translator   745f6554-eb8e-4e42-b3ef-ce5b39b22ba6 Daniel Ladinsky
@@ -4280,11 +4336,13 @@
 4d8d0cdb-40a0-4b3c-89a5-ad3f982a170c By           8bf88225-0263-4060-9a35-2e9d2c2db919 Jean-Paul Richter
 4d8e47a6-158e-419a-9829-29d5fc8b548e By           5d67c5e2-3eff-4600-84f9-43107d3001a9 Simone Weil
 4d901e9f-9ae3-4bf8-ba4d-e3eeff4d1b1b By           5306ff78-7334-4837-8245-e5bac2873c46 Sivananda Saraswati
+4d91303b-c37c-4bff-903d-a678f0b8bd30 By           NOT_FOUND                            Judith S. Nartin
 4d97473a-d32d-4e66-a9ca-0182cafa6a0e By           NOT_FOUND                            Ami S. Swetchine
 4d9b1de9-d5bd-4a0c-9ad1-6fc85baace54 By           d9893a18-e1d0-4577-bc54-470241a75f41 Muhammad
 4d9bf8ba-3421-4136-87be-29c09ac492f1 By           NOT_FOUND                            Giovanni Battista Nazari
 4da518c1-86c7-4d27-945a-a01aebaa5d9c By           ff726d3e-97f3-444b-bcdd-d36950acfb37 Quintilian
 4da6f22b-733b-49e9-a937-e3a57940754b By           ee5025c8-7d53-40f1-b9ae-b6120360eb66 Mahmoud Shabestari
+4da8941f-eb66-44e1-9b9d-21ad4dd9ac2c By           d3e4ba14-2c98-4d9a-b75e-4bc77356b2e8 Hillel the Elder
 4db1968d-e9be-49ed-bd68-d1cf9fc0e8c0 By           8adcd3d7-951e-43e2-80c5-d3df91374758 Stephen Leacock
 4db25256-b3c7-410b-86b3-10c287f191f2 By           ad2bbf8f-33db-45c1-8a07-038111dfe25d Hanshan
 4db79b36-e641-40b0-9ae8-76e97519276e By           2ea0e618-9ce5-4aa5-8510-7a29236cf189 Mary Pickford
@@ -4329,8 +4387,10 @@
 4e62443e-0726-4d27-b394-48cfb224f0e5 By           6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd Hafez
 4e6464c7-2f8e-49c5-b0e3-84dd799b24d1 By           975fe9de-b52c-4b48-9379-5ff0c304b14a Laozi
 4e6464c7-2f8e-49c5-b0e3-84dd799b24d1 Translator   931736ac-725c-4a27-a276-b18598b3b575 Ursula K. Le Guin
+4e68f73d-3f05-45c3-afac-0daa9d426f58 By           23c6c350-fb62-43c9-a01b-4542d523d992 Anonymous
 4e6a3d94-11e4-4521-ae23-9785aaff1f24 By           975fe9de-b52c-4b48-9379-5ff0c304b14a Laozi
 4e6a3d94-11e4-4521-ae23-9785aaff1f24 Translator   82eb5cac-293c-4d60-9203-971700a9a434 James Legge
+4e6b9479-b4ad-4623-9492-654022d20222 By           9070b1a7-b711-4e87-aba6-7b3781361912 Thomas More
 4e6ea697-756a-479a-b09e-36c02d062a11 By           2e4a0818-6aac-4ab6-badc-a8e7a4b0b5e0 Julian of Norwich
 4e724d31-7578-4fd8-bd59-89a01262c034 By           ca6fb155-39ae-4d53-8782-cbd6dc5ae0b3 Mahatma Gandhi
 4e74d12b-90aa-4bcd-90e9-28253bd45ac5 By           f3676f3e-3d57-4fe3-8b89-7b0e7915e393 Gabriel Rosenstock
@@ -4412,6 +4472,7 @@
 4fd78b6b-a683-4736-b40a-5a8faf471e5b By           c879e206-5b1b-4ebb-9da3-f5fe762b4892 Robert H. Schuller
 4fe40b4c-c7da-4a5a-b7b1-9d7650ec2715 By           ad2bbf8f-33db-45c1-8a07-038111dfe25d Hanshan
 4fed430c-df4e-4630-b7fc-042a41be9d96 By           aac46923-7f8d-44ca-b2a5-596299f4a21a Hakuin Ekaku
+4ff375dc-dcab-46ab-a2f3-30f4fe23f361 By           3361ef57-842c-46ac-a599-42d4d7be9989 Ralph Waldo Trine
 50000ad7-b7ae-49b0-a2ff-46c1baf84a42 By           c6d47d7b-579d-4d33-834f-f5ee0ac54822 Meister Eckhart
 501ba50f-93e2-41c8-8437-f77c8316d907 By           fb38eb6d-d81d-4490-b74b-2aa19f37d8d0 Philo
 501bb92d-0250-4fe6-a8b7-57a5bd5e675d By           a89408b4-866d-4927-924a-db2369d1d8c1 Karen Blixen
@@ -4584,6 +4645,7 @@
 52eb1cac-24d5-43bf-9e1e-576dccf31ff2 Translator   7ab175e3-a6b4-40f1-98db-5d7b9a056d91 Thanissaro Bhikkhu
 52ec5183-76db-4f70-b55b-47cbf7911479 By           8d7c47fc-59a7-4760-b71d-9461195a3950 Adi Shankara
 52edd630-140c-4502-9c0e-8c8fa54d0839 By           eaa1c488-9b8a-4656-893e-0737a688bf76 Ramana Maharshi
+52f33d22-a907-4a93-8a17-e488db1bcfc1 By           abdf3f88-b2fe-4d8d-afde-fd8c9be0d147 William Penn
 52f38582-a5a1-4c38-a48e-4075081cb7f2 By           ad2bbf8f-33db-45c1-8a07-038111dfe25d Hanshan
 52f75b5f-e3e0-4897-afdd-1d84e3c13fc5 By           5de25b06-fccd-4627-8499-90d1c83c4172 Hermes Trismegistus
 52f7ac91-fa5b-4d8c-9691-8597f9ac8cfa By           ef0ecb19-b725-4ed4-be4f-2f39807f9df3 Bayazid Bastami
@@ -4648,6 +4710,7 @@
 53ef0187-1601-406f-9dbf-36074b0b77bd By           045a48e9-948d-4cb9-bbd6-6695aa0181fd Abu Bakr al-Kalabadhi
 53f1769a-38f4-4bff-816c-c22901bd4df1 By           8f25a517-d3d0-48bf-8459-5f5a2ced78cb Manu
 53f47fdb-5b9f-45a3-bd75-84257baf9c50 By           ca6fb155-39ae-4d53-8782-cbd6dc5ae0b3 Mahatma Gandhi
+53f584e1-90eb-4a05-a436-f7eafce4f2f7 By           199b81b9-b363-4dd7-b262-4be2e71c89dd Jesus
 53f62ae5-aae5-4dd7-8f08-e33b61d28637 By           2927680d-f3e6-4a4d-a4a7-c8e0f1d209bc Pythagoras
 53f81580-7c98-409d-9ca8-9d68ea863744 By           NOT_FOUND                            Peter Stoler
 53fa182c-080d-414a-8442-8144f0024d41 By           62a809ad-fe76-4404-9663-53e49430b708 Basil Valentine
@@ -4685,6 +4748,7 @@
 5474e2ad-ab8c-43f5-ba88-f68a17f3964b Translator   801bf7c7-1bea-4dfe-ad73-81db5358627c Stephen Addiss
 5474e2ad-ab8c-43f5-ba88-f68a17f3964b Translator   53d81bb7-0257-4a70-a4ca-f4358c7d672b Stanley Lombardo
 547543bc-c260-47fe-9c87-57ce9eb39398 By           0200c883-e38f-4554-92bc-2eba913426b7 Rumi
+547edf03-0a24-4b5e-9a8a-e5a70c725f31 By           23c6c350-fb62-43c9-a01b-4542d523d992 Anonymous
 54809a8d-76af-44f6-ab4d-a9b23cb04170 By           0c61beb6-707e-4633-a4f5-67f16678e711 Edward Bulwer-Lytton
 5484318e-f20f-4dc7-a8b2-54ee528b622a By           NOT_FOUND                            Ariwara Nahihira
 548c8e4a-fc05-4d55-817f-8373b8d476c0 By           0200c883-e38f-4554-92bc-2eba913426b7 Rumi
@@ -4699,6 +4763,7 @@
 54ad4817-46f0-432a-91dc-526f5fac0a0f By           NOT_FOUND                            Christina Grof
 54b0e04b-026b-464e-a7e4-9ec2c02687b3 By           0200c883-e38f-4554-92bc-2eba913426b7 Rumi
 54bb1a07-e8fb-44b5-95b9-98098215ae04 By           5e803780-f642-411a-ac79-51f9c7c4fa86 Heinrich Heine
+54c30fec-76d9-4858-a97e-597a0fe6a844 By           NOT_FOUND                            Ahikar
 54c8b684-0039-4dcd-9124-73be6183fb31 By           0200c883-e38f-4554-92bc-2eba913426b7 Rumi
 54c8b684-0039-4dcd-9124-73be6183fb31 Translator   0187e8ed-da74-485e-9564-00b73cc54cc9 Coleman Barks
 54d955cc-a372-4212-827e-dffbb32cee7e By           23c6c350-fb62-43c9-a01b-4542d523d992 Anonymous
@@ -4753,6 +4818,7 @@
 56053f30-e9f5-41c8-9767-6d23eb19bd00 By           d15f4849-c002-41ad-bd11-e115125186c0 Al-Tahawi
 56073e29-4ed5-43b1-a111-207e0c5bf4cc By           6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd Hafez
 5619cf81-bfef-4e8b-8d60-31a4dc7543e2 By           7e82b848-8bcc-4dda-87bf-55ca7cf913fa William Shakespeare
+561fc125-b286-4226-9a6f-4f992b7c39dc By           7e82b848-8bcc-4dda-87bf-55ca7cf913fa William Shakespeare
 56211690-65ac-44b9-bcb1-6a36e21f1b78 By           660fe30e-7c7a-4e8c-80b2-7b5ddbb79f7a Bernardino of Siena
 56348105-531c-411c-9a85-abf90082e49a By           2fae5fa1-c815-4d2a-945b-f97c6f4822df Zhuang Zhou
 563a1315-5930-4f09-ad4b-eeadbb61abe3 By           dbded6b5-440a-47ef-9c1b-45c7e188c909 Al-Ghazali
@@ -4805,12 +4871,14 @@
 5758dfea-afe6-4304-a5b9-8d38ca39e7c8 Translator   80e2aa74-b000-4e31-8aa3-381e2571da56 John C. H. Wu
 575a34b1-d682-4d6e-8724-13e7b3e4a821 By           c779f71f-0593-4ea5-9086-6f31396ab9ba Dhul-Nun al-Misri
 57713678-f075-4236-af75-fac294031178 By           f6ddb84d-e89d-4452-8f8c-0a107e28a5db Dionysius the Areopagite
+5771f093-92fc-4e48-bb91-78e13e6b0000 By           604ff2ba-368d-449d-8880-785a6ddd9ecc Martin Luther King Jr.
 5791d6ea-350f-4b8e-b9a7-284596ce9f83 By           1aa04209-6053-4474-8382-a71ab4357b4d Ralph Siu
 57964306-9615-4084-944f-1518498bf579 By           4039f129-53a9-474f-b189-f9b254831649 James Russell Lowell
 57a0faac-845c-4095-bb60-22aca4e07af2 By           e07ab66a-8e94-474c-b025-ff98ab89ca50 John Ruskin
 57a380d5-7ff1-48d9-99ae-f35d32c36e30 By           0200c883-e38f-4554-92bc-2eba913426b7 Rumi
 57a46262-dd43-4c5f-afcd-11033ebb8601 By           ddcdb5eb-6c80-4fd1-91da-0ceb41d7e16d Dante Alighieri
 57adb156-7d49-4af9-b129-eecef0b7d5b9 By           cf8cc8ef-d68b-481a-b94f-1f52331faf6f Ralph Cudworth
+57af7c15-c12a-4eb4-b8e7-fef4047a74a3 By           51a45898-5d0e-401d-a21f-48c4c8f3c6da Francis Bacon
 57c0a67d-40d3-4139-9e09-7882edbecc81 By           b36b057c-b1ea-493f-8096-492f05f36192 Kūkai
 57c5bb8f-0bbf-4db2-8c58-c7d22f2c551d By           NOT_FOUND                            Comtesse Diane
 57c8971b-c9f5-4467-a37e-a6c05deeda8f By           84c50365-d446-4d40-b373-9ebf9c477894 Arthur Schopenhauer
@@ -4885,6 +4953,7 @@
 58e864fe-d4e2-4bf1-8751-7319383962fd Illustrator  NOT_FOUND                            Anna Emilia Laitinen
 58eca9b6-16f6-4e3e-bb3c-dff187121f33 By           ddae4034-c667-4bdd-8598-58b7c43b3e21 Ramakrishna
 58f12640-d6e6-4762-8403-0e3638f57dd1 By           f6ddb84d-e89d-4452-8f8c-0a107e28a5db Dionysius the Areopagite
+58f24804-d6eb-4b4f-bc03-31343e1e8d93 By           e07ab66a-8e94-474c-b025-ff98ab89ca50 John Ruskin
 58f338a7-ccc0-41e4-860a-2750373fbb50 By           52b1f0a6-a189-45a0-9bf0-5cd56e054225 Meher Baba
 58f66d67-ae80-4d42-8d69-897adb4a3a1f By           ddcdb5eb-6c80-4fd1-91da-0ceb41d7e16d Dante Alighieri
 58fd036c-bc0f-48d5-b215-65833f5ca4c8 By           6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd Hafez
@@ -4929,6 +4998,8 @@
 5a10c4b0-3597-4123-ac5f-fd1d4fc74543 By           80a90d26-898d-4b24-bcea-9b638c7ca0de E. W. Howe
 5a156bc2-206c-4012-941a-f871dd1b9aa1 By           231e51ed-9690-46ea-8258-c5595e60b7b4 Huangbo Xiyun
 5a18383a-2058-4774-bdf5-cc6880b32d15 By           c6d47d7b-579d-4d33-834f-f5ee0ac54822 Meister Eckhart
+5a18b298-984c-4384-a0f5-fb5f1021d5f5 By           9b057856-1cfe-40a5-b310-e141671ea0cd Plautus
+5a1fcd79-59df-4a5f-b9ed-8b48ac66f249 By           NOT_FOUND                            Maharaj C. Singh
 5a334bb2-ca5d-45bc-b1f0-7ed7d4c85d2a By           2a9cd80e-8ee9-42f8-9c09-0b39a28ab558 Joseph Addison
 5a33b2c5-5d09-45aa-90f8-f9df08eb6057 By           5306ff78-7334-4837-8245-e5bac2873c46 Sivananda Saraswati
 5a3524d1-ae91-4f89-9d1a-268fdf4d7e80 By           b201cc24-b119-48e5-ab1f-ae84cdd442cf Han Yong-un
@@ -4984,6 +5055,7 @@
 5b1c65ef-0296-41e6-bd1f-49f43ab85734 By           cb9dd08b-1552-4ce3-9755-bcd8a96aa8fe Chandrashekarendra Saraswati
 5b1e6f56-f32e-4ac2-ac1f-f46868c07a74 By           b196d961-bb04-43c8-9462-a9acd76413fc Ralph Waldo Emerson
 5b1e8cfb-9ecc-4ae1-8a7a-033e874014f1 By           6e0c4786-f373-4bfe-bb80-e42e5eeeed81 Corliss Lamont
+5b28556c-a51b-4170-a1c9-6e9b988b9b6f By           NOT_FOUND                            Johann W. Zimmerman
 5b2b14f3-d32f-4bf8-8166-a8a2e9e8114a By           6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd Hafez
 5b3087cf-5915-45fc-9e8f-132bbf5fa9d4 By           975fe9de-b52c-4b48-9379-5ff0c304b14a Laozi
 5b3087cf-5915-45fc-9e8f-132bbf5fa9d4 Translator   3571695b-e6ef-4075-9e5a-6b5b28f0e0da Douglas Allchin
@@ -4995,6 +5067,7 @@
 5b5ab44b-273a-42f3-9cde-71692abab295 By           f27c6d9d-a492-4af8-a396-a747f4ce2386 Jianzhi Sengcan
 5b636398-cc8b-46e7-8db1-1e122b87fab9 By           3b9a9355-beee-462d-aa2f-a0294b7424c6 Angelus Silesius
 5b64cc8c-c765-4e13-8e29-44ed206d7bd3 By           eb195209-3cc3-4b14-ae4f-67abbfe0ae2e Saint Nuri
+5b697982-ba26-48e1-b1f3-fa0aa3425a78 By           3073ba96-e44e-42b7-a9aa-fe35de989da3 André Gide
 5b71a591-6941-486d-a9b9-d4ee0147d610 By           7660dee5-98f7-4b07-bd33-0d1a681aba7b Swami Ramdas
 5b73bff6-4023-49f7-b0d2-2e3ea0f2e4c2 By           e4a7ef62-108e-4a45-a7f2-233a2f6b6acf Thomas Alva Edison
 5b75e75b-05db-4814-9f4e-50df29baa0be By           9a9e06b9-6495-46d2-ab12-a558c8341c16 Ibn al-Farid
@@ -5239,6 +5312,7 @@
 5fafa362-ac50-4a9e-90d1-16962e685b07 Translator   457091f9-2ec6-4884-b08c-347681ae9e51 Red Pine
 5fb0523d-d495-4490-8db4-e1ffd885d04a By           f27194c4-4bcf-4c30-8ff6-9e260f662b48 Augustine of Hippo
 5fb314c7-9714-4ee9-9f7a-5e24a5c18b63 By           6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd Hafez
+5fbfeffc-13e3-43bd-be50-21acfe86c386 By           97167e3b-c0a4-46fb-a23d-c7e666ff445e Thomas Fuller
 5fc7efad-091f-400f-aac9-59547037d59c By           f0a82707-cd67-4b94-bd46-f94fe76efd15 Anselm of Canterbury
 5fcf48a9-45e6-4237-9e4c-97e6d70ad3bb By           6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd Hafez
 5fd6bba6-91b8-490e-bb20-22139720ef96 By           7660dee5-98f7-4b07-bd33-0d1a681aba7b Swami Ramdas
@@ -5268,6 +5342,7 @@
 60570a74-4523-491e-9363-e9fed5148dfd By           c8fe24ad-d292-4155-bfd2-d8240a5f0be8 Kabir
 60587271-3b1a-47a4-bbe5-1b9f873545ae By           8d846d39-e195-4a7f-952c-7b30f31573fd William James
 605ce93b-d634-4e42-817c-da6ee986955c By           199b81b9-b363-4dd7-b262-4be2e71c89dd Jesus
+605df9d9-bd1a-40c5-bb97-67f6c930be85 By           NOT_FOUND                            Sanaya Roman
 60794340-1b6f-4167-9e26-0cf51241017f By           ddae4034-c667-4bdd-8598-58b7c43b3e21 Ramakrishna
 607c0ccd-d482-4318-a0d2-b8c814609ae4 By           36162b99-6b85-4867-845d-e42e7575f71c Hans Selye
 6080d601-9c62-4325-8d51-d7f21b1c5c07 By           NOT_FOUND                            Harper Havelock Coates
@@ -5300,6 +5375,7 @@
 61013794-758f-44f8-bd97-618bf6ccf15d By           fbf6ce01-3a71-4401-8609-a6822aafb4a2 Plutarch
 610d8a2e-a0ab-423b-ad8a-65b356bd52c7 By           e682bbc9-4b25-4a7e-8038-0ef925233e83 Plato
 6116db4f-44cb-495d-9bba-831bf745b9d1 By           116eb804-2377-45ea-af68-4da3a67795a5 Ibn Ata Allah
+61171adf-2b03-4da2-96c8-85a1da827088 By           7660dee5-98f7-4b07-bd33-0d1a681aba7b Swami Ramdas
 61196a4e-7d40-4d4a-921e-f980ea23f379 By           0d83bfb8-14f1-4070-a1a3-5914c9144c2b John Heywood
 611b48ba-be6d-4e58-be35-7f1e0c915039 By           ff92b5fb-0512-4f26-90c5-4194feee98da R. S. Gwynn
 61217a90-7c56-4eb2-84ff-b6ef1a0fedfa By           ed21def1-5411-4584-b991-fa77f5415d14 Gautama Buddha
@@ -5338,6 +5414,7 @@
 61b40bf4-0a00-4685-b388-b5f8da675f4a By           c4db2196-3455-4874-bc6d-ec3456989371 Richard of Saint Victor
 61b507c8-c053-4a61-9c1e-1472f22f3f2b By           0200c883-e38f-4554-92bc-2eba913426b7 Rumi
 61bad616-53d6-4e1e-a882-c5a39972b9ce By           aac46923-7f8d-44ca-b2a5-596299f4a21a Hakuin Ekaku
+61bf9c9a-802b-43ae-bdcd-e99f02ba1d77 By           190c4223-8ec1-406a-ae37-7195172553d2 Sun Axelsson
 61c2048e-b70c-4b76-b61b-4077a96efead By           ad2bbf8f-33db-45c1-8a07-038111dfe25d Hanshan
 61c311eb-f914-456f-abc2-306c9dca1cb5 By           ad2bbf8f-33db-45c1-8a07-038111dfe25d Hanshan
 61d2d493-6205-400c-a3b5-44cb08444d6a By           11fffbca-3b36-40f2-87b2-a29ef2f507ee Thomas Norton
@@ -5770,6 +5847,7 @@
 69b61589-581d-4b8b-a79c-964386eeb975 By           75a22d59-0a46-4476-9afe-18777b604480 Han Yu
 69b61589-581d-4b8b-a79c-964386eeb975 By           1aa04209-6053-4474-8382-a71ab4357b4d Ralph Siu
 69b80979-3795-4a1b-b118-4f8e718f2e3b By           c6d47d7b-579d-4d33-834f-f5ee0ac54822 Meister Eckhart
+69b80f6f-5006-416f-9cf9-fea09e4c72d7 By           b0af6833-f01f-45dd-8997-d0d0ce971b52 Henri-Frédéric Amiel
 69bca190-82bb-4708-9948-79cdea77fd91 By           e79ad275-e58e-4830-a213-35dfb3b99fb5 John Dryden
 69bf7da0-21a2-47cc-9315-5d35667d46ca By           4307ec46-6d79-4cef-82ff-32a09fce5df9 Paul
 69c4e943-4f4f-4e3b-9a31-9e50559bbbfa By           36eb5d54-4d11-405a-b7e1-fe4f0f7ee098 Alphonsus Maria de Liguori
@@ -5849,6 +5927,7 @@
 6b435d03-8e43-4e4b-8eba-6ab799a03bda By           c4df86cd-74fd-404e-a096-6efb1f51b3b1 Paracelsus
 6b46efe8-530c-4089-b911-f36c05071ff9 By           30fec1f0-78aa-4f80-a6cf-53b7f014f98c Henry More
 6b52868e-d321-4dda-a8c4-13dcca000d8d By           62d22bc8-0bbe-4498-a0f8-afdaa5d32389 Gampopa
+6b57d85f-4dcb-43fd-b874-8a60b17f802b By           975fe9de-b52c-4b48-9379-5ff0c304b14a Laozi
 6b746ed4-7a5a-49eb-b6da-d10cc84fc397 By           5306ff78-7334-4837-8245-e5bac2873c46 Sivananda Saraswati
 6b759979-848c-4319-9531-f88f3c3c7d80 By           0200c883-e38f-4554-92bc-2eba913426b7 Rumi
 6b75c553-0ca3-416d-a401-a10f8136c6d0 By           fc0aad88-ec13-4c47-b6e0-f93fa4e912f2 Margaret Mead
@@ -5866,6 +5945,7 @@
 6b9cd2c9-eac9-423c-a89b-48aefb17a74b By           37fce9a0-0bd0-4129-a2cf-f3626a4fcd52 Jean-Pierre Camus
 6b9f040b-31e9-4dfa-a5bb-e6b2fbfb6b6f By           b201cc24-b119-48e5-ab1f-ae84cdd442cf Han Yong-un
 6ba07f8e-ff61-4502-9a17-74ccff308aab By           fca26fe7-d9fd-4e62-998b-2d610b1386d3 Allan Kardec
+6ba40b09-f321-4904-b717-397554344bc2 By           d8eae47f-30a7-40d6-8f4b-38d132360546 Inayat Khan
 6ba8d9ac-aaea-42a7-9786-a45570e1e2f9 By           578a634c-4a5c-4958-8356-57610515f3f3 Charles Stansfeld Jones
 6bafb8ad-4bf0-4e4c-9de0-4b037fbb72c6 By           6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd Hafez
 6bb0990a-394e-4aac-b47b-3e66a4a01331 By           e92fad99-6914-41c2-a93c-e82b28742356 Heraclitus
@@ -5934,6 +6014,7 @@
 6cdc8c36-b90b-4e3e-bdd7-41d2449ff824 By           57c45b00-2aae-4e3e-9b5c-cc3684609dc2 Walter Hilton
 6cde46ea-b375-4558-96c3-319df5a484ca By           50f488e9-707b-45b9-a06e-c37eb0077148 Charles Eastman
 6cefdefe-09dc-4293-a35b-e4459a6de5e1 By           0200c883-e38f-4554-92bc-2eba913426b7 Rumi
+6cf38bdc-0e27-49a0-8004-f555dc6fe9e0 By           2b3198d6-1b51-4a34-aaf8-3078325c7fc0 Antoine de Saint-Exupéry
 6cf6f15c-e5ca-4b9d-897c-616b07989c22 By           348a021e-9d15-4b71-8524-4f61a2ff4f7b William Faulkner
 6cfc89ad-fa88-4655-907b-0fb5d06d8c40 By           8aaf4723-a856-4842-906b-8b0a3bf5180d Anandamayi Ma
 6d021ff1-9085-4cf1-8a3d-0e04eff2f8a4 By           cc083ead-597d-490a-82ed-a83c94c6f68d Peter Baida
@@ -6093,6 +6174,7 @@
 70140ff8-33ed-4842-8d76-03348557d361 Translator   80e2aa74-b000-4e31-8aa3-381e2571da56 John C. H. Wu
 701799f9-c02e-4cee-9cbb-42f38d903098 By           c1a2997d-afb0-48c0-91d8-cd5e37038a11 William Makepeace Thackeray
 701c8286-5af7-4ecc-ab1c-81d7ede2fd8c By           NOT_FOUND                            Conjure One
+70212836-8b41-4e39-b866-18d6d01755ec By           d9699968-c650-4e31-a1b8-e71093670c41 Will Durant
 7024e075-ea3f-4df7-80b1-f7a79d2728a3 By           7924209b-9806-46b5-9cf9-d8ab50b4563e John of Ruysbroeck
 70265ccf-899d-4aa1-a717-85104a4aa4cb By           dbd75b4b-5e82-4bbb-8763-7f1005f528e6 Anne Morrow Lindbergh
 7027c2d8-898c-4838-a449-f399d8551428 By           4a1b243c-8564-4858-b813-6f2f683f39a2 Dōgen
@@ -6221,7 +6303,9 @@
 723bde5b-8941-45e0-bbb2-7ae8835beeda By           22fcce4e-14ab-4aca-8b85-76040b60a193 Seneca the Younger
 723c213b-fb0e-4b58-a1e9-bcfb4c9b91d0 By           c6d47d7b-579d-4d33-834f-f5ee0ac54822 Meister Eckhart
 7244053a-5b71-43d2-9efd-04b25c8fb977 By           8aaf4723-a856-4842-906b-8b0a3bf5180d Anandamayi Ma
+7259e497-fcb0-4777-8c8e-9195748170d9 By           5be21ab0-ed01-4f1f-b753-108a61e1e81c Robert Browning
 725f25ba-2731-4014-9ac7-30f92a7a7d47 By           ad2bbf8f-33db-45c1-8a07-038111dfe25d Hanshan
+725fc17c-b9b0-40b5-8e49-46a08d961de3 By           5306ff78-7334-4837-8245-e5bac2873c46 Sivananda Saraswati
 72649ebd-7ee3-4f0f-b884-a1c55c39cc44 By           8eaa6489-08a2-4046-bdf9-3cb37c1b35f1 Vincent McNabb
 72678852-544c-4f8f-a1d4-f24609c6fb27 By           234d44a1-903e-4a86-afa3-d9722e0ef6fb Francis de Sales
 7268fb1e-9438-4eba-99fc-cc58866c05b5 By           ad64736a-755c-4d7b-bd9a-e3a2e329887e Marsilio Ficino
@@ -6286,6 +6370,7 @@
 7367f369-c250-418b-a251-45a6a36f26a1 Editor       1aa04209-6053-4474-8382-a71ab4357b4d Ralph Siu
 7369580b-b3ab-40b9-b4b1-5dcaa19331be By           c6d47d7b-579d-4d33-834f-f5ee0ac54822 Meister Eckhart
 736e08f5-ca9a-4fc8-9bfc-9d499b256fcb By           dd60f620-775a-450e-bae4-8c8f4ef98bfb Nicholas of Cusa
+73713f19-8f80-42e7-b44d-0daab4cfc1f7 By           eceb45a9-b6f2-439f-b1e2-d30fa2c652fc John Milton
 73749f31-0529-4734-a884-16a71ba1386d By           6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd Hafez
 73819c29-7567-4283-8392-c70c41c4d072 By           6185da43-fe64-4bb8-94d9-e17b798bb494 Mencius
 738c762e-4bb9-4d87-a5ec-08ebfe671a57 By           d9699968-c650-4e31-a1b8-e71093670c41 Will Durant
@@ -6302,12 +6387,14 @@
 73dd85c2-2801-427e-bb3e-c3e36901f1d7 By           NOT_FOUND                            Leland F. Wood
 73e09cad-fa94-4d4e-afc3-32c24eb127d9 By           975fe9de-b52c-4b48-9379-5ff0c304b14a Laozi
 73e09cad-fa94-4d4e-afc3-32c24eb127d9 Translator   80e2aa74-b000-4e31-8aa3-381e2571da56 John C. H. Wu
+73e198f2-3c5b-49bc-8e57-82b1796e6486 By           ed0889cd-1901-4697-9656-d4a0ec71fc6b Alan Watts
 73e2dc58-ad7f-4ccb-bb15-8e2001f6cc06 By           e79ad275-e58e-4830-a213-35dfb3b99fb5 John Dryden
 73e3be18-08b5-4b6a-a396-55963f0f6145 By           b201cc24-b119-48e5-ab1f-ae84cdd442cf Han Yong-un
 73f8492d-7c6b-47af-bf5a-484b4997419f By           5de25b06-fccd-4627-8499-90d1c83c4172 Hermes Trismegistus
 73f8dd47-8f3d-4a4a-b962-f0cea350b3d5 By           c6d47d7b-579d-4d33-834f-f5ee0ac54822 Meister Eckhart
 73fedd9a-c9a9-4bcf-8de4-b44ded6c8282 By           e516f932-cfdd-4dcf-9024-659cee569af0 Jili
 73ff27c5-14d1-4d86-ac63-cdd0e0b44711 By           a9b17b0f-552e-492e-b71a-e2b073f4341a Swami Paramananda
+74019ff1-441d-45db-8602-daf7c30d6709 By           da184f92-f119-42ee-8e45-06ab31cd9624 Thomas Merton
 740ea511-3718-464e-a69d-a8da1c3638e4 By           16051d9e-30ba-4a95-8305-efd89c4a797d Eisai
 7418d399-3cd1-4b42-8081-10532867a933 By           e7ece9a5-2408-4418-abcb-973cdd95c670 Ibrahim ibn Adham
 74239bfa-d94c-4392-ae87-ef3f82d9e26c By           c6d47d7b-579d-4d33-834f-f5ee0ac54822 Meister Eckhart
@@ -6526,6 +6613,7 @@
 77e4efed-762b-40f3-94e5-a163f4ec37b8 Translator   3571695b-e6ef-4075-9e5a-6b5b28f0e0da Douglas Allchin
 77e54b27-8070-4752-b3e1-3a431521f65b By           NOT_FOUND                            Colin Oliver
 77f0b4a3-6ff7-4bce-a734-19579c682e46 By           6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd Hafez
+77f23e74-558c-42b9-b10c-29e5c377a147 By           975fe9de-b52c-4b48-9379-5ff0c304b14a Laozi
 77f47e1e-a481-47fa-a9b0-9385ea481a85 By           5de25b06-fccd-4627-8499-90d1c83c4172 Hermes Trismegistus
 77f81c08-2455-4496-bd54-5280fb101961 By           ddefda88-52aa-4e4d-a5b8-2518cd90c54b Burrhus Frederic Skinner
 77fbdc76-3b6d-443e-b3a6-9b0b142d3d95 By           0200c883-e38f-4554-92bc-2eba913426b7 Rumi
@@ -6687,6 +6775,7 @@
 7a8f9133-36ad-47d8-af75-beeabd2abcf7 By           f27194c4-4bcf-4c30-8ff6-9e260f662b48 Augustine of Hippo
 7a91fe3c-7f39-4ff9-a470-111762f8d8d6 By           adfe10c0-904b-4994-938d-a600b482890f William Ellery Channing
 7a9247fb-cb88-438e-9c5c-2b4dc2979d28 By           d9893a18-e1d0-4577-bc54-470241a75f41 Muhammad
+7a976509-0b42-451e-bf92-7af7bc18df37 By           eaa1c488-9b8a-4656-893e-0737a688bf76 Ramana Maharshi
 7a9dbc03-ad1f-48cf-ab58-5a66032f7f51 By           NOT_FOUND                            Geshe Sonam Rinchen
 7a9dbc03-ad1f-48cf-ab58-5a66032f7f51 Translator   NOT_FOUND                            Ruth Sonam
 7aa87eff-eef2-4c35-aade-e1a37e631d2f By           23c6c350-fb62-43c9-a01b-4542d523d992 Anonymous
@@ -6762,7 +6851,7 @@
 7befe693-7407-4958-a7f9-90a3508ed07f By           NOT_FOUND                            Tse-sze
 7bf3771d-e0a2-4f33-ac2b-234e49d2699a By           975fe9de-b52c-4b48-9379-5ff0c304b14a Laozi
 7bf3771d-e0a2-4f33-ac2b-234e49d2699a Translator   b56381e5-4328-45e3-b40b-561f0acd5043 Peter Merel
-7bf3e5a1-2dcb-4064-ae05-2ab01155b564 By           NOT_FOUND                            Francis G. Wickes
+7bf3e5a1-2dcb-4064-ae05-2ab01155b564 By           26ca8b60-5ce1-418a-b7aa-18897cebd732 Frances G. Wickes
 7bf8e570-d0c5-4d77-97f5-e4e063ccded5 By           92f90131-5632-4e76-b0bf-28796933efc4 Shantidas Adhikari
 7c01ada6-9ce6-4f69-85e3-b158205fe988 By           3ade600d-9e69-4006-96dd-a89e778f01fe Johannes Tauler
 7c03ae28-f198-495f-9ecf-b4dbb46be0ba By           19b3e184-3740-41c8-8e27-4a9a1a911cae Khwaja Abdullah Ansari
@@ -6802,6 +6891,7 @@
 7c72cae6-5c57-4b6c-aefe-0ea7c0c8b9f1 By           c6d47d7b-579d-4d33-834f-f5ee0ac54822 Meister Eckhart
 7c76d054-e245-45a9-8514-7a1feb09eee0 By           7e82b848-8bcc-4dda-87bf-55ca7cf913fa William Shakespeare
 7c87c967-ad75-4f7a-8b6e-c2a62bf6d58f By           ca6fb155-39ae-4d53-8782-cbd6dc5ae0b3 Mahatma Gandhi
+7c913fe6-72eb-4253-a806-8a716f85f2f6 By           da184f92-f119-42ee-8e45-06ab31cd9624 Thomas Merton
 7c93fed3-9601-45e5-af1d-a16a57a180c9 By           413aeb6a-4123-411a-b59d-fa432d3d35eb Harry Emerson Fosdick
 7c996acd-d540-4077-bc0b-205106ee3026 By           e42f9114-7867-4022-be7f-1561b8d8a72a Peace Pilgrim
 7c9a6bda-b003-41eb-a360-9b932a3a838e By           5aa9843f-0bce-492c-a3e0-ce6120fde7d9 Gregory of Sinai
@@ -6909,6 +6999,7 @@
 7e59a086-e7eb-4a55-9264-59c9d0812dbf By           NOT_FOUND                            Ryllis G. Lynip
 7e61f908-8a2a-47f2-bf4c-9db0700931bb By           ad380721-8c1d-4780-9ca0-4aeac850eb33 Saadi
 7e63bd02-2be0-4736-a2af-49070139c22a By           236549d0-4209-44b7-a553-d02b57cdb0d8 Thomas Raymond Kelly
+7e69d895-a630-4c4e-80e4-3706b21ec13f By           237fbff2-4d41-4c05-b58c-d0d6e3d44957 Charles Spurgeon
 7e6d5a9d-51a2-4da4-92fd-e118803c4c71 By           a27600bb-e063-490b-a3f2-a16f732c69e8 Attar of Nishapur
 7e719e76-ec44-47b7-a20f-60cc34a9e8c2 By           6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd Hafez
 7e7899e8-695d-4d44-aaaa-05fb61fb7cae By           666bdb6d-d99a-4ac3-9b28-43527da47b87 Stobaeus
@@ -6940,6 +7031,7 @@
 7f150587-e80f-45dd-8fd9-699a176c7bcf By           da184f92-f119-42ee-8e45-06ab31cd9624 Thomas Merton
 7f1d8809-a08b-4fa2-a9c1-4b21e4f868a4 By           6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd Hafez
 7f1d90c4-0bb8-4174-9649-bc0db02d9c7f By           6c8156a8-953d-4ec1-bb4f-b99fa9d4be1f Ali Hujwiri
+7f1db0e9-e930-468c-bbc7-23626bf70188 By           NOT_FOUND                            Phillip D. Stanhope
 7f2321eb-9df8-427a-8dca-8e97d59af5e6 By           4303fa16-4ff9-4236-938f-12ce437e48cc Rabindranath Tagore
 7f233721-51dd-4c8c-8e55-f2b7661df8d0 By           c6d47d7b-579d-4d33-834f-f5ee0ac54822 Meister Eckhart
 7f2382d2-766a-4cbe-86db-ef4740f05d71 By           ddae4034-c667-4bdd-8598-58b7c43b3e21 Ramakrishna
@@ -7136,6 +7228,7 @@
 81fb3210-5752-4894-a0db-34b42abf6519 By           48bbde25-a816-4966-91c1-ebc4ad9613d3 Ovid
 81fda005-795e-4ba1-9fe0-c4c35f2a4a46 By           8e3d0f60-7c10-4fb1-8d4a-3e2eb3d26d35 Jean-Paul Sartre
 81fdaf88-af79-433a-8268-5a8fdf00a92e By           62a809ad-fe76-4404-9663-53e49430b708 Basil Valentine
+8201e66f-9d7f-4ace-9ad7-fa209943b2e4 By           5306ff78-7334-4837-8245-e5bac2873c46 Sivananda Saraswati
 8205a17e-db6f-4866-b531-a0e011727157 By           093da0e2-ffa1-4058-9767-a51185823df6 Peter Sterry
 82088a35-6d4d-447a-a0a4-111edd4d1bd5 By           975fe9de-b52c-4b48-9379-5ff0c304b14a Laozi
 82088a35-6d4d-447a-a0a4-111edd4d1bd5 Translator   931736ac-725c-4a27-a276-b18598b3b575 Ursula K. Le Guin
@@ -7166,6 +7259,7 @@
 825e525a-fc85-40f1-8906-0e6ed5278989 By           aae1e4e7-c3c3-4491-b6a0-3ec3e0dc4237 Thomas Paine
 826173e6-74f1-4dfc-9c3a-8dc38a620d65 By           fff06bbf-4068-455a-8bcd-7fd52386fd02 Hugh Blair
 826959e1-8643-42ed-8af4-0fe9e1d5f4e7 By           d16578db-1632-42c6-817b-bc6767dcba43 William Law
+82738e56-058c-4a05-837c-816c8e9f85d6 By           f4cf64fa-2ac5-4d1d-a113-36e8ff2ff53d Ptahhotep
 8276d6ee-64a9-482d-a908-f1a0466bbb1b By           0200c883-e38f-4554-92bc-2eba913426b7 Rumi
 8276d6ee-64a9-482d-a908-f1a0466bbb1b Translator   75e2d2e4-6793-42d4-8ff6-28f71ed8b281 Reynold A. Nicholson
 827d8cf3-d2f8-412f-895c-ebf7c359923b By           62d22bc8-0bbe-4498-a0f8-afdaa5d32389 Gampopa
@@ -7286,6 +7380,7 @@
 84486ff7-33d1-40d8-9518-733d9448cc2d By           38b5b9af-43de-468e-bdbc-5158735d6a96 Billy Graham
 845140e2-c69d-4035-86de-5fdfcaafe121 By           973db304-4c04-485d-ae87-e9585d7bbcee Johann Wolfgang von Goethe
 845284de-9d73-4d36-a3d9-21d6fd77eac5 By           ddae4034-c667-4bdd-8598-58b7c43b3e21 Ramakrishna
+84538dd3-e268-4b6d-abd1-6594aee8032b By           43ed5977-ae51-43e1-93fd-a0606b392055 Baal Shem Tov
 845b2578-81bb-4f08-adcd-e266afd797fd By           c4db2196-3455-4874-bc6d-ec3456989371 Richard of Saint Victor
 84622b12-d593-4f05-93d7-c3edf0d44d0e By           542d1d26-604b-444f-a7c2-b5369edfd3ef Maimonides
 84677797-a882-4282-b58a-0fcc28767eb6 By           e682bbc9-4b25-4a7e-8038-0ef925233e83 Plato
@@ -7383,6 +7478,7 @@
 85bf7122-1f63-43aa-aba9-de68f29600a2 By           1cfe7bec-ada4-4db0-889b-bd908db11a3b Ray Mitchell
 85ce8173-2883-48b1-bc95-c5553a26b739 By           5102f164-4a17-41ff-9451-bec0a92f5b16 Eliphas Levi
 85cfab49-c7ac-4b05-995e-185a61c6f473 By           41f3bb02-c1af-4552-9a53-696bfd18ecbe Padmasambhava
+85d3f132-feb5-4c30-983a-2ab12dd3e7b4 By           b73a12e8-d617-464f-959e-2b47f9720c14 Fred Van Amburgh
 85dbcd44-603a-4586-8e22-3ae62e6adf80 Translator   e94a636c-e53a-46be-bf41-f92283aa95b3 Burton Watson
 85ddd51f-7e5f-47d1-87a9-9d20e0cd9b5e By           fbc4a801-52f2-4f26-84cd-d6cbe4932f18 John Wooden
 85df8f8d-c6d2-4ff4-b690-2b7725487cdd By           f27194c4-4bcf-4c30-8ff6-9e260f662b48 Augustine of Hippo
@@ -7451,6 +7547,7 @@
 86dfa73a-ccfb-4e46-b7f9-0031c2a29177 By           cbc73f7a-2160-4871-8a53-817440121904 Paul Brunton
 86dfba5a-d531-4571-bd55-db2c77df5076 By           0cee8366-9502-4dd8-906a-1d8074735b71 Philolaus
 86e616bf-4b51-4722-997b-f872bd670619 By           eaa1c488-9b8a-4656-893e-0737a688bf76 Ramana Maharshi
+86f2912e-ac0b-4a61-a1e0-8492eeb62348 By           c9d03c29-f599-4f90-a9ff-8edd9cba94a3 Jane Porter
 86f5fd92-fed8-4fc5-ae23-52a120e05403 By           e0e198fe-6897-4aec-a5a2-9e4b908afaee Martin Luther
 86f5fd92-fed8-4fc5-ae23-52a120e05403 By           1aa04209-6053-4474-8382-a71ab4357b4d Ralph Siu
 86f7f7a8-b89f-4aff-8bc0-bb0f81c41dd0 By           30a25115-8bc1-429a-89c2-6509ad580a32 Abu Sa'id al-Kharraz
@@ -7544,6 +7641,7 @@
 88b2c972-2dae-424d-aeab-e5b674915483 By           0200c883-e38f-4554-92bc-2eba913426b7 Rumi
 88caf678-48d5-4d14-bf54-1334bf235e7f By           c6d47d7b-579d-4d33-834f-f5ee0ac54822 Meister Eckhart
 88cc625e-4aac-48c0-8ea6-c361c2ea2e79 By           7660dee5-98f7-4b07-bd33-0d1a681aba7b Swami Ramdas
+88cde920-f1eb-49bd-839b-2958bc92e0f9 By           26ca8b60-5ce1-418a-b7aa-18897cebd732 Frances G. Wickes
 88ceb5d2-c532-45f6-81dd-dad54fee9cd2 By           19b3e184-3740-41c8-8e27-4a9a1a911cae Khwaja Abdullah Ansari
 88d18869-756d-4e9f-b51f-12ee2df06d0a By           dd60f620-775a-450e-bae4-8c8f4ef98bfb Nicholas of Cusa
 88d61722-bb45-4183-b5e2-83c2f2e59d5b By           d9893a18-e1d0-4577-bc54-470241a75f41 Muhammad
@@ -7607,6 +7705,7 @@
 8a11292a-fb4c-464d-a870-66aedbbd7429 By           NOT_FOUND                            Abu 'l-Fadl Hasan of Sarakhs
 8a1507df-846a-491c-9834-dc8b1a9ecedc By           52b1f0a6-a189-45a0-9bf0-5cd56e054225 Meher Baba
 8a1cc525-a77b-456f-968a-4c6b04a7b2d9 By           dd60f620-775a-450e-bae4-8c8f4ef98bfb Nicholas of Cusa
+8a22cb50-047e-45ed-8f8d-21bfa61ebb9c By           c9cd3225-c110-4d30-8f66-7dac17c74532 Mother Teresa
 8a29bef4-d023-4c04-b67a-6029676ef59b By           f27c6d9d-a492-4af8-a396-a747f4ce2386 Jianzhi Sengcan
 8a2d99d1-7849-4826-976b-6185a39754a1 By           6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd Hafez
 8a2f3e5b-62ef-481b-b325-fa259b499f1b By           ee5025c8-7d53-40f1-b9ae-b6120360eb66 Mahmoud Shabestari
@@ -7614,6 +7713,7 @@
 8a39b71a-4e22-4d55-9e84-57992aa4e737 By           c67fbddb-5418-442f-852f-7bcfcfbd6863 Charles Joseph Alleyn
 8a39d414-d0bc-4666-a6c1-860381e0fb10 By           c6d47d7b-579d-4d33-834f-f5ee0ac54822 Meister Eckhart
 8a3a4fa3-0c77-4727-a946-06813f94a7ab By           ee5025c8-7d53-40f1-b9ae-b6120360eb66 Mahmoud Shabestari
+8a3b29c3-4403-473c-966d-28688a2dba43 By           16ad0ffe-f252-47a7-8e25-0fbd0b4a06b8 Oswald Chambers
 8a3e9a29-2f8d-40e1-866d-aa990b144fff By           b201cc24-b119-48e5-ab1f-ae84cdd442cf Han Yong-un
 8a45ff8c-622b-46ad-ab07-0c13f9b12fd5 By           975fe9de-b52c-4b48-9379-5ff0c304b14a Laozi
 8a45ff8c-622b-46ad-ab07-0c13f9b12fd5 Translator   801bf7c7-1bea-4dfe-ad73-81db5358627c Stephen Addiss
@@ -7633,6 +7733,7 @@
 8a9eb3d9-a2e6-4664-a44e-36f5a8b75460 By           898cb9a7-4eb0-414d-a432-8f04be6c05af Ormond McGill
 8a9f671b-6293-40ba-a100-c2179445c7af By           0200c883-e38f-4554-92bc-2eba913426b7 Rumi
 8aa1acee-4459-4364-8420-86b592902bb9 By           d16578db-1632-42c6-817b-bc6767dcba43 William Law
+8ab194f7-7c3a-46ff-8568-26518ec71d4f By           92f90131-5632-4e76-b0bf-28796933efc4 Shantidas Adhikari
 8ab92dfe-2662-4f71-92ee-80679f13b165 By           4de44b73-d163-416c-9eed-b85ef8d42c70 Rainer Maria Rilke
 8abf88f1-201c-4062-8d8d-a82095841738 By           6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd Hafez
 8acc0613-a4c5-45af-8e64-f8c64d8af7c0 By           f27194c4-4bcf-4c30-8ff6-9e260f662b48 Augustine of Hippo
@@ -7703,6 +7804,7 @@
 8bc78b43-b899-4d7a-95f0-68642720d83e By           0200c883-e38f-4554-92bc-2eba913426b7 Rumi
 8bc8fa92-a1a1-4176-9721-21541ccda845 By           4c92b6e8-8411-42e6-ab30-a6b7507ddd2f Azar Kayvan
 8bcb7691-076a-4167-903f-cf582482a3e8 By           c6d47d7b-579d-4d33-834f-f5ee0ac54822 Meister Eckhart
+8bcd33af-de45-4c32-889b-1607525491e3 By           a9b17b0f-552e-492e-b71a-e2b073f4341a Swami Paramananda
 8bcea1f9-9775-40d5-8b33-d23de606c577 By           NOT_FOUND                            Charles Fillmore
 8bd57fe3-9148-4ab2-9d21-b871936f4d12 By           NOT_FOUND                            Jimyo
 8bdaf17a-d7d9-4fa0-909a-7ea10e4ee9da By           c6d47d7b-579d-4d33-834f-f5ee0ac54822 Meister Eckhart
@@ -7805,6 +7907,7 @@
 8dd8999a-47b3-466b-b55f-e8be1ac6a4f1 By           1f1597f7-bd6b-4140-81ec-fbce686250fd Mary Oliver
 8dd9ec06-8e4b-4d9d-8afe-57f2a95b64c6 Editor       1aa04209-6053-4474-8382-a71ab4357b4d Ralph Siu
 8de26bb8-4dc9-42dd-8f5c-5024d30e722d By           6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd Hafez
+8dea6cbc-f841-4406-b521-243c4f3967c2 By           9070b1a7-b711-4e87-aba6-7b3781361912 Thomas More
 8dec776b-dfae-4507-896a-0d058f5a4d26 By           5a695bc8-c00b-4975-afba-09e7016fbe94 Hōnen
 8deefe58-5796-49b4-9d39-1531817475f7 By           9645f0f2-6afb-43af-8703-31273ba34d94 P. D. Ouspensky
 8df28de0-e1ca-4728-bcb8-eaa2c5ac1117 By           4b1b3ab5-972b-4b53-aa10-a7f4f89f8a61 Johann Kaspar Lavater
@@ -7894,6 +7997,7 @@
 8f717fff-d6da-4a72-8a0c-c60b38ef19cd By           e92fad99-6914-41c2-a93c-e82b28742356 Heraclitus
 8f717fff-d6da-4a72-8a0c-c60b38ef19cd Translator   05485290-80b5-488f-9094-ad2d1992d33b Jonathan Barnes
 8f721de3-eb81-4607-8d90-c324c4d9f726 By           c5e6d77c-c3eb-4ca6-95ab-68ef1afcfd98 Isaac Asimov
+8f7445c3-67d0-47b2-8558-0f7bf2d45e16 By           975fe9de-b52c-4b48-9379-5ff0c304b14a Laozi
 8f76f2d6-dbe0-42c1-912c-9d1a7b6d169b By           NOT_FOUND                            Henry D. Lloyd
 8f7daa30-54b6-4f06-92c0-0113163635c6 By           975fe9de-b52c-4b48-9379-5ff0c304b14a Laozi
 8f7daa30-54b6-4f06-92c0-0113163635c6 Translator   80e2aa74-b000-4e31-8aa3-381e2571da56 John C. H. Wu
@@ -7913,6 +8017,7 @@
 8fc67ea7-b550-4db9-abcf-9898fd3bb478 By           7660dee5-98f7-4b07-bd33-0d1a681aba7b Swami Ramdas
 8fc8a4f3-5cca-426d-a57b-5d4ec68c8bf4 By           0200c883-e38f-4554-92bc-2eba913426b7 Rumi
 8fc8a4f3-5cca-426d-a57b-5d4ec68c8bf4 Translator   75e2d2e4-6793-42d4-8ff6-28f71ed8b281 Reynold A. Nicholson
+8fcaa90f-456b-44c9-b008-d8e358f6905e By           NOT_FOUND                            Gopti Krishna
 8fcafce0-a6b4-489d-bf31-f55d47d292cd By           2a94e7f8-5b6c-424a-bcdc-53f29766b1a6 Thomas Jefferson
 8fcd8f0c-cc39-48ac-beb7-6bf0f78d88ea By           8aaf4723-a856-4842-906b-8b0a3bf5180d Anandamayi Ma
 8fcdf0b8-da75-40fa-a868-24fc0a0b3525 By           6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd Hafez
@@ -8124,6 +8229,7 @@
 93a40586-3c3f-4cc9-9f7d-4e6ba2d80cee By           NOT_FOUND                            Lillian Smith
 93a646ad-1d9a-45b0-a073-5b193c49a670 By           e682bbc9-4b25-4a7e-8038-0ef925233e83 Plato
 93a9797c-c51a-4a06-9ffc-0cff7fcccf18 By           f5105777-0630-40c1-953c-90a98c775944 Norman Vincent Peale
+93ab1db5-5f2e-47b4-88f6-f12f607e6101 By           199b81b9-b363-4dd7-b262-4be2e71c89dd Jesus
 93aec84e-a486-4017-8945-7a582a9a6efc By           ad2bbf8f-33db-45c1-8a07-038111dfe25d Hanshan
 93b5f3f5-ade8-4e0c-bc22-3737da68723d By           975fe9de-b52c-4b48-9379-5ff0c304b14a Laozi
 93cdf27d-2bfb-4f01-8dcc-7413bfba6fc6 By           c6d47d7b-579d-4d33-834f-f5ee0ac54822 Meister Eckhart
@@ -8145,6 +8251,7 @@
 94089282-4e61-49fd-9d77-2300c75d011f By           4de44b73-d163-416c-9eed-b85ef8d42c70 Rainer Maria Rilke
 940bbfe8-2706-491e-8baa-7374dced8204 By           NOT_FOUND                            Narayana
 940f237e-8f32-4914-b421-94b7bb4b5a6a By           058f808e-2952-48f2-99a2-4292fef455f8 Quintus Sextius
+940fb053-66c2-411b-9b07-63eca98215b5 By           96a29acb-4463-459b-97dc-499e17e7c8d7 Francis of Assisi
 94111d30-2e0a-413e-ae93-8ea42f7a08e3 By           23c6c350-fb62-43c9-a01b-4542d523d992 Anonymous
 9419b638-660c-4dd7-8899-e3186f95812c By           f978eb13-918c-4fac-a853-1cdee535ab45 Elisabeth Kübler-Ross
 941ef54e-66c9-4a6f-b7b3-c669fd80ddf8 By           93fd4231-56b2-4568-b78f-0ff0f5edd2e6 Antônio Carlos Jobim
@@ -8182,6 +8289,7 @@
 94d65068-005a-4b14-96ef-4ddfea39a267 By           093da0e2-ffa1-4058-9767-a51185823df6 Peter Sterry
 94dc854d-4a4c-42d3-aca8-cb8b410af150 By           6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd Hafez
 94df7dd9-d49f-4c1a-8770-b5c48056c79a By           7eaf7bf1-03a8-492c-b289-23123e6178fb Empedocles
+94e1f259-de2b-408e-96de-7810e8c43d22 By           c9cd3225-c110-4d30-8f66-7dac17c74532 Mother Teresa
 94e3cd7e-4961-42b3-a092-2aee4f24b503 By           2e8c17f6-f9aa-4b2d-b2dc-3887f8350aa7 Confucius
 94e6f6ac-2bbc-4166-84e2-a2801eeb4a4f By           d16578db-1632-42c6-817b-bc6767dcba43 William Law
 94efe7a2-d6ef-4bef-bf9c-02ea5b64d5fe By           30c4c539-ef62-41b7-a812-2669f28c304b Abraham Maslow
@@ -8220,6 +8328,7 @@
 95705d7f-87ad-4d49-82cb-f30dde24e619 By           1fd573f3-9e56-4686-8da9-622845581094 Mary Baker Eddy
 957b5dbb-c030-4300-99d7-cf82e8d06b7a By           97167e3b-c0a4-46fb-a23d-c7e666ff445e Thomas Fuller
 9581d566-5762-4279-935a-3edb597d4545 By           03530a9d-a33d-421d-9ad0-0ad1dc1ef375 Ali
+9582cd6c-e63f-4fd0-b8fb-b6801deb5655 By           3b527a77-0537-4e4f-a348-8905be904f18 Aesop
 95858e0e-7ea7-499f-bb70-5da641f117f7 By           f27194c4-4bcf-4c30-8ff6-9e260f662b48 Augustine of Hippo
 9588a952-162d-4d97-8ee5-ccdb9c4677f8 By           4de44b73-d163-416c-9eed-b85ef8d42c70 Rainer Maria Rilke
 95924854-bb8d-40fc-ba00-361b2ecab9f7 By           c6d47d7b-579d-4d33-834f-f5ee0ac54822 Meister Eckhart
@@ -8338,6 +8447,7 @@
 97bfa976-949a-4bb6-8b19-a8abc82df213 By           ddae4034-c667-4bdd-8598-58b7c43b3e21 Ramakrishna
 97c5ac7b-25d6-4071-bd53-8cbef0da9bef By           52b1f0a6-a189-45a0-9bf0-5cd56e054225 Meher Baba
 97c88407-411d-48d9-815e-aa96306f1de4 By           4de44b73-d163-416c-9eed-b85ef8d42c70 Rainer Maria Rilke
+97d11172-fd69-4a83-8ca3-8812a78f09b4 By           26db1c26-cbd3-4278-a22f-3ccabad428e1 Lakshmana Sarma
 97d63ac9-48bc-45a6-a894-5499ebbb2d1c By           NOT_FOUND                            Alfred Krebs
 97d75344-a55b-4818-9b94-12cc24f5d4f2 By           bdbb992b-bb68-4da6-86c4-4ede4a469b17 D. T. Suzuki
 97e4905e-f7be-4b2c-bb63-04811f4d217b By           3ade600d-9e69-4006-96dd-a89e778f01fe Johannes Tauler
@@ -8390,6 +8500,7 @@
 98a14eac-d363-42d8-a035-902da789e2dd By           3073ba96-e44e-42b7-a9aa-fe35de989da3 André Gide
 98a93d8c-d68e-471b-8132-76fbd9d07ed3 By           d16578db-1632-42c6-817b-bc6767dcba43 William Law
 98b75a1c-17a2-404e-8f12-b38baddefbe3 By           c6d47d7b-579d-4d33-834f-f5ee0ac54822 Meister Eckhart
+98b7d092-e645-459b-97a8-b46dd84fbab6 By           6e01fa89-72f0-4544-84ae-70f659746efc J. M. Barrie
 98c032a0-0878-49d6-954d-bbad74ee3721 By           NOT_FOUND                            Sunnah
 98c1d713-13a6-46ef-b3dc-466e6def0f07 By           ddae4034-c667-4bdd-8598-58b7c43b3e21 Ramakrishna
 98ca684d-fa25-4884-b493-69ffc3961409 By           f27194c4-4bcf-4c30-8ff6-9e260f662b48 Augustine of Hippo
@@ -8542,6 +8653,7 @@
 9b7f5cb2-9e90-409e-a947-378608009f3c By           ddcdb5eb-6c80-4fd1-91da-0ceb41d7e16d Dante Alighieri
 9b8155ca-6921-4c7a-a074-2b8d2bc1e31e By           84c50365-d446-4d40-b373-9ebf9c477894 Arthur Schopenhauer
 9b872a6f-76ae-40f2-aac9-121745afeeee By           c6d47d7b-579d-4d33-834f-f5ee0ac54822 Meister Eckhart
+9b8a54f5-dc8f-484a-bc1a-648acdef74db By           a8f4c68a-a3dc-49a8-aee2-9c3e2dee9cbe Arthur J. Deikman
 9b8bb472-55dc-4dcb-9320-487fb25dbe4f By           975fe9de-b52c-4b48-9379-5ff0c304b14a Laozi
 9b8bb472-55dc-4dcb-9320-487fb25dbe4f Translator   801bf7c7-1bea-4dfe-ad73-81db5358627c Stephen Addiss
 9b8bb472-55dc-4dcb-9320-487fb25dbe4f Translator   53d81bb7-0257-4a70-a4ca-f4358c7d672b Stanley Lombardo
@@ -8568,6 +8680,7 @@
 9bf3647d-3764-481d-bf2d-6cb0d0e95eca By           071d7c14-2144-46d6-aea5-f13f411cf407 Chidananda Saraswati
 9c0092ae-5db7-4076-be09-6bf6407421c2 By           0200c883-e38f-4554-92bc-2eba913426b7 Rumi
 9c0092ae-5db7-4076-be09-6bf6407421c2 Translator   75e2d2e4-6793-42d4-8ff6-28f71ed8b281 Reynold A. Nicholson
+9c03f3bc-9fd9-4092-ba84-1da69663668f By           eaa1c488-9b8a-4656-893e-0737a688bf76 Ramana Maharshi
 9c04ea2d-e4c8-48ab-adb0-e6b68db1994b By           975fe9de-b52c-4b48-9379-5ff0c304b14a Laozi
 9c04ea2d-e4c8-48ab-adb0-e6b68db1994b Translator   80e2aa74-b000-4e31-8aa3-381e2571da56 John C. H. Wu
 9c0b2c37-fe85-47a2-8610-e8d171f4427b By           bba6f3a1-7cc6-4099-8458-f2ceca4e437d Meera
@@ -8627,6 +8740,7 @@
 9d1924fe-a06a-4366-89f7-be5258ba297c By           975fe9de-b52c-4b48-9379-5ff0c304b14a Laozi
 9d1924fe-a06a-4366-89f7-be5258ba297c Translator   b56381e5-4328-45e3-b40b-561f0acd5043 Peter Merel
 9d1ab9a8-acf6-4bde-8235-4097cbaa8903 By           1019b43d-1e9c-4d50-9463-75e255c75302 Saraha
+9d1abe13-22ec-4f83-83a4-b0435baaad0d By           fb38eb6d-d81d-4490-b74b-2aa19f37d8d0 Philo
 9d1cac1e-554a-4cac-8e3a-67b76c9e0a6a By           NOT_FOUND                            R. J. Heathom
 9d222f86-b6de-4c6d-a77f-36e9afde3b31 By           d22671b1-662e-4c69-83d6-680ffd3d7e49 Eldridge Cleaver
 9d2ff7be-63ef-45cc-be2d-ecbfa6daea45 By           5306ff78-7334-4837-8245-e5bac2873c46 Sivananda Saraswati
@@ -8685,6 +8799,7 @@
 9dee5045-bb41-44b6-a074-09db8e0dab31 By           2ca19b2c-668e-4453-bd1b-b73b8e450dea Shakti Gawain
 9deea291-9b88-4720-923e-9d43e2f61fb3 By           7660dee5-98f7-4b07-bd33-0d1a681aba7b Swami Ramdas
 9df6438d-8b50-4a42-8d48-25229101b9d5 By           5306ff78-7334-4837-8245-e5bac2873c46 Sivananda Saraswati
+9df8752d-4cac-4ae9-8107-8e7259ddf8bb By           7660dee5-98f7-4b07-bd33-0d1a681aba7b Swami Ramdas
 9e02defa-0b0a-493a-809b-8e91881a8d17 By           da184f92-f119-42ee-8e45-06ab31cd9624 Thomas Merton
 9e09ff71-a66f-4cb5-b663-8b48ac308160 By           c6d47d7b-579d-4d33-834f-f5ee0ac54822 Meister Eckhart
 9e0b8bf2-9130-43aa-adff-5eb6cf5a1960 By           5a7ccfd2-d595-489c-acdb-8bb5a1c575d1 Takuan Sōhō
@@ -8850,6 +8965,7 @@ a0ca1fe8-5303-4d0a-afec-eb7f6b0714c2 By           23c6c350-fb62-43c9-a01b-4542d5
 a0d87ff0-5e22-487a-beb6-0bfd167aac99 By           0200c883-e38f-4554-92bc-2eba913426b7 Rumi
 a0e0025c-192a-48b4-b799-6efd4b772978 By           4de44b73-d163-416c-9eed-b85ef8d42c70 Rainer Maria Rilke
 a0e7f0f7-40c3-4a12-9b83-1fc707e42053 By           7660dee5-98f7-4b07-bd33-0d1a681aba7b Swami Ramdas
+a0edbde6-1739-4a6f-ab6d-3d6372fb67a9 By           6765fee8-cef2-4d04-a4dc-519a160ad6f2 Cicero
 a0f00d14-a50a-454b-85b8-0e140df48612 By           NOT_FOUND                            John C. Salak
 a0f19f56-69dd-4527-bbbf-97318887e4d2 By           4de44b73-d163-416c-9eed-b85ef8d42c70 Rainer Maria Rilke
 a0f6926e-65f4-42ce-a7c8-40dd03c6a9fe By           d16578db-1632-42c6-817b-bc6767dcba43 William Law
@@ -8909,6 +9025,7 @@ a1e952e0-aae4-48c1-bc5b-4d5654967a4c By           fbf6ce01-3a71-4401-8609-a6822a
 a1ea5e32-52e7-4d3f-bf8a-05e9c035c9af By           d16578db-1632-42c6-817b-bc6767dcba43 William Law
 a1efb31a-6198-4799-96ed-9649d705474a By           f27194c4-4bcf-4c30-8ff6-9e260f662b48 Augustine of Hippo
 a1f318e7-4be8-4feb-a854-d3b1a89c65a0 By           NOT_FOUND                            Reigen Eto
+a1f607fa-075d-4d0e-a7b9-16ce7284c967 By           c4df86cd-74fd-404e-a096-6efb1f51b3b1 Paracelsus
 a1f6d06f-51ce-4635-a0da-ff174fb30edc By           8aaf4723-a856-4842-906b-8b0a3bf5180d Anandamayi Ma
 a2026f17-05f2-41a3-aa51-591cc5a97aa7 By           7660dee5-98f7-4b07-bd33-0d1a681aba7b Swami Ramdas
 a209deeb-1b5a-40d0-a3be-edcb12652b6b By           e516f932-cfdd-4dcf-9024-659cee569af0 Jili
@@ -8920,6 +9037,7 @@ a2290cc7-56ac-403d-988f-04432bb742fe By           3e42a080-e2c0-4cfe-8f90-98eef5
 a23056f2-414b-410d-af88-f507afff17a0 By           bc103113-06be-47e6-870b-37f798d6afb2 Boethius
 a233b197-8381-4bfb-a12b-62877c086e03 By           199b81b9-b363-4dd7-b262-4be2e71c89dd Jesus
 a237c038-dd59-4825-9e13-310cc41911c4 By           9caf4dc7-1cb9-437d-aa73-85343f701e06 François de La Rochefoucauld
+a2385e38-4dd4-4c1a-ba7e-96e0cce9e88d By           ddae4034-c667-4bdd-8598-58b7c43b3e21 Ramakrishna
 a23bea6d-ec36-4c96-8259-99a57752d72a By           107f5acb-b547-4d88-830a-34b1279a31c9 Böhme
 a23f03bc-d04d-453c-8190-50e06979cc0c By           5a558d2d-f834-469a-bc68-08313c4c2d63 Kirsopp Lake
 a24dbac7-b020-4b70-bd3a-e4e5a6917534 By           f356148f-c45c-48db-a3db-a6857e18996f Judith Viorst
@@ -8978,6 +9096,7 @@ a376d519-13d5-4089-a649-1dcd7b74c0f8 By           f27194c4-4bcf-4c30-8ff6-9e260f
 a37f581b-9239-47aa-acc8-0dd727e73052 By           6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd Hafez
 a37f5f72-bce7-4abe-9e8c-b5aeffb4f08f By           c6d47d7b-579d-4d33-834f-f5ee0ac54822 Meister Eckhart
 a3835e81-ab19-4663-a4fe-4f2ed21786f7 By           2e49301b-75eb-41a0-9dcd-66bfd40e6fca Elinor MacDonald
+a388b664-8e8e-41a5-9e4a-6348d891d5f3 By           95f4f7bc-be10-417e-bcda-ed021f114b10 Vimala Thakar
 a388c046-0bcd-4fbb-b450-8b4167f1d5c6 By           53ada123-24a4-4a12-a0ce-e1e2480cb0e9 Tony Robbins
 a38db5e9-2818-4255-ab1b-a00d98b72aff By           d9893a18-e1d0-4577-bc54-470241a75f41 Muhammad
 a391dc1c-267d-4257-ba05-18c340526929 By           c6d47d7b-579d-4d33-834f-f5ee0ac54822 Meister Eckhart
@@ -9046,6 +9165,8 @@ a48fe978-cc58-4003-a8b3-534c91db671b By           c6d47d7b-579d-4d33-834f-f5ee0a
 a494f0ca-4cab-4c64-88da-b46c97c3f324 By           63499482-b830-4f4b-8242-d62b872c322a Nisargadatta Maharaj
 a4978aca-533f-4204-8d8d-b53d6352028c By           e42f9114-7867-4022-be7f-1561b8d8a72a Peace Pilgrim
 a499236e-e1a7-4589-9d37-0a22eed01a8d By           24286944-d73a-453f-b948-06fc1a7ef8cb U2
+a4a1aa9b-890a-481e-808d-065ccfbf4d49 By           542d1d26-604b-444f-a7c2-b5369edfd3ef Maimonides
+a4a54138-b1ae-44bf-9894-9a3cb7554d21 By           a9fa7367-c1da-4629-9a59-24b5fb8d65fe Jakob Klatzkin
 a4a5996e-d03e-4bcd-9bdd-f618bff277a6 By           b201cc24-b119-48e5-ab1f-ae84cdd442cf Han Yong-un
 a4aff714-4252-4aea-b773-9581f7a2fd43 By           ddcdb5eb-6c80-4fd1-91da-0ceb41d7e16d Dante Alighieri
 a4b086a2-1b79-4d3f-985b-f1dc95c66b96 By           12531907-5f37-40b0-b214-f4695037cf00 Thomas Traherne
@@ -9067,6 +9188,7 @@ a50e31b9-6166-485c-811d-5053bfd1e23d By           a388a834-c877-452b-a30e-39e529
 a5129f7d-4002-400b-bc62-16be2e45c251 By           c4df86cd-74fd-404e-a096-6efb1f51b3b1 Paracelsus
 a51bcca8-5b41-4903-8049-e21f0c793a08 By           fb38eb6d-d81d-4490-b74b-2aa19f37d8d0 Philo
 a51cf7c7-6998-4512-9b13-50010ed39d35 By           8d7c47fc-59a7-4760-b71d-9461195a3950 Adi Shankara
+a52994b7-2ca3-4849-b032-c2ad5ea1cb23 By           97167e3b-c0a4-46fb-a23d-c7e666ff445e Thomas Fuller
 a5303913-d5af-4e67-a209-f9dc7bb930b9 By           975fe9de-b52c-4b48-9379-5ff0c304b14a Laozi
 a5303913-d5af-4e67-a209-f9dc7bb930b9 Translator   931736ac-725c-4a27-a276-b18598b3b575 Ursula K. Le Guin
 a534a21b-c101-4d84-908c-8381646f410b By           717f0ebc-5e0a-4468-abc8-f243baecc054 Vyasa
@@ -9178,6 +9300,7 @@ a6fae739-a971-4897-942c-bb6690c95c54 By           2e9f6ed5-0e2c-4cc3-9c18-58d0c8
 a7033723-d34c-497a-9a12-86948064b852 By           eaa1c488-9b8a-4656-893e-0737a688bf76 Ramana Maharshi
 a706c5c0-fd73-4d53-a3bc-36c58b4dd92d By           b228ee6e-f7d9-406f-8bf0-2c59ba97c72a Jean-Jacques Rousseau
 a70924f8-7b29-44f1-8629-cefb0e8bc6c3 By           22fcce4e-14ab-4aca-8b85-76040b60a193 Seneca the Younger
+a70f04f3-072c-4d34-8a00-27490e3469d6 By           f7e3151a-6629-4935-90b2-65146db1b9ec Martha Graham
 a712510d-af0a-4e1a-a0a8-d293a4dd0462 By           53ab1f42-17dd-4168-ae2e-aae5f9f911cb Shantideva
 a714ee7d-c282-4498-bd71-cce36ab8bf55 By           7660dee5-98f7-4b07-bd33-0d1a681aba7b Swami Ramdas
 a72925a8-a9b2-4941-a2ca-b91b8cc1f1b2 By           97793e91-1fe6-4096-b6a9-6fdcf080c656 Henry Ward Beecher
@@ -9193,6 +9316,7 @@ a73ec6b8-527d-4400-a60d-93dfd4efb752 By           d16578db-1632-42c6-817b-bc6767
 a742da2b-2800-4e37-acd5-7ccb25e93ad1 By           fc3c9ff4-58b8-42e9-b6a8-07af1c9d38bb Hannah More
 a747b1d3-9e8e-4fae-a96d-f6a59b0679c7 By           946b9a5a-e9a0-4984-87ce-8fe2926b64d4 Robert Louis Stevenson
 a7584b9b-fd07-4bec-a93d-3e69f72df39a By           538736d5-356b-479f-b2e1-fe83e1af8d73 Alphonse de Lamartine
+a75850bf-dcf4-465f-98ae-9087f219f5be By           82eaf502-3c9f-41d3-a627-8a8a65a86060 Edmund Waller
 a75c50a0-3985-40d9-9a05-f60d2f33f6d8 By           6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd Hafez
 a75d17b8-0255-445a-be07-64d19e4bebcd By           4303fa16-4ff9-4236-938f-12ce437e48cc Rabindranath Tagore
 a75d33eb-99d7-46b1-8b8b-238aabbdb711 By           a3cfb31a-ea67-4dfc-930d-786cd0d46a48 Henry Thomas Hamblin
@@ -9340,6 +9464,7 @@ aa073905-65b6-45a3-ac4e-82c1ca16b9f0 By           c6d47d7b-579d-4d33-834f-f5ee0a
 aa0ad812-06de-440c-9dc6-96fc3405e14b By           5306ff78-7334-4837-8245-e5bac2873c46 Sivananda Saraswati
 aa0c082c-8548-4f68-8aef-efb7b798342e By           fa85d12a-166e-4cd7-be00-9f03389ca78e Niffari
 aa0d552c-c6e5-4176-8efd-1ad7e9d2a63e By           0200c883-e38f-4554-92bc-2eba913426b7 Rumi
+aa1354a9-4ee1-40bb-bea9-524ab3d0b7d4 By           3ef3d61d-3439-447f-9680-6463a5526c38 Vincent de Paul
 aa1f7ec9-f553-4aa3-8cd6-9206e9021245 By           6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd Hafez
 aa229a12-e783-435f-9053-527ef769c08b By           NOT_FOUND                            Martin Grey
 aa238e92-22fb-4356-89a2-bf3ec93bbf1e By           2a9cd80e-8ee9-42f8-9c09-0b39a28ab558 Joseph Addison
@@ -9412,6 +9537,7 @@ ab712420-b494-42f3-9189-39dbcda4665a By           5de25b06-fccd-4627-8499-90d1c8
 ab751ba6-ec69-4ab2-8692-953502d9b0ba By           NOT_FOUND                            Li Jih-hua
 ab759c47-7c7a-4698-b31e-4ac115d5a703 By           NOT_FOUND                            Melvin Schleeds
 ab7da945-c50d-4a0a-bf56-c708aa405eba By           c6d47d7b-579d-4d33-834f-f5ee0ac54822 Meister Eckhart
+ab8759ae-5286-463d-bac6-74ee293a022c By           234d44a1-903e-4a86-afa3-d9722e0ef6fb Francis de Sales
 ab8fce75-963f-4619-917e-60bcfb4992b0 By           d16578db-1632-42c6-817b-bc6767dcba43 William Law
 ab92879e-4fd7-4076-83c0-f2f7b2aa5101 By           4de44b73-d163-416c-9eed-b85ef8d42c70 Rainer Maria Rilke
 ab96dc42-9711-42e0-a503-1e1d9a07d5de By           NOT_FOUND                            Irenaeus Agnostus
@@ -9443,6 +9569,7 @@ ac25df94-3e22-451c-bfa3-47e24afc6b46 By           d6362611-831c-416c-a3da-57394a
 ac25f242-077e-4d5a-9d6f-a8351824956b By           5aa9843f-0bce-492c-a3e0-ce6120fde7d9 Gregory of Sinai
 ac2ddd00-b61b-4b26-91dd-009a20ba4a17 By           7b07c979-f673-4232-b00b-7ad9ea641f31 Eknath Easwaran
 ac2f46b8-6f0d-4181-bc26-ac5602196e1e By           b201cc24-b119-48e5-ab1f-ae84cdd442cf Han Yong-un
+ac3c1748-ed82-4451-914f-c8cce2f1fce0 By           fef82fd8-7b18-400b-8a1a-8f3a7c0881b1 Nicolas Caussin
 ac43dbf7-5425-4da9-85f1-fcaa72a5b574 By           2e8c17f6-f9aa-4b2d-b2dc-3887f8350aa7 Confucius
 ac456986-52b0-467e-9974-736fa29e48de By           26bf5bc8-4aa9-483d-9770-52ddbb3fac7f Wernher von Braun
 ac4b659f-4176-439d-89e9-1b301c9df5a6 By           6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd Hafez
@@ -9472,6 +9599,7 @@ acbd3379-7c12-4e96-b123-03068cd90828 By           975fe9de-b52c-4b48-9379-5ff0c3
 acbd3379-7c12-4e96-b123-03068cd90828 Translator   801bf7c7-1bea-4dfe-ad73-81db5358627c Stephen Addiss
 acbd3379-7c12-4e96-b123-03068cd90828 Translator   53d81bb7-0257-4a70-a4ca-f4358c7d672b Stanley Lombardo
 acbde577-cc16-4231-b630-3048c4f9565a By           c9fbdc15-96d6-49d3-ba7d-1a497d2c39ef William Bernard Ullathorne
+acc297ea-1e70-4ca0-9aa0-1497682b77fd By           64204a11-7af5-4d6e-be69-a74853509a55 Henry David Thoreau
 accdad53-fafd-4847-bdbc-10ee10558f38 By           7924209b-9806-46b5-9cf9-d8ab50b4563e John of Ruysbroeck
 acd3c57c-3511-4336-b48a-a05052a088b9 By           7660dee5-98f7-4b07-bd33-0d1a681aba7b Swami Ramdas
 acdffd67-905e-454f-b7fd-57ec3faa76bc By           63499482-b830-4f4b-8242-d62b872c322a Nisargadatta Maharaj
@@ -9488,6 +9616,7 @@ ad27d348-313b-438c-a1c9-b5e9b663826d By           2e8c17f6-f9aa-4b2d-b2dc-3887f8
 ad2cc709-52cd-4676-bef5-ab66985def76 By           e42f9114-7867-4022-be7f-1561b8d8a72a Peace Pilgrim
 ad35b2ed-c8c4-4174-b4d8-38f65d2387f6 By           975fe9de-b52c-4b48-9379-5ff0c304b14a Laozi
 ad35b2ed-c8c4-4174-b4d8-38f65d2387f6 Translator   82eb5cac-293c-4d60-9203-971700a9a434 James Legge
+ad373be9-1ab8-4548-9329-f22a14d96a2c By           33b9230d-367f-46a0-bd48-920b9bc01a2e Fanny Brice
 ad3c27c6-4dae-4efc-bbd6-4833ea246744 By           0200c883-e38f-4554-92bc-2eba913426b7 Rumi
 ad3c27c6-4dae-4efc-bbd6-4833ea246744 Translator   0187e8ed-da74-485e-9564-00b73cc54cc9 Coleman Barks
 ad3d7a75-bc19-45ef-9f83-0b38a3907107 By           6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd Hafez
@@ -9725,6 +9854,7 @@ b0e4cd4c-ccde-4fd7-a3ee-f2c92f46741e By           ae89735b-2e51-4bb1-b2a2-10b051
 b0e78764-d256-44ca-ae34-09c8145c5948 By           NOT_FOUND                            Robert Veninga
 b0e9cf48-6baa-4fcd-a085-cd841e4258b5 By           13fc546f-080d-4f47-aae0-86bbe19b2c53 Swami Brahmananda
 b0ef4a55-441a-4d1e-9c04-dbbc14bf549b By           539ebaa3-4598-458e-af72-99b8d4669f3e Edward Young
+b100a157-86e5-4ed3-80f5-c49c9b6eb56d By           b196d961-bb04-43c8-9462-a9acd76413fc Ralph Waldo Emerson
 b100f2fa-df15-4867-a433-193b89d62341 By           50de43d6-4c98-4c3f-af7d-d0c0155560b7 William George Jordan
 b1018edc-4c46-4882-8e33-53332819db86 By           7e82b848-8bcc-4dda-87bf-55ca7cf913fa William Shakespeare
 b104430a-48d5-44a3-b2e0-965a987da9ac By           3361ef57-842c-46ac-a599-42d4d7be9989 Ralph Waldo Trine
@@ -9772,6 +9902,7 @@ b1bfbddb-e6c0-4d4e-9666-0f99dbcc8d06 By           3ce260f6-2084-462c-a5ba-b6463a
 b1c0914b-8e09-409f-9b76-fa60607cbf63 By           ad2bbf8f-33db-45c1-8a07-038111dfe25d Hanshan
 b1c1f0a3-3c34-4b9f-93a8-0b6ffb5a8527 By           84e876de-8282-41f5-b2ba-f0fb3025b437 Herbert Samuel, 1st Viscount Samuel
 b1c97142-5ab3-4049-aeec-87fedc1b2672 By           116eb804-2377-45ea-af68-4da3a67795a5 Ibn Ata Allah
+b1cb0745-cefb-47cc-8176-55f2a898c456 By           2e6123f1-5498-40c5-9bb8-701c1b9e19e1 Harry Chapin
 b1d1143d-cdb2-495f-acbd-48e6ae662c4d By           NOT_FOUND                            Vijaya L. Pandit
 b1d18fa5-038b-4277-b0b9-dc62faaf0250 By           339ebc6a-dfcd-473d-bf8c-b3775c1a9626 Arthur Koestler
 b1d457b5-9a3d-4203-af39-a6284924b0c3 By           8226bfac-6dd6-42a5-9e75-e1d127da5f8c Robert Green Ingersoll
@@ -9817,6 +9948,7 @@ b256f6c2-10a1-4c25-9899-52164fe0d658 By           ad2bbf8f-33db-45c1-8a07-038111
 b2657357-a92f-4450-ac29-f7de17c955c0 By           NOT_FOUND                            Arthur Gordon
 b26c45c9-8c9d-4a07-8606-0d4c21d73126 By           96a29acb-4463-459b-97dc-499e17e7c8d7 Francis of Assisi
 b2717922-9e56-44d4-92c2-32bba8371508 By           d16578db-1632-42c6-817b-bc6767dcba43 William Law
+b27678b2-2c30-4e17-97f7-18adbd562107 By           85d61518-7aba-41e5-9a3e-08adf2cd3755 Benjamin Whichcote
 b276f299-47a6-42b5-aa09-7e6d02f159d5 By           1df6f2a8-6f83-4ed1-9897-caf7f2f0783a William Alfred
 b2796e5d-3e93-4857-82ad-0438144f5c5c By           e92fad99-6914-41c2-a93c-e82b28742356 Heraclitus
 b281beb8-2509-4d3b-81d2-7d81152a774d By           ecdf1234-f71b-4a73-bbfd-396fba96a8f4 Marian Anderson
@@ -9935,6 +10067,7 @@ b4879648-09bc-4463-8dd0-c6b11394e9c5 By           50de43d6-4c98-4c3f-af7d-d0c015
 b48cec61-36fe-43de-9c10-acd4bb974f0c By           975fe9de-b52c-4b48-9379-5ff0c304b14a Laozi
 b48cec61-36fe-43de-9c10-acd4bb974f0c Translator   931736ac-725c-4a27-a276-b18598b3b575 Ursula K. Le Guin
 b4904d78-a8f7-44dd-a6f1-1c93606a263c By           c6d47d7b-579d-4d33-834f-f5ee0ac54822 Meister Eckhart
+b4925ba1-ad9d-4739-ab12-09c4ebbd691a By           f578d98a-67d2-4913-b84a-8531b6f9325c Cato the Elder
 b49509ff-a8d7-4d8a-b7fa-5692357e2cae By           b8c921bb-7d9a-419f-8357-cd7d0f201ebe Edmund Burke
 b4961519-f486-481d-9daa-2bb4090fdb8f Translator   NOT_FOUND                            Carmen Acevedo Butcher
 b4992426-7626-4b22-88b5-fc3e285131ad By           e42f9114-7867-4022-be7f-1561b8d8a72a Peace Pilgrim
@@ -10046,6 +10179,7 @@ b6d5fd77-3c9f-4ea1-a2bc-6b12fbbda55a By           898cb9a7-4eb0-414d-a432-8f04be
 b6d79194-f074-40b2-b92c-ed28581c0b9c By           c6d47d7b-579d-4d33-834f-f5ee0ac54822 Meister Eckhart
 b6e847c3-bbba-4622-859e-c5fe4f89fc29 By           975fe9de-b52c-4b48-9379-5ff0c304b14a Laozi
 b6e847c3-bbba-4622-859e-c5fe4f89fc29 Translator   931736ac-725c-4a27-a276-b18598b3b575 Ursula K. Le Guin
+b6ec34ed-9cc4-4206-8269-61bb43c2a6f5 By           55d1fe3a-d392-4b71-9714-be5fa57a3601 William Hazlitt
 b70362c5-5924-46db-b649-250876830a58 By           e379d4ac-201e-46a4-bf9b-359fb3178205 William Stafford (poet)
 b70a17af-43f8-4e68-a62e-2204ef23f138 By           c8fe24ad-d292-4155-bfd2-d8240a5f0be8 Kabir
 b70de175-ec13-4c2e-a8b1-e2e94f605199 By           9eb7196f-9a01-4e70-8150-74aa3a24956d Naomi Shihab Nye
@@ -10218,6 +10352,8 @@ b9d89535-f19b-431f-bbf1-b5f89d28e921 By           f5ada106-6431-4c5e-99c6-3af6c2
 b9da020e-4a29-47c5-8050-a8d4f8783824 By           6c0e77ba-b3e1-4ec8-b291-f037a7714c1a René Descartes
 b9df751e-e419-48b9-9ec5-2f140caf6c63 By           c6d47d7b-579d-4d33-834f-f5ee0ac54822 Meister Eckhart
 b9e1720b-0f35-47a2-bda0-8a419764e9d4 By           7660dee5-98f7-4b07-bd33-0d1a681aba7b Swami Ramdas
+b9e61d9d-3123-48e7-a721-cf3493cf3401 By           7717b23d-d345-45a2-a7d1-c5766252b39a Harbhajan Singh Yogi
+b9ecdbf1-73c1-4dfc-beea-585d2ea832c3 By           da184f92-f119-42ee-8e45-06ab31cd9624 Thomas Merton
 b9ee94c8-f2b3-4fdc-a22a-4fe67b5c7880 By           ca6fb155-39ae-4d53-8782-cbd6dc5ae0b3 Mahatma Gandhi
 b9efbfbd-26c0-44c3-ad32-8d6a2f6d23c2 By           4efda1f8-9bfa-4376-a60b-0d8b932ee701 Alfred North Whitehead
 b9f8ae97-5858-4426-b36e-bd363bd92d13 By           b201cc24-b119-48e5-ab1f-ae84cdd442cf Han Yong-un
@@ -10319,6 +10455,7 @@ bbd903d6-5d66-4255-bfec-7081ffcb1bfe By           4303fa16-4ff9-4236-938f-12ce43
 bbdbb873-2374-41fa-baf6-690665895c8a By           7e82b848-8bcc-4dda-87bf-55ca7cf913fa William Shakespeare
 bbdca0a0-488c-4e2e-8a31-0bbf00a46f78 By           da184f92-f119-42ee-8e45-06ab31cd9624 Thomas Merton
 bbdf8ecb-6367-4b81-af3d-b982222634c4 By           7e82b848-8bcc-4dda-87bf-55ca7cf913fa William Shakespeare
+bbe0b62a-8962-484a-9026-06f186ff9f92 By           NOT_FOUND                            Israel M. Kagan
 bbe656aa-e243-44ce-968d-cf72aeb78745 By           ae89735b-2e51-4bb1-b2a2-10b051cfb790 Mechthild of Magdeburg
 bbe88cbb-f349-454c-8971-7d6939e5652e By           b196d961-bb04-43c8-9462-a9acd76413fc Ralph Waldo Emerson
 bbe8fa2a-4836-400f-a62b-60cc835fcf48 By           aaa4d827-a22e-4b61-8a4e-990236a2b975 Jean Giraudoux
@@ -10386,6 +10523,7 @@ bd3e86fb-4d91-449c-a718-ab64f4f08200 By           4e18e382-43fc-4d3a-9cac-638e27
 bd3f07d4-e377-49ac-a3fe-039eaaf62568 By           fa85d12a-166e-4cd7-be00-9f03389ca78e Niffari
 bd402db3-0faa-4ea6-b6e0-d40021075eba By           c6d47d7b-579d-4d33-834f-f5ee0ac54822 Meister Eckhart
 bd444a90-8c07-4d5b-969b-7dfffb004c29 By           0200c883-e38f-4554-92bc-2eba913426b7 Rumi
+bd446799-f897-439f-bcbe-a6335db11693 By           9caf4dc7-1cb9-437d-aa73-85343f701e06 François de La Rochefoucauld
 bd4543eb-283a-4c53-95a5-837e4aaab7f3 By           ed7e7c95-ef8e-40b4-8345-570d8009ad6a Huainanzi
 bd45dc73-a754-4fee-83ec-0f3af22a450d By           5306ff78-7334-4837-8245-e5bac2873c46 Sivananda Saraswati
 bd4c28c6-f537-421d-842a-dc16925deb6c By           4de44b73-d163-416c-9eed-b85ef8d42c70 Rainer Maria Rilke
@@ -10482,6 +10620,7 @@ bf59ecdf-90c2-455a-a71c-30a6e5a01e67 By           e0e198fe-6897-4aec-a5a2-9e4b90
 bf5d8b4a-c86d-49a8-9109-327f843fef89 By           2da9110e-eeef-44ef-add8-97d708a580a5 John Smith (Platonist)
 bf5e1e30-935a-4bfb-8be7-86e2a1e9a6c9 By           093da0e2-ffa1-4058-9767-a51185823df6 Peter Sterry
 bf61da31-97f8-41d5-a7f8-bb6e126e9b7e By           b201cc24-b119-48e5-ab1f-ae84cdd442cf Han Yong-un
+bf6238cc-e2a6-495d-ad93-659593791266 By           0c3918b6-1a08-4b2d-9e93-6d55c40c032f Samuel Johnson
 bf6fed82-09c3-454d-95d9-a63c28b04ffa By           058f808e-2952-48f2-99a2-4292fef455f8 Quintus Sextius
 bf7579ec-2c72-49b1-8da4-92866d18d707 By           5de25b06-fccd-4627-8499-90d1c83c4172 Hermes Trismegistus
 bf75b69c-ef3b-46c0-b9cc-e96ec89eddb7 By           ad2bbf8f-33db-45c1-8a07-038111dfe25d Hanshan
@@ -10497,6 +10636,7 @@ bf8f9b92-a356-499b-8d23-dec28596f63c By           ae3c2501-c84c-45ae-9dfb-e57ceb
 bf97d98d-49ba-4170-bd06-a840cf2476e7 By           6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd Hafez
 bfa13f83-c05d-48cd-bdc9-114455d49534 By           234d44a1-903e-4a86-afa3-d9722e0ef6fb Francis de Sales
 bfa7fdb3-a5ce-479b-a06b-6c2ffc28748b By           NOT_FOUND                            Orison S. Mar den
+bfb0d355-1be2-4abd-9175-fd24c13889a6 By           5306ff78-7334-4837-8245-e5bac2873c46 Sivananda Saraswati
 bfb14f76-b057-4de0-8d9b-38243b41eb13 By           6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd Hafez
 bfbaaa78-fd74-4efe-aa90-b3706479d75f By           975fe9de-b52c-4b48-9379-5ff0c304b14a Laozi
 bfbaaa78-fd74-4efe-aa90-b3706479d75f Translator   801bf7c7-1bea-4dfe-ad73-81db5358627c Stephen Addiss
@@ -10515,6 +10655,7 @@ c002545f-2e2e-48ff-bad5-07a0b2233ee9 Editor       fccb134c-fee6-4290-a3eb-259830
 c0026f4c-4a5d-49e1-8415-9ae04e4311d2 By           6cf6f4fa-1539-476a-8f96-79069a0e95b7 Joel Goldsmith
 c003629f-4728-4461-bffd-8a2895a1965f By           87a40813-2824-4b47-a672-acf67c9deca7 Ibn al-Arif
 c00bb784-0748-4121-9c79-74791ffe85f6 By           10155f10-ad93-4b67-8f1c-db2e210e0b89 Roderick Thorp
+c0101321-842d-43c3-987c-18b4155e6024 By           c9cd3225-c110-4d30-8f66-7dac17c74532 Mother Teresa
 c011857b-3dbb-45a2-aefc-aa7139238d01 By           4d847834-565d-41f3-9622-748ebe2e4da8 Hongzhi Zhengjue
 c011857b-3dbb-45a2-aefc-aa7139238d01 Translator   cb2af337-a7f1-45d5-849a-bb630fa994b3 Sheng-yen
 c0197dbc-a551-4f22-a4a0-6776202f0e17 By           c6d47d7b-579d-4d33-834f-f5ee0ac54822 Meister Eckhart
@@ -10551,6 +10692,7 @@ c08e0890-720a-460d-838c-141507c16560 By           c6d47d7b-579d-4d33-834f-f5ee0a
 c098096f-85b4-48b9-96e6-2649dcdd56ea By           82d05841-a2f0-47ad-bdde-a27445a10522 O. Henry
 c09bae5a-b458-4706-be44-ac1869c7e5ad By           NOT_FOUND                            Richard Beer-Hoffmann
 c09e0b07-fd09-4bed-a4bf-a276a4f4035c By           e516f932-cfdd-4dcf-9024-659cee569af0 Jili
+c09f02a6-c5bc-4d7b-afec-3001f47e1648 By           8112ae23-1903-4fca-bac7-a8cca9c1b38e Mabel Collins
 c09fe75d-3eea-4a7e-8f5a-33de74831fce By           c9cd3225-c110-4d30-8f66-7dac17c74532 Mother Teresa
 c0a0d4b5-34bc-429c-94c4-e968e27e900f By           3e42a080-e2c0-4cfe-8f90-98eef5fe51bc John-Roger Hinkins
 c0b1245d-7076-49a7-824e-9dbb3c518600 By           3ade600d-9e69-4006-96dd-a89e778f01fe Johannes Tauler
@@ -10562,6 +10704,7 @@ c0cb573f-c33d-4b45-bf9c-a8c26bc64beb By           975fe9de-b52c-4b48-9379-5ff0c3
 c0cb573f-c33d-4b45-bf9c-a8c26bc64beb Translator   3571695b-e6ef-4075-9e5a-6b5b28f0e0da Douglas Allchin
 c0ceb9c3-547b-4534-a8a8-04d4ecb67b0a By           ddea67cf-b1b0-41bf-a57e-56e98685e09d Thomas Carlyle
 c0d4c1c7-4807-4190-a61d-55888bcca2b0 By           c6d47d7b-579d-4d33-834f-f5ee0ac54822 Meister Eckhart
+c0d4c8e1-6dbb-4f94-961e-3ae87ae977c0 By           1aa04209-6053-4474-8382-a71ab4357b4d Ralph Siu
 c0d9742b-3a28-4162-b548-b4b42ca946eb By           16fa36b4-e416-49fa-bb81-f3f0c1b8bfa2 Zeami Motokiyo
 c0daca78-9e20-4fdb-a415-65129a4fda45 By           4303fa16-4ff9-4236-938f-12ce437e48cc Rabindranath Tagore
 c0dd411b-8e60-48e1-bc2a-6e587940ad79 By           ed21def1-5411-4584-b991-fa77f5415d14 Gautama Buddha
@@ -10635,6 +10778,7 @@ c22500ef-ea3f-493d-bf38-cbc61c01a4bd By           3361ef57-842c-46ac-a599-42d4d7
 c2266d87-bcc2-4901-865d-4b829108f4c0 By           4de44b73-d163-416c-9eed-b85ef8d42c70 Rainer Maria Rilke
 c22ba65c-5d8c-4d37-994a-e35d1986bfb5 By           a27600bb-e063-490b-a3f2-a16f732c69e8 Attar of Nishapur
 c22d2d73-5f08-46ed-b226-85a07f69a95e By           4b1b3ab5-972b-4b53-aa10-a7f4f89f8a61 Johann Kaspar Lavater
+c23cd7cd-20e7-4d02-aecc-b6e3fbc7d6de By           a2899750-0766-44da-bdc0-cd1187c250e3 Uell Stanley Andersen
 c24b50a6-e065-474a-83b0-a6f89d9c718c By           3b9a9355-beee-462d-aa2f-a0294b7424c6 Angelus Silesius
 c251d439-438c-4118-8c85-3d3ee41bece4 By           b201cc24-b119-48e5-ab1f-ae84cdd442cf Han Yong-un
 c2549146-6253-4c90-8273-57cf0171051e By           6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd Hafez
@@ -10650,6 +10794,7 @@ c28b778b-1f93-4968-b07d-7cb0243d77a6 By           b3bf684e-17cd-4289-8b7e-bfa17a
 c28baf86-76d4-49b2-84d8-1977432d8f7a By           NOT_FOUND                            Walter Starcke
 c291c540-2406-4970-8bff-d2b03ef31854 By           3ade600d-9e69-4006-96dd-a89e778f01fe Johannes Tauler
 c29bcdea-8724-4f29-95e8-fccafb03e428 By           a124b90a-41ed-48e8-8e42-38bd287b2562 Teresa of Ávila
+c2a59ff1-16e9-4b90-8a59-055b134ae5aa By           14b3a8c4-6c61-4c39-9f58-6b6bd55a47d0 Fulton J. Sheen
 c2a68e8b-d58f-44ec-a02c-21028acd5cfd By           NOT_FOUND                            Thomas Watson
 c2adae92-028c-4968-9935-c20bc5bc3445 By           23c6c350-fb62-43c9-a01b-4542d523d992 Anonymous
 c2b37927-d1bb-4ef6-98a9-4ae4d3c1912b By           NOT_FOUND                            Corra M. Harris
@@ -10679,6 +10824,7 @@ c31bc4d5-ace3-4d6d-99f0-73dbb4c3ce94 By           e1f95250-323f-40c7-a531-954dbb
 c320ae7e-1746-41ed-967a-22e961c7ac6d By           4448060f-f3d2-4d83-98f3-af35d83cce70 Vespasian
 c32301bd-6fa1-445e-8a17-3b5ca423dd0f By           97793e91-1fe6-4096-b6a9-6fdcf080c656 Henry Ward Beecher
 c3243888-0ecc-4d43-88ba-fdc1eb3e4eda By           75bb36c9-6eec-41f9-88ed-9d1e4cb46b57 Joan Baez
+c333253b-4b71-4e77-aca4-55e12b1c2193 By           199b81b9-b363-4dd7-b262-4be2e71c89dd Jesus
 c3357410-28a2-4e7f-a963-341aee9bdaa9 By           e42f9114-7867-4022-be7f-1561b8d8a72a Peace Pilgrim
 c34333a4-9990-41c7-b223-f50e8eda6f64 By           107f5acb-b547-4d88-830a-34b1279a31c9 Böhme
 c345ba41-e4ad-44ac-a296-c0d9e41128dc By           7660dee5-98f7-4b07-bd33-0d1a681aba7b Swami Ramdas
@@ -10721,7 +10867,8 @@ c414abd9-52eb-4029-b5ac-fbc756b37484 By           63499482-b830-4f4b-8242-d62b87
 c4173558-b556-4660-8e76-19bf31641b18 By           26db1c26-cbd3-4278-a22f-3ccabad428e1 Lakshmana Sarma
 c41823c8-059b-49a4-a35b-5811f74e92fd By           ff4ad022-62f7-4e6a-9f32-950d7d87f2a8 Jack Miner
 c423c7d7-3b19-45df-9295-f1b6c52cdb20 By           b0af6833-f01f-45dd-8997-d0d0ce971b52 Henri-Frédéric Amiel
-c428039b-2402-4b33-9e8f-1ceb0926e954 By           NOT_FOUND                            Frank M. Colby
+c425403d-a8e7-43a5-8ba7-97383fb722eb By           ca6fb155-39ae-4d53-8782-cbd6dc5ae0b3 Mahatma Gandhi
+c428039b-2402-4b33-9e8f-1ceb0926e954 By           bdb082ea-5f45-4bc8-b85c-e516e9a8ae07 Frank Moore Colby
 c42a79b5-36f2-4ea9-92fb-e2e6085adc60 By           fac91843-6888-40d8-85eb-fc143d5d6cf8 Herodotus
 c4302d80-1523-4d40-a8c0-aa50021477c5 By           afe889b5-1d24-4e73-a15a-97500d4a05f7 T. H. White
 c43257b9-c207-44c9-bbef-6cceb01da605 By           f8ce9b5a-a9f1-476f-bb8f-fcdda72d643a Walt Whitman
@@ -10783,12 +10930,14 @@ c5428531-56f6-417a-97cf-6cf055865b61 By           107f5acb-b547-4d88-830a-34b127
 c543aadf-ba96-44c8-8cb2-283e5d6110fa By           d28749d8-6e9c-4c6a-ae94-68e30dda367b Charles Caleb Colton
 c55671a0-5893-4407-895d-42bb21f8221b By           02ad43dd-39a3-4cca-bd35-6e1c08de037c Ram Dass
 c5637d6f-f540-439d-95f7-2d5599410e90 By           ef4b9c0d-0226-40ec-9091-4f9657d458d1 Nicolas Flamel
+c566c64b-efef-4d79-8a7b-ee5302146ab8 By           90344893-ae7c-415b-9e87-199340bb5c74 Blaise Pascal
 c56ff56d-6bf2-48b7-963e-3979f2421481 By           975fe9de-b52c-4b48-9379-5ff0c304b14a Laozi
 c56ff56d-6bf2-48b7-963e-3979f2421481 Translator   b56381e5-4328-45e3-b40b-561f0acd5043 Peter Merel
 c5745b88-5b3f-43f0-b5a7-4eed512bb924 By           ae12fb9c-8248-4a21-9c1a-a7c0422eb3f4 Cat Stevens
 c57c2b74-9dd1-43c4-9c25-0882191d7410 By           e682bbc9-4b25-4a7e-8038-0ef925233e83 Plato
 c5823e32-190b-4107-acef-859c40af7b70 By           7e82b848-8bcc-4dda-87bf-55ca7cf913fa William Shakespeare
 c584c3f7-5265-48be-8646-b74b8ae90141 By           5de25b06-fccd-4627-8499-90d1c83c4172 Hermes Trismegistus
+c58a62be-7a97-44e6-9a6f-a9b6c1d9d760 By           58618d80-c1f3-4f84-ba40-2436003f7799 Thomas à Kempis
 c58f7098-168e-4255-8f86-ff7ce15e7e34 By           e92fad99-6914-41c2-a93c-e82b28742356 Heraclitus
 c5907396-f044-4f55-b373-c8cf465fab73 By           c5c043f6-00b6-438e-9e33-2fda201d5546 Seungsahn
 c593f14f-697f-4ee4-b218-b74b5343f913 By           NOT_FOUND                            Ada ir Lara
@@ -10862,6 +11011,7 @@ c6b681be-f6f4-47b1-b842-2fb7cdb66a1b By           3619cc20-a666-4429-ae6c-a941e8
 c6bb38ca-ad12-479d-a8b7-e97760167e95 By           975fe9de-b52c-4b48-9379-5ff0c304b14a Laozi
 c6bb38ca-ad12-479d-a8b7-e97760167e95 Translator   3571695b-e6ef-4075-9e5a-6b5b28f0e0da Douglas Allchin
 c6bdbb7d-83e5-424b-a10a-23e554a961c4 By           e683846d-3064-47cb-8aae-02bf87a59fe9 Al-Sha'rani
+c6c03701-0f76-4f0f-ab0f-08fb6330c9ef By           a679d388-7070-41aa-a792-c1b992100ca8 John Bunyan
 c6c27a1f-8bb0-46f1-8bc9-e70509013a9d By           0200c883-e38f-4554-92bc-2eba913426b7 Rumi
 c6c95e36-c845-40f3-a473-e1c9eed05273 By           84cc98f2-f598-487f-8bda-1d8538b27df5 Wang Fanzhi
 c6d2e1b8-22bb-400f-bec0-b972e03c601d By           2a38b1fd-ad45-4d20-83b6-43bba3ae5c71 Euripides
@@ -10918,6 +11068,7 @@ c7db75bf-7416-47eb-917f-243744ffa2fc By           7810cb90-7988-4876-a8e1-739c9d
 c7e7784c-9236-4344-8653-a5271dc49824 By           166d328c-b327-4dea-9107-753f01644b4c Jerry Brown
 c7eb9c3f-9cb8-4ef5-8c21-59f209dca7c9 By           58618d80-c1f3-4f84-ba40-2436003f7799 Thomas à Kempis
 c7eba3a4-c5e3-4e23-8862-4a3cb643be6a By           NOT_FOUND                            Raymond C. Barker
+c7f91f7e-2198-4c19-82b2-d3a0980439e8 By           NOT_FOUND                            Jonathan Edwards
 c7fbe552-ded1-4e76-8afc-f40a1635c0aa By           e682bbc9-4b25-4a7e-8038-0ef925233e83 Plato
 c80051ff-7b66-49fd-be32-1e88d8323a5f By           a5467957-8c86-4973-88d4-2b033a86488d Symeon the New Theologian
 c8017618-17f4-4f8d-86e9-eff01d67b84c By           ddae4034-c667-4bdd-8598-58b7c43b3e21 Ramakrishna
@@ -11028,6 +11179,7 @@ c9dfc500-082d-4331-b1ce-960da58cac8b By           a388a834-c877-452b-a30e-39e529
 c9e21ff5-a6e1-45a7-bffe-9f24fae2aba6 By           7e82b848-8bcc-4dda-87bf-55ca7cf913fa William Shakespeare
 c9e595c8-111b-475f-beb6-167d7c3ffbd4 By           4dbcbcab-033d-4552-a4e7-46b8c1c0f5ac Maxwell Maltz
 c9e5ceab-92d5-4996-a029-859de83ec89f By           a9b17b0f-552e-492e-b71a-e2b073f4341a Swami Paramananda
+c9ec83cc-5629-4542-9f2e-292454b44053 By           148bfde2-e6df-4a70-a9cb-2f3b54e0f7ea Erica Jong
 c9f36d12-3ce0-4034-8941-444365626595 By           5e09a5fc-beb5-40c7-955a-970a0a65124c Charles Lamb
 c9fc0b2c-7cd0-4cb0-ac1e-ac693f440f35 By           NOT_FOUND                            H. Spenser Lewis
 ca0668fc-c85f-44ad-8d58-670f5a5b35e3 By           63499482-b830-4f4b-8242-d62b872c322a Nisargadatta Maharaj
@@ -11209,6 +11361,7 @@ cd064cc9-0237-4907-9ede-d500fecd7e2f By           ee5025c8-7d53-40f1-b9ae-b61203
 cd2057ee-d8b3-4398-b6d8-04494b064331 By           7e82b848-8bcc-4dda-87bf-55ca7cf913fa William Shakespeare
 cd2287c0-fbaf-4d9c-af18-ff6e4322292b By           NOT_FOUND                            William G. Simms
 cd232cc1-aef7-4f69-bce0-aae083913de7 By           97648a77-e163-42c4-8256-8758c5ca7b9e William Richard Miller
+cd254901-fcb4-4404-92ef-75b0b234c53e By           58618d80-c1f3-4f84-ba40-2436003f7799 Thomas à Kempis
 cd28b7be-b911-4533-ad01-e41e3fa95a7d By           d5651b36-eb26-42d2-b0c9-b6d292826b7c Swami Vivekananda
 cd2e4d0f-8a40-4733-9b25-36430f269633 By           d8eae47f-30a7-40d6-8f4b-38d132360546 Inayat Khan
 cd321894-43d6-4d1f-b04e-f52e57df6ff5 By           bf314865-ec10-413c-b85d-c614bf4bcdb6 Sathya Sai Baba
@@ -11272,12 +11425,14 @@ ce437e4b-2a69-4614-905b-ff5073900c9c By           4de44b73-d163-416c-9eed-b85ef8
 ce4cf93b-2f82-4819-bfb6-28b10b5ce232 By           eaa1c488-9b8a-4656-893e-0737a688bf76 Ramana Maharshi
 ce4e7326-06b9-4a26-b427-4f40250dd299 By           4de44b73-d163-416c-9eed-b85ef8d42c70 Rainer Maria Rilke
 ce4e8394-6e5c-4bde-87ac-2c58b92b6247 By           1aa04209-6053-4474-8382-a71ab4357b4d Ralph Siu
+ce5e7a13-9a07-4ac6-9b23-06e818eb51f9 By           23c6c350-fb62-43c9-a01b-4542d523d992 Anonymous
 ce61b193-d913-4368-95c3-ee6ade382905 By           d8eae47f-30a7-40d6-8f4b-38d132360546 Inayat Khan
 ce62cb1a-06c2-43af-ab2b-df06c9c7c9be By           5de25b06-fccd-4627-8499-90d1c83c4172 Hermes Trismegistus
 ce68648c-3b8b-49c8-9cb4-f811866e9aa1 By           e351b3c9-cbf7-4784-88ed-3f973bc6fb91 Henry Suso
 ce694982-36d2-4fa5-a288-87d021d53c62 By           NOT_FOUND                            Arthur S. Roche
 ce6ce473-3fa8-43a3-982d-368dca9f8457 By           107f5acb-b547-4d88-830a-34b1279a31c9 Böhme
 ce6e63b4-ea33-46df-bb64-9cb9626dc83b By           2e8c17f6-f9aa-4b2d-b2dc-3887f8350aa7 Confucius
+ce7688b7-248d-4925-abea-b83025cadcbf By           e3823472-f93a-4c1d-be9e-61241565786d James T. Mangan
 ce7903fc-3990-4477-a06b-fe902351c070 By           a27600bb-e063-490b-a3f2-a16f732c69e8 Attar of Nishapur
 ce7aaf91-9a6b-4cee-adee-636785406444 By           2e8c17f6-f9aa-4b2d-b2dc-3887f8350aa7 Confucius
 ce868251-11ee-4cbd-ada1-69a2ea9d1503 By           2f916966-9716-4750-bc52-6e1975e8907a Hosea Ballou
@@ -11293,6 +11448,7 @@ ceaaa2d8-6ac3-46e1-ad9c-59ef8b3cd5a3 By           e507b9f4-853f-4ef7-a454-43249d
 ceb55a1e-c042-4244-9109-e8d12c07b738 By           ddcdb5eb-6c80-4fd1-91da-0ceb41d7e16d Dante Alighieri
 ceb65c8a-76d7-421e-bc7b-dd575c931154 By           17abaf3b-2d24-4c90-ae2a-a11a88f39a9f Shabkar Tsokdruk Rangdrol
 ceb65c8a-76d7-421e-bc7b-dd575c931154 Editor       ad095005-59d0-43c7-8927-da265a0c6cb2 Matthieu Ricard
+cec40a60-ebca-4c74-92bc-79103de0590f By           23c6c350-fb62-43c9-a01b-4542d523d992 Anonymous
 cec71004-8da0-41ff-bf26-56077fb06414 By           8cf34024-ed2a-4578-a1df-bdc63f24a545 Martin Buber
 ced21c82-6570-46ab-bcfe-24c963430903 By           78267f86-34d6-4302-8c9d-2cde95198bea Helen Keller
 ced22c66-cd5d-45c6-9a23-d9b4639f3c82 By           2a323e5c-b144-41fa-8744-59a1baccb44d Robert Herrick (poet)
@@ -11455,6 +11611,7 @@ d0dc7da4-d747-4974-8749-644e6e8f26bb By           ca6fb155-39ae-4d53-8782-cbd6dc
 d0e12e45-1018-4367-b16c-4d83761403fa By           f27194c4-4bcf-4c30-8ff6-9e260f662b48 Augustine of Hippo
 d0e4599c-92e7-48bf-8cae-34efa58bf62f By           NOT_FOUND                            Michael A. Sydner
 d0e76072-6f14-488c-a5d4-b42e138b4586 By           5c5f9ad8-a1c7-445d-92d2-333c51a387d0 Albert Einstein
+d0ec27a5-e4ae-4bf6-a5e3-8900fb4ff7a3 By           41c4bbac-5463-4fe4-9844-9a03caeef330 Erasmus
 d0f35026-ce85-498c-9244-f3e5f4d8a740 By           4de44b73-d163-416c-9eed-b85ef8d42c70 Rainer Maria Rilke
 d0f56560-c70f-4951-945a-3c29648899de By           8226bfac-6dd6-42a5-9e75-e1d127da5f8c Robert Green Ingersoll
 d0f5d3d0-9760-4921-b737-108799237d5e By           c6d47d7b-579d-4d33-834f-f5ee0ac54822 Meister Eckhart
@@ -11500,6 +11657,7 @@ d1a06872-5da4-48eb-8fc8-04ebd3de8c98 By           NOT_FOUND                     
 d1a120a0-800d-4af1-a904-510a694f9481 By           63499482-b830-4f4b-8242-d62b872c322a Nisargadatta Maharaj
 d1b99307-6c64-40bf-83d8-d4c5dd70d401 By           cbc73f7a-2160-4871-8a53-817440121904 Paul Brunton
 d1cd17af-0594-4d2f-9399-90b743be594d By           b201cc24-b119-48e5-ab1f-ae84cdd442cf Han Yong-un
+d1cecc0f-74ee-4af5-8517-c36317b5ef10 By           32471946-427f-4e94-9881-141907fdae39 William Osler
 d1dd4ecb-c577-4bbe-a32b-baeb27d042c0 By           ddae4034-c667-4bdd-8598-58b7c43b3e21 Ramakrishna
 d1eb07bb-3489-4bf5-9e46-8cdbbe22a97d By           7e82b848-8bcc-4dda-87bf-55ca7cf913fa William Shakespeare
 d1f11a91-336d-41b6-97c4-55375eb4b092 By           e0414f0f-31cd-40b3-91f0-e2e0d5ba3a02 Iamblichus
@@ -11704,6 +11862,7 @@ d5a67b15-612d-4adb-a89d-7fd3ca6832c7 By           199b81b9-b363-4dd7-b262-4be2e7
 d5a89022-526e-413f-b619-c7b599d36b82 By           c6d47d7b-579d-4d33-834f-f5ee0ac54822 Meister Eckhart
 d5ac0384-0e45-451e-b0e1-0b1d2b304343 By           6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd Hafez
 d5acecb6-939f-483d-95cc-4fe58c7db93b By           f1147fbd-123c-4a88-a87d-06fd21e20739 Miguel de Cervantes
+d5aed06b-6057-4989-a889-5c61761ab291 By           7debe24b-2ad2-46cb-84cf-cd7b0af45abe Julian Johnson
 d5b1def9-bafe-42e5-863c-34016d835c9a By           3b9a9355-beee-462d-aa2f-a0294b7424c6 Angelus Silesius
 d5b5973b-ba34-4836-ae79-f621c1dd90ca By           fa8eddd8-7191-48dc-8ee7-4bae90e09358 Francis Quarles
 d5baf858-771c-4f74-af73-7bad4c285561 Translator   e94a636c-e53a-46be-bf41-f92283aa95b3 Burton Watson
@@ -11742,6 +11901,7 @@ d636db72-d683-48bd-bf69-8b3365940ec0 By           5887863b-bb07-4084-a7fd-703ea6
 d6375394-8eb1-4c08-87bc-af7b0be32555 By           7e82b848-8bcc-4dda-87bf-55ca7cf913fa William Shakespeare
 d64065ac-5a13-48ad-b4e3-4651b4640b89 By           3b9a9355-beee-462d-aa2f-a0294b7424c6 Angelus Silesius
 d64101ab-11a0-4104-ab67-69934e24d4ba By           5306ff78-7334-4837-8245-e5bac2873c46 Sivananda Saraswati
+d64adfff-0dcf-4818-ba52-d85e3dd0e399 By           975fe9de-b52c-4b48-9379-5ff0c304b14a Laozi
 d65093ea-7925-4d71-a62a-5b8bd694efc4 By           975fe9de-b52c-4b48-9379-5ff0c304b14a Laozi
 d65093ea-7925-4d71-a62a-5b8bd694efc4 Translator   82eb5cac-293c-4d60-9203-971700a9a434 James Legge
 d650a7af-11b0-4e35-9236-6f03bf8e7bed By           4de44b73-d163-416c-9eed-b85ef8d42c70 Rainer Maria Rilke
@@ -11867,6 +12027,7 @@ d86e0428-c2f4-4f83-b619-dd3920fdc353 By           NOT_FOUND                     
 d87baab8-1739-4969-a4fd-cf4c8727ffe7 By           6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd Hafez
 d87e26d1-3655-4497-a6de-bee0b23caa87 By           ad2bbf8f-33db-45c1-8a07-038111dfe25d Hanshan
 d87ec762-dcbc-4e8c-a636-da629fdd252f By           1e732a51-8f45-45fc-b7c8-276e67e1343f Dag Hammarskjöld
+d884db92-e1ad-478a-ab0e-da18ba0cdebe By           NOT_FOUND                            Mary W. Montagu
 d88d2e8e-6a38-4a67-b255-28928b1fcba8 By           f27194c4-4bcf-4c30-8ff6-9e260f662b48 Augustine of Hippo
 d88e7035-a51c-4ef0-82dc-a0c5596f2cca By           107f5acb-b547-4d88-830a-34b1279a31c9 Böhme
 d899f6cd-66ee-44bd-b965-011716adaeac By           975fe9de-b52c-4b48-9379-5ff0c304b14a Laozi
@@ -12037,6 +12198,7 @@ dc551b30-e4d2-4077-963b-57e099e71068 By           28d77707-958b-4673-a978-353f43
 dc551b30-e4d2-4077-963b-57e099e71068 By           1aa04209-6053-4474-8382-a71ab4357b4d Ralph Siu
 dc591c6d-cbfd-4f43-8e61-b468dfc35281 By           ddae4034-c667-4bdd-8598-58b7c43b3e21 Ramakrishna
 dc59633e-fdc9-422e-aaaa-cba2fb13f69c By           NOT_FOUND                            Paul E. Wood
+dc59e14f-36e0-4f87-9c60-54d0e9847fa5 By           7de0c4e8-5a3b-4795-8d54-dc80f6f8ff10 Tryon Edwards
 dc5a0516-c46b-4e4e-931c-e123c6fea1ee By           5306ff78-7334-4837-8245-e5bac2873c46 Sivananda Saraswati
 dc5f6fce-6118-4082-8429-2ea9dc22cfaf By           975fe9de-b52c-4b48-9379-5ff0c304b14a Laozi
 dc5f6fce-6118-4082-8429-2ea9dc22cfaf Translator   801bf7c7-1bea-4dfe-ad73-81db5358627c Stephen Addiss
@@ -12051,6 +12213,7 @@ dc82698c-1822-43e3-b636-8902c683f090 By           7660dee5-98f7-4b07-bd33-0d1a68
 dc82f52a-dbf3-438c-8b2e-5a807fae0a33 By           1019b43d-1e9c-4d50-9463-75e255c75302 Saraha
 dc84bc74-4898-4ff9-9da2-b532723826b3 By           826a45ca-31d2-422e-b38c-5c1ab766ff95 Jean de La Bruyère
 dc9085cf-b77b-47c7-b9b0-61c65cdfeb85 By           bf314865-ec10-413c-b85d-c614bf4bcdb6 Sathya Sai Baba
+dca1a6fd-bf0f-47c1-b3d9-e9317e22b0e1 By           NOT_FOUND                            Donald Curtis
 dca23fe9-fb48-4434-9e2f-88da8cbc1969 By           fbf6ce01-3a71-4401-8609-a6822aafb4a2 Plutarch
 dca3347e-e00a-45dd-b830-ebeb716b8015 By           e682bbc9-4b25-4a7e-8038-0ef925233e83 Plato
 dcaf8949-8f1e-4779-b906-b7768ee4733c By           0200c883-e38f-4554-92bc-2eba913426b7 Rumi
@@ -12151,6 +12314,7 @@ de31c69e-e101-49eb-93fe-55e3c04de742 By           NOT_FOUND                     
 de32c5bc-adfb-4017-90c4-90376eb44b54 By           e42f9114-7867-4022-be7f-1561b8d8a72a Peace Pilgrim
 de3452be-dace-44bd-883e-d0628b1ae7c0 By           975fe9de-b52c-4b48-9379-5ff0c304b14a Laozi
 de3452be-dace-44bd-883e-d0628b1ae7c0 Translator   a5b401b1-b8de-43f8-bdb3-11a263a4bdbb D. C. Lau
+de383c91-3823-45d7-b6f1-26e25109f681 By           NOT_FOUND                            John Panama
 de3880b3-a976-4039-8fc3-9104c8ebfc84 By           4de44b73-d163-416c-9eed-b85ef8d42c70 Rainer Maria Rilke
 de3aa76d-55d7-4aa3-a9e0-d9b06d15d4b5 By           040ca95a-f581-4643-828b-918b863e31dc Jiddu Krishnamurti
 de40fc52-9297-4268-86cb-79d2358c6173 By           0200c883-e38f-4554-92bc-2eba913426b7 Rumi
@@ -12199,6 +12363,7 @@ dec7aaf1-56b5-42d1-8b05-c8385cbf0938 Translator   a5b401b1-b8de-43f8-bdb3-11a263
 ded2ff3e-600f-42ab-bbd1-08783eb0ed87 By           0200c883-e38f-4554-92bc-2eba913426b7 Rumi
 dee0a0de-c78a-4903-aa37-ab0e80548d16 By           d16578db-1632-42c6-817b-bc6767dcba43 William Law
 dee0ff02-9a0d-4e75-a9a6-33a0dd375ab8 By           1cfe7bec-ada4-4db0-889b-bd908db11a3b Ray Mitchell
+dee46437-02f3-4687-b330-c1ccd96bb371 By           9d67a275-25bc-404d-bdbc-a99e5efd734e Cesare Lombroso
 deea8f64-9f9b-49d9-a673-157a48fecc23 By           0200c883-e38f-4554-92bc-2eba913426b7 Rumi
 deedb0de-1857-4ed0-a7c7-4de7ed5febcf By           e35167a7-7069-4f40-9499-cc03ff26b876 Oscar Wilde
 def289e2-40cb-4054-b1b5-1fab1cf60530 By           2e8c17f6-f9aa-4b2d-b2dc-3887f8350aa7 Confucius
@@ -12214,6 +12379,7 @@ df11bf8c-e7ea-4611-a22c-2c69f0cd1f24 By           8596a9e3-4cf6-4aab-8241-a4e021
 df1ca30a-37b6-4487-917f-be1a1cae8c4d By           7debe24b-2ad2-46cb-84cf-cd7b0af45abe Julian Johnson
 df1e4445-6941-44de-ad32-841c0e937226 By           NOT_FOUND                            Melvyn Kinder
 df2546ea-cfb6-4b1f-934d-870f4fa52381 By           eadd2a48-c9b1-4309-a018-426fc9007076 Robert Mueller
+df354042-e560-494c-821a-af6f11920f1f By           b0af6833-f01f-45dd-8997-d0d0ce971b52 Henri-Frédéric Amiel
 df394eb2-cae0-4463-a606-d1a2d6035609 By           53ab1f42-17dd-4168-ae2e-aae5f9f911cb Shantideva
 df3cb581-47fd-45df-87db-d654802550ac By           ada7b8e3-de83-4219-bbc1-28084dad916d William Blake
 df479af2-105a-4d4e-ba61-0568140868cf By           0a6e5d4c-5a86-4baa-8821-73d4bd96ffa2 Woodrow Wilson
@@ -12281,6 +12447,7 @@ e016f78d-a7ef-4cea-ac7e-db418bf3a3e4 By           b74cdb91-6ff8-4f7a-8f07-7aa149
 e01abdc5-ad58-4dbb-b891-ac4a00cc8473 By           1f1597f7-bd6b-4140-81ec-fbce686250fd Mary Oliver
 e0239591-69b1-4b6d-a37a-838f9c36635b By           873591f9-9384-40cc-992b-00c80fa43d2d Abraham Lambspring
 e02f5808-fc4a-4d73-b7f5-fd4a40f300d2 By           bcde8ba5-3085-4175-973f-0a608ffe4c65 Roy M. Goodman
+e032f94f-58f6-4a54-991c-7d6f7033fd87 By           52b1f0a6-a189-45a0-9bf0-5cd56e054225 Meher Baba
 e033c669-5989-4ec4-874b-265379efc55b By           b201cc24-b119-48e5-ab1f-ae84cdd442cf Han Yong-un
 e037250f-ae15-49e0-b95c-87903f9505b8 By           5de25b06-fccd-4627-8499-90d1c83c4172 Hermes Trismegistus
 e04b5dff-6c72-4bb8-b19c-de9beca437be By           NOT_FOUND                            C. H. Parkhurst
@@ -12328,6 +12495,7 @@ e1471659-6173-419e-8e83-52bd52150f32 By           fca26fe7-d9fd-4e62-998b-2d610b
 e1475b30-6c6b-4e94-b981-5f5eabf117d9 By           bc2fb4c9-d115-4d3c-a3ea-31a1a410a0f1 Carl Jung
 e148aa49-306c-4b0d-9253-c5dae69d5de7 By           ad2bbf8f-33db-45c1-8a07-038111dfe25d Hanshan
 e148aa49-306c-4b0d-9253-c5dae69d5de7 Translator   457091f9-2ec6-4884-b08c-347681ae9e51 Red Pine
+e1515195-8b3b-4c14-8aa5-b058f0edceca By           c6d47d7b-579d-4d33-834f-f5ee0ac54822 Meister Eckhart
 e15b4ca2-1dde-47be-be12-fe7b72ec2811 By           ad2bbf8f-33db-45c1-8a07-038111dfe25d Hanshan
 e1650d04-e637-4796-b455-4d06364283c5 By           093da0e2-ffa1-4058-9767-a51185823df6 Peter Sterry
 e16f4a47-3eba-4b9b-ae10-7bb07ada64d3 By           5e298201-5932-4881-a716-510fbc1b4a73 Plotinus
@@ -12350,6 +12518,7 @@ e1b51f41-a929-4cfd-b206-9fe8d108afce By           934ca538-1ae4-4b18-a507-364df5
 e1c1c302-4f11-49ea-9515-bcf9c08126cc By           975fe9de-b52c-4b48-9379-5ff0c304b14a Laozi
 e1c1c302-4f11-49ea-9515-bcf9c08126cc Translator   3571695b-e6ef-4075-9e5a-6b5b28f0e0da Douglas Allchin
 e1d3b9a5-0ffc-4b1f-ab2b-4be80a8eff3e By           NOT_FOUND                            Henry S. Hawkins
+e1d613c3-251b-4fe1-8e3c-066b729b8077 By           e490363e-5c69-4cab-8d38-eabaf3bd1fb2 Abu `Isa Muhammad ibn `Isa at-Tirmidhi
 e1d7851c-1d95-4024-823c-f624c0be7a44 By           36dc232d-d7a4-4637-9545-ac4e111601b7 Nachman of Breslov
 e1dfdc72-f16d-4c91-bb3e-6f0a21d32940 By           0200c883-e38f-4554-92bc-2eba913426b7 Rumi
 e1dfdc72-f16d-4c91-bb3e-6f0a21d32940 Translator   75e2d2e4-6793-42d4-8ff6-28f71ed8b281 Reynold A. Nicholson
@@ -12406,8 +12575,10 @@ e2c1b888-7a1c-4cd0-9075-6653656da4ae By           19b3e184-3740-41c8-8e27-4a9a1a
 e2c3f800-d440-4142-b999-692b9e51d7d5 By           c6d47d7b-579d-4d33-834f-f5ee0ac54822 Meister Eckhart
 e2c625e6-7497-48c1-9b13-5c15d32bca87 By           4de44b73-d163-416c-9eed-b85ef8d42c70 Rainer Maria Rilke
 e2cb29e2-63b0-4a02-99ca-d090b6072763 By           1b216121-e5e6-47bd-9a9c-301b3016e84c Oliver G. Wilson
+e2ccca7c-48f2-419c-a3d9-b6e641037749 By           4dbcbcab-033d-4552-a4e7-46b8c1c0f5ac Maxwell Maltz
 e2cf2e2b-1a49-4d42-ace6-9950e8cb8bc4 By           058ebd8d-a789-4004-a38d-9a78caaf59e3 Tacitus
 e2d4ed7b-3f6a-4eb2-87c2-62b0c636ef37 By           e19bb797-f075-478b-8a1e-bd13b0d4fdf6 Hans Küng
+e2d71261-724e-487b-b121-b99142b2c0c4 By           ca6fb155-39ae-4d53-8782-cbd6dc5ae0b3 Mahatma Gandhi
 e2de9415-ae55-41c4-a613-cca1b93461b1 By           efb29028-8820-4f9f-bbec-eb449ea6b700 Pablo Casals
 e2e143b7-92dd-4eba-8f1d-4ac98f652749 By           0200c883-e38f-4554-92bc-2eba913426b7 Rumi
 e2e23bef-3e88-4fc6-aada-30ce0585590f By           ad2bbf8f-33db-45c1-8a07-038111dfe25d Hanshan
@@ -12456,6 +12627,7 @@ e3718174-f126-4598-8fc0-eafe98a27d2c By           7660dee5-98f7-4b07-bd33-0d1a68
 e37b86c7-fdbe-42e8-b8d3-0b9adee77284 By           7dc787e1-d673-4369-b888-1359f2d1dcdd Tulsidas
 e37bcdcb-c207-418b-b0e0-1efe3e230def By           f5282524-edae-48cf-b35f-cd3b52c212bb Anne Brontë
 e3845e99-5e33-4c67-a9e9-248b8d696e63 By           d9893a18-e1d0-4577-bc54-470241a75f41 Muhammad
+e38e51f5-20c8-4f06-8732-abf3c073449b By           64204a11-7af5-4d6e-be69-a74853509a55 Henry David Thoreau
 e39030bd-0906-4d7f-9c4b-39a87a5ea7f0 By           f8ce9b5a-a9f1-476f-bb8f-fcdda72d643a Walt Whitman
 e391f130-a14e-464f-9294-088dc69b205f By           5306ff78-7334-4837-8245-e5bac2873c46 Sivananda Saraswati
 e3927320-f882-4bd1-b16c-c4ba41430342 By           133bbc0a-dd8e-4d71-93f6-a5c8df8c5f98 Baruch Spinoza
@@ -12534,12 +12706,13 @@ e50966a8-2c2e-48a8-b2ca-596c81ce0ae0 By           e92fad99-6914-41c2-a93c-e82b28
 e50997d6-d62f-4c0d-8d81-b6594f021e07 By           093da0e2-ffa1-4058-9767-a51185823df6 Peter Sterry
 e509f812-6967-43a3-b8d9-e032988aeef8 By           a14ba331-a3d1-46a8-94ed-30abf68577da Reinhold Niebuhr
 e50c6d0b-e150-4249-86c6-b54d2e86a4ff By           9f1b965c-c900-4a0f-bad7-b871d0d5a153 Neem Karoli Baba
-e50cc442-3c4f-4d04-8a09-8db6bd583655 By           NOT_FOUND                            Hillel
+e50cc442-3c4f-4d04-8a09-8db6bd583655 By           d3e4ba14-2c98-4d9a-b75e-4bc77356b2e8 Hillel the Elder
 e5166ead-1bf3-46d0-8095-6da57e2c7673 By           a5467957-8c86-4973-88d4-2b033a86488d Symeon the New Theologian
 e52b2504-0f9d-45ff-a2b3-3578e5d86ebb By           cabc39a9-c15f-4712-b9b1-81ce13dc8cda Milarepa
 e52f1633-c825-43d2-961e-66910dde8865 By           NOT_FOUND                            Hans-Ulrick Rieker
 e534276f-4f26-46f2-9ed5-05ec734079d7 By           63499482-b830-4f4b-8242-d62b872c322a Nisargadatta Maharaj
 e5358a39-b3ef-419a-b81c-1c2d75fe6ba1 By           22438ab4-f596-4061-9356-00557a71a538 Alice Hegan Rice
+e5380e9f-f4dc-4e10-b7f0-b355347a5f06 By           7debe24b-2ad2-46cb-84cf-cd7b0af45abe Julian Johnson
 e5454270-3678-499d-ada9-09ec823a9d00 By           f8782975-5371-43cb-9407-ae77e1ff4044 Palladas
 e545a9a0-aaa3-4b5d-b0f9-b6d9ae8df67e By           c6d47d7b-579d-4d33-834f-f5ee0ac54822 Meister Eckhart
 e54e1254-8890-4fad-9ff0-15f4d56d784b By           f27194c4-4bcf-4c30-8ff6-9e260f662b48 Augustine of Hippo
@@ -12552,6 +12725,7 @@ e56a66cf-05c1-4520-9074-ccdf84d4eb75 By           ddae4034-c667-4bdd-8598-58b7c4
 e56f9176-c1fa-44e6-8db7-71eeb23f8063 By           33e878b5-18fe-43b5-9931-107c09de9767 Gerald Heard
 e57028ca-040f-4ef4-8772-24c22ff1a0ea By           NOT_FOUND                            Abbot Chapman
 e5724795-2719-4cc0-aa51-d48ab85bb8f7 By           2e49301b-75eb-41a0-9dcd-66bfd40e6fca Elinor MacDonald
+e5726c08-b50d-4d64-b77a-639dc87db857 By           c879e206-5b1b-4ebb-9da3-f5fe762b4892 Robert H. Schuller
 e57bde8f-302e-4692-b36c-354791f7d1ee By           d8eae47f-30a7-40d6-8f4b-38d132360546 Inayat Khan
 e588d3ed-0e71-4745-8644-fb4cc93438c7 By           eef10066-9c52-48dd-b39f-7feddb400484 George Hubert
 e59001d9-f76d-4890-a9b5-d950daeb2e92 By           5a695bc8-c00b-4975-afba-09e7016fbe94 Hōnen
@@ -12596,6 +12770,7 @@ e6513078-ca29-434e-abcb-dda4132ed79c By           231e51ed-9690-46ea-8258-c5595e
 e654b592-6e3d-46d7-8728-bf2fad246ef1 By           d37fd0ba-1d43-4273-b091-4738c3d332f9 Samuel Smiles
 e65cf5f5-e6af-4cc1-81a2-fe2b2265082b By           b201cc24-b119-48e5-ab1f-ae84cdd442cf Han Yong-un
 e664566e-7e34-4f0b-af8e-eb23be32534d By           a65ea54c-0ee4-45cd-8aa8-bdd8aa6edccb Smashing Pumpkins
+e66a5c79-0b08-41fc-ada7-31ac261008b8 By           cc3b1b8d-2c47-4ba9-bdd5-7e1c3c64c951 John Updike
 e66b167a-6707-49f8-9938-5bff2d9862e0 By           107f5acb-b547-4d88-830a-34b1279a31c9 Böhme
 e66b4d5e-ffbb-4140-b24c-63ef23c11762 By           249751db-3226-4f2c-a527-d149e1274946 Michel de Montaigne
 e66bdf76-f0a5-45e4-b656-eed5e17ac00c By           ef0ecb19-b725-4ed4-be4f-2f39807f9df3 Bayazid Bastami
@@ -12610,6 +12785,7 @@ e69bc201-e256-4e5a-85b6-dbceddcb7f39 By           7e82b848-8bcc-4dda-87bf-55ca7c
 e6a17d42-c9bc-4b6e-b67e-9fddae20ae4b By           51fba784-7905-4fd1-ae0b-878bbce65d12 Shenhui
 e6a48834-4ce0-4a55-aecc-4eacbb0fd5d0 By           9caf4dc7-1cb9-437d-aa73-85343f701e06 François de La Rochefoucauld
 e6b41cc9-7ac9-4b2b-a1ba-17bd61783ead By           ee5025c8-7d53-40f1-b9ae-b6120360eb66 Mahmoud Shabestari
+e6cb2f6e-6320-4d12-9e86-5d87e3af941c By           dc61a380-4612-4169-b4cc-7987037c42f2 Jeremy Taylor
 e6cc05dc-a559-4cf5-8e24-da653232ef35 By           4de44b73-d163-416c-9eed-b85ef8d42c70 Rainer Maria Rilke
 e6cc25ac-fde0-4597-b812-d52c8fb846b7 By           d67db6ac-ff93-4459-ae73-dccd89c9e43d Conyers Middleton
 e6d02032-5e49-4f9a-89f0-87558c4ab13a By           6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd Hafez
@@ -12837,6 +13013,7 @@ ea43d217-2881-48b8-b639-52dc3ff11c6e By           27aa2a49-2f35-4035-b0ce-1775a2
 ea44180a-3e55-4774-a63f-0afd5d943013 By           0200c883-e38f-4554-92bc-2eba913426b7 Rumi
 ea4655cf-e5f2-432a-a074-7e69a17907fc By           11ebba10-92d0-4754-8a35-2f6631fcb99a Horace Bushnell
 ea4f6e2b-92eb-4c4d-8ef5-008be96437ca By           352bebe2-b283-4eb6-9fab-2e2ff55c7bb1 Alfred Armand Montapert
+ea4fb64f-e17d-4ee3-9491-712192839bde By           fed7eca4-9e01-4c45-8b63-0c5deb1da2a8 Leo Tolstoy
 ea55004d-1393-469c-a59e-2ff58bc9eca1 By           6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd Hafez
 ea5670be-0616-4a48-ac7f-5e240624d2b5 By           eaa1c488-9b8a-4656-893e-0737a688bf76 Ramana Maharshi
 ea5712d7-6203-48ba-9c4d-a7bb5ef3eb28 By           8226bfac-6dd6-42a5-9e75-e1d127da5f8c Robert Green Ingersoll
@@ -12910,6 +13087,7 @@ eb69b187-20e6-4873-b470-5f2aa8eb6ac3 By           63499482-b830-4f4b-8242-d62b87
 eb6f9ae6-d6da-445c-abba-f0706a51fbca By           e682bbc9-4b25-4a7e-8038-0ef925233e83 Plato
 eb797f13-5fcb-474b-9d49-1a9aaa6de960 By           989e893e-662e-4c2c-864b-71b11bc853bb Jonathan Swift
 eb79a8bb-dc23-48ee-a573-5b5415e09f21 By           da184f92-f119-42ee-8e45-06ab31cd9624 Thomas Merton
+eb7c7d3a-6b89-448c-8a49-18cc69c64f74 By           a124b90a-41ed-48e8-8e42-38bd287b2562 Teresa of Ávila
 eb81caf3-3f13-4100-93eb-1d8bd091ec52 By           60d760ce-07bc-443f-88f0-af5bf5ead923 William Arthur Ward
 eb824908-eb70-471f-a776-a8b193b5b41f By           5480167d-273e-4b78-94fa-aa297ba01657 Jack Kornfield
 eb84190a-c722-4fb3-a1c6-438d1acd2e3e By           975fe9de-b52c-4b48-9379-5ff0c304b14a Laozi
@@ -12959,6 +13137,7 @@ ec5082a5-3349-4b32-8aaf-93f4d9a18801 By           3361ef57-842c-46ac-a599-42d4d7
 ec5193df-291c-423d-84e8-1a83586fbabc By           dbded6b5-440a-47ef-9c1b-45c7e188c909 Al-Ghazali
 ec6341b8-94dc-4dcf-b25d-b8816340c09f By           eaa1c488-9b8a-4656-893e-0737a688bf76 Ramana Maharshi
 ec63f230-7c1a-4a69-b891-0958c95c7bd7 By           e1141db6-2494-47c8-88ba-7d321060deb1 Roger L'Estrange
+ec64e3d4-65bf-4c76-9f19-6b8a7f0ffde5 By           bc7d4c65-7932-46cb-b373-e440a1fc3b16 Nathaniel Hawthorne
 ec670f9a-19aa-403d-b235-d696e58402b8 By           92f90131-5632-4e76-b0bf-28796933efc4 Shantidas Adhikari
 ec729b5c-cd93-4d38-8e04-f617e64e47cd By           231e51ed-9690-46ea-8258-c5595e60b7b4 Huangbo Xiyun
 ec76f142-8510-4be4-95aa-750d014cd9e0 By           ca6fb155-39ae-4d53-8782-cbd6dc5ae0b3 Mahatma Gandhi
@@ -13023,8 +13202,10 @@ ed57544a-2a7a-4a9a-90db-0c191a45dc0c By           4303fa16-4ff9-4236-938f-12ce43
 ed599ca0-989e-4d24-b9be-d55c649f2089 By           613b0a3b-7ffa-43fe-b121-bb3c6c6bd9ed Junayd of Baghdad
 ed64b43e-e83b-49b2-9b5e-c7ec43009704 By           975fe9de-b52c-4b48-9379-5ff0c304b14a Laozi
 ed64b43e-e83b-49b2-9b5e-c7ec43009704 Translator   3571695b-e6ef-4075-9e5a-6b5b28f0e0da Douglas Allchin
+ed6e045f-3e6a-4432-9a7d-1915713c5934 By           NOT_FOUND                            Tanna Akiba
 ed7e8bc2-f9c1-4812-9123-69b75e45c30d By           4de44b73-d163-416c-9eed-b85ef8d42c70 Rainer Maria Rilke
 ed7ecab6-0cb7-49cf-afe4-4ac0f0428008 By           35b0fb3c-8863-4c62-b996-2313614aa880 Ernest Jones
+ed7f1a1d-4778-48b6-8c7c-13ec7d1c4b14 By           NOT_FOUND                            John Mason
 ed8db016-d0c0-46c1-9a4d-ba656d4821b2 By           231e51ed-9690-46ea-8258-c5595e60b7b4 Huangbo Xiyun
 ed8e7f64-b226-4ac0-be8f-cfcab4daa58f By           0200c883-e38f-4554-92bc-2eba913426b7 Rumi
 ed92f02b-945d-425a-9958-9df5ef9f0ae6 By           2da9110e-eeef-44ef-add8-97d708a580a5 John Smith (Platonist)
@@ -13245,6 +13426,7 @@ f106d251-3417-4937-95c6-8187c2ec3b49 By           da184f92-f119-42ee-8e45-06ab31
 f10f4131-3b53-4466-bf03-50bde544fa0b By           4303fa16-4ff9-4236-938f-12ce437e48cc Rabindranath Tagore
 f112ead4-56d9-4255-92b5-7284bbe99248 By           ee5025c8-7d53-40f1-b9ae-b6120360eb66 Mahmoud Shabestari
 f1132f7c-195f-4c7a-93b6-3e26debf0793 By           f05f2aeb-afd7-4769-9723-2671e2743fde James Boswell
+f1150c31-6278-4218-84af-dd10dcc0c610 By           009f3bf2-bc51-45c2-a2c2-963bcf3083a3 Saint Bernard
 f11756e3-f382-413c-b2cb-7e9f5018e3d1 By           7e82b848-8bcc-4dda-87bf-55ca7cf913fa William Shakespeare
 f11ca5a5-f084-4d53-87e4-eba0199c1a42 By           642072dc-133c-470b-afa5-3ec659b57198 Robert Henri
 f11e0afe-26ea-41b5-86dd-53ac34c888fd By           16fa36b4-e416-49fa-bb81-f3f0c1b8bfa2 Zeami Motokiyo
@@ -13407,6 +13589,7 @@ f3f5e405-5f32-4600-9b6c-2dc98a5d637e By           NOT_FOUND                     
 f4051207-23b7-4fcb-a4c1-fabecf9b6269 By           975fe9de-b52c-4b48-9379-5ff0c304b14a Laozi
 f4051207-23b7-4fcb-a4c1-fabecf9b6269 Translator   a5b401b1-b8de-43f8-bdb3-11a263a4bdbb D. C. Lau
 f4101ef6-ba44-462e-937e-76d47773dc5c By           f8ce9b5a-a9f1-476f-bb8f-fcdda72d643a Walt Whitman
+f4127207-408f-4f5c-80af-ceaf55b176d0 By           199b81b9-b363-4dd7-b262-4be2e71c89dd Jesus
 f4155b7a-d402-4ff0-94a9-30f5d3672673 By           a58e69ba-3ac3-448e-b64f-25c392284614 Nancy Astor, Viscountess Astor
 f41a79a3-39a5-4637-9bdd-b640f9ab8f9f By           12b3ebc8-89c3-494e-ab69-b29a6252f513 Saichi Asahara
 f41d75d3-8620-4c2c-9a6f-cdc4adbbb552 By           975fe9de-b52c-4b48-9379-5ff0c304b14a Laozi
@@ -13426,6 +13609,8 @@ f44f5947-9b75-4376-8359-f6d8f13bb7cd By           ca6fb155-39ae-4d53-8782-cbd6dc
 f4507d2d-9f6b-470d-afba-9bef8adc502f By           19b3e184-3740-41c8-8e27-4a9a1a911cae Khwaja Abdullah Ansari
 f45b25c6-898a-425d-861c-703041364f1c By           b70d1b3f-97cc-4f92-afb9-ca1d87b6ef12 Nick Drake
 f4747873-76d6-494b-ab8f-698c2afc5c71 By           c6d47d7b-579d-4d33-834f-f5ee0ac54822 Meister Eckhart
+f4772217-10df-4ace-9900-95435511ebc3 By           63ea4bb0-e9d0-4544-942c-8daa0337d2b0 Johann Arndt
+f478e541-2c84-4625-8f91-3fa8d722f8ef By           ad380721-8c1d-4780-9ca0-4aeac850eb33 Saadi
 f47cfd64-62be-46a2-98ae-4c539ce5dfe2 By           49c8e910-4c93-4393-8ddc-c6961a501c0f Wayne Dyer
 f47ee046-0b82-48ca-8d0e-e41617b97539 By           b116a3e9-11f2-44c2-b35b-02db3785f125 Cyril Connolly
 f47f25aa-9276-40ce-b194-852e61958d02 By           c6d47d7b-579d-4d33-834f-f5ee0ac54822 Meister Eckhart
@@ -13551,9 +13736,11 @@ f6d6d708-0ec0-4ac2-b52b-56b6d7808c01 By           6e01fa89-72f0-4544-84ae-70f659
 f6da3110-99f7-44cd-8b61-8d523b67d5bd By           058f808e-2952-48f2-99a2-4292fef455f8 Quintus Sextius
 f6dcad3f-5472-44ea-8d63-9ae2b10a2c33 By           55756325-221f-460f-b343-2f97170cd6b8 Guy Lyon Playfair
 f6dd42c2-775e-4dc2-87df-29457539ed47 By           e1a7a45f-7997-4513-be70-adfc50fe2455 Publilius Syrus
+f6dd5c77-3311-4e38-b933-e9a0637dac68 By           48b84dbb-72a9-4eca-b75f-6efc277d9199 Ambrose Bierce
 f6e3740c-132e-413b-9023-da06065d3a9c By           b74cdb91-6ff8-4f7a-8f07-7aa1490c9565 Sendivogius
 f6ece5b2-d058-428f-b3d1-07c7955f1125 By           5de25b06-fccd-4627-8499-90d1c83c4172 Hermes Trismegistus
 f6eef44e-a315-41e9-9781-cba57ee766e3 By           213e73c2-4b55-42b2-98c4-624dbd4af353 William Melmoth
+f705c3c4-161d-4423-96be-cde60a8e3344 By           5306ff78-7334-4837-8245-e5bac2873c46 Sivananda Saraswati
 f7070d0a-12f3-424f-a757-58a6bcc2d3bc By           f27194c4-4bcf-4c30-8ff6-9e260f662b48 Augustine of Hippo
 f7072347-beb4-4536-b596-e790c71863bd By           4de44b73-d163-416c-9eed-b85ef8d42c70 Rainer Maria Rilke
 f70d830b-fa3d-4d2a-838f-3509d3f02e3b By           5bfcf3b3-b606-428c-be98-ad9d70e2160d Albert Camus
@@ -13565,6 +13752,7 @@ f728348e-eab4-4d94-84b4-a1269268c6a4 By           d5651b36-eb26-42d2-b0c9-b6d292
 f72bd87b-b58a-463a-9d8a-0a9721d7f1c9 By           NOT_FOUND                            James B. Schafer
 f7300b8d-c5b7-40da-b540-1b8942bfa556 By           ddae4034-c667-4bdd-8598-58b7c43b3e21 Ramakrishna
 f748f135-49f4-4e9e-9074-573937df82d8 By           62d22bc8-0bbe-4498-a0f8-afdaa5d32389 Gampopa
+f74eabca-28bd-4b02-bb8c-0e44837e9c20 By           1b094afd-b764-4920-ac09-20fd03664f30 Nicolas Boileau-Despréaux
 f74ee4ea-450c-4100-87be-6d607f8fc957 By           ad64736a-755c-4d7b-bd9a-e3a2e329887e Marsilio Ficino
 f7599223-1de5-4582-a3bb-0a0749066ef8 By           bf314865-ec10-413c-b85d-c614bf4bcdb6 Sathya Sai Baba
 f75c25db-7ffd-4d19-a9f8-85a09714dabe By           e42f9114-7867-4022-be7f-1561b8d8a72a Peace Pilgrim
@@ -13725,10 +13913,13 @@ f9d8900c-1523-49b2-9a87-5095a69c561e By           e0e3703c-20cb-4c39-a6c9-382ea1
 f9e86b3a-a3bb-49dc-8af0-27015aaf3f05 By           27aa2a49-2f35-4035-b0ce-1775a2ec285e Emmet Fox
 f9f13be9-9aef-4897-84ae-5078620a2529 By           ba4384af-58d2-4b1b-be71-ce99c295270a Pierre Teilhard de Chardin
 f9fb054c-aa62-42f2-a036-77babf3e058f By           d6ff83e2-27e5-49eb-9d21-85d98cd19dc2 Consolata Betrone
+f9ff541a-2e22-4ebf-88c8-2eed4e534000 By           0a298f29-b243-418b-97b6-260a5cdbac69 Augustus Hare
+f9ff541a-2e22-4ebf-88c8-2eed4e534000 By           aa2bb731-e1f0-4856-84af-89eca88c5bec Julius Hare
 fa03bb0a-eb4b-4f30-92a1-35f180585e63 By           0200c883-e38f-4554-92bc-2eba913426b7 Rumi
 fa0a9976-5292-4e76-b07e-69638b3212c6 By           80c70cdc-470c-49f7-a754-3b1417720874 Cleopatra the Alchemist
 fa0eff71-cccd-4893-b719-6d16ad0fabfb By           ae89735b-2e51-4bb1-b2a2-10b051cfb790 Mechthild of Magdeburg
 fa109100-7189-4d53-87b1-80657f483139 By           3361ef57-842c-46ac-a599-42d4d7be9989 Ralph Waldo Trine
+fa172879-2a1e-49b5-bfd9-72a37cbc9a22 By           c6d47d7b-579d-4d33-834f-f5ee0ac54822 Meister Eckhart
 fa184112-ce05-487d-a1d3-9d119e9eb826 By           0cf93165-d23e-4c7a-914a-cb0216ddabef Thomas Mann
 fa1b1e92-b2ca-4244-8007-d9b56fc41419 By           4303fa16-4ff9-4236-938f-12ce437e48cc Rabindranath Tagore
 fa2536c4-1d84-4d96-bc4a-ed913887845f By           d6ff83e2-27e5-49eb-9d21-85d98cd19dc2 Consolata Betrone
@@ -13802,7 +13993,7 @@ fba22021-38cf-41fb-8f64-47d8c6900cde By           5306ff78-7334-4837-8245-e5bac2
 fba5d3f1-6bd1-4688-bc0f-ced3ada628ce By           ebc33f14-6d0e-461d-a00f-d43312643b2d Joanna Macy
 fbaab624-d796-4b35-9eb1-986582e325bf By           ddcdb5eb-6c80-4fd1-91da-0ceb41d7e16d Dante Alighieri
 fbaf7246-b30c-4c0f-854b-d5a1580de10f Editor       fccb134c-fee6-4290-a3eb-2598302819ac Patricia Donegan
-fbb7136e-e37e-43ae-9dbe-968eaf3a0cff By           NOT_FOUND                            Hillel
+fbb7136e-e37e-43ae-9dbe-968eaf3a0cff By           d3e4ba14-2c98-4d9a-b75e-4bc77356b2e8 Hillel the Elder
 fbc32e42-9adf-452a-9868-c767d659b9f1 By           30fec1f0-78aa-4f80-a6cf-53b7f014f98c Henry More
 fbc5c753-a199-41e5-9921-24900e0d8b48 By           NOT_FOUND                            Rossiter Raymond
 fbcb28ec-9a0f-412a-b6fb-53eb245163ea By           41f3bb02-c1af-4552-9a53-696bfd18ecbe Padmasambhava
@@ -13810,6 +14001,7 @@ fbcca23e-d1b9-4172-8b02-b1a13f608103 By           ddae4034-c667-4bdd-8598-58b7c4
 fbd657c9-7828-477f-9eca-be99261efbd0 By           0ef2a405-4255-4fa7-8bbb-a02a07a2c0aa Zhang Boduan
 fbd7693c-50ea-44ed-80f2-137b4e2d12ab By           873591f9-9384-40cc-992b-00c80fa43d2d Abraham Lambspring
 fbe33f55-fa68-4e99-84aa-b30e52aa98ed By           24781e79-b3f9-4db6-acff-41c0a2a3f669 Richard Rolle
+fbe5849b-2920-4ce2-8754-7581f292a228 By           84c50365-d446-4d40-b373-9ebf9c477894 Arthur Schopenhauer
 fbe81edd-d193-47a2-9596-b81c5f0bbcb4 By           b196d961-bb04-43c8-9462-a9acd76413fc Ralph Waldo Emerson
 fbf37c9b-3e75-4227-a9cf-9bd2a3981d55 By           e682bbc9-4b25-4a7e-8038-0ef925233e83 Plato
 fbfb4c09-6c51-4c3a-81b2-0deb3839c2c7 By           7bbfd532-002f-4e6b-83f9-229ca2a867af Ernest Holmes
@@ -13824,6 +14016,7 @@ fc187b91-8d65-4280-bb10-3c78152a8a9b By           7a7e3e1a-6bea-419d-95e6-f6d6ff
 fc19e3a4-bfe5-4cf5-8c27-31c0179d4cc3 By           ddcdb5eb-6c80-4fd1-91da-0ceb41d7e16d Dante Alighieri
 fc231444-391b-497f-81c1-a31e0ee04316 By           ad2bbf8f-33db-45c1-8a07-038111dfe25d Hanshan
 fc2f9136-f589-4b08-93b6-59a7aaa94a2d By           7660dee5-98f7-4b07-bd33-0d1a681aba7b Swami Ramdas
+fc33b6ea-ae5b-4206-9260-71655b8363fe By           NOT_FOUND                            John M. Good
 fc36f91b-2e06-43af-80f7-e70bc8d4c43a By           b201cc24-b119-48e5-ab1f-ae84cdd442cf Han Yong-un
 fc38ebd3-1d62-4bcd-b2db-09581c994d51 By           3b9a9355-beee-462d-aa2f-a0294b7424c6 Angelus Silesius
 fc39207b-f63a-4630-9a84-bfadbca57b76 By           2da9110e-eeef-44ef-add8-97d708a580a5 John Smith (Platonist)
@@ -13868,6 +14061,7 @@ fd0d3efe-0a37-48af-bdc6-18fc005aa8ed By           eaa1c488-9b8a-4656-893e-0737a6
 fd128b5c-0afd-4bc1-bbf2-fee790839210 By           6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd Hafez
 fd13fb12-377a-4b95-b8bc-dc2dcd5d454b By           bf314865-ec10-413c-b85d-c614bf4bcdb6 Sathya Sai Baba
 fd16969f-61da-43d4-b529-0f07a091c848 By           6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd Hafez
+fd1748dc-aba7-43ab-a9a6-bfe87407c35a By           b73a12e8-d617-464f-959e-2b47f9720c14 Fred Van Amburgh
 fd1b44cc-e25c-4a65-be95-09a01b4c7538 By           92f90131-5632-4e76-b0bf-28796933efc4 Shantidas Adhikari
 fd28938c-cc5e-40d6-95b7-bfdd9423ff0c By           a3d7c651-d3d0-445e-9ad8-a56c794cec73 Ibn Arabi
 fd2add5c-6333-4102-955f-0bf827062dad By           c6d47d7b-579d-4d33-834f-f5ee0ac54822 Meister Eckhart
@@ -13931,6 +14125,7 @@ fe3abf8a-04f2-404e-862b-da1594dd8cd4 By           a3cfb31a-ea67-4dfc-930d-786cd0
 fe3ced84-4ee0-4028-841e-100e7c8f3a1e By           bba6f3a1-7cc6-4099-8458-f2ceca4e437d Meera
 fe472575-612e-4fe5-a511-2918ff1e6436 By           107f5acb-b547-4d88-830a-34b1279a31c9 Böhme
 fe4e78dc-38fb-4fc4-90e5-4658313e0bb3 By           68acda48-1043-45e5-8c23-290a5dd85437 Reginald Heber
+fe52ffeb-d3cc-4184-93f6-bb479492eebb By           975fe9de-b52c-4b48-9379-5ff0c304b14a Laozi
 fe55ad91-97ef-4ed0-8994-fd54c882d684 By           a27600bb-e063-490b-a3f2-a16f732c69e8 Attar of Nishapur
 fe60af66-1bee-4906-9f6f-39a2e9e4a012 By           f27194c4-4bcf-4c30-8ff6-9e260f662b48 Augustine of Hippo
 fe6233b3-0886-4fef-aef5-bddfc94133cf By           10fe8923-f926-4147-a7d0-9e52ed914fee Nikolai Berdyaev
@@ -13940,6 +14135,7 @@ fe809eb0-90c2-4c5b-b995-10631b40b6d7 By           1aa04209-6053-4474-8382-a71ab4
 fe838194-3ccf-449d-8cfd-2c404afdbe5e By           6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd Hafez
 fe8855ce-2949-45ef-8838-ecb0ad8a9801 By           b0af6833-f01f-45dd-8997-d0d0ce971b52 Henri-Frédéric Amiel
 fe892997-189d-4585-9ab6-a49ad6fa8329 By           a3d7c651-d3d0-445e-9ad8-a56c794cec73 Ibn Arabi
+fe8ecb58-c62e-4ebb-9c0b-41fa619c2eab By           c879e206-5b1b-4ebb-9da3-f5fe762b4892 Robert H. Schuller
 fe94cf17-53b1-477b-b3af-a5c577f359fd By           e627dbb5-06e5-4ccd-8925-27bcf14704e3 Roger Martin du Gard
 fe94cf17-53b1-477b-b3af-a5c577f359fd By           1aa04209-6053-4474-8382-a71ab4357b4d Ralph Siu
 fe9be48a-0f9d-42c9-8394-a439bcf1898b By           ad2bbf8f-33db-45c1-8a07-038111dfe25d Hanshan
@@ -13980,6 +14176,8 @@ ff2345a7-f658-4029-b508-d0e61d98838d By           cbc73f7a-2160-4871-8a53-817440
 ff2ab717-70ec-434c-97ee-cd3403e327ff By           50444032-fb27-4105-b9b0-2fea4b5f5fb7 John Knox
 ff2d23ef-2f6c-44cf-8083-64d52b3c063b By           NOT_FOUND                            Edgar W. Howe
 ff30f061-3983-4d33-b401-361cee7d79a7 By           7660dee5-98f7-4b07-bd33-0d1a681aba7b Swami Ramdas
+ff38a39e-e80d-426e-a830-0f7c27e6b0f2 By           4039f129-53a9-474f-b189-f9b254831649 James Russell Lowell
+ff3afb83-a6ca-49c2-8bf4-ad4af27a8b5f By           126619ac-b665-4c37-af0e-619be6f006b7 Epictetus
 ff3b4af4-b124-4607-b30a-b4837909d3ce By           8aaf4723-a856-4842-906b-8b0a3bf5180d Anandamayi Ma
 ff4d17a6-4514-4292-a1ef-d5f5584f0b7f By           da184f92-f119-42ee-8e45-06ab31cd9624 Thomas Merton
 ff5da6d8-385e-4cb1-9085-d8fa9838f5b7 By           eaa1c488-9b8a-4656-893e-0737a688bf76 Ramana Maharshi

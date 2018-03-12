@@ -15,6 +15,7 @@
 
 ## Miners and Scrapers
 * [Pattern](https://github.com/clips/pattern)
+* [Snips NLU](https://github.com/snipsco/snips-nlu)
 
 ## Classifiers and Modelers
 * [gensim](https://radimrehurek.com/gensim/index.html)
