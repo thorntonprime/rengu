@@ -76,7 +76,7 @@ class Verse(Document):
     def extract_words(self):
         blob = TextBlob(self.get("Body"))
 
-        for w in [i.strip(" .,'-") for i in blob.words ]:
+        for w in [j for j in [ i.strip(" .,'-—") for i in blob.words ] if j]:
             yield w
  
 
