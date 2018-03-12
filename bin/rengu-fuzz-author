@@ -25,7 +25,7 @@ for query in sys.stdin.readlines():
         f = fuzz.token_sort_ratio(query, a)
         if f > 80:
             if authors[a].get('RealName'):
-                print("%02g %s ~ %s ~ %s [%s]" % (
+                print("%02g %s~%s = %s [%s]" % (
                     f, query, a, authors[a]["RealName"], authors[a]["pk"]))
             else:
-                print("%02g %s ~ %s [%s]" % (f, query, a, authors[a]["pk"]))
+                print("%02g %s~%s [%s]" % (f, query, a, authors[a]["pk"]))

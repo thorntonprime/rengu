@@ -11,6 +11,8 @@ bin/rengu load verse verses/* > check/verses.load
 bin/rengu load source sources/* > check/sources.load
 bin/rengu load author authors/* > check/authors.load
 
+# Author checks
+
 # Post-Checks
 echo "Running Post-checks"
 echo " ... authors extract"
@@ -30,7 +32,6 @@ echo " ... authors extract"
   cut -c9- | \
   bin/rengu-exists-author > check/authors.exists
 
-
 echo " ... verse author extract"
 bin/rengu search verse '{}' | \
   jq -r .pk | \
@@ -40,51 +41,44 @@ echo " ... missing authors counts"
 grep "NOT_FOUND" check/verse-author.extract | \
   cut -c88- | sort | uniq -c | sort -g > check/missing-authors.count
 
-echo " ... verse source extract"
-bin/rengu search verse '{}' |  \
-  jq -r .pk | \
-  xargs bin/rengu extract source > check/verse-sources.extract
-
-echo " ... titles extract"
-bin/rengu search verse '{}' | \
-  jq -r .pk | \
-  xargs bin/rengu-extract-title | \
-  sort | uniq -c | sort -g > check/titles.list
-
 echo " ... fuzz authors"
 cat check/missing-authors.count | \
   cut -c9- | \
   bin/rengu-fuzz-author > check/authors.fuzz
 
-echo " ... exists titles"
-cat check/titles.list | cut -c9- | \
-  bin/rengu-exists-source  > check/titles.exists
-
-echo " ... title reference count"
-( grep 'NO MATCH' check/titles.exists | \
-  cut -d '!' -f 1 | \
-  while read A ; do C=$( grep -l "Title: ${A}$" verses/* | wc -l); \
-  printf "$C\t $A\n"; read A; done | \
-  sort -k1 -g -k2 ) > check/titles.count
-
-echo " ... fuzz titles"
-cat check/titles.exists | grep 'NO MATCH' | \
-  cut -d'!' -f 1 | \
-  bin/rengu-fuzz-title > check/titles.fuzz
-
-echo " ... fix verses"
-bin/rengu search verse '{}' | jq -r .pk | \
-  xargs bin/rengu-fix-verse > check/verses.fix
+echo " ... map authors to proper names"
+cut -c88- check/verse-author.extract | \
+  sort | uniq > maps/proper-people.txt
 
 echo " ... tag check authors"
 cat authors/* | \
   grep '^ *[[:alnum:]]*:' | cut -d: -f1 | awk '{ print $1 }' | sort | uniq \
   > check/authors.tags
 
+# Titles
+echo " ... verse source extract"
+bin/rengu search verse '{}' |  \
+  jq -r .pk | \
+  xargs bin/rengu extract source > check/verse-sources.extract
+
+echo " ... count missing titles"
+grep NO_MATCH check/verse-sources.extract | \
+  cut -c75- | cut -d/ -f1 | \
+  sort | uniq -c | sort -g > check/missing-titles.count
+
+echo " ... fuzz titles"
+cut -c9- check/missing-titles.count | \
+  bin/rengu-fuzz-title > check/titles.fuzz
+
 echo " ... tag check sources"
 cat sources/* | \
   grep '^ *[[:alnum:]]*:' | cut -d: -f1 | awk '{ print $1 }' | sort | uniq \
   > check/sources.tags
+
+# Verses
+echo " ... fix verses"
+bin/rengu search verse '{}' | jq -r .pk | \
+  xargs bin/rengu-fix-verse > check/verses.fix
 
 echo " ... tag check verses"
 cat verses/* | \
