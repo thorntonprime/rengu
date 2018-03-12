@@ -76,6 +76,14 @@ cat sources/* | \
   > check/sources.tags
 
 # Verses
+echo " ... extract words"
+bin/rengu search verse '{}' | jq -r .pk | \
+  xargs bin/rengu extract words | cut -c38- | \
+  sort | uniq -c | sort -g > maps/words.count
+
+cut -c9- maps/words.count | bin/spellcheck | \
+  grep False | cut -c7- > check/words.misspell
+
 echo " ... fix verses"
 bin/rengu search verse '{}' | jq -r .pk | \
   xargs bin/rengu-fix-verse > check/verses.fix

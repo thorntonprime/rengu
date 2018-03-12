@@ -1,0 +1,10 @@
+#!/usr/bin/python3
+
+import sys
+from enchant import DictWithPWL
+
+d = DictWithPWL("en_US", "maps/custom.words")
+
+for w in [i.lower().strip() for i in sys.stdin.readlines() ]:
+    print("{0}\t{1}".format(d.check(w), w))
+
