@@ -1,5 +1,7 @@
 #!/bin/sh
 
+jna yaml-check
+
 rm -rf ${JNAPATH}/db/*
 
 jna reload-verses

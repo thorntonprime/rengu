@@ -1,0 +1,5 @@
+#!/bin/sh
+
+echo "Running Pre-Checks"
+yamllint -f parsable verses/* authors/* sources/* | tee check/yaml.check
+
