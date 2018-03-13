@@ -5,8 +5,8 @@ import urllib.parse
 
 from bs4 import BeautifulSoup
 
-from rengu.config import WORLDCAT_BASEURL, worldcat_PASSWORD, worldcat_USERNAME
-from rengu.tools import is_isbn
+from prajna.jna.config import WORLDCAT_BASEURL, worldcat_PASSWORD, worldcat_USERNAME
+from prajna.jna.tools import is_isbn
 
 import requests
 

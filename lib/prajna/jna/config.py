@@ -1,4 +1,6 @@
 
+JNA_BASE='/home/thornton/projects/jna'
+
 # Celery Configuration
 broker_url = 'redis://prajna'
 result_backend = 'redis://prajna'
@@ -16,7 +18,7 @@ DB = FileBackend("./db")
 #from pymongo import MongoClient, ASCENDING, DESCENDING
 #from blitzdb import MongoBackend
 #mongo_client = MongoClient('prajna')
-#DB = MongoBackend(mongo_client.rengu)
+#DB = MongoBackend(mongo_client.prajna.jna)
 
 # Worldcat info
 worldcat_USERNAME = "theoszi"

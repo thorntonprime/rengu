@@ -1,10 +1,10 @@
 
 import cmd
 
-from rengu.cmd import auto_help
+from prajna.jna.cmd import auto_help
 
 
-class RenguRefreshCmd(cmd.Cmd):
+class JnaRefreshCmd(cmd.Cmd):
 
     prompt = "refresh >"
 
@@ -19,7 +19,7 @@ class RenguRefreshCmd(cmd.Cmd):
         '''wikipedia
         Subcommands to import data from yaml files
         '''
-        wikipedia_cmd = RenguRefreshWikipediaCmd()
+        wikipedia_cmd = JnaRefreshWikipediaCmd()
         if len(args) > 1:
             return wikipedia_cmd.onecmd(args)
         else:
@@ -30,14 +30,14 @@ class RenguRefreshCmd(cmd.Cmd):
         '''worldcat
         Subcommands to reffresh data from worldcat
         '''
-        worldcat_cmd = RenguRefreshWorldcatCmd()
+        worldcat_cmd = JnaRefreshWorldcatCmd()
         if len(args) > 1:
             return worldcat_cmd.onecmd(args)
         else:
             return worldcat_cmd.cmdloop()
 
 
-class RenguRefreshWikipediaCmd(cmd.Cmd):
+class JnaRefreshWikipediaCmd(cmd.Cmd):
 
     prompt = "refresh wikipedia >"
 
@@ -53,7 +53,7 @@ class RenguRefreshWikipediaCmd(cmd.Cmd):
         Refresh the Wikipedia data for the author record.
         '''
 
-        from rengu.author import Author
+        from prajna.jna.author import Author
 
         for pk in args.split():
             try:
@@ -74,7 +74,7 @@ class RenguRefreshWikipediaCmd(cmd.Cmd):
         Refresh the Wikipedia data for the source record.
         '''
 
-        from rengu.source import Source
+        from prajna.jna.source import Source
 
         for pk in args.split():
             try:
@@ -90,7 +90,7 @@ class RenguRefreshWikipediaCmd(cmd.Cmd):
                 print(pk, "ERROR", e)
 
 
-class RenguRefreshWorldcatCmd(cmd.Cmd):
+class JnaRefreshWorldcatCmd(cmd.Cmd):
 
     prompt = "refresh worldcat >"
 
@@ -106,7 +106,7 @@ class RenguRefreshWorldcatCmd(cmd.Cmd):
         Refresh the W data for the source record.
         '''
 
-        from rengu.source import Source
+        from prajna.jna.source import Source
 
         for pk in args.split():
             try:

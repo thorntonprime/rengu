@@ -1,12 +1,12 @@
 
 import cmd
 
-from rengu.cmd import auto_help
+from prajna.jna.cmd import auto_help
 
 
-class RenguFindCmd(cmd.Cmd):
+class JnaSearchCmd(cmd.Cmd):
 
-    prompt = "find >"
+    prompt = "search >"
 
     @auto_help
     def do_quit(self, args):
@@ -16,30 +16,30 @@ class RenguFindCmd(cmd.Cmd):
 
     @auto_help
     def do_verse(self, args):
-        from rengu.verse import Verse
+        from prajna.jna.verse import Verse
 
         try:
-            for v in Verse.find(args):
+            for v in Verse.search(args):
                 print(v.to_json())
         except SyntaxError as e:
             print(e)
 
     @auto_help
     def do_source(self, args):
-        from rengu.source import Source
+        from prajna.jna.source import Source
 
         try:
-            for s in Source.find(args):
+            for s in Source.search(args):
                 print(s.to_json())
         except SyntaxError as e:
             print(e)
 
     @auto_help
     def do_author(self, args):
-        from rengu.author import Author
+        from prajna.jna.author import Author
 
         try:
-            for a in Author.find(args):
+            for a in Author.search(args):
                 print(a.to_json())
 
         except SyntaxError as e:

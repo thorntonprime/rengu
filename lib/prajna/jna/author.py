@@ -2,14 +2,14 @@
 
 from blitzdb import Document
 
-from rengu.config import DB
+from prajna.jna.config import DB
 
 
 class Author(Document):
 
     def to_yaml(self):
         import yaml
-        from rengu.tools import YamlDumper
+        from prajna.jna.tools import YamlDumper
 
         return "---\n" + yaml.dump(dict(self),
                                    Dumper=YamlDumper, default_flow_style=False, allow_unicode=True,
@@ -93,7 +93,7 @@ class Author(Document):
 
     @staticmethod
     def find(query, field="Name"):
-        from rengu.tools import is_uuid
+        from prajna.jna.tools import is_uuid
 
         found = set()
 

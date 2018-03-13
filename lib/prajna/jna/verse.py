@@ -4,7 +4,7 @@ import re
 
 from blitzdb import Document
 
-from rengu.config import DB
+from prajna.jna.config import DB
 
 from textblob import TextBlob
 
@@ -76,32 +76,31 @@ class Verse(Document):
     def extract_words(self):
         blob = TextBlob(self.get("Body"))
 
-        for w in [j for j in [ i.strip(" .,'-—") for i in blob.words ] if j]:
+        for w in [j for j in [i.strip(" .,'-—") for i in blob.words] if j]:
             yield w
- 
 
     def extract_authors(self):
-        from rengu.tools import is_uuid, walk, flatten
-        from rengu.author import Author
+        from prajna.jna.tools import is_uuid, walk, flatten
+        from prajna.jna.author import Author
 
         found = set()
 
         for role in ["By", "Translator", "Editor", "Illustrator", "Contributor"]:
-             for a in flatten(walk(role, dict(self))):
-                 not_in_db = True
-                 for auth in Author.find(a):
-                   not_in_db = False
-                   if auth.pk not in found:
-                       found.add(auth.pk)
-                       yield role, auth
+            for a in flatten(walk(role, dict(self))):
+                not_in_db = True
+                for auth in Author.find(a):
+                    not_in_db = False
+                    if auth.pk not in found:
+                        found.add(auth.pk)
+                        yield role, auth
 
-                 if not_in_db:
-                   yield role, dict({'Name': a, 'pk': 'NO_MATCH'})
+                if not_in_db:
+                    yield role, dict({'Name': a, 'pk': 'NO_MATCH'})
 
     def extract_sources(self):
         from blitzdb.document import DoesNotExist
-        from rengu.tools import is_uuid, walk
-        from rengu.source import Source
+        from prajna.jna.tools import is_uuid, walk
+        from prajna.jna.source import Source
 
         verse_author = self.get("By")
         found = set()
@@ -173,7 +172,7 @@ class Verse(Document):
 
     def to_yaml(self):
         import yaml
-        from rengu.tools import YamlDumper
+        from prajna.jna.tools import YamlDumper
 
         v = dict(self)
         body = v["Body"].replace(":", "：")

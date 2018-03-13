@@ -1,11 +1,11 @@
 
 import cmd
 
-from rengu.cmd import auto_help
-from rengu.config import DB
+from prajna.jna.cmd import auto_help
+from prajna.jna.config import DB
 
 
-class RenguLoadCmd(cmd.Cmd):
+class JnaLoadCmd(cmd.Cmd):
 
     prompt = "load >"
 
@@ -17,7 +17,7 @@ class RenguLoadCmd(cmd.Cmd):
 
     @auto_help
     def do_verse(self, args):
-        from rengu.verse import Verse
+        from prajna.jna.verse import Verse
 
         for fn in args.split():
 
@@ -35,7 +35,7 @@ class RenguLoadCmd(cmd.Cmd):
 
     @auto_help
     def do_source(self, args):
-        from rengu.source import Source
+        from prajna.jna.source import Source
 
         for fn in args.split():
             try:
@@ -52,7 +52,7 @@ class RenguLoadCmd(cmd.Cmd):
 
     @auto_help
     def do_author(self, args):
-        from rengu.author import Author
+        from prajna.jna.author import Author
 
         for fn in args.split():
             try:

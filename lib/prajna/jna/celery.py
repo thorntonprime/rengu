@@ -1,8 +1,8 @@
 from __future__ import absolute_import, unicode_literals
 from celery import Celery
 
-app = Celery('rengu', include=['rengu.tasks'])
-app.config_from_object('rengu.config')
+app = Celery('prajna.jna', include=['prajna.jna.tasks'])
+app.config_from_object('prajna.jna.config')
 
 # Optional configuration, see the application user guide.
 app.conf.update(

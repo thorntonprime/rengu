@@ -1,9 +1,9 @@
 import cmd
 
-from rengu.cmd import auto_help
+from prajna.jna.cmd import auto_help
 
 
-class RenguYAMLCmd(cmd.Cmd):
+class JnaYAMLCmd(cmd.Cmd):
 
     prompt = "yaml >"
 
@@ -15,14 +15,14 @@ class RenguYAMLCmd(cmd.Cmd):
 
     @auto_help
     def do_verse(self, args):
-        from rengu.verse import Verse
+        from prajna.jna.verse import Verse
 
         for fn in args.split():
             print(Verse.read_yaml_file(fn).to_yaml())
 
     @auto_help
     def do_source(self, args):
-        from rengu.source import Source
+        from prajna.jna.source import Source
 
         for fn in args.split():
             for s in Source.read_yaml_file(fn):
@@ -30,7 +30,7 @@ class RenguYAMLCmd(cmd.Cmd):
 
     @auto_help
     def do_author(self, args):
-        from rengu.author import Author
+        from prajna.jna.author import Author
 
         for fn in args.split():
             for a in Author.read_yaml_file(fn):

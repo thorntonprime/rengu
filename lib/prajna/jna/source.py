@@ -2,14 +2,14 @@
 
 from blitzdb import Document
 
-from rengu.config import DB
+from prajna.jna.config import DB
 
 
 class Source(Document):
 
     def to_yaml(self):
         import yaml
-        from rengu.tools import YamlDumper
+        from prajna.jna.tools import YamlDumper
 
         return "---\n" + yaml.dump(dict(self),
                                    Dumper=YamlDumper, default_flow_style=False, allow_unicode=True,
@@ -86,8 +86,8 @@ class Source(Document):
         return True
 
     def refresh_worldcat(self):
-        from rengu.tools import walk
-        from rengu.worldcat import search_isbn, search_title_author
+        from prajna.jna.tools import walk
+        from prajna.jna.worldcat import search_isbn, search_title_author
 
         if self.get("Media", "").lower() in ["prime", "collection"]:
             raise Exception("incompatible media type")
@@ -134,7 +134,7 @@ class Source(Document):
 
     @staticmethod
     def find(query, field="Title"):
-        from rengu.tools import is_uuid
+        from prajna.jna.tools import is_uuid
 
         found = set()
 

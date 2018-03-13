@@ -1,12 +1,12 @@
 
 import cmd
 
-from rengu.cmd import auto_help
+from prajna.jna.cmd import auto_help
 import spacy
 import sys
 
 
-class RenguSimilarCmd(cmd.Cmd):
+class JnaSimilarCmd(cmd.Cmd):
 
     prompt = "similar >"
 
@@ -25,7 +25,7 @@ class RenguSimilarCmd(cmd.Cmd):
         Output is:
             pk1 pk2 overall_similar count(lines) max(line_sim) min(line_sim) mean(line_sim) median(line_sim) stdev(line_sim)
         '''
-        from rengu.verse import Verse
+        from prajna.jna.verse import Verse
 
         nlp = spacy.load('en_core_web_md')
 
@@ -46,7 +46,7 @@ class RenguSimilarCmd(cmd.Cmd):
         Output is:
             pk1 pk2 similarity line1 line2
         '''
-        from rengu.verse import Verse
+        from prajna.jna.verse import Verse
 
         try:
             pka, pkb = args.split()

@@ -1,0 +1,33 @@
+#!/usr/bin/python3
+
+import sys
+
+sys.path.append('lib')
+
+from prajna.jna.config import JNA_BASE
+from prajna.jna.cmd import JnaCmd
+
+def jna_script(args):
+    import os
+
+    script = args[0]
+
+    if os.path.exists(JNA_BASE + "/bin/" + script):
+        os.execv(JNA_BASE + "/bin/" + script, args)
+
+if __name__ == '__main__':
+
+    if len(sys.argv) > 1:
+
+        if jna_script(sys.argv[1:]):
+            sys.exit(0)
+        else:
+            sys.exit(JnaCmd().onecmd(' '.join(sys.argv[1:])))
+
+    else:
+        try:
+            sys.exit(JnaCmd().cmdloop())
+            
+        except KeyboardInterrupt:
+            print('\nexit')
+            sys.exit(0)
