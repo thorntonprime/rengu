@@ -1,7 +1,7 @@
 
 ## Processing Sources
-* [Treasury of Spiritual Wisdom](https://prajna.io/57/57c5499b-c3b2-4b09-92a9-a6e977a32050/#page=260)
-* [Daily Scans](https://prajna.io/work)
+* [Treasury of Spiritual Wisdom](https://prajna.io/s/57c5499b-c3b2-4b09-92a9-a6e977a32050/#page=270)
+* [Daily Scans](https://prajna.io/w)
 * [I Ching](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching)
 
 ## Primary Sources
