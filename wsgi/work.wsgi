@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 
 import os
 os.environ["SCRIPT_NAME"] = ""
@@ -8,7 +9,7 @@ from wsgidav.lock_storage import LockStorageShelve
 from wsgidav.fs_dav_provider import FilesystemProvider 
 from wsgidav.wsgidav_app import DEFAULT_CONFIG, WsgiDAVApp 
 
-file_provider = FilesystemProvider('/data/sutra/work') 
+file_provider = FilesystemProvider('/data/work')
 
 user_mapping = {}
 
@@ -25,27 +26,17 @@ addUser("", "tester", "secret", "")
 config = DEFAULT_CONFIG.copy() 
 
 config.update({ 
-  "provider_mapping": {"/work": file_provider }, 
+  "provider_mapping": {"/w": file_provider }, 
   "user_mapping": user_mapping, 
   "verbose": 3, 
   "enable_loggers": [], 
-  "propsmanager": ShelvePropertyManager("/var/www/lock/prajna-props.shelve"),
-  "locksmanager": LockStorageShelve("/var/www/lock/prajna-locks.shelve"), 
+  "propsmanager": ShelvePropertyManager("/var/www/lock/prajna-work-props.shelve"),
+  "locksmanager": LockStorageShelve("/var/www/lock/prajna-work-locks.shelve"), 
   "domaincontroller": None, 
 }) 
 
-from flask import Flask
-app = Flask(__name__)
 
-@app.route('/')
-def hello_world():
-    return 'Hello, World!'
-
-from werkzeug.wsgi import DispatcherMiddleware
-
-application = DispatcherMiddleware(app, {
-    '/work':     WsgiDAVApp(config)
-})
+application = WsgiDAVApp(config) 
 
 if __name__ == '__main__':
   
