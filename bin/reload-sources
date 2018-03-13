@@ -1,5 +1,5 @@
 #!/bin/sh
 
 echo "Reload ... sources"
-jna load source sources/* > ${JNAPATH}/check/sources.load
+jna load source ${JNAPATH}/sources/* > ${JNAPATH}/check/sources.load
 

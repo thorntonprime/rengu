@@ -3,5 +3,5 @@
 echo "Extract all authors from verses"
 jna search verse '{}' |  \
   jq -r .pk | \
-  xargs jna extract author > check/verses-authors.extract
+  xargs jna extract author > ${JNAPATH}/check/verses-authors.extract
 

@@ -1,5 +1,7 @@
 #!/bin/sh
 
 echo "Running Pre-Checks"
-yamllint -f parsable verses/* authors/* sources/* | tee check/yaml.check
+yamllint -f parsable \
+  ${JNAPATH}/verses/* ${JNAPATH}/authors/* ${JNAPATH}/sources/* | \
+  tee ${JNAPATH}/check/yaml.check
 
