@@ -92,6 +92,7 @@ Alexander M. Proudfit
 Alexander Pope
 Alexander Punshon
 Alexander Smith
+Alexander Vinet
 Alexander von Humboldt
 Alexandre Dumas
 Alexis Carrel
@@ -111,6 +112,7 @@ Ali
 Alice Hegan Rice
 Alice Meynell
 Ali Hujwiri
+Allain de Lille
 Allan Kardec
 Allen Funt
 Allen Ginsberg
@@ -129,6 +131,7 @@ Amaury de Riencourt
 Ambroise Paré
 Ambrose
 Ambrose Bierce
+Ambrose Worrall
 Amelia Earhart
 Amergin Glúingel
 Ami S. Swetchine
@@ -168,6 +171,7 @@ Anne Sexton
 Anne Sullivan
 Ann Herbstreith
 Annie Besant
+Annie Dillard
 Ann Liza Bray
 Ann of Austria
 Ann Ruth Schabacker
@@ -181,6 +185,7 @@ Anthony Shaftesbury
 Anthony the Great
 Antiphanes
 Antisthenes
+Antoine de Rivarol
 Antoine de Saint-Exupéry
 Anton Chekhov
 Antônio Carlos Jobim
@@ -197,6 +202,7 @@ Archibald A. Hodge
 Archibald MacLeish
 Archibald Rutledge
 Archytas
+Aristippus
 Aristophanes
 Aristotle
 Ariwara Nahihira
@@ -220,6 +226,7 @@ Arthur Keith
 Arthur Koestler
 Arthur Murphy
 Arthur Rubinstein
+Arthur Schnitzler
 Arthur Schopenhauer
 Arthur S. Hardy
 Arthur S. Roche
@@ -497,6 +504,7 @@ Dame Catherine Gascoigne
 Dampa Sangye
 Daniel Brinkley
 Daniel Czepko von Reigersfeld
+Daniel J. Boorstin
 Daniel Ladinsky
 Daniel R. Messe
 Daniel Webster
@@ -556,6 +564,7 @@ Diane Ackerman
 Dietrich Bonhoeffer
 Dinah M. Craik
 Dio Chrysostom
+Diogenes of Sinope
 Dionysius the Areopagite
 Dodie Smith
 Dōgen
@@ -582,6 +591,7 @@ Douglas William Jerrold
 Dr. Trumbull
 D. T. Suzuki
 Duane Elgin
+Dugald Stewart
 Duncan Jones
 Dwight Lyman Moody
 Earl Nightingale
@@ -658,6 +668,7 @@ E. M. Forster
 Emil Brunner
 Emil Cioran
 Emil Ebers
+Émile Coué
 Emily Dickinson
 Emma Goldman
 Emmanuel Swedenborg
@@ -712,6 +723,7 @@ Father Jerome Gratian
 Fâtimah Jahânârâ Begum Sâhib
 Faubion Bowers
 Favorinus
+Felicia Hemans
 Felix Frankfurter
 Fenwick Holmes
 Fernando Savater
@@ -739,6 +751,7 @@ François de La Rochefoucauld
 Francois D. Pressense
 Françoise Sagan
 François Fénelon
+François Guichardin
 François Louis de Blois
 François Mauriac
 François Rabelais
@@ -751,6 +764,7 @@ Frank Lloyd Wright
 Frank Moore Colby
 Frank Richelieu
 Franz Grillparzer
+Franz Hartmann
 Franz Kafka
 Franz Werfel
 Frederic Farrar
@@ -811,6 +825,7 @@ George B. Cheever
 George Bemaos
 George Boa rdma n
 George B. Shaw
+George D. Boardman
 George E. Carpenter
 George Eliot
 George Fernandes
@@ -840,6 +855,7 @@ George S. Merriam
 George S. Patton
 George Trevelyan
 George Washington Crile
+George W. Curtis
 George William Russell
 Georg von Welling
 Georg W. Hegel
@@ -891,6 +907,7 @@ Guenon
 Guillaume Durand
 Gustave Flaubert
 Guy Lyon Playfair
+G. V. Subbaramayya
 Hadewijch
 Hafez
 Haidakhan Babaji
@@ -949,6 +966,7 @@ Helen Steiner Rice
 Helen Wodehouse
 Heloise
 Helvidius Priscus
+Hendrik W. Van Loon
 Henri Bergson
 Henri-Frédéric Amiel
 Henrik Ibsen
@@ -1077,6 +1095,7 @@ Ilahi Nama
 Immanuel
 Immanuel Kant
 Inayat Khan
+Ingrid Bengis
 Innocent VIII
 Ion Codrescu
 Ippen Shônin
@@ -1094,6 +1113,7 @@ Isaac Domer
 Isaac Frederick Marcosson
 Isaac ibn Latif
 Isaac of Nineveh
+Isaiah Berlin
 Isidore
 Isocrates
 Iso-no-Kami-no Yakatsugu
@@ -1158,6 +1178,7 @@ James T. Mangan
 James Waddel Alexander
 James W. Riley
 Jami
+Janardan Paramahansa
 Jan Baptist van Helmont
 Jan DeWitt
 Jane Goodall
@@ -1471,6 +1492,7 @@ Kūkai
 Kumaraswamy
 Kung Tingan
 Kurt Lewin
+Kurt Vonnegut
 Kusan Sunim
 K. V. Rangaswami Aiyangar
 Kwaisen
@@ -1504,6 +1526,7 @@ Leon DeSeblo
 Leon Harrison
 Leo Tolstoy
 Leo XIII
+Les Brown
 Les Giblin
 Leslie Weatherhead
 Letty Cottin Pogrebin
@@ -1554,6 +1577,7 @@ Ludwig Börne
 Ludwig van Beethoven
 Ludwig Wittgenstein
 Luigi Luzzatti
+Luis de León
 Luther Burbank
 Lu Yu
 Lydia Sigourney
@@ -1628,6 +1652,7 @@ Mark Twain
 Marpa
 Marquis Armand Augustin Louis de Caulaincourt
 Marquis De La Grange
+Marquis de Sade
 Marsha Sinetar
 Marsilio Ficino
 Martha Courto
@@ -1694,6 +1719,7 @@ Menander
 Mencius
 Mendele M. Seforim
 Mendel of Kotzk
+Meredith L. Young
 Meredith Young-Sowers
 Metrodorus
 Michael A. Sells
@@ -1794,6 +1820,7 @@ Niutou Farong
 Noah Porter
 Norma Hawkins
 Norman Cousins
+Norman C. Schidle
 Norman Douglas
 Norman G. Shidle
 Norman Hirsh
@@ -1831,6 +1858,7 @@ Oswald Chambers
 Oswald Croll
 Otilio Rodriguez
 Ot Lat Nom
+Otto Rank
 Otto von Bismarck
 Ouyang Xiu
 Oveta Culp Hobby
@@ -1876,6 +1904,7 @@ Pearl Jam
 Pearl S. Buck
 Pedro Calderón de la Barca
 Pema Khandro Rinpoche
+Percy Bysshe Shelley
 Percy L. Greaves, Jr.
 Peter Baida
 Peter Damian
@@ -1889,6 +1918,7 @@ Peter Ustinov
 Pete Seeger
 Pete Townsend
 Petrarch
+Phaedus
 Pharoah Ptahhotep
 Philemon
 Philip Chesterfield
@@ -1952,6 +1982,7 @@ Rabia of Basra
 Rabindranath Tagore
 Rachel N. Remen
 Rainer Maria Rilke
+Ralph Barton Perry
 Ralph Blum
 Ralph Cudworth
 Ralph Siu
@@ -1974,6 +2005,7 @@ Ray Mitchell
 Raymond C. Barker
 Ray Palmer
 R. C. McCarthy
+Reb Anderson
 Red Jacket
 Red Pine
 Refik Algan
@@ -1994,6 +2026,7 @@ Richard Church
 Richard E. Burton
 Richard Evans
 Richard Hooker
+Richard Metcalf
 Richard Needham
 Richard Nickson
 Richard Nixon
@@ -2038,6 +2071,7 @@ Robert Herrick (poet)
 Robert Herrman
 Robert H. Goddard
 Robert H. Schuller
+Robertine Maynard
 Robert James Turnbull
 Robert Jones Burdette
 Robert Leighton
@@ -2046,6 +2080,7 @@ Robert Malise Bowyer Nichols
 Robert Moore
 Robert Mueller
 Robert Muller
+Robert Quillen
 Robert Rowland Smith
 Robert S. Ellwood
 Robert S. MacArthur
@@ -2136,6 +2171,7 @@ Sarmad
 Satchidananda Saraswati
 Sathya Sai Baba
 Saul Alinsky
+Saul Bellow
 Scarouady
 Scott Turow
 Scudder Parker
@@ -2208,6 +2244,7 @@ Standing Bear
 Stanislas Bouttlers
 Stanislav Grof
 Stanisław Leszczyński
+Stanley Baldwin
 Stanley Keleman
 Stanley Lindquest
 Stanley Lombardo
@@ -2278,7 +2315,6 @@ Tao Qian
 Tapovan Maharaj
 Ted Shackelford
 T. E. Lawrence
-Tenchin Reb Anderson
 Têng Ch'un
 Terence
 Terence Irwin
@@ -2335,6 +2371,7 @@ Thomas Hodgkin
 Thomas Horder, 1st Baron Horder
 Thomas Hughes
 Thomas Jefferson
+Thomas J. Watson
 Thomas Malloy
 Thomas Mann
 Thomas Matus
@@ -2355,7 +2392,6 @@ Thomas the Apostle
 Thomas Traherne
 Thomas Troward
 Thomas Vaughan
-Thomas Watson
 Thomas Wildcat Alford
 Thomas Wilson
 Thornton Prime
@@ -2389,6 +2425,7 @@ Velimir Khlebnikov
 Vernon Howard
 Vespasian
 Vicki Baum
+Victor Cousin
 Victor de Laprade
 Victor Hugo
 Vijaya L. Pandit
@@ -2398,6 +2435,7 @@ Vimala Thakar
 Vince Lombardi
 Vincent de Paul
 Vincent McNabb
+Vincent van Gogh
 Vinobe Bhave
 Virgil
 Virginia Woolf
@@ -2470,6 +2508,7 @@ William Bernard Ullathorne
 William Beveridge
 William Black
 William Blake
+William Buck
 William Burnham
 William Butler Yeats
 William Cavanaugh
@@ -2487,6 +2526,7 @@ William Everson
 William Ewart Gladstone
 William Faulkner
 William George Jordan
+William Gibbs McAdoo
 William Gibson
 William G. Simms
 William Hazlitt
@@ -2512,6 +2552,7 @@ William Paley
 William Penn
 William Richard Miller
 William Romaine
+William Rotsler
 William Saroyan
 William Shakespeare
 William Shenstone
