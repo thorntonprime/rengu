@@ -38,7 +38,7 @@ bin/rengu search verse '{}' | \
   xargs bin/rengu extract author > check/verse-author.extract
 
 echo " ... missing authors counts"
-grep "NOT_FOUND" check/verse-author.extract | \
+grep "NO_MATCH" check/verse-author.extract | \
   cut -c88- | sort | uniq -c | sort -g > check/missing-authors.count
 
 echo " ... fuzz authors"
