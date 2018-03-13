@@ -1,0 +1,43 @@
+#!/usr/bin/python3
+
+import sys
+
+sys.path.append('')
+
+from rengu.tools import walk
+
+
+def verse_extract_authors(vpk):
+    from rengu.verse import Verse
+
+    v = Verse.fetch(vpk)
+
+    for role in ["By", "Author", "Translator", "Editor", "Illustrator", "Contributor"]:
+        for a in walk(role, dict(v)):
+            print(a)
+            sys.stdout.flush()
+
+
+def source_extract_authors(vpk):
+    from rengu.source import Source
+
+    s = Source.fetch(vpk)
+
+    for role in ["By", "Author", "Translator", "Editor", "Illustrator", "Contributor"]:
+        for a in walk(role, dict(s)):
+            print(a)
+            sys.stdout.flush()
+
+
+if __name__ == '__main__':
+
+    if sys.argv[1] == "verse":
+        for vpk in sys.argv[2:]:
+            verse_extract_authors(vpk)
+
+    elif sys.argv[1] == "source":
+        for vpk in sys.argv[2:]:
+            source_extract_authors(vpk)
+
+    else:
+        print("Error, muse be verse or source")

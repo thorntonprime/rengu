@@ -1,0 +1,45 @@
+#!/usr/bin/python3
+
+import sys
+
+sys.path.append('')
+
+from rengu.tools import walk
+
+
+def get_title(data):
+    for title in walk("Title", data):
+
+        if isinstance(title, str):
+            print(title)
+        elif isinstance(title, dict):
+            print(title.get("Title", "NO TITLE"))
+        else:
+            print("ERROR title is a ", type(title))
+            print(title)
+            sys.exit(1)
+        sys.stdout.flush()
+
+
+def verse_extract_source(vpk):
+    from rengu.verse import Verse
+
+    v = Verse.fetch(vpk)
+
+    if v.get("Source"):
+        top = v.get("Source")
+
+        if isinstance(top, dict):
+            get_title(dict(top))
+        elif isinstance(top, list):
+            for d in top:
+                get_title(dict(d))
+        else:
+            print("ERROR title is a ", type(top))
+            print(top)
+            sys.exit(1)
+
+if __name__ == '__main__':
+
+    for vpk in sys.argv[1:]:
+        verse_extract_source(vpk)
