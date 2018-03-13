@@ -1,5 +1,5 @@
 
-JNA_BASE='/home/thornton/projects/jna'
+JNAPATH='/home/thornton/projects/jna'
 
 # Celery Configuration
 broker_url = 'redis://prajna'
@@ -12,7 +12,7 @@ enable_utc = True
 
 # BlitzDB configuration file backend
 from blitzdb import FileBackend
-DB = FileBackend("./db")
+DB = FileBackend( JNAPATH + "/db")
 
 # Or MongoDB backend
 #from pymongo import MongoClient, ASCENDING, DESCENDING

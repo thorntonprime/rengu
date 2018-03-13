@@ -1,0 +1,7 @@
+#!/bin/sh
+
+echo "Extract all titles from sources"
+jna search verse '{}' |  \
+  jq -r .pk | \
+  xargs jna extract source > check/verses-titles.extract
+

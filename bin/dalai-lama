@@ -1,7 +1,0 @@
-#!/usr/bin/python3
-
-from twitter_scraper import get_tweets
-
-for tweet in get_tweets("DalaiLama", pages=25):
-  print(tweet)
-

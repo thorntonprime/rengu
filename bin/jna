@@ -2,9 +2,9 @@
 
 import sys
 
-sys.path.append('lib')
+sys.path.append('/home/thornton/projects/jna/lib')
 
-from prajna.jna.config import JNA_BASE
+from prajna.jna.config import JNAPATH
 from prajna.jna.cmd import JnaCmd
 
 def jna_script(args):
@@ -12,8 +12,9 @@ def jna_script(args):
 
     script = args[0]
 
-    if os.path.exists(JNA_BASE + "/bin/" + script):
-        os.execv(JNA_BASE + "/bin/" + script, args)
+    if os.path.exists(JNAPATH + "/bin/" + script):
+        os.environ['JNAPATH'] = JNAPATH
+        os.execve(JNAPATH + "/bin/" + script, args, os.environ)
 
 if __name__ == '__main__':
 

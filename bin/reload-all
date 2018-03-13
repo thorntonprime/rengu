@@ -1,0 +1,8 @@
+#!/bin/sh
+
+rm -rf ${JNAPATH}/db/*
+
+jna reload-verses
+jna reload-sources
+jna reload-authors
+

@@ -1,0 +1,5 @@
+#!/bin/sh
+
+echo "Reload ... verses"
+jna load verse verses/* > ${JNAPATH}/check/verses.load
+

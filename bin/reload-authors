@@ -1,0 +1,5 @@
+#!/bin/sh
+
+echo "Reload ... authors"
+jna load author authors/* > ${JNAPATH}/check/authors.load
+
