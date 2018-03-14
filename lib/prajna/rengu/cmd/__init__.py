@@ -9,8 +9,8 @@ def auto_help(func):
     return func
 
 
-class JnaCmd(cmd.Cmd, object):
-    intro = 'Jna tool'
+class RenguCmd(cmd.Cmd, object):
+    intro = 'Rengu tool'
     prompt = '> '
 
     @auto_help
@@ -26,8 +26,8 @@ class JnaCmd(cmd.Cmd, object):
         '''load
         Subcommands to import data from yaml files
         '''
-        from prajna.jna.cmd.load import JnaLoadCmd
-        load_cmd = JnaLoadCmd()
+        from prajna.rengu.cmd.load import RenguLoadCmd
+        load_cmd = RenguLoadCmd()
         if len(args) > 1:
             return load_cmd.onecmd(args)
         else:
@@ -40,8 +40,8 @@ class JnaCmd(cmd.Cmd, object):
         It recursively will extract information on authors or sources from
         verses.
         '''
-        from prajna.jna.cmd.extract import JnaExtractCmd
-        extract_cmd = JnaExtractCmd()
+        from prajna.rengu.cmd.extract import RenguExtractCmd
+        extract_cmd = RenguExtractCmd()
         if len(args) > 1:
             return extract_cmd.onecmd(args)
         else:
@@ -52,8 +52,8 @@ class JnaCmd(cmd.Cmd, object):
         '''dump
         Subcommands to import data from yaml files
         '''
-        from prajna.jna.cmd.dump import JnaDumpCmd
-        dump_cmd = JnaDumpCmd()
+        from prajna.rengu.cmd.dump import RenguDumpCmd
+        dump_cmd = RenguDumpCmd()
         if len(args) > 1:
             return dump_cmd.onecmd(args)
         else:
@@ -64,8 +64,8 @@ class JnaCmd(cmd.Cmd, object):
         '''search
         Subcommands to search data using a search query
         '''
-        from prajna.jna.cmd.search import JnaSearchCmd
-        search_cmd = JnaSearchCmd()
+        from prajna.rengu.cmd.search import RenguSearchCmd
+        search_cmd = RenguSearchCmd()
         if len(args) > 1:
             return search_cmd.onecmd(args)
         else:
@@ -76,8 +76,8 @@ class JnaCmd(cmd.Cmd, object):
         '''find
         Subcommands to find data, matching the key field (e.g. name or title)
         '''
-        from prajna.jna.cmd.find import JnaFindCmd
-        find_cmd = JnaFindCmd()
+        from prajna.rengu.cmd.find import RenguFindCmd
+        find_cmd = RenguFindCmd()
         if len(args) > 1:
             return find_cmd.onecmd(args)
         else:
@@ -86,10 +86,10 @@ class JnaCmd(cmd.Cmd, object):
     @auto_help
     def do_corpus(self, args):
         '''corpus
-        Subcommands to manage corpus from Jna verse data
+        Subcommands to manage corpus from Rengu verse data
         '''
-        from prajna.jna.cmd.corpus import JnaCorpusCmd
-        corpus_cmd = JnaCorpusCmd()
+        from prajna.rengu.cmd.corpus import RenguCorpusCmd
+        corpus_cmd = RenguCorpusCmd()
         if len(args) > 1:
             return corpus_cmd.onecmd(args)
         else:
@@ -100,8 +100,8 @@ class JnaCmd(cmd.Cmd, object):
         '''refresh
         Subcommands to refresh data from external sources
         '''
-        from prajna.jna.cmd.refresh import JnaRefreshCmd
-        refresh_cmd = JnaRefreshCmd()
+        from prajna.rengu.cmd.refresh import RenguRefreshCmd
+        refresh_cmd = RenguRefreshCmd()
         if len(args) > 1:
             return refresh_cmd.onecmd(args)
         else:
@@ -112,8 +112,8 @@ class JnaCmd(cmd.Cmd, object):
         '''similar
         Subcommands to similar data from external sources
         '''
-        from prajna.jna.cmd.similar import JnaSimilarCmd
-        similar_cmd = JnaSimilarCmd()
+        from prajna.rengu.cmd.similar import RenguSimilarCmd
+        similar_cmd = RenguSimilarCmd()
         if len(args) > 1:
             return similar_cmd.onecmd(args)
         else:
@@ -124,8 +124,8 @@ class JnaCmd(cmd.Cmd, object):
         '''json
         Subcommands to json data
         '''
-        from prajna.jna.cmd.json import JnaJSONCmd
-        json_cmd = JnaJSONCmd()
+        from prajna.rengu.cmd.json import RenguJSONCmd
+        json_cmd = RenguJSONCmd()
         if len(args) > 1:
             return json_cmd.onecmd(args)
         else:
@@ -136,8 +136,8 @@ class JnaCmd(cmd.Cmd, object):
         '''yaml
         Subcommands to yaml data
         '''
-        from prajna.jna.cmd.yaml import JnaYAMLCmd
-        yaml_cmd = JnaYAMLCmd()
+        from prajna.rengu.cmd.yaml import RenguYAMLCmd
+        yaml_cmd = RenguYAMLCmd()
         if len(args) > 1:
             return yaml_cmd.onecmd(args)
         else:
@@ -148,8 +148,8 @@ class JnaCmd(cmd.Cmd, object):
         '''classify
         Subcommands to classify data
         '''
-        from prajna.jna.cmd.classify import JnaClassifyCmd
-        classify_cmd = JnaClassifyCmd()
+        from prajna.rengu.cmd.classify import RenguClassifyCmd
+        classify_cmd = RenguClassifyCmd()
         if len(args) > 1:
             return classify_cmd.onecmd(args)
         else:

@@ -1,5 +1,5 @@
 #!/bin/sh
 
 echo "Reload ... verses"
-jna load verse ${JNAPATH}/verses/* > ${JNAPATH}/check/verses.load
+rengu load verse ${RENGUPATH}/verses/* > ${RENGUPATH}/check/verses.load
 

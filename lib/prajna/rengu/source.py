@@ -2,14 +2,14 @@
 
 from blitzdb import Document
 
-from prajna.jna.config import DB
+from prajna.rengu.config import DB
 
 
-class Author(Document):
+class Source(Document):
 
     def to_yaml(self):
         import yaml
-        from prajna.jna.tools import YamlDumper
+        from prajna.rengu.tools import YamlDumper
 
         return "---\n" + yaml.dump(dict(self),
                                    Dumper=YamlDumper, default_flow_style=False, allow_unicode=True,
@@ -17,6 +17,7 @@ class Author(Document):
 
     def to_json(self):
         import json
+
         return json.dumps(dict(self), sort_keys=True, indent=2)
 
     def refresh_wikipedia(self):
@@ -34,7 +35,7 @@ class Author(Document):
                                 silent=True, skip=['imageinfo'])
         else:
             page = wptools.page(
-                self.get("Name"), silent=True, skip=['imageinfo'])
+                self.get("Title"), silent=True, skip=['imageinfo'])
 
         try:
             old_stderr = sys.stderr
@@ -68,8 +69,9 @@ class Author(Document):
         if what == 'Wikimedia disambiguation page':
             what = "(disambiguation)"
 
-        if label != self.get("Name"):
-            self['AlternateNames'] = list(set(self.get("AlternateNames", [])))
+        if label != self.get("Title"):
+            self['AlternateTitles'] = list(
+                set(self.get("AlternateTitles", [])))
 
         self["Wikipedia"] = {
             "URL": url,
@@ -83,36 +85,86 @@ class Author(Document):
 
         return True
 
+    def refresh_worldcat(self):
+        from prajna.rengu.tools import walk
+        from prajna.rengu.worldcat import search_isbn, search_title_author
+
+        if self.get("Media", "").lower() in ["prime", "collection"]:
+            raise Exception("incompatible media type")
+
+        isbn = walk("ISBN", dict(self))
+        if isbn:
+            for i in isbn:
+                data = search_isbn(i)
+                if data:
+
+                    self = Source({**self, **data})
+
+                    self.save(DB)
+                    DB.commit()
+
+                    return True
+
+        if self.get("Title") and self.get("By"):
+
+            title = self.get("Title")
+            author = self.get("By")
+            if isinstance(author, list):
+                author = author[0]
+
+            data = search_title_author(title, author)
+            if data:
+
+                self = Source({**self, **data})
+
+                self.save(DB)
+                DB.commit()
+
+                return True
+
+        return False
+
     @staticmethod
     def fetch(pk):
-        return DB.get(Author, {"pk": pk})
+        return DB.get(Source, {"pk": pk})
 
     @staticmethod
     def search(query):
-        return DB.filter(Author, eval(query))
+        return DB.filter(Source, eval(query))
 
     @staticmethod
-    def find(query, field="Name"):
-        from prajna.jna.tools import is_uuid
+    def find(query, field="Title"):
+        from prajna.rengu.tools import is_uuid
 
         found = set()
 
         if is_uuid(query):
-            a = Author.fetch(query)
-            if a and a.pk not in found:
-                found.add(a.pk)
-                yield a
+            s = Source.fetch(query)
+            yield s
+            return
 
-        for a in DB.filter(Author, {field: query}):
-            if a.pk not in found:
-                found.add(a.pk)
-                yield a
+        if '/' in str(query):
+            title, author = [x.strip() for x in query.split('/', 2)]
+            for s in DB.filter(Source, {"Title": title, "By": author}):
+                if s.pk not in found:
+                    found.add(s.pk)
+                    yield s
 
-        if field == "Name":
-            for a in DB.filter(Author, {"AlternateNames": query}):
-                if a.pk not in found:
-                    found.add(a.pk)
-                    yield a
+            for s in DB.filter(Source, {"AlternateTitles": title, "By": author}):
+                if s.pk not in found:
+                    found.add(s.pk)
+                    yield s
+
+        for s in DB.filter(Source, {field: query}):
+            if s.pk not in found:
+                found.add(s.pk)
+                yield s
+
+        if field == "Title":
+            for s in DB.filter(Source, {"AlternateTitles": query}):
+                if s.pk not in found:
+                    found.add(s.pk)
+                    yield s
 
     @staticmethod
     def read_yaml_file(fn):
@@ -124,20 +176,17 @@ class Author(Document):
                     from os.path import basename
                     data['pk'] = basename(fn)
 
-                yield Author(data)
+                yield Source(data)
 
-    # Class internal data and methods ###############################
     class Meta(Document.Meta):
         primary_key = 'pk'
-        collection = 'authors'
+        collection = 'sources'
 
 
 #####################################################################
-# Create Indexes
+# create indexes
+
 from blitzdb.queryset import QuerySet
 
-DB.create_index(Author, 'Name', fields={
-                "Name": QuerySet.ASCENDING}, unique=True, ephemeral=False)
-DB.create_index(Author, 'AlternateNames', fields={
-                "AlternateNames": QuerySet.ASCENDING},
-                unique=True, ephemeral=False)
+DB.create_index(Source, 'Title', fields={
+                "Title": QuerySet.ASCENDING}, unique=False, ephemeral=False)

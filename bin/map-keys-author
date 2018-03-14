@@ -1,0 +1,5 @@
+#!/bin/sh
+
+rengu search author '{}' | \
+  jq -r '..? | keys[]' | sort | uniq > ${RENGUPATH}/maps/author.keys
+

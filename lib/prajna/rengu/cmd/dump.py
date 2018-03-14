@@ -1,10 +1,10 @@
 
 import cmd
 
-from prajna.jna.cmd import auto_help
+from prajna.rengu.cmd import auto_help
 
 
-class JnaDumpCmd(cmd.Cmd):
+class RenguDumpCmd(cmd.Cmd):
 
     prompt = "dump >"
 
@@ -16,21 +16,21 @@ class JnaDumpCmd(cmd.Cmd):
 
     @auto_help
     def do_verse(self, args):
-        from prajna.jna.verse import Verse
+        from prajna.rengu.verse import Verse
 
         for pk in args.split():
             print(Verse.fetch(pk).to_yaml())
 
     @auto_help
     def do_source(self, args):
-        from prajna.jna.source import Source
+        from prajna.rengu.source import Source
 
         for pk in args.split():
             print(Source.fetch(pk).to_yaml())
 
     @auto_help
     def do_author(self, args):
-        from prajna.jna.author import Author
+        from prajna.rengu.author import Author
 
         for pk in args.split():
             print(Author.fetch(pk).to_yaml())

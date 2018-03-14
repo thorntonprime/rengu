@@ -2,6 +2,6 @@
 
 echo "Running Pre-Checks"
 yamllint -f parsable \
-  ${JNAPATH}/verses/* ${JNAPATH}/authors/* ${JNAPATH}/sources/* | \
-  tee ${JNAPATH}/check/yaml.check
+  ${RENGUPATH}/verses/* ${RENGUPATH}/authors/* ${RENGUPATH}/sources/* | \
+  tee ${RENGUPATH}/check/yaml.check
 

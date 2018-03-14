@@ -1,12 +1,12 @@
 import cmd
 
-from prajna.jna.cmd import auto_help
-from prajna.jna.classify import load_classifier, dump_classifier, train, show
+from prajna.rengu.cmd import auto_help
+from prajna.rengu.classify import load_classifier, dump_classifier, train, show
 
-from prajna.jna.verse import Verse
+from prajna.rengu.verse import Verse
 
 
-class JnaClassifyCmd(cmd.Cmd):
+class RenguClassifyCmd(cmd.Cmd):
 
     prompt = "classify >"
 

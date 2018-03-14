@@ -4,7 +4,7 @@ import re
 
 from blitzdb import Document
 
-from prajna.jna.config import DB
+from prajna.rengu.config import DB
 
 from textblob import TextBlob
 
@@ -80,8 +80,8 @@ class Verse(Document):
             yield w
 
     def extract_authors(self):
-        from prajna.jna.tools import is_uuid, walk, flatten
-        from prajna.jna.author import Author
+        from prajna.rengu.tools import is_uuid, walk, flatten
+        from prajna.rengu.author import Author
 
         found = set()
 
@@ -99,8 +99,8 @@ class Verse(Document):
 
     def extract_sources(self):
         from blitzdb.document import DoesNotExist
-        from prajna.jna.tools import is_uuid, walk
-        from prajna.jna.source import Source
+        from prajna.rengu.tools import is_uuid, walk
+        from prajna.rengu.source import Source
 
         verse_author = self.get("By")
         found = set()
@@ -172,7 +172,7 @@ class Verse(Document):
 
     def to_yaml(self):
         import yaml
-        from prajna.jna.tools import YamlDumper
+        from prajna.rengu.tools import YamlDumper
 
         v = dict(self)
         body = v["Body"].replace(":", "：")

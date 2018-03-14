@@ -1,5 +1,5 @@
 
-JNAPATH='/home/thornton/projects/jna'
+RENGUPATH='/home/thornton/projects/rengu'
 
 # Celery Configuration
 broker_url = 'redis://prajna'
@@ -12,13 +12,13 @@ enable_utc = True
 
 # BlitzDB configuration file backend
 from blitzdb import FileBackend
-DB = FileBackend( JNAPATH + "/db")
+DB = FileBackend( RENGUPATH + "/db")
 
 # Or MongoDB backend
 #from pymongo import MongoClient, ASCENDING, DESCENDING
 #from blitzdb import MongoBackend
 #mongo_client = MongoClient('prajna')
-#DB = MongoBackend(mongo_client.prajna.jna)
+#DB = MongoBackend(mongo_client.prajna.rengu)
 
 # Worldcat info
 worldcat_USERNAME = "theoszi"

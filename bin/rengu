@@ -1,0 +1,34 @@
+#!/usr/bin/python3
+
+import sys
+
+sys.path.append('/home/thornton/projects/rengu/lib')
+
+from prajna.rengu.config import RENGUPATH
+from prajna.rengu.cmd import RenguCmd
+
+def rengu_script(args):
+    import os
+
+    script = args[0]
+
+    if os.path.exists(RENGUPATH + "/bin/" + script):
+        os.environ['RENGUPATH'] = RENGUPATH
+        os.execve(RENGUPATH + "/bin/" + script, args, os.environ)
+
+if __name__ == '__main__':
+
+    if len(sys.argv) > 1:
+
+        if rengu_script(sys.argv[1:]):
+            sys.exit(0)
+        else:
+            sys.exit(RenguCmd().onecmd(' '.join(sys.argv[1:])))
+
+    else:
+        try:
+            sys.exit(RenguCmd().cmdloop())
+            
+        except KeyboardInterrupt:
+            print('\nexit')
+            sys.exit(0)

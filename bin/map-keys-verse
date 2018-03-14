@@ -1,0 +1,5 @@
+#!/bin/sh
+
+rengu search verse '{}' | \
+  jq -r '..? | keys[]' | sort | uniq > ${RENGUPATH}/maps/verse.keys
+

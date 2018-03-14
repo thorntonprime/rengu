@@ -1,5 +1,5 @@
 #!/bin/sh
 
 echo "Reload ... authors"
-jna load author ${JNAPATH}/authors/* > ${JNAPATH}/check/authors.load
+rengu load author ${RENGUPATH}/authors/* > ${RENGUPATH}/check/authors.load
 

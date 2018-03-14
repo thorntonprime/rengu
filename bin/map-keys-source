@@ -1,0 +1,5 @@
+#!/bin/sh
+
+rengu search source '{}' | \
+  jq -r '..? | keys[]' | sort | uniq > ${RENGUPATH}/maps/source.keys
+

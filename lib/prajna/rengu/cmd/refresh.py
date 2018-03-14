@@ -1,10 +1,10 @@
 
 import cmd
 
-from prajna.jna.cmd import auto_help
+from prajna.rengu.cmd import auto_help
 
 
-class JnaRefreshCmd(cmd.Cmd):
+class RenguRefreshCmd(cmd.Cmd):
 
     prompt = "refresh >"
 
@@ -19,7 +19,7 @@ class JnaRefreshCmd(cmd.Cmd):
         '''wikipedia
         Subcommands to import data from yaml files
         '''
-        wikipedia_cmd = JnaRefreshWikipediaCmd()
+        wikipedia_cmd = RenguRefreshWikipediaCmd()
         if len(args) > 1:
             return wikipedia_cmd.onecmd(args)
         else:
@@ -30,14 +30,14 @@ class JnaRefreshCmd(cmd.Cmd):
         '''worldcat
         Subcommands to reffresh data from worldcat
         '''
-        worldcat_cmd = JnaRefreshWorldcatCmd()
+        worldcat_cmd = RenguRefreshWorldcatCmd()
         if len(args) > 1:
             return worldcat_cmd.onecmd(args)
         else:
             return worldcat_cmd.cmdloop()
 
 
-class JnaRefreshWikipediaCmd(cmd.Cmd):
+class RenguRefreshWikipediaCmd(cmd.Cmd):
 
     prompt = "refresh wikipedia >"
 
@@ -53,7 +53,7 @@ class JnaRefreshWikipediaCmd(cmd.Cmd):
         Refresh the Wikipedia data for the author record.
         '''
 
-        from prajna.jna.author import Author
+        from prajna.rengu.author import Author
 
         for pk in args.split():
             try:
@@ -74,7 +74,7 @@ class JnaRefreshWikipediaCmd(cmd.Cmd):
         Refresh the Wikipedia data for the source record.
         '''
 
-        from prajna.jna.source import Source
+        from prajna.rengu.source import Source
 
         for pk in args.split():
             try:
@@ -90,7 +90,7 @@ class JnaRefreshWikipediaCmd(cmd.Cmd):
                 print(pk, "ERROR", e)
 
 
-class JnaRefreshWorldcatCmd(cmd.Cmd):
+class RenguRefreshWorldcatCmd(cmd.Cmd):
 
     prompt = "refresh worldcat >"
 
@@ -106,7 +106,7 @@ class JnaRefreshWorldcatCmd(cmd.Cmd):
         Refresh the W data for the source record.
         '''
 
-        from prajna.jna.source import Source
+        from prajna.rengu.source import Source
 
         for pk in args.split():
             try:

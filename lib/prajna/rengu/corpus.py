@@ -1,6 +1,6 @@
 
 from gensim import corpora
-from prajna.jna.verse import Verse
+from prajna.rengu.verse import Verse
 
 
 # from nltk.corpus import stopwords
@@ -10,10 +10,10 @@ def build_dictionary() {
     pass
 
 
-class JnaCorpus(object):
+class RenguCorpus(object):
 
     def __init__(self, *verses):
-        super(JnaCorpus, self).__init__()
+        super(RenguCorpus, self).__init__()
         self.verses = verses[0]
 
     def __iter__(self):

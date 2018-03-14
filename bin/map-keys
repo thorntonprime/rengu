@@ -1,0 +1,5 @@
+#!/bin/sh
+
+rengu map-keys-author
+rengu map-keys-source
+rengu map-keys-verse

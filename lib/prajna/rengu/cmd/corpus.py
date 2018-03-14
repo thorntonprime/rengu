@@ -3,12 +3,12 @@ import cmd
 import os
 import sys
 
-from prajna.jna.cmd import auto_help
-from prajna.jna.corpus import JnaCorpus
+from prajna.rengu.cmd import auto_help
+from prajna.rengu.corpus import RenguCorpus
 from gensim import corpora
 
 
-class JnaCorpusCmd(cmd.Cmd):
+class RenguCorpusCmd(cmd.Cmd):
 
     prompt = "corpus >"
 
@@ -34,7 +34,7 @@ class JnaCorpusCmd(cmd.Cmd):
             print("Must specify corpus name.")
             sys.exit(1)
 
-        corpus = JnaCorpus(args[1:])
+        corpus = RenguCorpus(args[1:])
 
         corpora.MmCorpus.serialize("corpus/" + corpus_name, corpus)
         m = corpora.MmCorpus("corpus/" + corpus_name)

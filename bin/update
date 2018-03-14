@@ -1,6 +1,12 @@
 #!/bin/sh
 
+echo
+
+echo "Check all YAML ..."
+rengu yaml-check
+echo
+
 echo "Reloading all data ..."
-jna reload-all
+rengu reload
 echo
 

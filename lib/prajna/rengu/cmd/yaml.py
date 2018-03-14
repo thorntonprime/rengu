@@ -1,11 +1,11 @@
 import cmd
 
-from prajna.jna.cmd import auto_help
+from prajna.rengu.cmd import auto_help
 
 
-class JnaJSONCmd(cmd.Cmd):
+class RenguYAMLCmd(cmd.Cmd):
 
-    prompt = "json >"
+    prompt = "yaml >"
 
     @auto_help
     def do_quit(self, args):
@@ -15,23 +15,23 @@ class JnaJSONCmd(cmd.Cmd):
 
     @auto_help
     def do_verse(self, args):
-        from prajna.jna.verse import Verse
+        from prajna.rengu.verse import Verse
 
         for fn in args.split():
-            print(Verse.read_yaml_file(fn).to_json())
+            print(Verse.read_yaml_file(fn).to_yaml())
 
     @auto_help
     def do_source(self, args):
-        from prajna.jna.source import Source
+        from prajna.rengu.source import Source
 
         for fn in args.split():
             for s in Source.read_yaml_file(fn):
-                print(s.to_json())
+                print(s.to_yaml())
 
     @auto_help
     def do_author(self, args):
-        from prajna.jna.author import Author
+        from prajna.rengu.author import Author
 
         for fn in args.split():
             for a in Author.read_yaml_file(fn):
-                print(a.to_json())
+                print(a.to_yaml())
