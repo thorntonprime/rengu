@@ -1,0 +1,6 @@
+#!/bin/sh
+
+cut -c9- ${RENGUPATH}/check/missing-authors.count | \
+  tr '\n' '\0' | \
+  xargs -0 -n1 rengu make-author-wikipedia
+

@@ -35,7 +35,8 @@ def search_isbn(isbn):
 
 
 def search_book(query):
-    url = WORLDCAT_BASEURL + "/search?q=" + query
+
+    url = WORLDCAT_BASEURL + "/search?q=" + query + "&fq=x0%3Abook"
 
     response = worldcat.get(url)
     soup = BeautifulSoup(response.text, 'html.parser')

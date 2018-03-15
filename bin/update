@@ -10,3 +10,7 @@ echo "Reloading all data ..."
 rengu reload
 echo
 
+echo "Checking authors"
+rengu check-verse-author-extract
+rengu check-missing-authors
+

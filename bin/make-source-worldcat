@@ -1,0 +1,43 @@
+#!/usr/bin/python3
+
+import sys
+
+sys.path.append('/home/thornton/projects/rengu/lib')
+import prajna.rengu.worldcat
+
+import yaml
+from prajna.rengu.tools import YamlDumper,is_isbn
+
+
+for arg in sys.argv[1:]:
+
+    source = None
+
+    if is_isbn(arg):
+      source = prajna.rengu.worldcat.search_isbn(arg)
+
+    else:
+
+      if "/" in arg:
+        title, author = [ x.strip() for x in arg.split("/", 2) ]
+        source = prajna.rengu.worldcat.search_title_author(title, author)
+
+    if not source:
+        source = prajna.rengu.worldcat.search_title(arg.strip())
+
+    if source:
+
+        title = source["Title"].strip().lower().replace("'","").replace(",","").replace(" ", "-")
+        print("FOUND\t", arg.strip(), "=", title )
+
+        fout = open("tmp/sources/" + title, "w")
+
+        fout.write(yaml.dump(dict(source),
+                             Dumper=YamlDumper, default_flow_style=False,
+                             width=70, indent=2,
+                             explicit_start=True, explicit_end=True, allow_unicode=True, ))
+        fout.close()
+
+    else:
+        print("NOT FOUND\t", arg.strip())
+
