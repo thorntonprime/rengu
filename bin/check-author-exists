@@ -2,10 +2,10 @@
 
 import sys
 
-sys.path.append('')
+sys.path.append('/home/thornton/projects/rengu/lib')
 
-from rengu.tools import is_uuid
-from rengu.author import Author
+from prajna.rengu.tools import is_uuid
+from prajna.rengu.author import Author
 
 from blitzdb.document import DoesNotExist
 

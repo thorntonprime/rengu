@@ -84,6 +84,18 @@ class RenguCmd(cmd.Cmd, object):
             return find_cmd.cmdloop()
 
     @auto_help
+    def do_fuzz(self, args):
+        '''fuzz
+        Subcommands to fuzz data, matching the key field (e.g. name or title)
+        '''
+        from prajna.rengu.cmd.fuzz import RenguFuzzCmd
+        fuzz_cmd = RenguFuzzCmd()
+        if len(args) > 1:
+            return fuzz_cmd.onecmd(args)
+        else:
+            return fuzz_cmd.cmdloop()
+
+    @auto_help
     def do_corpus(self, args):
         '''corpus
         Subcommands to manage corpus from Rengu verse data

@@ -84,6 +84,34 @@ class Author(Document):
         return True
 
     @staticmethod
+    def author_map():
+        authors={}
+        for a in Author.search("{}"):
+            name = a['Name']
+            authors[name] = {'pk': a['pk']}
+
+            for alt in a.get('AlternateNames', []):
+                authors[alt] = {'pk': a['pk'], 'RealName': name}
+
+        return authors
+
+    @staticmethod
+    def fuzz(match, match_ratio=80, authors=None):
+        from fuzzywuzzy import fuzz
+
+        if authors==None:
+            authors=Author.author_map()
+
+        for a in authors:
+            f = fuzz.token_sort_ratio(match, a)
+            if f >= match_ratio:
+                if authors[a].get('RealName'):
+                    yield f, authors[a]["pk"], a, authors[a]["RealName"]
+                else:
+                    yield f, authors[a]["pk"], a, a
+
+
+    @staticmethod
     def fetch(pk):
         return DB.get(Author, {"pk": pk})
 

@@ -1,5 +1,5 @@
 #!/bin/sh
 
-grep "NO_MATCH" ${RENGUPATH}/check/verse-author.extract | \
+grep "NO_MATCH" ${RENGUPATH}/check/verse-authors.extract | \
   cut -c88- | sort | uniq -c | sort -g > ${RENGUPATH}/check/missing-authors.count
 

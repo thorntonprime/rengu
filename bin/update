@@ -2,15 +2,25 @@
 
 echo
 
-echo "Check all YAML ..."
-rengu yaml-check
+echo "Prechecks"
+rengu precheck-yaml
 echo
 
-echo "Reloading all data ..."
+echo "Load"
 rengu reload
 echo
 
-echo "Checking authors"
-rengu check-verse-author-extract
+echo "Extracts"
+rengu extract-verse-authors
+rengu extract-verse-titles
+rengu map-keys
+echo
+
+echo "Checks"
 rengu check-missing-authors
+rengu check-missing-titles
+echo
+
+echo "Fuzz"
+rengu fuzz-authors
 

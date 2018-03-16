@@ -1,7 +1,0 @@
-#!/bin/sh
-
-echo "Extract all authors from verses"
-rengu search verse '{}' |  \
-  jq -r .pk | \
-  xargs rengu extract author > ${RENGUPATH}/check/verses-authors.extract
-

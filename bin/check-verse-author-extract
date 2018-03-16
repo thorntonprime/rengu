@@ -1,6 +1,0 @@
-#!/bin/sh
-
-rengu search verse '{}' | \
-  jq -r .pk | \
-  xargs rengu extract author > ${RENGUPATH}/check/verse-author.extract
-
