@@ -1,5 +1,5 @@
 
-RENGUPATH='/home/thornton/projects/rengu'
+RENGUPATH = '/home/thornton/projects/rengu'
 
 # Celery Configuration
 broker_url = 'redis://prajna'
@@ -12,7 +12,7 @@ enable_utc = True
 
 # BlitzDB configuration file backend
 from blitzdb import FileBackend
-DB = FileBackend( RENGUPATH + "/db")
+DB = FileBackend(RENGUPATH + "/db")
 
 # Or MongoDB backend
 #from pymongo import MongoClient, ASCENDING, DESCENDING

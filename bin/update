@@ -23,4 +23,9 @@ echo
 
 echo "Fuzz"
 rengu fuzz-authors
+echo
+
+echo "Fix"
+rengu fix-verses
+echo
 

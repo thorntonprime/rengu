@@ -33,5 +33,5 @@ class RenguFuzzCmd(cmd.Cmd):
 
         for name in shlex.split(args):
             for f, pk, match_name, real_name in Author.fuzz(name, match_ratio=80, authors=author_map):
-                print("{0: 3g} {1:50} = {2:25} [{3}]".format(f, name + "~" +match_name, real_name, pk))
-
+                print("{0: 3g} {1:50} = {2:25} [{3}]".format(
+                    f, name + "~" + match_name, real_name, pk))

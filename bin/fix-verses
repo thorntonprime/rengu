@@ -1,0 +1,6 @@
+#!/bin/sh
+
+rengu search verse '{}' | \
+  jq -r .pk | \
+  xargs rengu fix-verse > ${RENGUPATH}/check/verses.fix
+

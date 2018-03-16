@@ -1,16 +1,150 @@
-#!/bin/sh
+#!/usr/bin/python3
 
-cat | \
-  sed -e 's/\([a-z]\)\.  *\([a-z]\)/\1, \2/g' | \
-  sed -e 's/  *\. *\. *\. */ ... /g' | \
-  sed -e 's/\([a-z]\)\.\.\./\1 .../g' | \
-  sed -e 's/…/ .../g' | \
-  sed -e 's/\([,;:\.]\) *\. *\. *\. */\1 ... /g' | \
-  sed -e 's/\([A-Za-z\.,;:-]\)  *\([A-Za-z-]\)/\1 \2/g' | \
-  sed -e 's/\([a-z]\)—  */\1 -- /g' | \
-  sed -e 's/ *—$/ --/g' | \
-  sed -e 's/  *o  *f  */ of /g' | \
-  sed -e 's/:/：/g' | \
-  sed -e 's/[——-]/-/g' | \
-  sed -e 's/ *$//g' | \
-  cat
+import sys
+
+sys.path.append('/home/thornton/projects/rengu/lib')
+
+from prajna.rengu.verse import Verse
+from prajna.rengu.tools import walk, YamlDumper, is_uuid
+
+import yaml
+
+from blitzdb.document import DoesNotExist
+
+import os
+
+try:
+    os.mkdir("tmp/verses")
+except:
+    pass
+
+
+for pk in sys.argv[1:]:
+
+    fixed = False
+    unfixable = False
+
+    try:
+        v = Verse.fetch(pk)
+
+    except DoesNotExist:
+        print(pk, "! NOT FOUND")
+        sys.stdout.flush()
+        continue
+
+    data = dict(v)
+
+    body = data["Body"].replace(":", "：")
+    if body[0] in [ " ", "'", '"', ".", "[" ]:
+        body = "\\" + body
+
+    del data["Body"]
+    del data["pk"]
+
+    if data.get("Lines"):
+        del data["Lines"]
+
+    #if True:
+    try:
+
+        # Check Sources
+        if data.get("Source"):
+            source = data.get("Source")
+            if isinstance(source, list):
+
+                if len(source) == 1:
+                    print("%s * Fixing list to single source" % (pk))
+                    data["Source"] = data["Source"][0]
+                    fixed = True
+
+                else:
+                    print("%s ! Multiple sources" % (pk))
+                    unfixable = True
+
+        # Misplaced Page or chapter
+        for k in [x for x in data.keys() ]:
+
+            if k in ["Page", "Chapter", "Hexagram", "Verse"]:
+                print("%s * Fixing misplaced key %s" % (pk, k))
+                data["Locus"] = data.get("Locus", {})
+                data["Locus"].update( { k: data[k] } )
+                del data[k]
+                fixed = True
+
+        # Misplaced source information
+        for k in [x for x in data.keys() ]:
+            if k in ["URL", "Editor", "Translator", "ISBN", "Copyright", "Publisher" ]:
+                print("%s * Fixing misplaced key %s" % (pk, k))
+                data["Source"] = data.get("Source", {})
+                data["Source"].update( { k: data[k] } )
+                del data[k]
+                fixed = True
+
+        # Misplaced title
+        if "Book" in data.keys():
+            print("%s * Fixing misplaced key Book" % (pk))
+            data["Source"] = data.get("Source", {})
+            data["Source"].update( { "Title": data["Book"] } )
+            del data["Book"]
+            fixed = True
+
+        # Move Locus
+        if "Locus" in data.keys():
+            print("%s * Fixing misplaced locus" % (pk))
+            data["Source"] = data.get("Source", {})
+            data["Source"]["Locus"] = data["Source"].get("Locus", {})
+            data["Source"]["Locus"].update( dict(data.get("Locus")) )
+            del data["Locus"]
+            fixed = True
+
+        # Check References and SeeALso
+        if not isinstance(data.get("References", []), list):
+            print("%s * Fixing reference to list" % (pk))
+            data["References"] = [data.get("References")]
+            fixed = True
+
+        for idx, val in enumerate(data.get("References", [])):
+            if isinstance(val, str):
+                print("%s * Reference shouldn't be a string" % (pk))
+
+                if (is_uuid(val)):
+                    print("%s * Reference to a bare UUID, fixing" % (pk))
+                    data["References"][idx] = { "ID" : val }
+                    fixed = True
+                else:
+                    print("%s ! Reference can't be fixed" % (pk))
+                    unfixable = True
+    
+        
+
+        if not isinstance(data.get("SeeAlso", []), list):
+            print("%s * Fixing seealso to list" % (pk))
+            data["SeeAlso"] = [data.get("SeeAlso")]
+            fixed = True
+
+
+    #if False:
+    except Exception as e:
+        unfixable = True
+        print("%s ! UNHANDLED EXCEPTION %s" % (pk, e))
+
+
+    if unfixable:
+        print("%s ! UNFIXABLE ... skipping fix" % (pk))
+
+    elif fixed:
+
+        with open("tmp/verses/" + pk, "w") as fout:
+            fout.write("---\n")
+            fout.write(yaml.dump(data, Dumper=YamlDumper,
+                                   default_flow_style=False, width=65, indent=2).strip())
+            fout.write("\n---\n")
+            fout.write(body)
+            fout.write("\n")
+            fout.close()
+
+        print("%s * Wrote update" % (pk))
+
+    # Finish
+    sys.stdout.flush()
+
