@@ -32,5 +32,5 @@ class RenguTextCmd(cmd.Cmd):
         '''
         
         for n, pct, pk, line in prajna.rengu.text.search(args):
-            print("{0:3} {1:3} {2} {3:.70}".format(n, pct, pk, line))
+            print("{0:3} {1} {2:.70}".format(pct, pk, line))
 
