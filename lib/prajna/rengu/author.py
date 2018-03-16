@@ -40,7 +40,7 @@ class Author(Document):
             old_stderr = sys.stderr
             redirected_error = sys.stderr = StringIO()
 
-            page.get(timeout=5)
+            page.get(timeout=10)
 
         except LookupError:
             return False
