@@ -1,0 +1,6 @@
+#!/bin/sh
+
+bin/rengu search verse '{}' | jq -r .pk | \
+  xargs bin/rengu extract words | cut -c38- | \
+  sort | uniq -c | sort -g > ${RENGUPATH}/maps/words.count
+

@@ -14,11 +14,13 @@ echo "Extracts"
 rengu extract-verse-authors
 rengu extract-verse-titles
 rengu map-keys
+rengu words-count
 echo
 
 echo "Checks"
 rengu check-missing-authors
 rengu check-missing-titles
+rengu words-misspell
 echo
 
 echo "Fuzz"

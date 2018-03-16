@@ -1,0 +1,5 @@
+#!/bin/sh
+
+cut -c9- ${RENGUPATH}/maps/words.count | rengu spellcheck | \
+  grep False | cut -c7- | sort | uniq > ${RENGUPATH}/check/words.misspell
+
