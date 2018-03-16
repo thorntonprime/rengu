@@ -1,4 +1,6 @@
 #!/bin/sh
 
-rengu search verse '{}' | jq -r .pk | xargs rengu text index
+rengu search verse '{}' | \
+  jq -r .pk | \
+  xargs rengu text index > /dev/null
 
