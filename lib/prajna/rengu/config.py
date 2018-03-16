@@ -24,3 +24,5 @@ DB = FileBackend(RENGUPATH + "/db")
 worldcat_USERNAME = "theoszi"
 worldcat_PASSWORD = "Cheroke3@Inca"
 WORLDCAT_BASEURL = "https://www.worldcat.org"
+
+XAPIANDB=RENGUPATH + "/db/xdb"

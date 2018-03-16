@@ -96,6 +96,18 @@ class RenguCmd(cmd.Cmd, object):
             return fuzz_cmd.cmdloop()
 
     @auto_help
+    def do_text(self, args):
+        '''text
+        Subcommands to index and search text data
+        '''
+        from prajna.rengu.cmd.text import RenguTextCmd
+        text_cmd = RenguTextCmd()
+        if len(args) > 1:
+            return text_cmd.onecmd(args)
+        else:
+            return text_cmd.cmdloop()
+
+    @auto_help
     def do_corpus(self, args):
         '''corpus
         Subcommands to manage corpus from Rengu verse data
