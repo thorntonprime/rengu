@@ -1,7 +1,7 @@
 import os
 import getpass
 
-if getpass.getuser == 'rengu':
+if getpass.getuser() == 'rengu':
     RENGUPATH='/srv/rengu'
 
 else:

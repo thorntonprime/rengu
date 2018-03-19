@@ -9,3 +9,8 @@
 /.ssh
 /.viminfo
 /.gitconfig
+/.cache
+/.local
+/.python_history
+/origin
+/work

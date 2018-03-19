@@ -9,7 +9,7 @@ from wsgidav.lock_storage import LockStorageShelve
 from wsgidav.fs_dav_provider import FilesystemProvider 
 from wsgidav.wsgidav_app import DEFAULT_CONFIG, WsgiDAVApp 
 
-file_provider = FilesystemProvider('/data/work')
+file_provider = FilesystemProvider('/srv/rengu/work')
 
 user_mapping = {}
 
@@ -30,8 +30,8 @@ config.update({
   "user_mapping": user_mapping, 
   "verbose": 3, 
   "enable_loggers": [], 
-  "propsmanager": ShelvePropertyManager("/var/www/lock/prajna-work-props.shelve"),
-  "locksmanager": LockStorageShelve("/var/www/lock/prajna-work-locks.shelve"), 
+  "propsmanager": ShelvePropertyManager("/srv/rengu/tmp/uwsgi/work-props.shelve"),
+  "locksmanager": LockStorageShelve("/srv/rengu/tmp/uwsgi/work-locks.shelve"), 
   "domaincontroller": None, 
 }) 
 
