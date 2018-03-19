@@ -5,3 +5,7 @@
 .ipynb_*
 /db
 /tmp
+/.bash*
+/.ssh
+/.viminfo
+/.gitconfig
