@@ -1,5 +1,11 @@
+import os
+import getpass
 
-RENGUPATH = '/home/thornton/projects/rengu'
+if getpass.getuser == 'rengu':
+    RENGUPATH='/srv/rengu'
+
+else:
+    RENGUPATH = os.environ.get("HOME") + '/projects/rengu'
 
 # Celery Configuration
 broker_url = 'redis://prajna'
