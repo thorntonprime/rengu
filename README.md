@@ -5,7 +5,7 @@
 * [I Ching](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching)
 
 ## Primary Sources
-* [Sacred Texts Archive](http://www.sacred-texts.com/) - [Local](https://prajna.io/ista09/index.htm)
+* [Sacred Texts Archive](http://www.sacred-texts.com/) - [Local](https://prajna.io/ec2b9ff9-e40d-42f0-abf8-8bbcf9056228)
 * [Early Christianity](http://www.earlychristianwritings.com) - [Local](https://prajna.io/echr06/index.html)
 * [Early Jewish](http://www.earlyjewishwritings.com/) - [Local](https://prajna.io/ejew06/site/index.html)
 * [Holy Books](https://www.holybooks.com/)
