@@ -1,11 +1,11 @@
 import os
 import getpass
 
-if getpass.getuser() == 'rengu':
+if getpass.getuser() in [ 'rengu', 'uwsgi' ]:
     RENGUPATH='/srv/rengu'
 
 else:
-    RENGUPATH = os.environ.get("HOME") + '/projects/rengu'
+    RENGUPATH = os.environ.get("HOME",".") + '/projects/rengu'
 
 # Celery Configuration
 broker_url = 'redis://prajna'
