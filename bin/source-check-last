@@ -2,7 +2,7 @@
 
 hafiz() {
   grep -l 8147df67-439b-4909-bfe3-d55b944af666 verses/* |
-    xargs bin/rengu json verse | jq -r .Source.Locus.Daily | sort -k 1M -k 2g | tail -51 | head -1
+    xargs bin/rengu json verse | jq -r .Source.Locus.Daily | sort -k 1M -k 2g
 }
 
 rumi() {
@@ -17,7 +17,7 @@ gandhi() {
 
 rilke() {
   grep -l 631057a1-0221-4885-ba61-78b661b62b70 verses/* |
-    xargs bin/rengu json verse | jq -r .Source.Locus.Daily | sort -k 1M -k 2g | tail -4 | head -1
+    xargs bin/rengu json verse | jq -r .Source.Locus.Daily | sort -k 1M -k 2g
 }
 
 merton() {
