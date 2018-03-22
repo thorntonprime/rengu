@@ -1,0 +1,5 @@
+#!/bin/sh
+
+export FLASK_APP=${RENGUPATH}/wsgi/rengu.py
+flask-3 run
+
