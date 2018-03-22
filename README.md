@@ -1,13 +1,13 @@
 
 ## Processing Sources
-* [Treasury of Spiritual Wisdom](https://prajna.io/57c5499b-c3b2-4b09-92a9-a6e977a32050/#page=340)
+* [Treasury of Spiritual Wisdom](https://prajna.io/o/57c5499b-c3b2-4b09-92a9-a6e977a32050/#page=340)
 * [Daily Scans](https://prajna.io/w)
 * [I Ching](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching)
 
 ## Primary Sources
-* [Sacred Texts Archive](http://www.sacred-texts.com/) - [Local](https://prajna.io/ec2b9ff9-e40d-42f0-abf8-8bbcf9056228)
-* [Early Christianity](http://www.earlychristianwritings.com) - [Local](https://prajna.io/a32a53f6-14aa-4bcd-a7a5-b5d3dfe9eb27)
-* [Early Jewish](http://www.earlyjewishwritings.com/) - [Local](https://prajna.io/ad01b9c1-b462-4198-8644-04e4cb52b3d4)
+* [Sacred Texts Archive](http://www.sacred-texts.com/) - [Local](https://prajna.io/o/ec2b9ff9-e40d-42f0-abf8-8bbcf9056228)
+* [Early Christianity](http://www.earlychristianwritings.com) - [Local](https://prajna.io/o/a32a53f6-14aa-4bcd-a7a5-b5d3dfe9eb27)
+* [Early Jewish](http://www.earlyjewishwritings.com/) - [Local](https://prajna.io/o/ad01b9c1-b462-4198-8644-04e4cb52b3d4)
 * [Holy Books](https://www.holybooks.com/)
 
 ## Other Sources
