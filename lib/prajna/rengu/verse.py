@@ -117,7 +117,7 @@ class Verse(Document):
                         yield s1
 
                 if not_in_db:
-                    yield dict({'pk': 'NO_MATCH', 'Title': s, 'By': "NONE"})
+                    yield dict({'pk': 'NO_MATCH', 'Title': s, 'By': verse_author or None})
 
             elif isinstance(s, list):
                 yield dict({'pk': 'NO_MATCH', 'Title': "SOURCE IS A LIST", 'By': 'ERROR'})
@@ -129,7 +129,7 @@ class Verse(Document):
                     try:
                         s1 = Source.fetch(source_pk)
                     except DoesNotExist:
-                        yield dict({'pk': 'NO_MATCH', 'Title': "ERROR NOT FOUND IN DB", 'By': source_pk})
+                        yield dict({'pk': 'NO_MATCH', 'Title': "ERROR PKID NOT IN DB", 'By': source_pk})
                         return
                     if s1.pk not in found:
                         not_in_db = False
@@ -165,7 +165,10 @@ class Verse(Document):
                 if not_in_db:
                     title = title or None
                     by = by or verse_author or None
-                    yield dict({'pk': 'NO_MATCH', 'Title': title, 'By': by})
+                    if title == None and s.get("URL"):
+                        yield dict({'pk': 'URL', 'Title': s.get("URL"), 'By': by})
+                    else: 
+                        yield dict({'pk': 'NO_MATCH', 'Title': title, 'By': by})
 
             else:
                 yield dict({'pk': 'NO_MATCH', 'Title': "TYPE ERROR", "By": str(type(s))})
