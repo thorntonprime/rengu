@@ -51,6 +51,14 @@ cold-mountain() {
       msort --quiet --line -n 2 -c n -n 3 --number-system roman -c n
 }
 
+watson-chuangtse() {
+
+  grep -l 50ae0a98-5702-40cb-8c11-4c6297aa457a verses/* | \
+      xargs bin/rengu json verse | \
+      jq -r '@text "\(.pk) \(.Locus.Chapter)\t\(.Locus.Paragraph)"' | \
+      msort --quiet --line -n 2 -c n -n 3 -c n
+}
+
 manhae() {
   grep -l e13d8994-eff6-4830-981a-b30658d44b81 verses/* |
     xargs bin/rengu json verse | \
