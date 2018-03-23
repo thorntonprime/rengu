@@ -1,12 +1,12 @@
 ---
-Source:
-  Title: The Complete Works of Chuang Tzu
-  ID: 50ae0a98-5702-40cb-8c11-4c6297aa457a
-  Translator: Burton Watson
 By: Zhuangzi
-Locus:
-  Chapter: 4
-  Paragraph: 8
+Source:
+  ID: 50ae0a98-5702-40cb-8c11-4c6297aa457a
+  Locus:
+    Chapter: 4
+    Paragraph: 8
+  Title: The Complete Works of Chuang Tzu
+  Translator: Burton Watson
 Title: In The World Of Men
 ---
 \"And suppose he is the kind who actually delights in worthy men and
@@ -16,7 +16,7 @@ always lord it over others and fight to win the argument. You will find
 your eyes growing dazed, your color changing, your mouth working to
 invent excuses, your attitude becoming more and more humble, until in
 your mind you end by supporting him. This is to pile fire on fire, to
-add water to water, and is called `increasing the excessive.' If you
+add water to water, and is called 'increasing the excessive.' If you
 give in at the beginning, there is no place to stop. Since your fervent
 advice is almost certain not to be believed, you are bound to die if
 you come into the presence of a tyrant.

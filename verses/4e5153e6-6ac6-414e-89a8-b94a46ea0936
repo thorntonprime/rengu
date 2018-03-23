@@ -1,12 +1,12 @@
 ---
-Source:
-  Title: The Complete Works of Chuang Tzu
-  ID: 50ae0a98-5702-40cb-8c11-4c6297aa457a
-  Translator: Burton Watson
 By: Zhuangzi
-Locus:
-  Chapter: 17
-  Paragraph: 11
+Source:
+  ID: 50ae0a98-5702-40cb-8c11-4c6297aa457a
+  Locus:
+    Chapter: 17
+    Paragraph: 11
+  Title: The Complete Works of Chuang Tzu
+  Translator: Burton Watson
 Title: Autumn Floods
 ---
 \"Therefore the Great Man in his actions will not harm others, but he
@@ -22,6 +22,6 @@ flatter and fawn. All the titles and stipends of the age are not enough
 to stir him to exertion; all its penalties and censures are not enough
 to make him feel shame. He knows that no line can be drawn between
 right and wrong, no border can be fixed between great and small. I have
-heard it said, `The Man of the Way wins no fame, the highest virtue
+heard it said, 'The Man of the Way wins no fame, the highest virtue
 wins no gain, the Great Man has no self.' To the most perfect degree,
 he goes along with what has been allotted to him."

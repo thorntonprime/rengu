@@ -1,12 +1,12 @@
 ---
-Source:
-  Title: The Complete Works of Chuang Tzu
-  ID: 50ae0a98-5702-40cb-8c11-4c6297aa457a
-  Translator: Burton Watson
 By: Zhuangzi
-Locus:
-  Chapter: 4
-  Paragraph: 26
+Source:
+  ID: 50ae0a98-5702-40cb-8c11-4c6297aa457a
+  Locus:
+    Chapter: 4
+    Paragraph: 26
+  Title: The Complete Works of Chuang Tzu
+  Translator: Burton Watson
 Title: In The World Of Men
 ---
 Tzu-kao, duke of She, who was being sent on a mission to Ch'i,
@@ -14,7 +14,7 @@ consulted Confucius. "The king is sending me on a very important
 mission. Ch'i will probably treat me with great honor but will be in no
 hurry to do anything more. Even a commoner cannot be forced to act,
 much less one of the feudal lords. I am very worried about it. You once
-said to me, `In all affairs, whether large or small, there are few men
+said to me, 'In all affairs, whether large or small, there are few men
 who reach a happy conclusion except through the Way. If you do not
 succeed, you are bound to suffer from the judgment of men. If you do
 succeed, you are bound to suffer from the yin and yang. To suffer no

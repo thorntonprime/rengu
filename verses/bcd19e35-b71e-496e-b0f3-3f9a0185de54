@@ -1,12 +1,12 @@
 ---
-Source:
-  Title: The Complete Works of Chuang Tzu
-  ID: 50ae0a98-5702-40cb-8c11-4c6297aa457a
-  Translator: Burton Watson
 By: Zhuangzi
-Locus:
-  Chapter: 4
-  Paragraph: 28
+Source:
+  ID: 50ae0a98-5702-40cb-8c11-4c6297aa457a
+  Locus:
+    Chapter: 4
+    Paragraph: 28
+  Title: The Complete Works of Chuang Tzu
+  Translator: Burton Watson
 Title: In The World Of Men
 ---
 \"I want to tell you something else I have learned. In all human
@@ -21,6 +21,6 @@ are angered, there must be some exaggeration of the bad points.
 Anything that smacks of exaggeration is irresponsible. Where there is
 irresponsibility, no one will trust what is said, and when that
 happens, the man who is transmitting the words will be in danger.
-Therefore the aphorism says, `Transmit the established facts; do not
+Therefore the aphorism says, 'Transmit the established facts; do not
 transmit words of exaggeration.' If you do that, you will probably come
 out all right.
