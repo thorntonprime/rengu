@@ -27,7 +27,13 @@
 ## Data storage and formats
 * [ruamel.yaml](https://bitbucket.org/ruamel/yaml)
 
+## Learning Models / Understanding Tools
+* [AllenNLP](https://github.com/allenai/allennlp)
+* [RasaNLU](https://github.com/RasaHQ/rasa_nlu)
+* [SnipsNLU](https://github.com/snipsco/snips-nlu)
+
 ## Other Stuff
+* [FlashText](https://github.com/vi3k6i5/flashtext)
 * [markovify](https://github.com/jsvine/markovify)
 * [sentance gradients](https://www.robinsloan.com/voyages-in-sentence-space/)
 
