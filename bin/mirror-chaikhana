@@ -1,0 +1,19 @@
+#!/bin/sh
+
+wget --mirror --no-cache \
+  --convert-links --no-clobber --continue --page-requisites \
+  --adjust-extension --default-page=index.html \
+  --limit-rate=20k --wait=1 --random-wait \
+  --no-host-directories --directory-prefix=${RENGUPATH}/origins/50ed5edb-93ab-4fc0-ab0e-c341aa3e69f0/mirror/ \
+  --user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.45 Safari/537.36" \
+  http://www.poetry-chaikhana.com/
+
+(
+  echo "---"
+  yq write ${RENGUPATH}/sources/50ed5edb-93ab-4fc0-ab0e-c341aa3e69f0 \
+      Publications[0].Locus.Date "`date +'%d %B %Y'`"
+  echo "---"
+) > ${RENGUPATH}/sources/50ed5edb-93ab-4fc0-ab0e-c341aa3e69f0.tmp
+mv -f ${RENGUPATH}/sources/50ed5edb-93ab-4fc0-ab0e-c341aa3e69f0.tmp \
+      ${RENGUPATH}/sources/50ed5edb-93ab-4fc0-ab0e-c341aa3e69f0
+

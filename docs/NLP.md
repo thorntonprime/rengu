@@ -17,6 +17,9 @@
 * [Pattern](https://github.com/clips/pattern)
 * [Snips NLU](https://github.com/snipsco/snips-nlu)
 
+## Distance
+* [Orsinium Text Distance](https://github.com/orsinium/textdistance)
+
 ## Classifiers and Modelers
 * [gensim](https://radimrehurek.com/gensim/index.html)
 * [empath](https://github.com/Ejhfast/empath-client)
