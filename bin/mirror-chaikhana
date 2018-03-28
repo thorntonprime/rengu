@@ -6,7 +6,9 @@ wget --mirror --no-cache \
   --limit-rate=20k --wait=5 --random-wait \
   --user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.45 Safari/537.36" \
   --no-host-directories --directory-prefix=${RENGUPATH}/origins/50ed5edb-93ab-4fc0-ab0e-c341aa3e69f0/mirror/ \
+  --no-verbose \
   --output-file=${RENGUPATH}/origins/50ed5edb-93ab-4fc0-ab0e-c341aa3e69f0/mirror.log \
+  --rejected-log=${RENGUPATH}/origins/50ed5edb-93ab-4fc0-ab0e-c341aa3e69f0/mirror-errors.csv \
   http://www.poetry-chaikhana.com/
 
 (
