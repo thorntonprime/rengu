@@ -1,0 +1,75 @@
+#!/bin/env python3
+
+import re
+import textwrap
+from word2number import w2n
+
+TEMPLATE="""---
+Source:
+  Title: Odes to a Classic Hundred Standards
+  Translator: Gregory Winderwheel
+  By: Xuedou Zhongxian
+  ID: 5a0c4642-20c8-46c0-8073-7434833fa6b4
+Locus:
+  Case: {0}
+Title: {1}
+---
+{2}
+"""
+
+def write_body(case, title, body):
+
+    fout = open("tmp/verses/" + case, "w")
+
+    if body[0] in [ '"' ]:
+        body = "\\" + body
+
+    body = body.strip()
+
+    fout.write(TEMPLATE.format( case, title, body))
+    fout.close()
+
+
+####
+
+fin = open("queue/hundred.txt", "r")
+
+case = "1"
+title = None
+body = ""
+
+for l in fin.readlines():
+    x = l.strip()
+
+
+    ignore = re.match("^\s*(\[|Raised).*", x)
+    if ignore:
+        continue
+
+    m_cas = re.match("^\s*(\d+)\.?\s+(.*)$", x)
+
+    if m_cas and len(body.strip()) > 1:
+        write_body( str(case), title, body.strip() )
+        body = ""
+
+    if m_cas:
+        case = str(m_cas.group(1))
+        title = m_cas.group(2).strip()
+        print(case, title)
+
+    elif len(x.strip()) < 1 and len(body.strip()) > 1:
+        if body [-2:] != "\n\n":
+            body += "\n"
+
+    else:
+        fixed_body = x.strip()
+        fixed_body = re.sub("\n\n+", "\n\n", fixed_body)
+        fixed_body = re.sub("\[.*\]", " ", fixed_body)
+        fixed_body = re.sub("\s+", " ", fixed_body)
+        fixed_body = fixed_body.replace(":", "：")
+        fixed_body = re.sub(u"[\u00bf-\uffff]", '', fixed_body)
+        body += textwrap.fill(fixed_body, 75, subsequent_indent=' ') + "\n"
+
+if len(body.strip()) > 1:
+    write_body( case, title, body.strip() )
+
