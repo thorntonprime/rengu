@@ -7,7 +7,7 @@ from word2number import w2n
 TEMPLATE="""---
 Source:
   Title: Odes to a Classic Hundred Standards
-  Translator: Gregory Winderwheel
+  Translator: Gregory Wonderwheel
   By: Xuedou Zhongxian
   ID: 5a0c4642-20c8-46c0-8073-7434833fa6b4
 Locus:
@@ -41,11 +41,6 @@ body = ""
 for l in fin.readlines():
     x = l.strip()
 
-
-    ignore = re.match("^\s*(\[|Raised).*", x)
-    if ignore:
-        continue
-
     m_cas = re.match("^\s*(\d+)\.?\s+(.*)$", x)
 
     if m_cas and len(body.strip()) > 1:
@@ -63,12 +58,13 @@ for l in fin.readlines():
 
     else:
         fixed_body = x.strip()
+        #fixed_body = re.sub(u"[\u00bf-\uffff]", '', fixed_body)
+        fixed_body = re.sub("^\[", '\\[', fixed_body)
         fixed_body = re.sub("\n\n+", "\n\n", fixed_body)
-        fixed_body = re.sub("\[.*\]", " ", fixed_body)
         fixed_body = re.sub("\s+", " ", fixed_body)
+        fixed_body = re.sub("Xuedou's ode says:$", "", fixed_body, flags=re.MULTILINE)
         fixed_body = fixed_body.replace(":", "：")
-        fixed_body = re.sub(u"[\u00bf-\uffff]", '', fixed_body)
-        body += textwrap.fill(fixed_body, 75, subsequent_indent=' ') + "\n"
+        body += textwrap.fill(fixed_body, 75) + "\n"
 
 if len(body.strip()) > 1:
     write_body( case, title, body.strip() )
