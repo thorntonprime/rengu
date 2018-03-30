@@ -1,23 +1,31 @@
 #!/bin/sh
 
-wget --mirror --no-cache \
+# --mirror same as
+# --recursive --level=inf --timestamping --no-remove-listing
+
+UUID=50ed5edb-93ab-4fc0-ab0e-c341aa3e69f0
+
+wget \
+  --recursive --level=inf --timestamping \
+  --no-cache \
   --convert-links --page-requisites \
   --timestamping \
   --adjust-extension --default-page=index.html \
+  --exclude-directories="/blog/wp-json"
   --limit-rate=20k --wait=5 --random-wait \
   --user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.45 Safari/537.36" \
-  --no-host-directories --directory-prefix=${RENGUPATH}/origins/50ed5edb-93ab-4fc0-ab0e-c341aa3e69f0/mirror/ \
+  --no-host-directories --directory-prefix=${RENGUPATH}/origins/${UUID}/mirror/ \
   --no-verbose \
-  --output-file=${RENGUPATH}/origins/50ed5edb-93ab-4fc0-ab0e-c341aa3e69f0/mirror.log \
-  --rejected-log=${RENGUPATH}/origins/50ed5edb-93ab-4fc0-ab0e-c341aa3e69f0/mirror-errors.csv \
+  --output-file=${RENGUPATH}/origins/${UUID}/mirror.log \
+  --rejected-log=${RENGUPATH}/origins/${UUID}/mirror-errors.csv \
   http://www.poetry-chaikhana.com/
 
 (
   echo "---"
-  yq write ${RENGUPATH}/sources/50ed5edb-93ab-4fc0-ab0e-c341aa3e69f0 \
+  yq write ${RENGUPATH}/sources/${UUID} \
       Publications[0].Locus.Date "`date +'%d %B %Y'`"
   echo "---"
-) > ${RENGUPATH}/sources/50ed5edb-93ab-4fc0-ab0e-c341aa3e69f0.tmp
-mv -f ${RENGUPATH}/sources/50ed5edb-93ab-4fc0-ab0e-c341aa3e69f0.tmp \
-      ${RENGUPATH}/sources/50ed5edb-93ab-4fc0-ab0e-c341aa3e69f0
+) > ${RENGUPATH}/sources/${UUID}.tmp
+mv -f ${RENGUPATH}/sources/${UUID}.tmp \
+      ${RENGUPATH}/sources/${UUID}
 
