@@ -11,10 +11,10 @@ wget \
   --convert-links --page-requisites \
   --timestamping \
   --adjust-extension --default-page=index.html \
-  --exclude-directories="/blog/wp-json"
+  --exclude-directories="/blog/wp-json" \
   --limit-rate=20k --wait=5 --random-wait \
   --user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.45 Safari/537.36" \
-  --no-host-directories --directory-prefix=${RENGUPATH}/origins/${UUID}/mirror/ \
+  --no-host-directories --directory-prefix=${RENGUPATH}/origins/${UUID}/ \
   --no-verbose \
   --output-file=${RENGUPATH}/origins/${UUID}/mirror.log \
   --rejected-log=${RENGUPATH}/origins/${UUID}/mirror-errors.csv \
