@@ -1,4 +1,9 @@
 
+## Processing Sources
+* [Treasury of Spiritual Wisdom](https://prajna.io/o/57c5499b-c3b2-4b09-92a9-a6e977a32050/#page=400)
+* [Daily Scans](https://prajna.io/w) / [I Ching](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching)
+* [queue](https://prajna.io/w/queue)
+
 ## Primary Sources
 * [Sacred Texts Archive](http://www.sacred-texts.com/) - [Local](https://prajna.io/o/ec2b9ff9-e40d-42f0-abf8-8bbcf9056228)
 * [Early Christianity](http://www.earlychristianwritings.com) - [Local](https://prajna.io/o/a32a53f6-14aa-4bcd-a7a5-b5d3dfe9eb27)
@@ -26,6 +31,7 @@
 * [Giga Quotes](http://www.giga-usa.com/quotes/)
 
 ## Finished Sources
+* [Original Sources](https://prajna.io/o/)
 * [Treasury](https://prajna.io/o/0b6fda99-cd6d-4ea0-b569-c41fe19dc69b)
 * [Year with Rumi](http://rumidays.blogspot.com/2010/12/)
 * [Year with Hafiz](https://prajna.io/o/8147df67-439b-4909-bfe3-d55b944af666)

@@ -1,9 +1,5 @@
-
-## Processing Sources
-* [Treasury of Spiritual Wisdom](https://prajna.io/o/57c5499b-c3b2-4b09-92a9-a6e977a32050/#page=400)
-* [Daily Scans](https://prajna.io/w)
-* [I Ching](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching)
-* [More Sources](docs/sources.md)
+## Key Project Links
+* [Sources](docs/sources.md)
 
 ## Data Tools
 * [Kaggle - Faith and Traditions](https://www.kaggle.com/tags/faith-and-traditions)
