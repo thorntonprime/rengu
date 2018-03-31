@@ -3,8 +3,8 @@
 # --mirror same as
 # --recursive --level=inf --timestamping --no-remove-listing
 
-UUID=50ed5edb-93ab-4fc0-ab0e-c341aa3e69f0
-URL=http://www.poetry-chaikhana.com/
+UUID=e9e75056-2e53-4ce1-bdbd-8f0ec2cf1d3f
+URL=http://www.sacred-texts.com/
 
 wget \
   --recursive --level=inf --timestamping \
