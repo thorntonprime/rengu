@@ -9,7 +9,7 @@
 * [Ashtravakra Gita](https://prajna.io/o/1d4b987e-a0a1-4a21-a8a5-bfd715b2bcde)
 * [ESV Bible](https://prajna.io/o/270947a9-5578-4f3c-bb66-e0f749941e17)
 * [Tao Calendar](https://prajna.io/o/2b694820-3c91-4eeb-ac3a-0f2af75ba987)
-* [Letters Of Rainer Maria Rilke](https://prajna.io/o/337179c6-ceb3-4e4d-bdbe-b9a228746339)
+* Letters Of Rainer Maria Rilke [Vol I](https://prajna.io/o/337179c6-ceb3-4e4d-bdbe-b9a228746339) [Vol II](https://prajna.io/o/d4a21175-5ff1-4751-8bca-d093b8cf03d8)
 * [The Way Of Chuang Tzu](https://prajna.io/o/7593ef1f-e8a3-4f07-9af6-def46ad4ebc3)
 * [The Hero With A Thousand Faces By Joseph Campbell.](https://prajna.io/o/83108917-880e-450f-8643-3bcf9da2c045)
 
