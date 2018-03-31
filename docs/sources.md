@@ -5,13 +5,13 @@
 * [queue](https://prajna.io/w/queue)
 
 ## Primary Sources
-* [Sacred Texts Archive](http://www.sacred-texts.com/) - [Local](https://prajna.io/o/ec2b9ff9-e40d-42f0-abf8-8bbcf9056228)
-* [Early Christianity](http://www.earlychristianwritings.com) - [Local](https://prajna.io/o/a32a53f6-14aa-4bcd-a7a5-b5d3dfe9eb27)
-* [Early Jewish](http://www.earlyjewishwritings.com/) - [Local](https://prajna.io/o/ad01b9c1-b462-4198-8644-04e4cb52b3d4)
+* [Sacred Texts Archive](http://www.sacred-texts.com/) / [Mirror](https://prajna.io/o/ec2b9ff9-e40d-42f0-abf8-8bbcf9056228) / [DVD 9.0](https://prajna.io/o/ec2b9ff9-e40d-42f0-abf8-8bbcf9056228)
+* [Early Christianity](http://www.earlychristianwritings.com) / [Mirror](https://prajna.io/o/a32a53f6-14aa-4bcd-a7a5-b5d3dfe9eb27)
+* [Early Jewish](http://www.earlyjewishwritings.com/) / [Mirror](https://prajna.io/o/ad01b9c1-b462-4198-8644-04e4cb52b3d4)
 * [Holy Books](https://www.holybooks.com/)
 
 ## Collections of Poetry
-* [Chaikhana](http://www.poetry-chaikhana.com/index.html) - [Local](https://prajna.io/o/50ed5edb-93ab-4fc0-ab0e-c341aa3e69f0/)
+* [Chaikhana](http://www.poetry-chaikhana.com/index.html) - [Mirror](https://prajna.io/o/50ed5edb-93ab-4fc0-ab0e-c341aa3e69f0/)
 * [Poets.org](https://www.poets.org/)
 
 ## Single Author Sources
