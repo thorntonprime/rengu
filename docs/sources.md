@@ -2,7 +2,17 @@
 ## Processing Sources
 * [Treasury of Spiritual Wisdom](https://prajna.io/o/57c5499b-c3b2-4b09-92a9-a6e977a32050/#page=400)
 * [Daily Scans](https://prajna.io/w) / [I Ching](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching)
+
+## Queue
 * [queue](https://prajna.io/w/queue)
+* [Like Water or Clouds](https://prajna.io/o/8cfc87c2-7089-432f-968e-930d355fc036)
+* [Ashtravakra Gita](https://prajna.io/o/1d4b987e-a0a1-4a21-a8a5-bfd715b2bcde)
+* [ESV Bible](https://prajna.io/o/270947a9-5578-4f3c-bb66-e0f749941e17)
+* [Tao Calendar](https://prajna.io/o/2b694820-3c91-4eeb-ac3a-0f2af75ba987)
+* [Letters Of Rainer Maria Rilke](https://prajna.io/o/337179c6-ceb3-4e4d-bdbe-b9a228746339)
+* [The Way Of Chuang Tzu](https://prajna.io/o/7593ef1f-e8a3-4f07-9af6-def46ad4ebc3)
+* [The Hero With A Thousand Faces By Joseph Campbell.](https://prajna.io/o/83108917-880e-450f-8643-3bcf9da2c045)
+
 
 ## Primary Sources
 * [Sacred Texts Archive](http://www.sacred-texts.com/) / [Mirror](https://prajna.io/o/e9e75056-2e53-4ce1-bdbd-8f0ec2cf1d3f) / [DVD 9.0](https://prajna.io/o/ec2b9ff9-e40d-42f0-abf8-8bbcf9056228)
@@ -16,6 +26,7 @@
 
 ## Single Author Sources
 * [Aurobindo](https://www.aurobindo.ru/index_e.htm)
+
 
 ## Other Sources
 * [Rerebess Asia Online - Tao](https://terebess.hu/english/tao/_index.html)
