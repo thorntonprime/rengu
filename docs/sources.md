@@ -1,3 +1,6 @@
+## Source Roots
+* [Original Sources](https://prajna.io/o/)
+* [Working Queue](https://prajna.io/o/)
 
 ## Processing Sources
 * [Treasury of Spiritual Wisdom](https://prajna.io/o/57c5499b-c3b2-4b09-92a9-a6e977a32050/#page=400)
@@ -16,24 +19,19 @@
 * [Ashtravakra Gita](https://prajna.io/o/1d4b987e-a0a1-4a21-a8a5-bfd715b2bcde)
 * [ESV Bible](https://prajna.io/o/270947a9-5578-4f3c-bb66-e0f749941e17)
 * [Tao Calendar](https://prajna.io/o/2b694820-3c91-4eeb-ac3a-0f2af75ba987)
-* [Unprocessed Queue](https://prajna.io/w/queue)
 
-
-* [Original Sources](https://prajna.io/o/)
-
-## Primary Sources
+## Web Sites w/ Mirrors
+* [Chaikhana](http://www.poetry-chaikhana.com/index.html) - [Mirror](https://prajna.io/o/50ed5edb-93ab-4fc0-ab0e-c341aa3e69f0/)
 * [Sacred Texts Archive](http://www.sacred-texts.com/) / [Mirror](https://prajna.io/o/e9e75056-2e53-4ce1-bdbd-8f0ec2cf1d3f) / [DVD 9.0](https://prajna.io/o/ec2b9ff9-e40d-42f0-abf8-8bbcf9056228)
 * [Early Christianity](http://www.earlychristianwritings.com) / [Mirror](https://prajna.io/o/ebd60079-f79e-481f-87aa-18f46fe73565) / [CD 2006](https://prajna.io/o/a32a53f6-14aa-4bcd-a7a5-b5d3dfe9eb27)
 * [Early Jewish](http://www.earlyjewishwritings.com/) / [Mirror](https://prajna.io/o/d30733b5-2c12-4a7b-9684-ec43f17982a6) / [CD 2006](https://prajna.io/o/ad01b9c1-b462-4198-8644-04e4cb52b3d4)
 * [Holy Books](https://www.holybooks.com/)
 
 ## Collections of Poetry
-* [Chaikhana](http://www.poetry-chaikhana.com/index.html) - [Mirror](https://prajna.io/o/50ed5edb-93ab-4fc0-ab0e-c341aa3e69f0/)
 * [Poets.org](https://www.poets.org/)
 
 ## Single Author Sources
 * [Aurobindo](https://www.aurobindo.ru/index_e.htm)
-
 
 ## Other Sources
 * [Rerebess Asia Online - Tao](https://terebess.hu/english/tao/_index.html)
