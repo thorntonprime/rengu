@@ -9,7 +9,7 @@
 ## Partial Process
 * [Year with Thomas Merton](https://prajna.io/o/7911a633-121a-44b9-83f3-746eaeded020)
 * [Man of Many Qualities](https://prajna.io/o/503bbcad-73dd-49e6-96a0-bde44020aeb4)
-* [God in All Worlds](https://prajna.io/o/911a633-121a-44b9-83f3-746eaeded020)
+* [God in All Worlds](https://prajna.io/o/7911a633-121a-44b9-83f3-746eaeded020)
 
 ## Queue
 * [The Way Of Chuang Tzu](https://prajna.io/o/7593ef1f-e8a3-4f07-9af6-def46ad4ebc3)
@@ -32,6 +32,10 @@
 
 ## Single Author Sources
 * [Aurobindo](https://www.aurobindo.ru/index_e.htm)
+
+## Prime Sources
+* [Primes](primes.md)
+
 
 ## Other Sources
 * [Rerebess Asia Online - Tao](https://terebess.hu/english/tao/_index.html)
