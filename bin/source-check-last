@@ -71,6 +71,11 @@ longing() {
     xargs bin/rengu json verse | jq -r '@text "\(.pk) \(.Source.Locus.Page)\t\(.Source.Locus.Loc)\t\(.Title) / \(.By)"' | sort -k 2g
 }
 
+chuangtzu-merton () {
+  grep -l 7593ef1f-e8a3-4f07-9af6-def46ad4ebc3 verses/* |
+    xargs bin/rengu json verse | jq -r '@text "\(.pk) \(.Source.Locus.Page)\t\(.Title)"' | sort -k 2g
+}
+
 giaw() {
   grep -l 93173f7a-2fe5-4239-96a6-da623d8094b1 verses/* | \
     xargs bin/rengu json verse | \
