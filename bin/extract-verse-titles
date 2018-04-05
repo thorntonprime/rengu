@@ -3,5 +3,6 @@
 echo "Extract all titles from sources"
 rengu search verse '{}' |  \
   jq -r .pk | \
-  xargs rengu extract source > ${RENGUPATH}/check/verses-titles.extract
+  xargs rengu extract source | \
+  sort > ${RENGUPATH}/check/verse-titles.extract
 

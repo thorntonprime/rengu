@@ -1,6 +1,6 @@
 #!/bin/sh
 
-grep NO_MATCH check/verses-titles.extract | \
+grep NO_MATCH check/verse-titles.extract | \
   cut -c75- | cut -d/ -f1 | \
   sort | uniq -c | sort -g > check/missing-titles.count
 
