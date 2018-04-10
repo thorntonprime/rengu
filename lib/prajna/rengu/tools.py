@@ -154,7 +154,11 @@ def lookup_wikipedia(article):
 
     page = wptools.page(normalize(article), silent=True, skip=['imageinfo'])
     try:
+        old_stderr = sys.stderr
+        redirected_error = sys.stderr = StringIO()
+
         page.get(timeout=5)
+        
     except LookupError:
         page.data = {'what': "_error lookup_"}
         return page
@@ -164,6 +168,10 @@ def lookup_wikipedia(article):
     except:
         page.data = {'what': "_error other_"}
         return page
+
+    finally:
+        sys.stderr = old_stderr
+
 
     if 'label' not in page.data:
         page.data = {'label': "_error no label_"}
