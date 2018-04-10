@@ -151,6 +151,8 @@ def is_isbn(test):
 
 def lookup_wikipedia(article):
     import wptools
+    import sys
+    from io import StringIO
 
     page = wptools.page(normalize(article), silent=True, skip=['imageinfo'])
     try:
