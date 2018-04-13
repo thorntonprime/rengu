@@ -168,9 +168,9 @@ class Verse(Document):
                     yield dict({'pk': 'URL', 'Title': s.get("URL"), 'By': by})
                     continue
          
-            elif len(found) < 1:
-                yield dict({'pk': 'NO_MATCH', 'Title': title, 'By': by})
-                continue
+                if len(found) < 1:
+                    yield dict({'pk': 'NO_MATCH', 'Title': title, 'By': by})
+                    continue
 
             else:
                 yield dict({'pk': 'ERROR', 'Title': title, 'By': by})
