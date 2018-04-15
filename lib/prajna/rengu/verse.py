@@ -103,17 +103,19 @@ class Verse(Document):
         from prajna.rengu.source import Source
 
         verse_author = self.get("By", "NONE")
-        found = set()
 
         for s in walk("Source", dict(self)):
+
+            found = set()
 
             if isinstance(s, str):
                 for s1 in Source.find(s):
                     if s1.pk not in found:
                         found.add(s1.pk)
                         yield s1
-                        continue
 
+         
+                if len(found) < 1:
                     yield dict({'pk': 'NO_MATCH', 'Title': s, 'By': verse_author or None})
                     continue
 
