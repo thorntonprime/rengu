@@ -67,22 +67,25 @@ if __name__ == '__main__':
         # from pprint import pprint
         # pprint(data)
 
-        try:
-            os.mkdir("tmp/sources/")
-        except:
-            pass
+        if label:
+            try:
+                os.mkdir("tmp/sources/")
+            except:
+                pass
 
-        f = open('tmp/sources/' + uid, 'w')
+            f = open('tmp/sources/' + uid, 'w')
 
-        f.write("---\n")
-        f.write(
-            yaml.dump(
-                data,
-                Dumper=YamlDumper,
-                default_flow_style=False, allow_unicode=True,
-                width=70,
-                indent=2).strip())
-        f.write("\n---\n")
-        f.close()
+            f.write("---\n")
+            f.write(
+                yaml.dump(
+                    data,
+                    Dumper=YamlDumper,
+                    default_flow_style=False, allow_unicode=True,
+                    width=70,
+                    indent=2).strip())
+            f.write("\n---\n")
+            f.close()
+
+            print("FOUND")
 
     print()

@@ -4,11 +4,14 @@ Source:
   Locus:
     Page: 28
   Source:
-    Title:
-      - Rerum Novarum
-      - The Sun of Justice
-    Copyright: 1938
-    By: Harold Robbins
+    Title: Rerum Novarum
+    Source:
+      Title: The Sun of Justice
+      Copyright: 1938
+      By: Harold Robbins
+      Publisher: London
+      Locus:
+        Page: 26
 By: Pope Leo XIII
 Tags:
   - Creation=The Process of Manifestation
