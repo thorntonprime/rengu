@@ -26,6 +26,7 @@
 * [Early Christianity](http://www.earlychristianwritings.com) / [Mirror](https://prajna.io/o/ebd60079-f79e-481f-87aa-18f46fe73565) / [CD 2006](https://prajna.io/o/a32a53f6-14aa-4bcd-a7a5-b5d3dfe9eb27)
 * [Early Jewish](http://www.earlyjewishwritings.com/) / [Mirror](https://prajna.io/o/d30733b5-2c12-4a7b-9684-ec43f17982a6) / [CD 2006](https://prajna.io/o/ad01b9c1-b462-4198-8644-04e4cb52b3d4)
 * [Holy Books](https://www.holybooks.com/)
+* [Nothingistic Library](http://nothingistic.org/library/) / [Mirror](https://prajna.io/o/3bf93e7c-cbf4-49bc-96c9-b4f0519975b1/) 
 
 ## Collections of Poetry
 * [Poets.org](https://www.poets.org/)
