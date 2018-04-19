@@ -1,0 +1,40 @@
+#!/bin/env python3
+
+import re
+import textwrap
+
+TEMPLATE="""---
+By: Thich Nhat Hanh
+Source:
+  ID: 60b74ef9-9444-4a55-ba1d-3e457c57b7c1
+  Locus:
+    Gatha: {0}
+Title: {1}
+---
+{2}
+"""
+
+
+def write_body(gatha, title, body):
+
+    fout = open("tmp/verses/" + str(gatha), "w")
+    fout.write(TEMPLATE.format( str(gatha), title, wrap_body(body)))
+    fout.close()
+
+
+def wrap_body(body):
+    fixed_body = body.replace(":", "：")
+    fixed_body = fixed_body.replace("–", " --")
+    fixed_body = textwrap.fill(fixed_body, 75)
+    fixed_body = fixed_body.strip()
+    return fixed_body
+
+fin = open("tmp/gathas.txt", "r")
+body = None
+title = None
+gatha = 1
+
+for l in fin.readlines():
+    title,body = [ x.strip() for x in str(l).split('/') ]
+    write_body(gatha, title, body)
+    gatha += 1
