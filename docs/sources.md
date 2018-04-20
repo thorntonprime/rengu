@@ -25,7 +25,7 @@
 * [Sacred Texts Archive](http://www.sacred-texts.com/) / [Mirror](https://prajna.io/o/e9e75056-2e53-4ce1-bdbd-8f0ec2cf1d3f) / [DVD 9.0](https://prajna.io/o/ec2b9ff9-e40d-42f0-abf8-8bbcf9056228)
 * [Early Christianity](http://www.earlychristianwritings.com) / [Mirror](https://prajna.io/o/ebd60079-f79e-481f-87aa-18f46fe73565) / [CD 2006](https://prajna.io/o/a32a53f6-14aa-4bcd-a7a5-b5d3dfe9eb27)
 * [Early Jewish](http://www.earlyjewishwritings.com/) / [Mirror](https://prajna.io/o/d30733b5-2c12-4a7b-9684-ec43f17982a6) / [CD 2006](https://prajna.io/o/ad01b9c1-b462-4198-8644-04e4cb52b3d4)
-* [PoetSeers](https://www.poetseers.org/about/index.html) / [Mirror](https://prajna.io/o/50ed5edb-93ab-4fc0-ab0e-c341aa3e69f0/)
+* [PoetSeers](https://www.poetseers.org/about/index.html) / [Mirror](https://prajna.io/o/96b3b20a-b146-43b2-9747-1ddf1b7b3b4a/)
 * [Holy Books](https://www.holybooks.com/)
 * [Nothingistic Library](http://nothingistic.org/library/) / [Mirror](https://prajna.io/o/3bf93e7c-cbf4-49bc-96c9-b4f0519975b1/) 
 
