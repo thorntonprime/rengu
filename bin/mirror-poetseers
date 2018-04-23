@@ -4,10 +4,11 @@
 # --recursive --level=inf --timestamping --no-remove-listing
 
 UUID=96b3b20a-b146-43b2-9747-1ddf1b7b3b4a
-URL=https://www.poetseers.org/
+URL=http://www.poetseers.org/
 
 wget \
   --recursive --level=inf --timestamping \
+  --domains=poetseers.org \
   --no-cache \
   --convert-links --page-requisites \
   --timestamping \
