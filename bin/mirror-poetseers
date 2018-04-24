@@ -22,12 +22,10 @@ wget \
   --rejected-log=${RENGUPATH}/origins/${UUID}/mirror-errors.csv \
   ${URL}
 
-(
-  echo "---"
-  yq write ${RENGUPATH}/sources/${UUID} \
-      Publications[0].Locus.Date "`date +'%d %B %Y'`"
-  echo "---"
-) > ${RENGUPATH}/sources/${UUID}.tmp
+yq write ${RENGUPATH}/sources/${UUID} \
+    Publications[0].Locus.Date "`date +'%d %B %Y'`" | \
+    rengu yaml source /dev/fd/0 | grep -v '^pk:' > ${RENGUPATH}/sources/${UUID}.tmp
+
 mv -f ${RENGUPATH}/sources/${UUID}.tmp \
       ${RENGUPATH}/sources/${UUID}
 
