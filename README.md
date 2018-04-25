@@ -1,5 +1,6 @@
 ## Key Project Links
 * [Sources](docs/sources.md)
+* [Media](docs/media.md)
 
 ## Data Tools
 * [Kaggle - Faith and Traditions](https://www.kaggle.com/tags/faith-and-traditions)
