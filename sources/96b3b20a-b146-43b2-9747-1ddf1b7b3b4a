@@ -1,13 +1,13 @@
 ---
-Title: Poet Seers
+AlternateTitles:
+  - www.poetseers.org
 Publications:
-  - URL: https://www.poetseers.org/
-    Publisher: Sri Shinmoy Center
-    Editor:
+  - Editor:
       - Abichal Watkins
       - Tejvan Pettinger
     Locus:
-      Date: 21 April 2018
-AlternateTitles:
-  - www.poetseers.org
+      Date: 25 April 2018
+    Publisher: Sri Shinmoy Center
+    URL: https://www.poetseers.org/
+Title: Poet Seers
 ---

@@ -1,0 +1,6 @@
+#!/bin/sh
+
+grep '^UUID' bin/mirror-* | cut -d= -f2 | sed 's@^@sources/@' | \
+  xargs rengu json source | \
+  jq -r '@text "\(.pk)\t\(.Publications[0].Locus.Date)\t\(.Title)"'
+
