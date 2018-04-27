@@ -2015,6 +2015,8 @@
 18a01046-d2dd-4e5c-9166-54790c8ae93b By           5e298201-5932-4881-a716-510fbc1b4a73 Plotinus
 18a3e6b2-dd8c-4f5b-91f2-3bb0506d9ed8 By           dc61a380-4612-4169-b4cc-7987037c42f2 Jeremy Taylor
 18a578bd-7d1e-4eab-8c84-b915d3f4fa3d By           da184f92-f119-42ee-8e45-06ab31cd9624 Thomas Merton
+18a64ccb-d424-4015-b58d-9d1115b8e2e1 By           NO_MATCH                             Morton J. Cronin
+18a64ccb-d424-4015-b58d-9d1115b8e2e1 By           1aa04209-6053-4474-8382-a71ab4357b4d Ralph Siu
 18a6616f-cd1f-4c85-996d-004f027e3143 By           NO_MATCH                             Ch'i-Chi
 18a66370-c3da-433f-8475-28dc04e89619 By           009f3bf2-bc51-45c2-a2c2-963bcf3083a3 Saint Bernard
 18a859a9-f50d-4378-b4c3-06179e6e6f1a By           4de44b73-d163-416c-9eed-b85ef8d42c70 Rainer Maria Rilke
@@ -9622,6 +9624,7 @@
 76b8c6a6-98be-4d98-8dbf-e95fcf2a7ca8 By           6e692c9a-52ef-49c0-a8c5-4ab5e733a7cd Hafez
 76bbe43b-1c1a-40a9-aed0-7070631384f5 By           c4049c7f-3760-4f17-8af8-802151533b4d John Chrysostom
 76c11a1d-2593-481b-93f0-90fee97c1a15 By           NO_MATCH                             Gautam Nadkarni
+76c752c2-5866-4f32-acd8-22ba5f58d137 By           da184f92-f119-42ee-8e45-06ab31cd9624 Thomas Merton
 76d14b5e-2286-493d-9a74-ea28d36459cb By           ae89735b-2e51-4bb1-b2a2-10b051cfb790 Mechthild of Magdeburg
 76d26a09-1250-41fa-a0a3-b3947c31690e By           051a5711-f312-43d9-90aa-fb2cbb52bed3 Annamalai Swami
 76d47733-0d65-4e42-be74-5abbdf48d03e By           24dc4412-7491-4062-a9fc-574ef36c3efd Thich Nhat Hanh
@@ -14361,6 +14364,7 @@ af77eb58-f79f-4e5a-a3b4-157d647b1687 By           4de44b73-d163-416c-9eed-b85ef8
 af79e8fb-3588-4306-b93d-4b0b76010d52 By           a9b17b0f-552e-492e-b71a-e2b073f4341a Swami Paramananda
 af7d9b6f-d454-4004-b820-5649d5b77804 By           e92fad99-6914-41c2-a93c-e82b28742356 Heraclitus
 af80c477-471c-495d-bb99-a4e6589e61ab By           NO_MATCH                             Karen Homey
+af84caa3-e15e-4a9a-a2b2-78f32d247a2c By           1aa04209-6053-4474-8382-a71ab4357b4d Ralph Siu
 af84d65d-0216-4f3a-aaba-22aa2252ad99 By           c6d47d7b-579d-4d33-834f-f5ee0ac54822 Meister Eckhart
 af85a6e6-cfb2-4c59-b736-64ed9df12980 By           9841c802-869a-400b-9bcc-2a232586f109 Georg Christoph Lichtenberg
 af865f4a-d538-4b2b-afb9-5277a3e364fb By           c6d47d7b-579d-4d33-834f-f5ee0ac54822 Meister Eckhart
@@ -18729,6 +18733,8 @@ e5948bc6-4006-4300-864b-6078dcb341dd By           eaa1c488-9b8a-4656-893e-0737a6
 e59fa24f-6c26-4ab0-8afe-226dcbba9a87 By           NO_MATCH                             Robert Freeman
 e5a15bd9-9df2-4bde-9d1b-dc6c926a446e By           2e9f6ed5-0e2c-4cc3-9c18-58d0c8e5be5b Avicenna
 e5a56bcf-caf6-4cbe-a32d-a7e27079f0ac By           NO_MATCH                             Leland F. Wood
+e5a71c7b-f8b4-4668-a78e-5503e9de94bb By           7f8315da-d754-45f7-8956-e2173a0e3b64 Gregory of Nazianzus
+e5a71c7b-f8b4-4668-a78e-5503e9de94bb By           1aa04209-6053-4474-8382-a71ab4357b4d Ralph Siu
 e5ade541-f033-4b0a-bb69-7e4b0d2cfcdf By           a3d7c651-d3d0-445e-9ad8-a56c794cec73 Ibn Arabi
 e5ae7e80-af3d-4c0e-8767-eb289015c7a7 By           7660dee5-98f7-4b07-bd33-0d1a681aba7b Swami Ramdas
 e5b08a2b-ff44-4b69-a625-bf1b1ec44ffc By           23c6c350-fb62-43c9-a01b-4542d523d992 Anonymous
@@ -19614,6 +19620,7 @@ ef907ca5-2747-48bf-a052-9429deebf828 By           c6d47d7b-579d-4d33-834f-f5ee0a
 ef920c46-0849-4442-a9e4-1ae5c5122886 By           e1bff67c-def5-4fcb-962f-66b009a0e79d Charles Buxton
 ef9e57db-1edf-4673-8261-f3bc4377b121 By           bf314865-ec10-413c-b85d-c614bf4bcdb6 Sathya Sai Baba
 efa06996-d5a8-4384-92c4-139a4f36e5f0 By           22fcce4e-14ab-4aca-8b85-76040b60a193 Seneca the Younger
+efa5761b-5387-4e22-8c89-715ec3673b37 By           ca6fb155-39ae-4d53-8782-cbd6dc5ae0b3 Mahatma Gandhi
 efa7d359-fd08-4db4-81c4-b6866d586729 By           8aaf4723-a856-4842-906b-8b0a3bf5180d Anandamayi Ma
 efa84a97-59c6-4c40-9ac4-64242402bb8f By           2e49301b-75eb-41a0-9dcd-66bfd40e6fca Elinor MacDonald
 efae924c-d76b-4cb3-a1b7-f655acfc70f9 By           975fe9de-b52c-4b48-9379-5ff0c304b14a Laozi
