@@ -1,4 +1,13 @@
 baseURL = "https://prajna.io"
 languageCode = "en-us"
 title = "PrajnaIO"
-theme = "ananke"
+theme = "airspace"
+
+[params.posts]
+    foldername = "post"
+    pagesize = "6"
+    featuredpost = "true"
+
+[languages]
+[languages.en]
+  languageName = "English"

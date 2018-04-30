@@ -4,3 +4,9 @@
 [submodule "www/themes/dimension"]
 	path = www/themes/dimension
 	url = https://github.com/sethmacleod/dimension.git
+[submodule "www/themes/massively"]
+	path = www/themes/massively
+	url = https://github.com/curttimson/hugo-theme-massively
+[submodule "www/themes/airspace"]
+	path = www/themes/airspace
+	url = https://github.com/karju-dev/airspace-hugo
