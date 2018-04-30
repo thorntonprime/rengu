@@ -10,6 +10,7 @@
 * [Man of Many Qualities](https://prajna.io/o/503bbcad-73dd-49e6-96a0-bde44020aeb4)
 * [God in All Worlds](https://prajna.io/o/7911a633-121a-44b9-83f3-746eaeded020)
 * [The Way Of Chuang Tzu](https://prajna.io/o/7593ef1f-e8a3-4f07-9af6-def46ad4ebc3)
+* [Zen Art Box](https://prajna.io/o/b4e88958-dacd-4687-919f-5e468604946d)
 
 ## Queue
 * [Like Water or Clouds](https://prajna.io/o/8cfc87c2-7089-432f-968e-930d355fc036)
@@ -42,7 +43,6 @@
 * [Rerebess Asia Online - Tao](https://terebess.hu/english/tao/_index.html)
 * [Wikiquote](https://en.wikiquote.org/)
 * [Christian Classics Ethereal Library](http://www.ccel.org/)
-* [Poetry Chaikhana](http://www.poetry-chaikhana.com/index.html)
 * [Chinese Texts](http://ctext.org/)
 * [Divine Comedy](https://en.wikisource.org/wiki/The_Divine_Comedy)
 * [LDYSinger](http://www.ldysinger.com/@texts/00a_start.htm)
@@ -50,6 +50,8 @@
 * [Buddhist Information](http://www.buddhistinformation.com/)
 * [List of Other Sources](https://www.techsupportalert.com/free-books-religion)
 * [Giga Quotes](http://www.giga-usa.com/quotes/)
+* [My Poetic Side](https://mypoeticside.com/)
+* [The Art of Ancient Wisdom][http://www.theartofancientwisdom.com/]
 
 ## Finished Sources
 * [Treasury of Traditional Wisdom](https://prajna.io/o/0b6fda99-cd6d-4ea0-b569-c41fe19dc69b)

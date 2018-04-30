@@ -1,4 +1,3 @@
----
 By: Mohandas Gandhi
 Source:
   ID: fecb2e42-2ce9-437f-ba19-23e49fc5e90c
@@ -7,14 +6,28 @@ Source:
     Daily:
   Source:
 ---
+YI
+    Title: Young India
+    Editor: M. K. Gandhi
+    Locus:
+      Date:
+---
+H
+    Title: Harijan
+    Editor: Mohandas Gandhi
+    Locus:
+      Date:
+---
 BG
     Title: The Bombay Chronicle
+    Locus:
+      Date:
 ---
 DD
     Title: Delhi Diary
     By: M. K. Gandhi
     Publisher: Navajivan Publishing House
-    Copyright: 1948.
+    Copyright: 1948
 ---
 EF
     Title: The Epic Fast
@@ -33,10 +46,6 @@ GIV
     Editor: Mahadev Desai
     Publisher: S. Ganesan
     Copyright: 1927
----
-H
-    Title: Harijan
-    Editor: Mohandas Gandhi
 ---
 HS
     Title: Hind Swaraj
@@ -84,13 +93,9 @@ WGC
     Publisher: S. Ganesan, Madras
     Copyright: 1928
 ---
-YI
-    Title: Young India
-    Editor: M. K. Gandhi
----
 YM
     Title: From Yeravda Mandir
     By: M. K. Gandhi
     Publisher: Navajivan Press, Ahmedabad
     Copyright: 1935
-
+---
