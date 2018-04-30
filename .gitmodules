@@ -1,3 +1,6 @@
 [submodule "www/themes/ananke"]
 	path = www/themes/ananke
 	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "www/themes/dimension"]
+	path = www/themes/dimension
+	url = https://github.com/sethmacleod/dimension.git

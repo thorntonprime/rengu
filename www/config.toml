@@ -1,4 +1,4 @@
 baseURL = "https://prajna.io"
 languageCode = "en-us"
 title = "PrajnaIO"
-theme = "ananke"
+theme = "dimension"
