@@ -8,7 +8,7 @@
 ## Partial Process
 * [Year with Thomas Merton](https://prajna.io/o/7911a633-121a-44b9-83f3-746eaeded020)
 * [Man of Many Qualities](https://prajna.io/o/503bbcad-73dd-49e6-96a0-bde44020aeb4)
-* [God in All Worlds](https://prajna.io/o/7911a633-121a-44b9-83f3-746eaeded020)
+* [God in All Worlds](https://prajna.io/o/96b3b20a-b146-43b2-9747-1ddf1b7b3b4a)
 * [The Way Of Chuang Tzu](https://prajna.io/o/7593ef1f-e8a3-4f07-9af6-def46ad4ebc3)
 * [Zen Art Box](https://prajna.io/o/b4e88958-dacd-4687-919f-5e468604946d)
 
