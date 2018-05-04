@@ -14,7 +14,7 @@
 
 ## Queue
 * [Like Water or Clouds](https://prajna.io/o/8cfc87c2-7089-432f-968e-930d355fc036)
-* [The Hundred Eight Names of the Great Tara](https://prajna.io/68ed788a-4d1d-4cef-89d4-6650eae8e935)
+* [The Hundred Eight Names of the Great Tara](https://prajna.io/o/68ed788a-4d1d-4cef-89d4-6650eae8e935)
 * Letters Of Rainer Maria Rilke [Vol I](https://prajna.io/o/337179c6-ceb3-4e4d-bdbe-b9a228746339) [Vol II](https://prajna.io/o/d4a21175-5ff1-4751-8bca-d093b8cf03d8)
 * [The Hero With A Thousand Faces By Joseph Campbell.](https://prajna.io/o/83108917-880e-450f-8643-3bcf9da2c045)
 * [Ashtravakra Gita](https://prajna.io/o/1d4b987e-a0a1-4a21-a8a5-bfd715b2bcde)
