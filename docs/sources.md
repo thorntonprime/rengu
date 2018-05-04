@@ -52,9 +52,10 @@
 * [Giga Quotes](http://www.giga-usa.com/quotes/)
 * [My Poetic Side](https://mypoeticside.com/)
 * [The Art of Ancient Wisdom][http://www.theartofancientwisdom.com/]
+* [FPMT FOundation Store](https://shop.fpmt.org/)
 
 ## Finished Sources
-* [Treasury of Traditional Wisdom](https://prajna.io/o/0b6fda99-cd6d-4ea0-b569-c41fe19dc69b)
+* [Treasury of Traditional Wisdom](https://prajna.io/o/20c3721c-2af4-449e-a9c0-9791ceb9b9ae)
 * [Treasury of Spiritual Wisdom](https://prajna.io/o/57c5499b-c3b2-4b09-92a9-a6e977a32050)
 * [Year with Rumi](http://rumidays.blogspot.com/2010/12/)
 * [Year with Hafiz](https://prajna.io/o/8147df67-439b-4909-bfe3-d55b944af666)
