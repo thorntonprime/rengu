@@ -20,6 +20,7 @@
 * [Ashtravakra Gita](https://prajna.io/o/1d4b987e-a0a1-4a21-a8a5-bfd715b2bcde)
 * [ESV Bible](https://prajna.io/o/270947a9-5578-4f3c-bb66-e0f749941e17)
 * [Tao Calendar](https://prajna.io/o/2b694820-3c91-4eeb-ac3a-0f2af75ba987)
+* [The Testament of Our Lord](https://prajna.io/o/b8d601c2-5a61-456c-a8b2-6b9967300fcc)
 
 ## Web Sites w/ Mirrors
 * [Chaikhana](http://www.poetry-chaikhana.com/index.html) - [Mirror](https://prajna.io/o/50ed5edb-93ab-4fc0-ab0e-c341aa3e69f0/)

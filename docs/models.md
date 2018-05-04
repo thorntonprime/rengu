@@ -11,6 +11,7 @@ SeeAlso: []
 Source: {}
 Tags: [str]
 Title: str
+Media: [str]
 ```
 
 ### People
