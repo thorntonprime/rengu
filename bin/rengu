@@ -18,17 +18,18 @@ def rengu_script(args):
 
 if __name__ == '__main__':
 
-    if len(sys.argv) > 1:
+    try:
+        if len(sys.argv) > 1:
 
-        if rengu_script(sys.argv[1:]):
-            sys.exit(0)
+            if rengu_script(sys.argv[1:]):
+                sys.exit(0)
+            else:
+                sys.exit(RenguCmd().onecmd(' '.join(sys.argv[1:])))
+
         else:
-            sys.exit(RenguCmd().onecmd(' '.join(sys.argv[1:])))
-
-    else:
-        try:
             sys.exit(RenguCmd().cmdloop())
             
-        except KeyboardInterrupt:
-            print('\nexit')
-            sys.exit(0)
+    except KeyboardInterrupt:
+        print('\nexit')
+        sys.exit(0)
+
