@@ -58,7 +58,7 @@
 ## Finished Sources with Origins
 * [Treasury of Traditional Wisdom](https://prajna.io/o/20c3721c-2af4-449e-a9c0-9791ceb9b9ae)
 * [Treasury of Spiritual Wisdom](https://prajna.io/o/57c5499b-c3b2-4b09-92a9-a6e977a32050)
-* [Cloud of Unknowing](https://prajna.io/origins/937adfe1-da1a-4496-82c5-8061167c097c)
+* [Cloud of Unknowing](https://prajna.io/o/937adfe1-da1a-4496-82c5-8061167c097c)
 * [Year with Hafiz](https://prajna.io/o/8147df67-439b-4909-bfe3-d55b944af666)
 
 ## Finished Sources / No Origins
