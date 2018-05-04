@@ -14,6 +14,7 @@
 
 ## Queue
 * [Like Water or Clouds](https://prajna.io/o/8cfc87c2-7089-432f-968e-930d355fc036)
+* [The Hundred Eight Names of the Great Tara](https://prajna.io/68ed788a-4d1d-4cef-89d4-6650eae8e935)
 * Letters Of Rainer Maria Rilke [Vol I](https://prajna.io/o/337179c6-ceb3-4e4d-bdbe-b9a228746339) [Vol II](https://prajna.io/o/d4a21175-5ff1-4751-8bca-d093b8cf03d8)
 * [The Hero With A Thousand Faces By Joseph Campbell.](https://prajna.io/o/83108917-880e-450f-8643-3bcf9da2c045)
 * [Ashtravakra Gita](https://prajna.io/o/1d4b987e-a0a1-4a21-a8a5-bfd715b2bcde)
@@ -51,14 +52,16 @@
 * [List of Other Sources](https://www.techsupportalert.com/free-books-religion)
 * [Giga Quotes](http://www.giga-usa.com/quotes/)
 * [My Poetic Side](https://mypoeticside.com/)
-* [The Art of Ancient Wisdom][http://www.theartofancientwisdom.com/]
+* [The Art of Ancient Wisdom](http://www.theartofancientwisdom.com/)
 * [FPMT FOundation Store](https://shop.fpmt.org/)
 
-## Finished Sources
+## Finished Sources with Origins
 * [Treasury of Traditional Wisdom](https://prajna.io/o/20c3721c-2af4-449e-a9c0-9791ceb9b9ae)
 * [Treasury of Spiritual Wisdom](https://prajna.io/o/57c5499b-c3b2-4b09-92a9-a6e977a32050)
-* [Year with Rumi](http://rumidays.blogspot.com/2010/12/)
+* [Cloud of Unknowing](https://prajna.io/origins/937adfe1-da1a-4496-82c5-8061167c097c)
 * [Year with Hafiz](https://prajna.io/o/8147df67-439b-4909-bfe3-d55b944af666)
+
+## Finished Sources / No Origins
+* [Year with Rumi](http://rumidays.blogspot.com/2010/12/)
 * [YwRilke](http://yearwithrilke.blogspot.com/2011/01/)
-* [Cloud of Unknowing](http://www.ccel.org/ccel/anonymous2/cloud.pdf)
 
