@@ -1,43 +1,43 @@
 #!/bin/bash
 
 hafiz() {
-  grep -l 8147df67-439b-4909-bfe3-d55b944af666 verses/* |
-    xargs bin/rengu json verse | jq -r .Source.Locus.Daily | sort -k 1M -k 2g
+  grep -l 8147df67-439b-4909-bfe3-d55b944af666 ${RENGUPATH}/verses/* |
+    xargs rengu json verse | jq -r .Source.Locus.Daily | sort -k 1M -k 2g
 }
 
 rumi() {
-  grep -l 0a254615-569b-4fb3-96ef-69bd8a224d0d verses/* |
-    xargs bin/rengu json verse | jq -r '@text "\(.pk)\t \(.Source.Locus.Daily)"' | sort -k 2M -k3g
+  grep -l 0a254615-569b-4fb3-96ef-69bd8a224d0d ${RENGUPATH}/verses/* |
+    xargs rengu json verse | jq -r '@text "\(.pk)\t \(.Source.Locus.Daily)"' | sort -k 2M -k3g
 }
 
 gandhi() {
-  grep -l fecb2e42-2ce9-437f-ba19-23e49fc5e90c verses/* |
-    xargs bin/rengu json verse | jq -r '@text "\(.pk)\t \(.Source.Locus.Daily)"' | sort -k 2M -k3g
+  grep -l fecb2e42-2ce9-437f-ba19-23e49fc5e90c ${RENGUPATH}/verses/* |
+    xargs rengu json verse | jq -r '@text "\(.pk)\t \(.Source.Locus.Daily)"' | sort -k 2M -k3g
 }
 
 rilke() {
-  grep -l 631057a1-0221-4885-ba61-78b661b62b70 verses/* |
-    xargs bin/rengu json verse | jq -r .Source.Locus.Daily | sort -k 1M -k 2g
+  grep -l 631057a1-0221-4885-ba61-78b661b62b70 ${RENGUPATH}/verses/* |
+    xargs rengu json verse | jq -r .Source.Locus.Daily | sort -k 1M -k 2g
 }
 
 merton() {
-  grep -l da184f92-f119-42ee-8e45-06ab31cd9624 verses/* |
-    xargs bin/rengu json verse | \
+  grep -l da184f92-f119-42ee-8e45-06ab31cd9624 ${RENGUPATH}/verses/* |
+    xargs rengu json verse | \
     jq -r .Source.Locus.Daily 2>/dev/null | \
     sort -k 1M -k 2g
 }
 
 cloud() {
-  grep -l 937adfe1-da1a-4496-82c5-8061167c097c verses/* |
-    xargs bin/rengu json verse | jq -r '.Source.Locus.Chapter' | \
+  grep -l 937adfe1-da1a-4496-82c5-8061167c097c ${RENGUPATH}/verses/* |
+    xargs rengu json verse | jq -r '.Source.Locus.Chapter' | \
     grep -v null | \
     msort --line --position 1 --comparison-type numeric --number-system roman --quiet --suppress-log
 }
 
 iching-siu() {
 
-  grep -l 503bbcad-73dd-49e6-96a0-bde44020aeb4 verses/* | \
-    xargs bin/rengu json verse | \
+  grep -l 503bbcad-73dd-49e6-96a0-bde44020aeb4 ${RENGUPATH}/verses/* | \
+    xargs rengu json verse | \
     jq -r '@text "\(.pk) \(.Source.Locus.Hexagram)\t\(if .Source.Locus.Line then .Source.Locus.Line else .Source.Locus.Description end) \(if .Title? then " " else "*" end)"' | \
     grep -v null | sort -t $'\t' -k1.39 -g -k2
 
@@ -45,58 +45,58 @@ iching-siu() {
 
 cold-mountain() {
 
-  grep -l 1ea75c7b-679c-4c20-bf1a-1ea2b09be427 verses/* | \
-      xargs bin/rengu json verse | \
+  grep -l 1ea75c7b-679c-4c20-bf1a-1ea2b09be427 ${RENGUPATH}/verses/* | \
+      xargs rengu json verse | \
       jq -r '@text "\(.pk) \(.Source.Locus.Page)\t\(.Source.Locus.Number)"' | \
       msort --quiet --line -n 2 -c n -n 3 --number-system roman -c n
 }
 
 watson-chuangtse() {
 
-  grep -l 50ae0a98-5702-40cb-8c11-4c6297aa457a verses/* | \
-      xargs bin/rengu json verse | \
+  grep -l 50ae0a98-5702-40cb-8c11-4c6297aa457a ${RENGUPATH}/verses/* | \
+      xargs rengu json verse | \
       jq -r '@text "\(.pk) \(.Locus.Chapter)\t\(.Locus.Paragraph)"' | \
       msort --quiet --line -n 2 -c n -n 3 -c n
 }
 
 manhae() {
-  grep -l e13d8994-eff6-4830-981a-b30658d44b81 verses/* |
-    xargs bin/rengu json verse | \
+  grep -l e13d8994-eff6-4830-981a-b30658d44b81 ${RENGUPATH}/verses/* |
+    xargs rengu json verse | \
     jq -r '.pk + " " + (.Source.Locus.Number | tostring) + " " + (.Source.Locus.Page | tostring)' | \
     sort -k 2g -k 3g
 }
 
 longing() {
-  grep -l 82a0aaf9-3f47-4e8c-9075-b14ae205f2a5 verses/* |
-    xargs bin/rengu json verse | jq -r '@text "\(.pk) \(.Source.Locus.Page)\t\(.Source.Locus.Loc)\t\(.Title) / \(.By)"' | sort -k 2g
+  grep -l 82a0aaf9-3f47-4e8c-9075-b14ae205f2a5 ${RENGUPATH}/verses/* |
+    xargs rengu json verse | jq -r '@text "\(.pk) \(.Source.Locus.Page)\t\(.Source.Locus.Loc)\t\(.Title) / \(.By)"' | sort -k 2g
 }
 
 chuangtzu-merton () {
-  grep -l 7593ef1f-e8a3-4f07-9af6-def46ad4ebc3 verses/* |
-    xargs bin/rengu json verse | jq -r '@text "\(.pk) \(.Source.Locus.Page)\t\(.Title)"' | sort -k 2g
+  grep -l 7593ef1f-e8a3-4f07-9af6-def46ad4ebc3 ${RENGUPATH}/verses/* |
+    xargs rengu json verse | jq -r '@text "\(.pk) \(.Source.Locus.Page)\t\(.Title)"' | sort -k 2g
 }
 
 giaw() {
-  grep -l 93173f7a-2fe5-4239-96a6-da623d8094b1 verses/* | \
-    xargs bin/rengu json verse | \
+  grep -l 93173f7a-2fe5-4239-96a6-da623d8094b1 ${RENGUPATH}/verses/* | \
+    xargs rengu json verse | \
     jq -r '@text "\(.pk) \(.Source.Locus.Page)\t\(.By)"' | sort -k 2g
 }
 
 tosw() {
-  grep -l 57c5499b-c3b2-4b09-92a9-a6e977a32050 verses/* | \
-    xargs bin/rengu json verse | \
+  grep -l 57c5499b-c3b2-4b09-92a9-a6e977a32050 ${RENGUPATH}/verses/* | \
+    xargs rengu json verse | \
     jq -r '.Source.Locus.Page' | sort -g | uniq -c
 }
 
 eckhart() {
-  grep -l 1bcc9afb-a524-4e83-8eb6-1bdafee25e0f verses/* | \
-    xargs bin/rengu json verse | \
+  grep -l 1bcc9afb-a524-4e83-8eb6-1bdafee25e0f ${RENGUPATH}/verses/* | \
+    xargs rengu json verse | \
     jq -r '@text "\(.pk) \(.Source.Locus.Page)\t\(.Title)"' | sort -k2 -g 
 }
 
 tao-leguin() {
-  grep -l 665172f7-331a-4fbf-a2e7-b0282cfe7f3b verses/* | \
-    xargs bin/rengu json verse | \
+  grep -l 665172f7-331a-4fbf-a2e7-b0282cfe7f3b ${RENGUPATH}/verses/* | \
+    xargs rengu json verse | \
     jq -r '@text "\(.pk) \(.Source.Locus.Chapter)\t\(.Title)"' | sort -k2 -g 
 }
 
