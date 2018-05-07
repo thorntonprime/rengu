@@ -43,6 +43,14 @@ iching-siu() {
 
 }
 
+dalai-lama-twitter() {
+  grep -l 'By: Dalai Lama' ${RENGUPATH}/verses/* | \
+    xargs grep -l 'URL: https://twitter.com' | \
+    xargs rengu json verse | \
+    jq -r '@text "\(.pk) \(.Source.Locus.Date)"' | \
+    sort -k4 -k3M -k2g
+}
+
 cold-mountain() {
 
   grep -l 1ea75c7b-679c-4c20-bf1a-1ea2b09be427 ${RENGUPATH}/verses/* | \
