@@ -1,5 +1,10 @@
 #!/bin/sh
 
 echo "Reload ... verses"
-rengu load verse ${RENGUPATH}/verses/* > ${RENGUPATH}/check/verses.load
+if [ $( uname -s ) == "Darwin" ]; then
+  find ${RENGUPATH}/verses -type f | \
+  xargs -n100 rengu load verse > ${RENGUPATH}/check/verses.load
+else
+  rengu load verse ${RENGUPATH}/verses/* > ${RENGUPATH}/check/verses.load
+fi
 
