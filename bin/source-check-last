@@ -23,8 +23,8 @@ rilke() {
 merton() {
   grep -l da184f92-f119-42ee-8e45-06ab31cd9624 ${RENGUPATH}/verses/* |
     xargs rengu json verse | \
-    jq -r .Source.Locus.Daily 2>/dev/null | \
-    sort -k 1M -k 2g
+    jq -r '@text "\(.pk) \(.Source.Locus.Daily)"' | \
+    sort -k 2M -k 3g
 }
 
 cloud() {
