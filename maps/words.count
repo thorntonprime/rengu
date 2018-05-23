@@ -1128,7 +1128,6 @@
       1 bandage-swathed
       1 baneshwar
       1 banged
-      1 bangles
       1 banisher
       1 banishes
       1 banishment
@@ -1437,7 +1436,6 @@
       1 birthmark
       1 birth-throes
       1 bishamon
-      1 bishops
       1 bisque
       1 bitch
       1 bitokning
@@ -3376,6 +3374,7 @@
       1 dinârs
       1 dinner-bowl
       1 dinnertime
+      1 diocese
       1 dioceses
       1 diogenes
       1 dioxide
@@ -3989,7 +3988,6 @@
       1 endings
       1 endurable
       1 endureth
-      1 energetically
       1 energise
       1 energising
       1 energizer
@@ -4049,6 +4047,7 @@
       1 enslaves
       1 enslaving
       1 ensnare
+      1 ensnaring
       1 ensnarl
       1 enso
       1 en-spirits
@@ -5038,6 +5037,7 @@
       1 garnered
       1 garrigon
       1 garutmàn
+      1 gascony
       1 gases
       1 gaspings
       1 gastric
@@ -5732,6 +5732,7 @@
       1 hi
       1 hibernating
       1 hibiscus
+      1 hickories
       1 hickory
       1 hiddenly
       1 hiddenness
@@ -6380,7 +6381,6 @@
       1 injected
       1 injection
       1 injoy
-      1 injuriously
       1 ink-black
       1 inkbottle
       1 inking
@@ -8253,6 +8253,7 @@
       1 nagged
       1 nags
       1 naimon
+      1 nally
       1 nâmadheya
       1 nama-japa
       1 nama-rûpa
@@ -9490,11 +9491,13 @@
       1 perversions
       1 perversity
       1 pervert
+      1 perverting
       1 perverts
       1 pessimistic
       1 pestering
       1 pestiferous
       1 pestilent
+      1 pestilential
       1 peter's
       1 petitioner
       1 petroleum
@@ -13788,6 +13791,7 @@
       1 unreserved
       1 unresponsive
       1 unrestfulness
+      1 unrestrainedly
       1 unrewarded
       1 unrewarding
       1 unripened
@@ -15271,6 +15275,7 @@
       2 birthlessness
       2 birthplace
       2 bisexual
+      2 bishops
       2 bla
       2 blamers
       2 blameworthy
@@ -15903,7 +15908,6 @@
       2 dhoti
       2 dhu'l-nun
       2 dhuta
-      2 diabolical
       2 diadem
       2 dialectic
       2 dialectics
@@ -16130,6 +16134,7 @@
       2 endeles
       2 endlesse
       2 endows
+      2 energetically
       2 energizing
       2 enervate
       2 enflame
@@ -16151,7 +16156,6 @@
       2 enshrine
       2 enslavement
       2 ensnared
-      2 ensue
       2 ensures
       2 entertainments
       2 enthrone
@@ -16223,7 +16227,6 @@
       2 exiles
       2 expanses
       2 expediency
-      2 expel
       2 expendable
       2 experiencer
       2 experimentation
@@ -16386,7 +16389,6 @@
       2 flowerless
       2 fluctuating
       2 fluctuations
-      2 fluorescent
       2 flushed
       2 flutters
       2 flycatchers
@@ -16531,7 +16533,6 @@
       2 givers
       2 gladdened
       2 glamour
-      2 glaring
       2 glides
       2 glimmers
       2 glimpses
@@ -16946,6 +16947,7 @@
       2 initiations
       2 initiatives
       2 injunctions
+      2 injuriously
       2 inked
       2 innocents
       2 inobedience
@@ -18265,7 +18267,6 @@
       2 rudeness
       2 rudolph
       2 ruffled
-      2 ruining
       2 rumour
       2 rumours
       2 rump
@@ -18777,7 +18778,6 @@
       2 superimposition
       2 superlatively
       2 superseded
-      2 superstitions
       2 supine
       2 supplanted
       2 supplemented
@@ -19017,7 +19017,6 @@
       2 tribes
       2 tricked
       2 tricky
-      2 trifle
       2 trinkets
       2 trio
       2 tripod
@@ -19653,6 +19652,7 @@
       3 balls
       3 banana
       3 bang
+      3 bangles
       3 bankrupt
       3 bankruptcy
       3 banquets
@@ -19722,7 +19722,6 @@
       3 bon
       3 bondmen
       3 borderlands
-      3 bottoms
       3 boughs
       3 bounding
       3 boxed
@@ -20059,6 +20058,7 @@
       3 dewdrops
       3 dexterity
       3 dhyâna
+      3 diabolical
       3 dialect
       3 dictates
       3 dictionary
@@ -20204,6 +20204,7 @@
       3 ennobling
       3 enraptured
       3 ens
+      3 ensue
       3 entertainment
       3 enthusiasts
       3 enticed
@@ -20253,6 +20254,7 @@
       3 exorcism
       3 exotic
       3 expectant
+      3 expel
       3 expelling
       3 expend
       3 exploding
@@ -20323,6 +20325,7 @@
       3 flour
       3 flowered
       3 fluidity
+      3 fluorescent
       3 fluttered
       3 foaming
       3 fondly
@@ -20401,6 +20404,7 @@
       3 giggling
       3 girdle
       3 glancing
+      3 glaring
       3 glassy
       3 glee
       3 glints
@@ -21362,6 +21366,7 @@
       3 royalty
       3 ruddy
       3 rue
+      3 ruining
       3 rumbling
       3 rungs
       3 rush-ball
@@ -21634,6 +21639,7 @@
       3 super-essentially
       3 superfluity
       3 superlative
+      3 superstitions
       3 surer
       3 surmise
       3 survey
@@ -22193,6 +22199,7 @@
       4 boasts
       4 bombs
       4 borderland
+      4 bottoms
       4 boulder
       4 boundlessness
       4 bounteous
@@ -22595,7 +22602,6 @@
       4 feverish
       4 ffigure
       4 fibres
-      4 fickle
       4 fictions
       4 fiercest
       4 fighter
@@ -23158,7 +23164,6 @@
       4 pockets
       4 poignant
       4 pointless
-      4 polluted
       4 ponders
       4 pondicherry
       4 pooja
@@ -23445,7 +23450,6 @@
       4 sobriety
       4 sodom
       4 softer
-      4 solemnity
       4 solicitous
       4 solicitude
       4 solidify
@@ -23625,6 +23629,7 @@
       4 tresses
       4 tribal
       4 trickery
+      4 trifle
       4 triggered
       4 tripitaka
       4 triumphantly
@@ -24010,7 +24015,6 @@
       5 copied
       5 corrupts
       5 costa
-      5 cottage
       5 cough
       5 coupled
       5 couples
@@ -24195,6 +24199,7 @@
       5 ferocious
       5 ferryman
       5 fibre
+      5 fickle
       5 fifteenth
       5 figs
       5 figured
@@ -24505,7 +24510,6 @@
       5 negation
       5 neglects
       5 negligence
-      5 neighboring
       5 neighbourhood
       5 neurosis
       5 new-born
@@ -24531,7 +24535,6 @@
       5 nurture
       5 nuts
       5 nyoi
-      5 oaks
       5 oar
       5 oaths
       5 observances
@@ -24591,6 +24594,7 @@
       5 plume
       5 plunder
       5 pluto
+      5 polluted
       5 pondering
       5 ponds
       5 poorest
@@ -24772,6 +24776,7 @@
       5 smoked
       5 sobs
       5 softens
+      5 solemnity
       5 solutions
       5 soothe
       5 sordid
@@ -24839,7 +24844,6 @@
       5 teeming
       5 temperature
       5 tended
-      5 territories
       5 thanking
       5 that's
       5 theoretically
@@ -25136,6 +25140,7 @@
       6 corresponding
       6 corresponds
       6 costly
+      6 cottage
       6 council
       6 counter
       6 courts
@@ -25340,7 +25345,6 @@
       6 hedge
       6 heedless
       6 helmsman
-      6 heresies
       6 highness
       6 hônen
       6 honeycomb
@@ -25491,6 +25495,7 @@
       6 needles
       6 negations
       6 neighborhood
+      6 neighboring
       6 neighbouring
       6 neither-painful-nor-pleasant
       6 neptune
@@ -25503,6 +25508,7 @@
       6 noted
       6 no-toes
       6 nurturing
+      6 oaks
       6 objectives
       6 occult
       6 o'clock
@@ -25514,7 +25520,6 @@
       6 oppress
       6 orient
       6 originated
-      6 orthodox
       6 ounce
       6 overflows
       6 overgrown
@@ -25804,6 +25809,7 @@
       6 tekisui
       6 temperament
       6 tendons
+      6 territories
       6 testing
       6 tetsugen
       6 texts
@@ -25970,7 +25976,6 @@
       7 breakfast
       7 brick
       7 brighten
-      7 brittle
       7 broom
       7 brows
       7 bump
@@ -26183,7 +26188,6 @@
       7 granaries
       7 gratified
       7 griefs
-      7 grieves
       7 grim
       7 grips
       7 guruji
@@ -26199,6 +26203,7 @@
       7 heaven-and-earth
       7 heavenward
       7 hereby
+      7 heresies
       7 heretical
       7 hideous
       7 hindered
@@ -26350,6 +26355,7 @@
       7 ordinarily
       7 originates
       7 originating
+      7 orthodox
       7 otherness
       7 outlines
       7 overhead
@@ -26395,7 +26401,6 @@
       7 preachers
       7 preceptor
       7 precision
-      7 preferable
       7 preferring
       7 prejudice
       7 preoccupied
@@ -26741,9 +26746,9 @@
       8 boring
       8 bravery
       8 bridal
+      8 brittle
       8 brood
       8 bubbles
-      8 bull
       8 burdened
       8 bus
       8 butcher
@@ -26909,6 +26914,7 @@
       8 grandfather
       8 grants
       8 gratify
+      8 grieves
       8 grudge
       8 gun
       8 habitations
@@ -26963,7 +26969,6 @@
       8 interview
       8 intricate
       8 intuitive
-      8 inventions
       8 irrelevant
       8 italy
       8 jars
@@ -27030,7 +27035,6 @@
       8 mold
       8 monasteries
       8 monster
-      8 moods
       8 morsel
       8 muddle
       8 musicians
@@ -27095,6 +27099,7 @@
       8 preceded
       8 precipice
       8 predictions
+      8 preferable
       8 preferred
       8 presses
       8 pretends
@@ -27251,7 +27256,6 @@
       8 tuft
       8 tumult
       8 tunes
-      8 twinkling
       8 twisting
       8 twofold
       8 tzu-ch'i
@@ -27370,6 +27374,7 @@
       9 bridges
       9 brute
       9 buddha's
+      9 bull
       9 bush
       9 button
       9 calleth
@@ -27411,7 +27416,6 @@
       9 contradictory
       9 convincing
       9 cooperate
-      9 correcting
       9 courtyard
       9 cracks
       9 creativity
@@ -27565,6 +27569,7 @@
       9 interferes
       9 intermediate
       9 interrupted
+      9 inventions
       9 investigate
       9 islands
       9 issues
@@ -27579,7 +27584,6 @@
       9 kick
       9 kindles
       9 kunti
-      9 ladies
       9 landscapes
       9 liberates
       9 lieth
@@ -27615,6 +27619,7 @@
       9 mists
       9 moderate
       9 monstrous
+      9 moods
       9 morals
       9 mote
       9 mounting
@@ -27765,7 +27770,6 @@
       9 token
       9 tolerant
       9 torches
-      9 tossed
       9 tou
       9 tough
       9 tour
@@ -27779,6 +27783,7 @@
       9 trunks
       9 trustworthy
       9 twenty-eight
+      9 twinkling
       9 twist
       9 tyranny
       9 tze
@@ -27895,7 +27900,6 @@
      10 chastity
      10 cheerfully
      10 childish
-     10 choir
      10 civil
      10 classes
      10 clod
@@ -27912,6 +27916,7 @@
      10 consumes
      10 consummation
      10 continents
+     10 correcting
      10 coward
      10 cowardice
      10 criterion
@@ -28056,6 +28061,7 @@
      10 koan
      10 kosmos
      10 labors
+     10 ladies
      10 lamenting
      10 lap
      10 largest
@@ -28094,7 +28100,6 @@
      10 obscured
      10 obstruction
      10 odds
-     10 offices
      10 omens
      10 ooh
      10 oppression
@@ -28239,6 +28244,7 @@
      10 tincture
      10 toes
      10 tolerance
+     10 tossed
      10 tossing
      10 tother
      10 transforming
@@ -28335,6 +28341,7 @@
      11 charming
      11 chasing
      11 chill
+     11 choir
      11 clan
      11 claws
      11 cleave
@@ -28487,6 +28494,7 @@
      11 obsessed
      11 odd
      11 offend
+     11 offices
      11 ordering
      11 organization
      11 overnight
@@ -28567,7 +28575,6 @@
      11 stinking
      11 stock
      11 stolen
-     11 stony
      11 strait
      11 straying
      11 streamers
@@ -28665,7 +28672,6 @@
      12 babe
      12 babel
      12 band
-     12 barn
      12 beatitude
      12 befall
      12 beget
@@ -28675,7 +28681,6 @@
      12 boon
      12 buildings
      12 busily
-     12 cedars
      12 chaff
      12 chiefly
      12 closest
@@ -28714,7 +28719,6 @@
      12 dhu
      12 diminishes
      12 disappointed
-     12 discord
      12 disordered
      12 displays
      12 distressed
@@ -28864,7 +28868,6 @@
      12 poised
      12 politics
      12 popular
-     12 practically
      12 precede
      12 precedence
      12 presumption
@@ -28894,7 +28897,6 @@
      12 revile
      12 roaring
      12 romantic
-     12 routine
      12 scales
      12 self-centered
      12 selfhood
@@ -28923,7 +28925,7 @@
      12 spoil
      12 stain
      12 stained
-     12 strict
+     12 stony
      12 stroke
      12 successes
      12 successive
@@ -28953,7 +28955,6 @@
      12 unreality
      12 unselfish
      12 untie
-     12 untouched
      12 upholding
      12 uplifted
      12 urged
@@ -28997,6 +28998,7 @@
      13 bag
      13 bargain
      13 bark
+     13 barn
      13 basket
      13 bathed
      13 beautifully
@@ -29062,6 +29064,7 @@
      13 devas
      13 dignified
      13 directs
+     13 discord
      13 discouraged
      13 disguised
      13 dispute
@@ -29072,7 +29075,6 @@
      13 dragged
      13 drift
      13 dwelleth
-     13 earthquake
      13 efficient
      13 emerges
      13 emerging
@@ -29192,10 +29194,10 @@
      13 permits
      13 permitted
      13 persistent
-     13 peter
      13 pointer
      13 police
      13 powder
+     13 practically
      13 prefers
      13 prepares
      13 preserves
@@ -29221,6 +29223,7 @@
      13 robbers
      13 rolled
      13 roman
+     13 routine
      13 rover
      13 ruby
      13 saves
@@ -29236,7 +29239,6 @@
      13 slaughter
      13 soaring
      13 so-called
-     13 solemn
      13 sows
      13 springtime
      13 stake
@@ -29246,11 +29248,11 @@
      13 stems
      13 strains
      13 strengthened
+     13 strict
      13 subhuti
      13 subjected
      13 substantial
      13 supported
-     13 suppress
      13 surrounds
      13 survival
      13 tamed
@@ -29276,6 +29278,7 @@
      13 twilight
      13 unchangeable
      13 uneasy
+     13 untouched
      13 unusual
      13 varieties
      13 vibration
@@ -29328,6 +29331,7 @@
      14 careless
      14 carved
      14 cattle
+     14 cedars
      14 centered
      14 childlike
      14 ch'u
@@ -29359,6 +29363,7 @@
      14 domain
      14 dove
      14 dr
+     14 earthquake
      14 easiest
      14 effectively
      14 elaborate
@@ -29375,7 +29380,6 @@
      14 fleeing
      14 flees
      14 forbidden
-     14 formal
      14 fountains
      14 french
      14 fulfilment
@@ -29449,6 +29453,7 @@
      14 perilous
      14 permissible
      14 pervades
+     14 peter
      14 phantom
      14 phase
      14 poles
@@ -29490,6 +29495,7 @@
      14 similitude
      14 simplest
      14 siva
+     14 solemn
      14 sown
      14 spill
      14 spine
@@ -29506,6 +29512,7 @@
      14 superficial
      14 superfluous
      14 supposing
+     14 suppress
      14 swiftly
      14 symptoms
      14 taketh
@@ -29643,6 +29650,7 @@
      15 folded
      15 folks
      15 foods
+     15 formal
      15 foundations
      15 fragments
      15 fuller
@@ -30543,7 +30551,6 @@
      20 ass
      20 avoided
      20 avoids
-     20 beaten
      20 bite
      20 blooming
      20 boss
@@ -30712,6 +30719,7 @@
      21 awful
      21 awhile
      21 bath
+     21 beaten
      21 begets
      21 beginnings
      21 belonging
@@ -30867,7 +30875,6 @@
      22 binds
      22 bold
      22 casts
-     22 catholic
      22 chin
      22 chooses
      22 christians
@@ -31004,6 +31011,7 @@
      23 brilliance
      23 cage
      23 candles
+     23 catholic
      23 central
      23 cessation
      23 chapter
@@ -31033,7 +31041,6 @@
      23 friendly
      23 functions
      23 garments
-     23 grove
      23 heights
      23 homage
      23 hunter
@@ -31067,7 +31074,6 @@
      23 paul
      23 periods
      23 permission
-     23 pine
      23 plunge
      23 political
      23 priceless
@@ -31148,6 +31154,7 @@
      24 fury
      24 gnostic
      24 granted
+     24 grove
      24 handle
      24 harbor
      24 healed
@@ -31179,6 +31186,7 @@
      24 pasture
      24 peaks
      24 peculiar
+     24 pine
      24 ponder
      24 presents
      24 protected
@@ -31196,7 +31204,6 @@
      24 solely
      24 solved
      24 starting
-     24 storms
      24 strengthen
      24 swim
      24 tasks
@@ -31250,7 +31257,6 @@
      25 employing
      25 escaped
      25 explaining
-     25 faint
      25 fond
      25 fortunate
      25 fourth
@@ -31285,7 +31291,6 @@
      25 patiently
      25 perceives
      25 perishable
-     25 pines
      25 poet
      25 poets
      25 pond
@@ -31316,9 +31321,9 @@
      25 splendour
      25 spontaneously
      25 steadfast
+     25 storms
      25 string
      25 succeeded
-     25 sunrise
      25 sweep
      25 tabriz
      25 tendency
@@ -31365,6 +31370,7 @@
      26 examine
      26 expert
      26 extended
+     26 faint
      26 famous
      26 fantasy
      26 far-reaching
@@ -31400,7 +31406,6 @@
      26 pit
      26 poetry
      26 pointed
-     26 proceeds
      26 proved
      26 purification
      26 push
@@ -31433,7 +31438,6 @@
      27 amongst
      27 analysis
      27 anybody
-     27 arising
      27 attract
      27 awe
      27 bewildered
@@ -31475,9 +31479,11 @@
      27 nourishment
      27 one's
      27 opposed
+     27 pines
      27 practical
      27 pratyekabuddhas
      27 prime
+     27 proceeds
      27 profitable
      27 responsibility
      27 ripe
@@ -31494,6 +31500,7 @@
      27 strongest
      27 stuck
      27 stupidity
+     27 sunrise
      27 tathagata
      27 throat
      27 toil
@@ -31515,6 +31522,7 @@
      28 altar
      28 amid
      28 appointed
+     28 arising
      28 arts
      28 bankei
      28 beating
@@ -31544,7 +31552,6 @@
      28 guarded
      28 gudo
      28 guilt
-     28 hanging
      28 harsh
      28 hindrance
      28 hurts
@@ -31592,7 +31599,6 @@
      28 secretly
      28 seriously
      28 shoes
-     28 shone
      28 significance
      28 somebody
      28 sometime
@@ -31656,6 +31662,7 @@
      29 gladness
      29 glimpse
      29 grasping
+     29 hanging
      29 ills
      29 including
      29 indifferent
@@ -31692,6 +31699,7 @@
      29 seer
      29 selves
      29 shams
+     29 shone
      29 solve
      29 somewhat
      29 strain
@@ -31760,11 +31768,9 @@
      30 multitudes
      30 official
      30 painted
-     30 pale
      30 passage
      30 patterns
      30 pot
-     30 purify
      30 realizes
      30 reasoning
      30 recognizes
@@ -31838,12 +31844,14 @@
      31 minutes
      31 mothers
      31 ofthe
+     31 pale
      31 plane
      31 planet
      31 possibilities
      31 practise
      31 primal
      31 produces
+     31 purify
      31 quit
      31 relative
      31 seize
@@ -31872,7 +31880,6 @@
      32 belly
      32 bend
      32 brush
-     32 calamity
      32 carpenter
      32 class
      32 clinging
@@ -31927,6 +31934,7 @@
      33 bless
      33 bride
      33 broke
+     33 calamity
      33 chaos
      33 claims
      33 completion
@@ -31955,7 +31963,6 @@
      33 letters
      33 meat
      33 miles
-     33 mist
      33 mystic
      33 nayutas
      33 objective
@@ -32002,7 +32009,6 @@
      34 bond
      34 bondage
      34 century
-     34 chest
      34 cliff
      34 custom
      34 depression
@@ -32010,7 +32016,6 @@
      34 dissolved
      34 disturb
      34 entrance
-     34 errors
      34 essentially
      34 fade
      34 fed
@@ -32030,6 +32035,7 @@
      34 limitations
      34 listened
      34 miss
+     34 mist
      34 mixed
      34 mouths
      34 neighbor
@@ -32064,6 +32070,7 @@
      35 bowl
      35 buried
      35 cheerful
+     35 chest
      35 choices
      35 closely
      35 constellation
@@ -32075,6 +32082,7 @@
      35 departed
      35 despite
      35 effective
+     35 errors
      35 extreme
      35 facing
      35 fierce
@@ -32119,7 +32127,6 @@
      35 upright
      35 wing
      36 acceptance
-     36 appreciate
      36 ashamed
      36 attack
      36 bind
@@ -32140,7 +32147,6 @@
      36 inspiration
      36 intensity
      36 knoweth
-     36 maker
      36 miracles
      36 obscure
      36 operation
@@ -32169,6 +32175,7 @@
      36 worn
      37 admit
      37 anxious
+     37 appreciate
      37 buddhist
      37 burst
      37 butterfly
@@ -32189,6 +32196,7 @@
      37 interesting
      37 knowest
      37 likes
+     37 maker
      37 meets
      37 melt
      37 mischief
@@ -32214,7 +32222,6 @@
      37 statue
      37 suffers
      37 symbol
-     37 tall
      37 touches
      37 valleys
      37 values
@@ -32273,9 +32280,9 @@
      38 stuff
      38 sum
      38 summit
+     38 tall
      38 unhappy
      38 wins
-     38 wiped
      39 adornment
      39 amida
      39 apply
@@ -32303,7 +32310,6 @@
      39 develop
      39 double
      39 duality
-     39 element
      39 gates
      39 healing
      39 ideal
@@ -32318,7 +32324,6 @@
      39 pool
      39 rage
      39 renunciation
-     39 resist
      39 resistance
      39 respond
      39 royal
@@ -32329,7 +32334,7 @@
      39 variety
      39 visited
      39 warmth
-     39 wet
+     39 wiped
      39 wished
      40 afternoon
      40 apparent
@@ -32341,6 +32346,7 @@
      40 core
      40 delighted
      40 dirt
+     40 element
      40 evils
      40 expressed
      40 generosity
@@ -32354,6 +32360,7 @@
      40 portion
      40 provide
      40 repentance
+     40 resist
      40 retreat
      40 robes
      40 seasons
@@ -32365,6 +32372,7 @@
      40 teeth
      40 thoroughly
      40 week
+     40 wet
      41 advantage
      41 awakened
      41 believes
@@ -32392,7 +32400,6 @@
      41 lets
      41 lonely
      41 melody
-     41 ministers
      41 ox
      41 perpetual
      41 preserve
@@ -32437,6 +32444,7 @@
      42 manifestation
      42 manifested
      42 meekness
+     42 ministers
      42 month
      42 offers
      42 particles
@@ -32544,7 +32552,6 @@
      44 rank
      44 scripture
      44 shrine
-     44 silently
      44 sink
      44 smiles
      44 solomon
@@ -32577,6 +32584,7 @@
      45 purified
      45 receiving
      45 shade
+     45 silently
      45 unite
      45 valuable
      45 wonders
@@ -32589,7 +32597,6 @@
      46 cried
      46 depart
      46 development
-     46 distress
      46 dragons
      46 edge
      46 enjoyment
@@ -32633,12 +32640,12 @@
      47 colors
      47 conception
      47 devotee
+     47 distress
      47 eventually
      47 filling
      47 flash
      47 glow
      47 guidance
-     47 hill
      47 krishna
      47 manifests
      47 miserable
@@ -32699,6 +32706,7 @@
      49 flood
      49 grant
      49 grieve
+     49 hill
      49 hopes
      49 identity
      49 idle
@@ -32741,12 +32749,10 @@
      50 presented
      50 previous
      50 priest
-     50 princes
      50 private
      50 pursue
      50 religions
      50 removed
-     50 rid
      50 rocks
      50 ruin
      50 stranger
@@ -32776,8 +32782,10 @@
      51 months
      51 nearer
      51 perception
+     51 princes
      51 public
      51 relation
+     51 rid
      51 shown
      51 upward
      51 wrath
@@ -32940,7 +32948,6 @@
      57 hungry
      57 madness
      57 normal
-     57 ours
      57 personality
      57 plan
      57 press
@@ -32961,9 +32968,7 @@
      58 considered
      58 desired
      58 discerns
-     58 distinctions
      58 efforts
-     58 hardly
      58 helps
      58 lacking
      58 legs
@@ -32975,6 +32980,7 @@
      58 method
      58 moses
      58 myriad
+     58 ours
      58 planted
      58 poem
      58 puts
@@ -33000,10 +33006,10 @@
      59 court
      59 demands
      59 determined
-     59 glass
+     59 distinctions
+     59 hardly
      59 insight
      59 mad
-     59 mass
      59 meeting
      59 milk
      59 moreover
@@ -33026,6 +33032,7 @@
      60 formed
      60 laid
      60 limited
+     60 mass
      60 prepared
      60 seas
      60 shakyamuni
@@ -33043,6 +33050,7 @@
      61 everybody
      61 feed
      61 gathered
+     61 glass
      61 gradually
      61 huge
      61 hunger
@@ -33129,7 +33137,6 @@
      64 signs
      64 transformed
      64 utterly
-     64 woods
      64 wrought
      64 yoga
      65 absolutely
@@ -33160,7 +33167,7 @@
      65 t
      65 twenty
      65 wake
-     65 wear
+     65 woods
      66 believers
      66 burned
      66 calling
@@ -33178,8 +33185,8 @@
      66 running
      66 streams
      66 weapons
+     66 wear
      67 adorned
-     67 branches
      67 bringing
      67 built
      67 catch
@@ -33200,6 +33207,7 @@
      67 west
      67 yin
      68 bitter
+     68 branches
      68 busy
      68 doors
      68 eating
@@ -33209,7 +33217,6 @@
      68 marriage
      68 offered
      68 scattered
-     68 scriptures
      68 terms
      68 uses
      69 attachment
@@ -33222,13 +33229,12 @@
      69 godhead
      69 lady
      69 quietly
+     69 scriptures
      69 sets
      69 shore
      69 truths
      70 adversity
      70 aim
-     70 blame
-     70 conceived
      70 creates
      70 genius
      70 girl
@@ -33250,8 +33256,9 @@
      70 vital
      71 acquire
      71 asleep
-     71 boat
+     71 blame
      71 community
+     71 conceived
      71 difficulty
      71 dost
      71 events
@@ -33268,6 +33275,7 @@
      72 alike
      72 attitude
      72 bit
+     72 boat
      72 bones
      72 bread
      72 color
@@ -33307,7 +33315,6 @@
      73 transformation
      73 warm
      73 weep
-     73 window
      74 1
      74 abide
      74 blessing
@@ -33322,6 +33329,7 @@
      74 sickness
      74 steps
      74 wherein
+     74 window
      75 attempt
      75 brightness
      75 dangerous
@@ -33329,7 +33337,6 @@
      75 doctrine
      75 doubts
      75 expression
-     75 fellow
      75 keeping
      75 oil
      75 pity
@@ -33346,6 +33353,7 @@
      76 beasts
      76 belongs
      76 describe
+     76 fellow
      76 history
      76 intent
      76 mortal
@@ -33428,22 +33436,22 @@
      81 magic
      81 opens
      81 prayers
-     81 results
      81 throw
      81 victory
      82 avoid
      82 discipline
-     82 east
      82 eight
      82 fresh
      82 male
      82 naked
      82 necessity
+     82 results
      82 tower
      82 understands
      82 vow
      83 achieve
      83 clothes
+     83 east
      83 excellent
      83 final
      83 finished
@@ -33478,7 +33486,6 @@
      85 feels
      85 followed
      85 ill
-     85 lights
      85 lovers
      85 meant
      85 questions
@@ -33492,6 +33499,7 @@
      86 female
      86 finding
      86 leaving
+     86 lights
      86 mighty
      86 observe
      86 phenomena
@@ -33503,7 +33511,6 @@
      87 abundance
      87 belong
      87 christian
-     87 command
      87 divinity
      87 enlightened
      87 passes
@@ -33511,6 +33518,7 @@
      88 absence
      88 animal
      88 brahman
+     88 command
      88 company
      88 enters
      88 faults
@@ -33533,7 +33541,6 @@
      89 met
      89 shut
      89 spread
-     89 straight
      90 ambition
      90 aside
      90 caused
@@ -33546,9 +33553,8 @@
      90 science
      90 sent
      90 shariputra
-     90 sword
+     90 straight
      90 teachers
-     90 top
      90 transcendental
      90 wishing
      90 write
@@ -33560,15 +33566,16 @@
      91 middle
      91 mount
      91 rises
+     91 sword
      91 throne
      91 tomorrow
+     91 top
      92 ages
      92 attached
      92 burn
      92 destroyed
      92 due
      92 early
-     92 glorious
      92 laugh
      92 moved
      92 recognize
@@ -33579,6 +33586,7 @@
      93 closed
      93 continue
      93 experienced
+     93 glorious
      93 saved
      93 third
      93 whenever
@@ -33603,25 +33611,24 @@
      95 preached
      95 ruler
      95 willing
-     96 breathing
      96 changed
      96 dawn
-     96 front
      96 gaze
      96 needed
      96 society
-     96 valley
+     97 breathing
      97 carried
      97 countless
+     97 front
      97 guide
      97 hours
      97 incense
      97 manifest
      97 nowhere
      97 tzu
+     97 valley
      98 angel
      98 certainly
-     98 essential
      98 fight
      98 foolish
      98 forgotten
@@ -33645,6 +33652,7 @@
     100 bed
     100 benefit
     100 dry
+    100 essential
     100 fallen
     100 lo
     101 conduct
@@ -33656,7 +33664,6 @@
     101 visible
     102 brother
     102 circle
-    102 destroy
     102 ear
     102 greatness
     102 half
@@ -33667,7 +33674,6 @@
     102 poverty
     102 progress
     102 quality
-    102 st
     102 therein
     102 travel
     102 ultimate
@@ -33678,7 +33684,9 @@
     103 realization
     103 riches
     103 shining
+    103 st
     104 creator
+    104 destroy
     104 field
     104 hundreds
     104 mysterious
@@ -33704,7 +33712,6 @@
     107 ends
     107 example
     107 falling
-    107 growing
     107 judge
     107 matters
     107 soft
@@ -33714,6 +33721,7 @@
     108 evening
     108 fate
     108 gentle
+    108 growing
     108 honor
     108 intelligence
     108 likewise
@@ -33753,7 +33761,6 @@
     112 arise
     112 becoming
     112 benefits
-    112 flame
     112 offering
     112 quickly
     112 salvation
@@ -33763,6 +33770,7 @@
     113 conscience
     113 contrary
     113 entire
+    113 flame
     113 gets
     113 green
     113 preaching
@@ -33778,8 +33786,6 @@
     114 wide
     114 wood
     115 imagine
-    115 ready
-    115 red
     115 sort
     116 apart
     116 depths
@@ -33788,6 +33794,8 @@
     116 paradise
     116 parts
     116 practices
+    116 ready
+    116 red
     116 religious
     117 business
     117 chance
@@ -33801,12 +33809,12 @@
     118 contemplation
     118 duty
     118 falls
-    118 forest
     118 multitude
     118 please
     118 shape
     118 spoken
     119 books
+    119 forest
     119 hair
     119 kindness
     119 language
@@ -33821,19 +33829,19 @@
     120 medicine
     120 sages
     120 superior
-    121 earthly
-    121 grass
     121 mankind
     121 stillness
     122 changes
     122 create
     122 gate
+    122 grass
     122 misery
     122 wherever
     122 wild
     122 worldly
     123 conditions
     123 deeply
+    123 earthly
     123 righteousness
     123 sat
     123 wilt
@@ -33884,7 +33892,6 @@
     130 humble
     130 individual
     130 oneself
-    130 ordinary
     130 problem
     130 proper
     130 respect
@@ -33896,6 +33903,7 @@
     131 holds
     131 lack
     131 moves
+    131 ordinary
     131 powerful
     131 special
     131 tongue
@@ -33914,7 +33922,6 @@
     134 patience
     134 rule
     134 standing
-    135 almost
     135 ears
     135 fast
     135 finally
@@ -33925,6 +33932,7 @@
     135 purity
     135 saints
     135 start
+    136 almost
     136 book
     136 eat
     136 goal
@@ -33939,7 +33947,6 @@
     137 during
     137 invisible
     137 keeps
-    137 low
     137 original
     137 personal
     137 realm
@@ -33950,7 +33957,7 @@
     138 calm
     138 deeds
     138 directions
-    138 error
+    138 low
     138 mercy
     138 replied
     138 six
@@ -33961,6 +33968,7 @@
     140 bound
     140 effect
     140 embrace
+    140 error
     140 family
     140 million
     140 round
@@ -33988,11 +33996,11 @@
     145 grief
     145 loss
     145 process
-    145 song
     146 aware
     146 dear
     146 effort
     146 saint
+    146 song
     147 absolute
     147 enlightenment
     147 fill
@@ -34027,15 +34035,15 @@
     151 hour
     152 fish
     152 taste
-    152 treasure
     152 vast
     153 enjoy
     153 result
     153 search
-    154 birds
+    153 treasure
     154 happen
     154 moving
     154 teaching
+    155 birds
     155 hearing
     155 regard
     156 choose
@@ -34044,10 +34052,10 @@
     156 shalt
     157 bliss
     157 gained
-    158 important
     158 lived
     158 looked
     158 weak
+    159 important
     159 quite
     160 clearly
     160 extinction
@@ -34060,9 +34068,9 @@
     162 control
     162 named
     162 needs
-    162 unity
     163 condition
     163 entered
+    163 unity
     164 assembly
     164 cast
     164 midst
@@ -34106,15 +34114,15 @@
     175 big
     175 held
     175 suddenly
-    176 constant
     176 places
     176 question
     176 root
     177 carry
-    177 church
+    177 constant
     177 fruit
     177 physical
     177 trust
+    178 church
     178 mental
     178 verily
     179 outward
@@ -34131,12 +34139,12 @@
     183 realize
     183 seeking
     184 surely
-    184 trying
     185 merely
-    185 necessary
     185 raised
     185 supreme
+    185 trying
     186 exists
+    186 necessary
     186 pride
     187 answer
     187 case
@@ -34155,15 +34163,15 @@
     191 remember
     191 sure
     191 turned
-    192 rise
     192 river
     192 sight
     192 worlds
     193 character
+    193 rise
     193 wine
     194 blind
-    194 false
     194 leaves
+    195 false
     195 sounds
     196 completely
     196 flesh
@@ -34218,11 +34226,11 @@
     214 kingdom
     214 used
     215 creation
-    216 room
     216 simply
     217 although
     217 ghostly
     217 perhaps
+    217 room
     218 cold
     218 pleasure
     219 exist
@@ -34242,8 +34250,8 @@
     224 everyone
     224 immeasurable
     224 preach
-    224 remain
     225 listen
+    225 remain
     226 anyone
     226 harmony
     226 monk
@@ -34265,8 +34273,8 @@
     233 bodies
     233 space
     234 constantly
-    234 course
     234 white
+    235 course
     235 gone
     235 infinite
     235 sleep
@@ -34290,13 +34298,13 @@
     244 coming
     244 doubt
     244 remains
-    244 thousands
     245 looking
     245 soon
+    245 thousands
     246 feet
     246 five
-    247 energy
     247 possible
+    248 energy
     248 ignorance
     248 re
     249 gain
@@ -34304,9 +34312,9 @@
     250 age
     250 hope
     252 felt
-    252 hearts
     252 walk
     252 works
+    253 hearts
     253 mean
     253 music
     253 ve
@@ -34317,22 +34325,22 @@
     255 stone
     256 accept
     256 perfection
-    256 souls
     256 stop
-    257 morning
+    257 souls
     258 image
     258 show
     259 brought
     259 filled
     259 food
+    259 morning
     259 strong
     260 easy
-    260 hidden
     260 mountain
+    261 hidden
     262 air
     262 became
     262 highest
-    262 natural
+    263 natural
     265 fact
     266 ca
     267 door
@@ -34342,9 +34350,9 @@
     269 forms
     269 various
     271 minds
-    271 simple
     271 wonderful
     272 freedom
+    272 simple
     273 sweet
     274 outside
     275 thinking
@@ -34355,27 +34363,27 @@
     279 purpose
     282 behind
     282 voice
-    282 wish
     283 grow
+    283 wish
     284 stand
     284 wrong
     286 either
-    286 meaning
     287 greatest
+    287 meaning
     288 powers
-    289 four
     289 toward
+    290 four
     290 inner
     290 ll
-    290 side
     291 bodhisattva
     291 sees
+    291 side
     293 bodhisattvas
     293 feeling
     293 greater
     294 ways
-    295 takes
     296 flowers
+    296 takes
     296 tao
     297 indeed
     298 sorrow
@@ -34397,7 +34405,7 @@
     314 birth
     314 enter
     314 lose
-    314 truly
+    315 truly
     316 goes
     316 less
     318 practice
@@ -34419,8 +34427,8 @@
     330 praise
     330 presence
     331 point
-    336 eye
     336 longer
+    337 eye
     337 gives
     339 fall
     339 happy
@@ -34431,13 +34439,13 @@
     341 try
     343 inside
     344 action
-    344 past
     344 sin
+    346 past
     348 child
     348 days
     348 friend
     349 land
-    349 sea
+    350 sea
     351 children
     351 few
     353 beginning
@@ -34449,15 +34457,15 @@
     360 hard
     361 die
     361 hands
-    361 whatever
     362 path
+    362 whatever
     364 m
     365 forth
     368 prayer
     369 desires
-    370 house
-    372 saw
-    373 clear
+    371 house
+    373 saw
+    374 clear
     375 hath
     375 wind
     376 sutra
@@ -34468,9 +34476,9 @@
     382 doing
     384 darkness
     384 understanding
-    386 high
     386 kind
     387 tell
+    388 high
     389 learn
     390 heavenly
     391 father
@@ -34483,28 +34491,28 @@
     394 reality
     395 lives
     396 among
-    398 since
+    399 since
     401 single
     402 matter
-    406 lost
     407 deep
+    407 lost
     409 heard
     409 open
     412 beautiful
-    412 moon
     413 hold
+    413 moon
     415 head
     419 left
     419 rest
     424 mother
     426 bring
-    426 years
+    427 years
     428 born
     428 done
     435 universe
     436 present
     436 whose
-    438 beauty
+    439 beauty
     439 sky
     441 saying
     443 set
@@ -34520,17 +34528,17 @@
     458 grace
     464 going
     464 hear
-    466 cause
     466 neither
-    468 times
+    467 cause
+    469 times
     473 found
     474 eternal
-    474 under
-    475 change
     475 off
     475 really
+    475 under
     476 above
-    476 existence
+    476 change
+    478 existence
     478 ourselves
     480 silence
     480 until
@@ -34539,31 +34547,31 @@
     485 hand
     485 together
     490 best
-    491 against
+    492 against
     492 seek
-    493 experience
+    494 experience
     495 use
     497 master
     501 believe
-    502 around
+    503 around
     506 wise
     508 unto
     509 perfect
-    511 between
     511 put
+    512 between
     518 ten
     521 real
     523 last
-    526 able
     526 beyond
     526 far
+    527 able
     529 new
     529 reason
     536 myself
     536 order
     541 becomes
-    542 holy
     543 else
+    543 holy
     543 understand
     546 art
     548 both
@@ -34571,26 +34579,26 @@
     550 feel
     553 makes
     553 word
-    556 face
-    560 might
+    557 face
+    561 might
     566 happiness
-    569 keep
-    575 spiritual
+    570 keep
     576 king
+    576 spiritual
     577 part
     578 moment
     585 anything
     599 o
     601 pure
-    605 faith
+    606 faith
     613 fear
     614 joy
     615 virtue
     616 free
-    620 full
-    622 means
+    621 full
+    623 means
     637 themselves
-    640 while
+    641 while
     643 need
     651 peace
     654 state
@@ -34600,41 +34608,41 @@
     671 knows
     673 comes
     675 form
-    677 night
-    678 sun
-    682 fire
+    678 night
+    679 sun
+    683 fire
     689 called
     691 back
     713 person
-    717 get
+    719 get
     724 name
     727 eyes
     735 look
     741 alone
     751 once
-    756 whole
     757 want
+    757 whole
     762 yourself
     775 did
-    798 divine
     798 lord
+    799 divine
     806 water
     808 self
     813 again
     814 also
     816 knowledge
     819 end
-    824 little
+    826 little
     826 thus
     827 live
     834 right
     837 though
     839 human
-    839 therefore
+    840 therefore
     842 law
     842 well
     845 something
-    849 too
+    852 too
     860 desire
     880 beings
     882 why
@@ -34646,13 +34654,13 @@
     921 another
     924 still
     930 words
-    937 much
+    938 much
     945 here
     949 everything
     958 find
     959 long
-    960 ever
-    961 give
+    961 ever
+    962 give
     965 take
     976 spirit
     979 each
@@ -34662,62 +34670,62 @@
    1001 down
    1001 think
    1008 others
-   1011 place
+   1012 place
    1033 away
-   1035 over
-   1040 first
+   1037 over
+   1041 first
    1057 itself
    1061 just
    1070 thing
    1072 true
    1083 become
    1101 thy
-   1102 after
+   1103 after
    1106 could
    1107 thee
    1111 earth
-   1119 many
+   1120 many
    1121 nor
    1122 work
-   1150 power
-   1152 day
+   1151 power
+   1153 day
    1157 truth
    1159 shall
    1163 she
-   1167 most
    1168 always
-   1210 before
-   1225 say
+   1169 most
+   1211 before
+   1226 say
    1239 heaven
-   1260 upon
+   1261 upon
    1264 nature
    1268 been
-   1273 let
    1274 go
-   1288 some
+   1275 let
+   1290 some
    1294 yet
    1304 make
-   1344 light
    1345 buddha
-   1351 death
+   1345 light
+   1352 death
    1358 such
-   1377 about
+   1378 about
    1401 every
    1450 himself
    1456 because
    1457 even
    1460 her
-   1520 through
-   1547 where
+   1524 through
+   1548 where
    1572 am
    1578 any
    1591 body
    1597 men
-   1661 people
+   1662 people
    1680 heart
-   1694 now
+   1696 now
    1703 should
-   1770 these
+   1771 these
    1777 see
    1797 must
    1814 soul
@@ -34727,89 +34735,89 @@
    1866 come
    1874 thou
    1886 said
-   1907 other
+   1908 other
    1931 being
-   1932 up
+   1934 up
    1943 own
    1950 were
-   1990 may
+   1992 may
    2025 good
    2034 never
-   2040 how
-   2040 than
+   2041 how
+   2043 than
    2048 had
    2061 nothing
    2099 would
-   2181 out
+   2182 out
    2190 mind
-   2209 great
-   2230 time
-   2245 know
+   2211 great
+   2231 time
+   2246 know
    2356 without
-   2416 us
-   2576 way
-   2649 more
-   2662 then
+   2418 us
+   2577 way
+   2653 more
+   2663 then
    2705 its
    2720 things
    2777 only
-   2870 into
-   2916 like
-   3013 an
+   2871 into
+   2918 like
+   3015 an
    3027 love
-   3199 our
-   3263 life
+   3201 our
+   3264 life
    3342 world
    3497 him
    3498 has
-   3606 their
-   3658 me
-   3674 them
-   3970 at
+   3607 their
+   3659 me
+   3679 them
+   3971 at
    4038 was
-   4081 man
-   4195 so
+   4082 man
+   4196 so
    4482 do
-   4541 s
+   4542 s
    4650 which
-   4756 your
-   4827 when
-   4871 if
+   4759 your
+   4828 when
+   4873 if
    4889 what
-   4944 on
-   5016 there
+   4946 on
+   5018 there
    5249 my
-   5327 no
-   5397 can
-   5503 or
-   5562 who
+   5330 no
+   5400 can
+   5506 or
+   5564 who
    5731 have
-   5830 they
-   5928 by
-   5986 from
+   5831 they
+   5932 by
+   5988 from
    6035 god
-   6623 we
+   6626 we
    6639 his
-   6678 will
-   7046 but
-   7060 one
-   8243 this
-   8336 with
-   8440 as
-   8785 are
-   8911 all
-   9789 for
-   9959 he
-  10447 be
-  12193 not
-  13231 you
-  13792 i
-  16736 that
-  16862 it
-  22893 a
-  23741 in
-  30222 is
-  32559 to
-  40278 of
-  43440 and
-  76724 the
+   6680 will
+   7050 but
+   7061 one
+   8249 this
+   8342 with
+   8441 as
+   8789 are
+   8916 all
+   9790 for
+   9961 he
+  10451 be
+  12194 not
+  13238 you
+  13793 i
+  16740 that
+  16867 it
+  22900 a
+  23749 in
+  30230 is
+  32567 to
+  40300 of
+  43464 and
+  76766 the
