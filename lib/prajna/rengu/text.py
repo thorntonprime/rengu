@@ -1,10 +1,8 @@
 # -*- coding: utf-8 -*-
 
 import xapian
-from prajna.rengu.config import XAPIANDB
+from prajna.rengu.config import XDB
 from prajna.rengu.tools import flatten
-
-XDB = xapian.WritableDatabase(XAPIANDB, xapian.DB_CREATE_OR_OPEN)
 
 def index(v):
 
@@ -39,7 +37,7 @@ def index(v):
 
         XDB.add_document(doc)
 
-def search(query_string, count=100):
+def search(query_string, count=1000):
 
     enquire = xapian.Enquire(XDB)
 

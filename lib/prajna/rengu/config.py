@@ -36,4 +36,6 @@ worldcat_USERNAME = "theoszi"
 worldcat_PASSWORD = "Cheroke3@Inca"
 WORLDCAT_BASEURL = "https://www.worldcat.org"
 
-XAPIANDB=RENGUPATH + "/db/xdb"
+import xapian
+#XDB=xapian.Database(RENGUPATH + "/db/xdb", xapian.DB_CREATE_OR_OVERWRITE)
+XDB=xapian.remote_open_writable("prajna", 3333)
