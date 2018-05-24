@@ -3,5 +3,5 @@
 exec celery-3 worker \
   --detach \
   --app prajna.rengu --statedb tmp/rengu-daemon.db --loglevel INFO \
-  --logfile tmp/rengu-daemon.log
+  --logfile tmp/rengu-daemon.log --pidfile tmp/rengu-daemon.pid
 
