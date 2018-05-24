@@ -1,0 +1,5 @@
+#!/bin/sh
+
+PID=$( nohup xapian-tcpsrv --port 3333 --writable ${RENGUPATH}/db/xdb > tmp/txtsearch-daemon.log 2>&1 & | awk '{ print $2 }' )
+echo ${PID} > tmp/txtsearch-daemon.pid
+
