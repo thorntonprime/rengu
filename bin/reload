@@ -1,8 +1,6 @@
 #!/bin/sh
 
-rm -rf ${RENGUPATH}/db/*
 rengu reload-verses
 rengu reload-sources
 rengu reload-authors
-rengu reload-text-index
 

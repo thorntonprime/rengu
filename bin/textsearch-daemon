@@ -1,5 +1,5 @@
 #!/bin/sh
 
-nohup xapian-tcpsrv --port 3333 --writable ${RENGUPATH}/db/xdb > tmp/txtsearch-daemon.log 2>&1 &
-echo $! > tmp/txtsearch-daemon.pid
+nohup xapian-tcpsrv --port 3333 --writable ${RENGUPATH}/db/xdb > tmp/textsearch-daemon.log 2>&1 &
+echo $! > tmp/textsearch-daemon.pid
 

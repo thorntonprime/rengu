@@ -1,0 +1,9 @@
+#!/bin/sh
+
+rm -rf ${RENGUPATH}/db/*
+
+RENGU=local rengu reload-verses
+RENGU=local rengu reload-sources
+RENGU=local rengu reload-authors
+RENGU=local rengu reload-text-index
+

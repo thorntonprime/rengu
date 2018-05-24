@@ -1,6 +1,10 @@
 import os
 import getpass
 
+from blitzdb import FileBackend, MongoBackend
+from pymongo import MongoClient, ASCENDING, DESCENDING
+import xapian
+
 if getpass.getuser() in [ 'rengu', 'uwsgi' ]:
     RENGUPATH='/srv/rengu'
 
@@ -10,7 +14,15 @@ elif os.uname()[0] == 'Darwin':
 else:
     RENGUPATH = os.environ.get("HOME",".") + '/projects/rengu'
 
+# Database either local or remote
+if os.environ.get("RENGU") == "local":
+    DB = FileBackend(RENGUPATH + "/db")
+    XDB=xapian.WritableDatabase(RENGUPATH + "/db/xdb", xapian.DB_CREATE_OR_OPEN)
 
+else:
+    mongo_client = MongoClient('prajna')
+    DB = MongoBackend(mongo_client.rengu)
+    XDB=xapian.remote_open("prajna", 3333)
 
 # Celery Configuration
 broker_url = 'redis://prajna'
@@ -21,21 +33,8 @@ accept_content = ['json']
 timezone = 'America/Los_Angeles'
 enable_utc = True
 
-# BlitzDB configuration file backend
-#from blitzdb import FileBackend
-#DB = FileBackend(RENGUPATH + "/db")
-
-# Or MongoDB backend
-from pymongo import MongoClient, ASCENDING, DESCENDING
-from blitzdb import MongoBackend
-mongo_client = MongoClient('prajna')
-DB = MongoBackend(mongo_client.rengu)
-
 # Worldcat info
 worldcat_USERNAME = "theoszi"
 worldcat_PASSWORD = "Cheroke3@Inca"
 WORLDCAT_BASEURL = "https://www.worldcat.org"
 
-import xapian
-#XDB=xapian.Database(RENGUPATH + "/db/xdb", xapian.DB_CREATE_OR_OVERWRITE)
-XDB=xapian.remote_open_writable("prajna", 3333)
