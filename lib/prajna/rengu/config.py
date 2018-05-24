@@ -22,14 +22,14 @@ timezone = 'America/Los_Angeles'
 enable_utc = True
 
 # BlitzDB configuration file backend
-from blitzdb import FileBackend
-DB = FileBackend(RENGUPATH + "/db")
+#from blitzdb import FileBackend
+#DB = FileBackend(RENGUPATH + "/db")
 
 # Or MongoDB backend
-#from pymongo import MongoClient, ASCENDING, DESCENDING
-#from blitzdb import MongoBackend
-#mongo_client = MongoClient('prajna')
-#DB = MongoBackend(mongo_client.prajna.rengu)
+from pymongo import MongoClient, ASCENDING, DESCENDING
+from blitzdb import MongoBackend
+mongo_client = MongoClient('prajna')
+DB = MongoBackend(mongo_client.rengu)
 
 # Worldcat info
 worldcat_USERNAME = "theoszi"

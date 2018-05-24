@@ -49,4 +49,4 @@ class RenguExtractCmd(cmd.Cmd):
 
             for s in v.extract_sources():
                 print("{0} {1:36} {2} / {3}".format(verse_pk,
-                                                    s['pk'], s['Title'], s.get("By", "NONE")))
+                                                    s['pk'], s.get('Title', 'NONE'), s.get("By", "NONE")))

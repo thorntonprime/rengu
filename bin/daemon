@@ -1,0 +1,6 @@
+#!/bin/sh
+
+exec celery-3 worker \
+  --app prajna.rengu --statedb tmp/rengu-daemon.db --loglevel INFO \
+  --logfile tmp/rengu-daemon.log
+
