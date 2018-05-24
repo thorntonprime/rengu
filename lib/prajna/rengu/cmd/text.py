@@ -37,6 +37,9 @@ class RenguTextCmd(cmd.Cmd):
         import xapian
         xapiandb = xapian.remote_open("prajna", 3333)
 
-        for n, pct, pk, line in prajna.rengu.text.search(xapiandb, args):
-            print("{0:3} {1} {2:.70}".format(pct, pk, line))
+        try:
+            for n, pct, pk, line in prajna.rengu.text.search(xapiandb, args):
+                print("{0:3} {1} {2:.70}".format(pct, pk, line))
+        except BrokenPipeError:
+            pass
 
