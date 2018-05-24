@@ -2,5 +2,5 @@
 
 rengu search verse '{}' | \
   jq -r .pk | \
-  xargs RENGU=local rengu text index > /dev/null
+  xargs rengu text index > /dev/null
 

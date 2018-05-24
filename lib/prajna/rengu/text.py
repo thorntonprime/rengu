@@ -1,10 +1,9 @@
 # -*- coding: utf-8 -*-
 
 import xapian
-from prajna.rengu.config import XDB
 from prajna.rengu.tools import flatten
 
-def index(v):
+def index(xapiandb, v):
 
     indexer = xapian.TermGenerator()
     stemmer = xapian.Stem("english")
@@ -35,17 +34,17 @@ def index(v):
             for tag in flatten([t.lower().split("=") for t in v.get("Tags")]):
                 doc.add_term("K" + tag)
 
-        XDB.add_document(doc)
+        xapiandb.add_document(doc)
 
-def search(query_string, count=1000):
+def search(xapiandb, query_string, count=1000):
 
-    enquire = xapian.Enquire(XDB)
+    enquire = xapian.Enquire(xapiandb)
 
     # Parse the query string to produce a Xapian::Query object.
     qp = xapian.QueryParser()
     stemmer = xapian.Stem("english")
     qp.set_stemmer(stemmer)
-    qp.set_database(XDB)
+    qp.set_database(xapiandb)
     qp.set_stemming_strategy(xapian.QueryParser.STEM_SOME)
     query = qp.parse_query(query_string)
 
