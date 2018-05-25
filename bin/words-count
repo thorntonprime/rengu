@@ -1,6 +1,8 @@
 #!/bin/sh
 
-bin/rengu search verse '{}' | jq -r .pk | \
+# rengu search verse '{}' | jq -r .pk | \
+cat ${RENGUPATH}/check/verses.load | \
+sort | \
   xargs bin/rengu extract words | cut -c38- | \
   sort | uniq -c | sort -g > ${RENGUPATH}/maps/words.count
 

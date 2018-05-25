@@ -1,8 +1,8 @@
 #!/bin/sh
 
-echo "Extract all titles from sources"
-rengu search verse '{}' |  \
-  jq -r .pk | \
+# rengu search verse '{}' | jq -r .pk | \
+cat ${RENGUPATH}/check/verses.load | \
+  sort | \
   xargs rengu extract source | \
   sort > ${RENGUPATH}/check/verse-titles.extract
 

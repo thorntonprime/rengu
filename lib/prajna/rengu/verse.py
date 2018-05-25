@@ -138,7 +138,7 @@ class Verse(Document):
                         yield s1
                         continue
 
-                title = s.get("Title", "NONE")
+                title = s.get("Title")
                 by = s.get("By", verse_author)
                 if isinstance(by, list):
                     by = by[0]
@@ -158,7 +158,7 @@ class Verse(Document):
                             continue
 
                 if title:
-                    for s1 in Source.find(s.get("Title", None)):
+                    for s1 in Source.find(s.get("Title")):
                         if s1.pk not in found:
                             found.add(s1.pk)
                             yield s1

@@ -1,6 +1,7 @@
 #!/bin/sh
 
-rengu search verse '{}' | \
-  jq -r .pk | \
+# rengu search verse '{}' | jq -r .pk | \
+cat ${RENGUPATH}/check/verses.load | \
+  sort | \
   xargs rengu fix-verse > ${RENGUPATH}/check/verses.fix
 
