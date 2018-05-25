@@ -1,5 +1,8 @@
 #!/bin/sh
 
-echo "Reload ... sources"
-rengu load source ${RENGUPATH}/sources/* > ${RENGUPATH}/check/sources.load
+COUNT=$( ls ${RENGUPATH}/sources/* | wc -l )
+echo "Reload ... ${COUNT} sources"
+
+rengu load source ${RENGUPATH}/sources/* | \
+  pv -p -l -s ${COUNT} > ${RENGUPATH}/check/sources.load
 

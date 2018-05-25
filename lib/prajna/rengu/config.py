@@ -17,7 +17,7 @@ else:
 # Database either local or remote
 if os.environ.get("RENGU") == "local":
     DB = FileBackend(RENGUPATH + "/db")
-    XDBPATH=RENGUPATH + "/db/xdb"
+    XDBPATH="file://" + RENGUPATH + "/db/xdb"
 
 else:
     mongo_client = MongoClient('prajna')

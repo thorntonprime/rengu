@@ -1,5 +1,8 @@
 #!/bin/sh
 
-echo "Reload ... authors"
-rengu load author ${RENGUPATH}/authors/* > ${RENGUPATH}/check/authors.load
+COUNT=$( ls ${RENGUPATH}/authors/* | wc -l )
+echo "Reload ... ${COUNT} authors"
+
+rengu load author ${RENGUPATH}/authors/* | \
+  pv -p -l -s ${COUNT} > ${RENGUPATH}/check/authors.load
 

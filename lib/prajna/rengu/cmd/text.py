@@ -29,6 +29,8 @@ class RenguTextCmd(cmd.Cmd):
             prajna.rengu.text.index(xapiandb, v)
             print(pk)
 
+        xapiandb.close()
+
     @auto_help
     def do_search(self, args):
         '''search <search terms>
@@ -44,3 +46,5 @@ class RenguTextCmd(cmd.Cmd):
         except BrokenPipeError:
             pass
 
+        finally:
+            xapiandb.close()

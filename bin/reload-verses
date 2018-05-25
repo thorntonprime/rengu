@@ -1,10 +1,13 @@
 #!/bin/sh
 
-echo "Reload ... verses"
+COUNT=$( ls ${RENGUPATH}/verses/* | wc -l )
+echo "Reload ... ${COUNT} verses"
+
 if [ $( uname -s ) == "Darwin" ]; then
   find ${RENGUPATH}/verses -type f | \
   xargs -n100 rengu load verse > ${RENGUPATH}/check/verses.load
 else
-  rengu load verse ${RENGUPATH}/verses/* > ${RENGUPATH}/check/verses.load
+  rengu load verse ${RENGUPATH}/verses/* | \
+  pv -p -l -s ${COUNT} > ${RENGUPATH}/check/verses.load
 fi
 

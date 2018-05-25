@@ -1,7 +1,11 @@
 #!/bin/sh
 
+COUNT=$( cat ${RENGUPATH}/check/verses.load | wc -l )
+echo "Reload ... ${COUNT} verse text index"
+
 # rengu search verse '{}' | jq -r .pk | \
 cat ${RENGUPATH}/check/verses.load | \
 sort | \
-  xargs rengu text index > /dev/null
+  xargs rengu text index | \
+  pv -p -l -s ${COUNT} > /dev/null
 
