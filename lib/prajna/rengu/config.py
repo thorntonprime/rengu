@@ -17,12 +17,12 @@ else:
 # Database either local or remote
 if os.environ.get("RENGU") == "local":
     DB = FileBackend(RENGUPATH + "/db")
-    #XDB=xapian.WritableDatabase(RENGUPATH + "/db/xdb", xapian.DB_CREATE_OR_OPEN)
+    XDBPATH=RENGUPATH + "/db/xdb"
 
 else:
     mongo_client = MongoClient('prajna')
     DB = MongoBackend(mongo_client.rengu)
-    #XDB=xapian.remote_open_writable("prajna", 3333)
+    XDBPATH="tcp://prajna:3333"
 
 # Celery Configuration
 broker_url = 'redis://prajna'

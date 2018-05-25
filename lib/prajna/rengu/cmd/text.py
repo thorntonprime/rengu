@@ -2,6 +2,7 @@ import cmd
 
 from prajna.rengu.cmd import auto_help
 import prajna.rengu.text
+from prajna.rengu.config import XDBPATH
 
 class RenguTextCmd(cmd.Cmd):
 
@@ -21,7 +22,7 @@ class RenguTextCmd(cmd.Cmd):
         from prajna.rengu.verse import Verse
         import xapian
 
-        xapiandb = xapian.remote_open_writable("prajna", 3333)
+        xapiandb = prajna.rengu.text._get_xapian_db(XDBPATH, writeable=True)
 
         for pk in args.split():
             v = Verse.fetch(pk)
@@ -35,7 +36,7 @@ class RenguTextCmd(cmd.Cmd):
         '''
         
         import xapian
-        xapiandb = xapian.remote_open("prajna", 3333)
+        xapiandb = prajna.rengu.text._get_xapian_db(XDBPATH)
 
         try:
             for n, pct, pk, line in prajna.rengu.text.search(xapiandb, args):

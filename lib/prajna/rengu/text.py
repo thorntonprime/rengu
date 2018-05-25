@@ -3,6 +3,28 @@
 import xapian
 from prajna.rengu.tools import flatten
 
+def _get_xapian_db(path, writeable=False):
+    from urllib.parse import urlsplit
+    from urllib.error import URLError
+
+    url = urlsplit(path)
+
+    if url.scheme == 'file':
+        if writeable:
+            return xapian.WritableDatabase(url.path, xapian.DB_CREATE_OR_OPEN)
+        else:
+            return xapian.Database(url.path)
+
+    elif url.scheme == 'tcp':
+        if writeable:
+            return xapian.remote_open_writable(url.hostname, url.port)
+        else:
+            return xapian.remote_open(url.hostname, url.port)
+
+    else:
+        raise URLError(10, "Couldn't parse Xapian URL " + path)
+
+
 def index(xapiandb, v):
 
     indexer = xapian.TermGenerator()
