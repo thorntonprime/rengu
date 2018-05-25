@@ -55,6 +55,13 @@
 * [My Poetic Side](https://mypoeticside.com/)
 * [The Art of Ancient Wisdom](http://www.theartofancientwisdom.com/)
 * [FPMT FOundation Store](https://shop.fpmt.org/)
+* [IMERE.org](http://www.imere.org/)
+
+## Non-Source Sites
+* [Spiritual Teachers](http://www.spiritualteachers.org/) - Biographies and Evaluations
+
+## Reference Sources
+* [ZhongWen](http://zhongwen.com)
 
 ## Finished Sources with Origins
 * [Treasury of Traditional Wisdom](https://prajna.io/o/20c3721c-2af4-449e-a9c0-9791ceb9b9ae)
