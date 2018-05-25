@@ -1,0 +1,14 @@
+#!/bin/sh
+
+rm -rf ${RENGUPATH}/db/xdb
+
+COUNT=$( cat ${RENGUPATH}/check/verses.load | wc -l )
+echo "Reload ... ${COUNT} verse text index (with sync)"
+
+# rengu search verse '{}' | jq -r .pk | \
+cat ${RENGUPATH}/check/verses.load | \
+sort | \
+  RENGU=local xargs rengu text index | \
+  pv -p -l -s ${COUNT} > /dev/null
+
+rsync -az --info=progress2 --delete ${RENGUPATH}/db/xdb/ rengu@prajna:db/xdb/
