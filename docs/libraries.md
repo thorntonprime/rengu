@@ -1,4 +1,15 @@
 
+## Essential Python Libraries
+* [Dask](http://dask.pydata.org/en/latest/docs.html)
+
+
+## Data Handling?
+* [GridFS](https://api.mongodb.com/python/current/api/gridfs/index.html)
+* [Monary](https://bitbucket.org/djcbeach/monary/overview)
+
+## GUI?
+* [Remi](https://github.com/dddomodossola/remi)
+
 ## Other Libraries
 
 #### Web Frameworks
