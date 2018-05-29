@@ -3,6 +3,7 @@
 /work
 /db
 /tmp
+/dask-worker-space
 *.log
 *.pyc
 **/__pycache__
