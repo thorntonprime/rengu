@@ -1,13 +1,13 @@
 # -*- coding: utf-8 -*-
 
 import os
+import sh
 
 class Repository:
 
     def __init__(self, path=os.getenv("RENGUPATH", os.getcwd())):
         # Repository(RENGUPATH)
         #   Return a local repository object
-        import sh
 
         self.RENGU_PATH = path
         self.git = sh.git.bake("-C", self.RENGU_PATH, "--no-pager")
@@ -38,4 +38,13 @@ class Repository:
     def push_data(self):
         self.commit_data("daily")
         self.push_commits()
+
+class Cluster:
+
+    def __init__(self):
+        self.pdsh = sh.pdsh.bake("-g", "rengu", "-l", "rengu")
+
+    def sync_all(self):
+        print(self.pdsh("git", "pull"))
+
 

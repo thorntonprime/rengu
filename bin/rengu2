@@ -8,3 +8,6 @@ import rengu.local
 r = rengu.local.Repository("/home/thornton/projects/rengu")
 r.commit_all("Daily")
 
+c=rengu.local.Cluster()
+c.sync_all()
+
