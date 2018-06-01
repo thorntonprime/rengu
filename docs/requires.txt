@@ -1,3 +1,7 @@
+python3-sh
+
+
+
 python3-ftfy
 python3-spacy
 python3-textblob
