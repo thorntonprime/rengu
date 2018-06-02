@@ -6,9 +6,13 @@ sys.path.append("/home/thornton/projects/rengu/lib")
 import rengu.local
 
 r = rengu.local.Repository("/home/thornton/projects/rengu")
-r.commit_all("Daily")
-r.push_commits()
 
-c=rengu.local.Cluster()
-c.sync_all()
+for x in r.updated_files():
+    print(x)
+
+#r.commit_all("Daily")
+#r.push_commits()
+
+#c=rengu.local.Cluster()
+#c.sync_all()
 

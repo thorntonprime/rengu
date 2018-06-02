@@ -1,5 +1,7 @@
 ## Processing Sources
 * [Daily Scans](https://prajna.io/w) / [I Ching](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching)
+* [Tricycle Daily](https://tricycle.org/)
+
 
 ## Source Roots
 * [Original Sources](https://prajna.io/o/)
@@ -11,6 +13,12 @@
 * [God in All Worlds](https://prajna.io/o/93173f7a-2fe5-4239-96a6-da623d8094b1)
 * [The Way Of Chuang Tzu](https://prajna.io/o/7593ef1f-e8a3-4f07-9af6-def46ad4ebc3)
 * [Zen Art Box](https://prajna.io/o/b4e88958-dacd-4687-919f-5e468604946d)
+
+## Others In Progress
+* [Shiwu](https://en.wikipedia.org/wiki/Shiwu)
+* [37 Practices of the Bodhisattva](https://tricycle.org/trikedaily/37-practices-of-the-bodhisattva-home/)
+* [Inquiring Mind](https://www.inquiringmind.com/departments/poems/)
+
 
 ## Queue
 * [Like Water or Clouds](https://prajna.io/o/8cfc87c2-7089-432f-968e-930d355fc036)
@@ -42,6 +50,7 @@
 * [Primes](primes.md)
 
 ## Other Sources
+* [Sariputta](https://www.sariputta.com/buku-dhamma/english/mahayana)
 * [Rerebess Asia Online - Tao](https://terebess.hu/english/tao/_index.html)
 * [Wikiquote](https://en.wikiquote.org/)
 * [Christian Classics Ethereal Library](http://www.ccel.org/)

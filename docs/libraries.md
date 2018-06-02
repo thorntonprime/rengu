@@ -1,6 +1,9 @@
 
 ## Essential Python Libraries
 * [Dask](http://dask.pydata.org/en/latest/docs.html)
+* [Dask.Distributed](http://distributed.readthedocs.io/en/latest/index.html)
+* [tqdm](https://github.com/tqdm/tqdm)
+* [sh](https://amoffat.github.io/sh/index.html)
 
 
 ## Data Handling?
@@ -8,6 +11,7 @@
 * [Monary](https://bitbucket.org/djcbeach/monary/overview)
 
 ## GUI?
+* [NLP Architect](http://nlp_architect.nervanasys.com/index.html)
 * [Remi](https://github.com/dddomodossola/remi)
 
 ## Other Libraries

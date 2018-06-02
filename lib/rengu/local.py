@@ -10,13 +10,14 @@ class Repository:
         #   Return a local repository object
 
         self.RENGU_PATH = path
-        self.git = sh.git.bake("-C", self.RENGU_PATH, "--no-pager")
+        self.git = sh.git.bake("-C", self.RENGU_PATH, "--no-pager", "-c", "color.ui=false")
 
     def updated_files(self):
         # updated_files()
         #   Return a generator of the updated (uncommitted) files in the local
         #   repository
-        for f in self.git("diff", "--name-only"):
+        #for f in self.git("diff", "--name-only"):
+        for f in ( g[3:] for g in self.git("status", "--short")):
             yield f.strip()
 
     def updated_data(self):
