@@ -25,7 +25,7 @@ class Repository:
         #   Return a generator of the updated (uncommitted) data files
         for (d,i) in (f.split("/", 1) for f in self.updated_files() if "/" in f):
                 if d in ["authors", "sources", "verses"]:
-                    yield "/".join(d,i)
+                    yield "/".join([d,i])
 
     def commit_all(self, msg):
         self.git("commit", "-m", msg, *self.updated_files())
