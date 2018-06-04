@@ -10,7 +10,7 @@ wget \
   --recursive --level=inf --timestamping \
   --no-cache \
   --convert-links --page-requisites \
-  --timestamping \
+  --timestamping --continue \
   --adjust-extension --default-page=index.html \
   --exclude-directories="/blog/wp-json" \
   --limit-rate=20k --wait=5 --random-wait \
