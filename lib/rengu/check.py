@@ -19,6 +19,6 @@ def check(repo, path):
     for l in lint(open(path, 'r')):
         yield('yamllint = ' + str(l))
 
-    v = rengu.verse.yaml.read_yaml_file(path)
-    yield('spellcheck = ' + path + v.get('Body'))
+    #v = rengu.verse.yaml.read_yaml_file(path)
+    #yield('spellcheck = ' + path + v.get('Body'))
     
