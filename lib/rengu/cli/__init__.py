@@ -67,6 +67,36 @@ def cli():
 @click.option('--verbose', '-v', envvar='RENGUVERBOSE', default=0, count=True)
 @click.option('--progress / --no-progress', is_flag=True, default=False)
 @click.argument('data', nargs=-1, type=click.Path(), required=True)
+def check2(data, path, verbose, progress):
+    '''Check integrity of data file(s)'''
+    from rengu.check import check
+    from dask.distributed import Client, as_completed, wait
+    from tqdm import tqdm
+
+    repo=Repository(path)
+    
+    df = data_files(repo, data)
+    total = len(df)
+
+    client = Client()
+    #client = Client(processes=False)
+
+    def _checker(d):
+        print(d)
+        for e in check(repo, d):
+            print(e)
+        return 'ok'
+
+    futures = client.map(_checker, df)
+
+    for batch in as_completed(futures).batches():
+        pass
+
+@cli.command()
+@click.option('--path', '-p', type=click.Path(), default=None, envvar='RENGUPATH')
+@click.option('--verbose', '-v', envvar='RENGUVERBOSE', default=0, count=True)
+@click.option('--progress / --no-progress', is_flag=True, default=False)
+@click.argument('data', nargs=-1, type=click.Path(), required=True)
 def check(data, path, verbose, progress):
     '''Check integrity of data file(s)'''
     from rengu.check import check

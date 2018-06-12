@@ -16,6 +16,8 @@ def check(repo, path):
     import os
     os.chdir(repo.RENGU_PATH)
 
+    #yield(path)
+
     for l in lint(open(path, 'r')):
         yield('yamllint = ' + str(l))
 
