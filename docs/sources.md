@@ -1,5 +1,6 @@
 ## Processing Sources
 * [Daily Scans](https://prajna.io/w) / [I Ching](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching)
+* [Gandhi Reader](http://www.mahatma.org.in/mahatma/books/showbook.jsp?id=69&link=bg&book=bg0007&lang=en&cat=books)
 * [Tricycle Daily](https://tricycle.org/)
 
 
@@ -50,6 +51,7 @@
 * [Primes](primes.md)
 
 ## Other Sources
+* [Bartleby](http://www.bartleby.com/45/4/9.html)
 * [Sariputta](https://www.sariputta.com/buku-dhamma/english/mahayana)
 * [Rerebess Asia Online - Tao](https://terebess.hu/english/tao/_index.html)
 * [Wikiquote](https://en.wikiquote.org/)
