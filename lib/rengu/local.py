@@ -3,7 +3,7 @@
 import os
 import sh
 
-DATA_TYPES=["authors", "sources", "verses"]
+DATA_TYPES=["authors", "sources", "verses", "prints"]
 
 class Repository:
 
@@ -17,18 +17,17 @@ class Repository:
         self.RENGU_PATH = path
         self.git = sh.git.bake("-C", self.RENGU_PATH, "--no-pager", "-c", "color.ui=false")
 
-    def updated_files(self):
-        # updated_files()
-        #   Return a generator of the updated (uncommitted) files in the local
-        #   repository
-        #for f in self.git("diff", "--name-only"):
+    def repo_files(self, more=None, commit_ish='HEAD^:./'):
         try:
-            for f in ( g[3:] for g in self.git("status", "--short")):
+            for f in self.git("diff", "--no-commit-id", "--name-only", "-r", commit_ish, "--", *more if more else []  ):
                 yield f.strip()
         except sh.ErrorReturnCode_128 as e:
             print('Invalid repository path')
         except sh.ErrorReturnCode as e:
             print('Unspecified repository error')
+
+    def updated_files(self):
+         return self.repo_files()
 
     def all_data(self, data_types=DATA_TYPES):
         # all_data()
@@ -40,9 +39,7 @@ class Repository:
     def updated_data(self):
         # updated_data()
         #   Return a generator of the updated (uncommitted) data files
-        for (d,i) in (f.split("/", 1) for f in self.updated_files() if "/" in f):
-                if d in ["authors", "sources", "verses"]:
-                    yield "/".join([d,i])
+        return self.repo_files(more=DATA_TYPES)
 
     def commit_all(self, msg):
         self.git("commit", "-m", msg, *self.updated_files())

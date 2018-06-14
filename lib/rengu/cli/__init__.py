@@ -70,34 +70,29 @@ def cli():
 def check2(data, path, verbose, progress):
     '''Check integrity of data file(s)'''
     from rengu.check import check
-    from dask.distributed import Client, as_completed, wait
     from tqdm import tqdm
+    import dask.bag
+    from distributed import Client, Queue
 
     repo=Repository(path)
-    
-    df = data_files(repo, data)
-    total = len(df)
-
     client = Client()
-    #client = Client(processes=False)
+   
+    fs = data_files(repo, data) 
+    b = dask.bag.from_sequence(fs)
 
     def _checker(d):
-        print(d)
-        for e in check(repo, d):
-            print(e)
-        return 'ok'
+        return check(repo, d)
 
-    futures = client.map(_checker, df)
-
-    for batch in as_completed(futures).batches():
-        pass
+    for c in b.map(_checker).compute():
+        for e in c:
+            click.echo(e)
 
 @cli.command()
 @click.option('--path', '-p', type=click.Path(), default=None, envvar='RENGUPATH')
 @click.option('--verbose', '-v', envvar='RENGUVERBOSE', default=0, count=True)
 @click.option('--progress / --no-progress', is_flag=True, default=False)
 @click.argument('data', nargs=-1, type=click.Path(), required=True)
-def check(data, path, verbose, progress):
+def check1(data, path, verbose, progress):
     '''Check integrity of data file(s)'''
     from rengu.check import check
 
@@ -107,34 +102,4 @@ def check(data, path, verbose, progress):
         for c in check(repo, d):
             typs, uid = d.split('/', 1)
             click.echo('%s [%s] %s' % (uid, typs[:-1], c))
-
-@cli.command()
-@click.option('--path', '-p', type=click.Path(), default=None, envvar='RENGUPATH')
-@click.option('--db', '-d', envvar='RENGUDB')
-@click.option('--verbose', '-v', envvar='RENGUVERBOSE', is_flag=True)
-@click.argument('data', nargs=-1, type=click.Path(), required=True)
-def load(data, path, db, verbose):
-    '''Load data into database'''
-
-    repo=Repository(path)
-
-    for d in data_files(repo, data):
-        if verbose:
-            show_verbose(d, 'load')
-
-@cli.command()
-@click.option('--path', '-p', type=click.Path(), default=None, envvar='RENGUPATH')
-@click.option('--db', '-d', envvar='RENGUDB')
-@click.option('--verbose', '-v', envvar='RENGUVERBOSE', is_flag=True)
-@click.argument('data', nargs=-1, type=click.Path(), required=True)
-def test(data, path, db, verbose):
-    '''Test data into database'''
-
-    repo=Repository(path)
-
-    for d in data_files(repo, data):
-        if verbose:
-            show_verbose(d, 'test')
-
-
 
