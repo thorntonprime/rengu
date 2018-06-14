@@ -14,14 +14,20 @@ else:
     print("Couldn't find RENGU in " + RENGUPATH)
     sys.exit(1)
 
-sys.path.append(RENGUPATH + '/lib')
+sys.path.insert(0, RENGUPATH + '/lib')
 
 from signal import signal, SIGPIPE, SIG_DFL 
 #Ignore SIG_PIPE and don't throw exceptions on it... (http://docs.python.org/library/signal.html)
 signal(SIGPIPE,SIG_DFL) 
 
+import warnings
+
 from rengu.cli import cli
 
 if __name__ == '__main__':
-    cli()
+
+    
+    with warnings.catch_warnings():
+        warnings.filterwarnings("ignore")
+        cli()
 

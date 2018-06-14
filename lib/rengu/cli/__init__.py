@@ -69,23 +69,27 @@ def cli():
 @click.argument('data', nargs=-1, type=click.Path(), required=True)
 def check2(data, path, verbose, progress):
     '''Check integrity of data file(s)'''
-    from rengu.check import check
-    from tqdm import tqdm
-    import dask.bag
-    from distributed import Client, Queue
+    from yamllint.config import YamlLintConfig
+    from yamllint.linter import run
+    from dask.distributed import Client, as_completed
 
     repo=Repository(path)
     client = Client()
    
     fs = data_files(repo, data) 
-    b = dask.bag.from_sequence(fs)
 
     def _checker(d):
-        return check(repo, d)
+        f = open(d)
+        errors = run(f, YamlLintConfig('extends: default'))
+        #x = d.split('-')
+        return (d, [ str(e) for e in errors ])
 
-    for c in b.map(_checker).compute():
+    futures = client.map(_checker, fs)
+
+    for f in as_completed(futures):
+        c = f.result()
         for e in c:
-            click.echo(e)
+            print(e)
 
 @cli.command()
 @click.option('--path', '-p', type=click.Path(), default=None, envvar='RENGUPATH')
