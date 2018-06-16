@@ -19,6 +19,7 @@ class Repository:
 
     def repo_files(self, more=None, commit_ish='HEAD^:./'):
         try:
+            # maybe use git ls-files?
             #for f in self.git("diff", "--no-commit-id", "--name-only", "-r", commit_ish, "--", *more if more else []  ):
             for f in self.git("diff", "--name-only", "--cached", "-r", commit_ish, "--", *more if more else []  ):
                 yield f.strip()

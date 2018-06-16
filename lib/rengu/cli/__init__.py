@@ -77,8 +77,8 @@ def lint(data, path, verbose, progress):
 
     def _checker(d):
         typ, uid = d.split('/', 1)
-        if verbose > 1:
-            print("{0} [{1}] check > opening".format(uid, typ))
+        if verbose > 0:
+            print("{0} [{1}] check".format(uid, typ))
         with open(d) as f:
             lint_errors = run(f, yconfig)
             if verbose > 1:
@@ -88,23 +88,6 @@ def lint(data, path, verbose, progress):
     futures = client.map(_checker, fs)
 
     for f in show(verbose, progress)(as_completed(futures), total=total):
-        c = f.result()
-        for e in c:
+        for e in f.result():
             print(e)
-
-@cli.command()
-@click.option('--path', '-p', type=click.Path(), default=None, envvar='RENGUPATH')
-@click.option('--verbose', '-v', envvar='RENGUVERBOSE', default=0, count=True)
-@click.option('--progress / --no-progress', is_flag=True, default=False)
-@click.argument('data', nargs=-1, type=click.Path(), required=True)
-def check(data, path, verbose, progress):
-    '''Check integrity of data file(s)'''
-    from rengu.check import check
-
-    repo=Repository(path)
-
-    for d in show(verbose, progress, 'check')(data_files(repo, data)):
-        for c in check(repo, d):
-            typs, uid = d.split('/', 1)
-            click.echo('%s [%s] %s' % (uid, typs[:-1], c))
 
