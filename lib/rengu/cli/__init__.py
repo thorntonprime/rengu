@@ -83,11 +83,48 @@ def lint(data, path, verbose, progress):
             lint_errors = run(f, yconfig)
             if verbose > 1:
                 print("{0} [{1}] check > closing".format(uid, typ))
-        return [ d + " " + e for e in lint_errors ]
+        return [ d + " " + str(e) for e in lint_errors ]
 
     futures = client.map(_checker, fs)
 
     for f in show(verbose, progress)(as_completed(futures), total=total):
         for e in f.result():
             print(e)
+
+@click.group()
+def deeper():
+    pass
+
+cli.add_command(deeper)
+
+@deeper.command()
+@click.argument('fumble')
+def cheese(fumble):
+    click.echo('Cheese ' + fumble)
+
+@deeper.command()
+@click.argument('fumble')
+def cow(fumble):
+    click.echo('Cow ' + fumble)
+
+@cli.command()
+def prepare():
+    import sh
+    import sys
+
+    modules = [
+        "colorama",
+        "tqdm",
+        "sh",
+        "click",
+        "dask",
+        "distributed",
+        "yamllint"
+    ]
+
+    python = sh.Command(sys.executable)
+    pip = python.bake("-m", "pip")
+    for r in pip("install", "--user", *modules):
+        print(r.strip())
+
 
