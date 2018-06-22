@@ -1,3 +1,7 @@
 
+http://toolz.readthedocs.io/en/latest/index.html
+http://docs.python-cerberus.org/en/stable/
+https://yaml.readthedocs.io/en/latest/index.html 
+
 Remember to autopep8 and flake8
 
