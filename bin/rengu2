@@ -17,7 +17,7 @@ else:
     sys.exit(1)
 
 sys.path.insert(0, RENGUPATH + '/lib')
-from rengu.cli import cli
+from rengu.cli import *
 
 #Ignore SIG_PIPE and don't throw exceptions on it... (http://docs.python.org/library/signal.html)
 signal(SIGPIPE,SIG_DFL) 
