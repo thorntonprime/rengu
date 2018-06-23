@@ -6,25 +6,45 @@ import click
 
 from ..cli import cli
 import rengu.repo
-from rengu.object import TYPES
+from rengu.element import ELEMENTS
 
 @cli.command()
 @click.option('--repo', '-r', default=None, help='Rengu path')
 #@click.option('--dest', '-R', default=None, help='Destination Rengu Path')
 @click.option('--verbose', '-v', default=0, count=True, help='Verbosity level')
-@click.option('--scope', '-s', default=['ANY'], type=click.Choice(TYPES + ['ANY']), help='Limit data type(s)', multiple=True)
+@click.option('--elem', '-E', default=['ANY'], type=click.Choice(ELEMENTS + ['ANY']), help='Limit to specified element(s)', multiple=True)
 @click.option('--form', '-f', default='list', type=click.Choice(['list', 'table', 'csv', 'json', 'yaml']), help='Output format')
+@click.option('--page', '-P', is_flag=True, default=False, help='Use pager for output')
+@click.option('--spell/--no-spell', default=True, help='Check spelling')
+@click.option('--schema/--no-schema', default=True, help='Check schema')
+@click.option('--id-integrity', 'integrity', flag_value='id', default=None, help='Check relational integrity of IDs')
+@click.option('--data-integrity', 'integrity', flag_value='data', default=None, help='Check relational integrity of data')
 @click.argument('data', nargs=-1)
-def check(repo, verbose, data, scope, form):
-    '''Lists objects that match the specified data descriptions.'''
+def check(repo, verbose, data, elem, form, page, spell, schema, integrity):
+    '''Checks the specified data objects.'''
 
     r = rengu.repo.Repository(repo)
 
-    if verbose > 2: click.echo("# Repository = " + str(r))
+    if verbose > 2:
+        click.echo("# Repository = " + str(r))
+        click.echo("# Spell = " + str(spell))
+        click.echo("# Schema = " + str(schema))
+        click.echo("# Integrity = " + str(integrity))
 
     style = formatter(form)
-    for o in r.list_objects(data, scope):
-        click.echo(style(o))
+    out = ''
+
+    try:
+        for o in r.list_objects(data, elem):
+            if page:
+                out = out + style(o)
+            else:
+                click.echo(style(o), nl=False)
+    except Exception as e:
+        click.echo(str(e), err=True)
+
+    if page:
+        click.echo_via_pager(out)
 
 def formatter(style):
     '''formatter
@@ -36,16 +56,16 @@ def formatter(style):
     from ruamel.yaml.compat import StringIO
 
     def _list(o):
-        return '{scope}/{id} {mtime} {size}'.format(**o)
+        return '{element}s/{id}\n'.format(**o)
 
     def _table(o):
-        return '{scope}\t{id}\t{mtime}\t{size}'.format(**o)
+        return '{element}s\t{id}\n'.format(**o)
 
     def _csv(o):
-        return '{scope},{id},{mtime},{size}'.format(**o)
+        return '{element},{id}\n'.format(**o)
 
     def _json(o):
-        return json.dumps(o)
+        return json.dumps(o) + '\n'
 
     yaml = YAML()
     yaml.explicit_start=True

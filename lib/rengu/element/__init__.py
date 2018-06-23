@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 
-TYPES = [
+ELEMENTS = [
     'author',
-    'print',
+    'artifact',
     'source',
     'verse'
 ]

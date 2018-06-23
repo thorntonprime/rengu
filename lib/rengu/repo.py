@@ -2,7 +2,7 @@
 
 from urllib.parse import urlparse
 import os.path
-from rengu.object import TYPES
+from rengu.element import ELEMENTS
 
 class RepositoryException(Exception):
     """Exception raised for errors in reading the Rengu Repository.
@@ -68,7 +68,7 @@ class RepositoryFile(Repository):
         Check the Rengu repository is set up correctly
         '''
         
-        for t in TYPES:
+        for t in ELEMENTS:
             p = os.path.join(self.path, t + 's')     
             if verbosity > 1: yield "Checking " + t
             
@@ -77,18 +77,18 @@ class RepositoryFile(Repository):
             else:
                 yield "Error: " + p + " doesn't exist"
 
-    def list_objects(self, objs, scopes=[]):
+    def list_objects(self, objs, elems=[]):
         from datetime import datetime
  
-        if 'ANY' in scopes:
-            scopes = TYPES
+        if 'ANY' in elems:
+            elems = ELEMENTS
 
-        for s in scopes:
-            with os.scandir(self.path + '/' + s + 's') as it:
+        for e in elems:
+            with os.scandir(self.path + '/' + e + 's') as it:
                 for entry in it:
                     if not entry.name.startswith('.') and entry.is_file():
                         stat = entry.stat()
-                        yield { 'scope': s, 'id': entry.name, 'mtime': '{0:%Y-%m-%d %H:%M:%S}'.format(datetime.fromtimestamp(stat.st_mtime)), 'size': stat.st_size }
+                        yield { 'element': e, 'id': entry.name, 'mtime': '{0:%Y-%m-%d %H:%M:%S}'.format(datetime.fromtimestamp(stat.st_mtime)), 'size': stat.st_size }
 
 
 class RepositoryMongo(Repository):
@@ -108,11 +108,11 @@ class RepositoryMongo(Repository):
         if verbosity > 1:
             yield("verbose mongo check")
         
-    def list_objects(self, objs, scopes=[]):
+    def list_objects(self, objs, elems=[]):
         
-        if 'ANY' in scopes:
-            scopes = TYPES
+        if 'ANY' in elems:
+            elems = ELEMENTS
 
-        for s in scopes:
-            yield(s)
+        for e in elems:
+            yield(e)
 

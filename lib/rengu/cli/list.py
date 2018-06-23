@@ -6,16 +6,17 @@ import click
 
 from ..cli import cli
 import rengu.repo
-from rengu.object import TYPES
+from rengu.element import ELEMENTS
 
 @cli.command()
 @click.option('--repo', '-r', default=None, help='Rengu path')
 #@click.option('--dest', '-R', default=None, help='Destination Rengu Path')
 @click.option('--verbose', '-v', default=0, count=True, help='Verbosity level')
-@click.option('--scope', '-s', default=['ANY'], type=click.Choice(TYPES + ['ANY']), help='Limit data type(s)', multiple=True)
+@click.option('--elem', '-E', default=['ANY'], type=click.Choice(ELEMENTS + ['ANY']), help='Limit to specified element(s)', multiple=True)
 @click.option('--form', '-f', default='list', type=click.Choice(['list', 'table', 'csv', 'json', 'yaml']), help='Output format')
+@click.option('--page', '-P', is_flag=True, default=False, help='Use pager for output')
 @click.argument('data', nargs=-1)
-def list(repo, verbose, data, scope, form):
+def list(repo, verbose, data, elem, form, page):
     '''Lists objects that match the specified data descriptions.'''
 
     r = rengu.repo.Repository(repo)
@@ -23,8 +24,19 @@ def list(repo, verbose, data, scope, form):
     if verbose > 2: click.echo("# Repository = " + str(r))
 
     style = formatter(form)
-    for o in r.list_objects(data, scope):
-        click.echo(style(o))
+    out = ''
+
+    try:
+        for o in r.list_objects(data, elem):
+            if page:
+                out = out + style(o)
+            else:
+                click.echo(style(o), nl=False)
+    except Exception as e:
+        click.echo(str(e), err=True)
+
+    if page:
+        click.echo_via_pager(out)
 
 def formatter(style):
     '''formatter
@@ -36,16 +48,16 @@ def formatter(style):
     from ruamel.yaml.compat import StringIO
 
     def _list(o):
-        return '{scope}/{id} {mtime} {size}'.format(**o)
+        return '{element}s/{id} {mtime} {size}\n'.format(**o)
 
     def _table(o):
-        return '{scope}\t{id}\t{mtime}\t{size}'.format(**o)
+        return '{element}\t{id}\t{mtime}\t{size}\n'.format(**o)
 
     def _csv(o):
-        return '{scope},{id},{mtime},{size}'.format(**o)
+        return '{element},{id},{mtime},{size}\n'.format(**o)
 
     def _json(o):
-        return json.dumps(o)
+        return json.dumps(o) + '\n'
 
     yaml = YAML()
     yaml.explicit_start=True
