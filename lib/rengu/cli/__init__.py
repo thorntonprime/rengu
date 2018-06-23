@@ -5,6 +5,7 @@
 __all__= [
     "cli",
     "check",
+    "list",
     "repo",
     "tools"
 ]

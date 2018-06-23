@@ -15,7 +15,7 @@ from rengu.object import TYPES
 @click.option('--scope', '-s', default=['ANY'], type=click.Choice(TYPES + ['ANY']), help='Limit data type(s)', multiple=True)
 @click.option('--form', '-f', default='list', type=click.Choice(['list', 'table', 'csv', 'json', 'yaml']), help='Output format')
 @click.argument('data', nargs=-1)
-def check(repo, verbose, data, scope, form):
+def list(repo, verbose, data, scope, form):
     '''Lists objects that match the specified data descriptions.'''
 
     r = rengu.repo.Repository(repo)

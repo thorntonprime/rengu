@@ -78,12 +78,18 @@ class RepositoryFile(Repository):
                 yield "Error: " + p + " doesn't exist"
 
     def list_objects(self, objs, scopes=[]):
-        
+        from datetime import datetime
+ 
         if 'ANY' in scopes:
             scopes = TYPES
 
         for s in scopes:
-            yield(s)
+            with os.scandir(self.path + '/' + s + 's') as it:
+                for entry in it:
+                    if not entry.name.startswith('.') and entry.is_file():
+                        stat = entry.stat()
+                        yield { 'scope': s, 'id': entry.name, 'mtime': '{0:%Y-%m-%d %H:%M:%S}'.format(datetime.fromtimestamp(stat.st_mtime)), 'size': stat.st_size }
+
 
 class RepositoryMongo(Repository):
 
