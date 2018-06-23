@@ -15,5 +15,6 @@
 /.cache
 /.local
 /.config
+/.dask
 /.python_history
 /www/public
